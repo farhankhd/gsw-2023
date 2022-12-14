@@ -57,8 +57,8 @@ function auto_version($file)
         <img src="images/launch/GSW_logo_white.png" />
         <div class='text-center'>
             <i><h1>SAVE the DATE</h1></i>
-            <i><h2>25th Annual Conference:</h2></i>
-            <i><h1>Athens, Greece</h1></i>
+            <i><h3>25th Annual Conference:</h3></i>
+            <i><h2>Athens, Greece</h2></i>
             <i><h2>March 30-31, 2023</h2></i>
         </div>
         <br> <br><br> <br><br> <br>
