@@ -84,7 +84,7 @@ function auto_version($file)
     <div class="row">
     <br>
     <div class="section-header text-center">
-            <h1>23 Years Strong</h1>
+            <h1>25 Years Strong</h1>
     </div>
     <div class="text-center">
         <p>MIT Global Startup Workshop (MIT GSW) is an annual multi-day conference that brings together entrepreneurs, students, investors, and key stakeholders from across the world to accelerate the entrepreneurial ecosystem of a host region. Through a series of tailored workshops, panels and keynote speakers, MIT GSW aims to share the entrepreneurial practices that have empowered thousands of companies to launch from MIT.
