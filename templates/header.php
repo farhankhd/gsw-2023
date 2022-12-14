@@ -54,12 +54,12 @@ function auto_version($file)
     <div class="brand">
         <img src="images/launch/gsw-heading.png"/>
         <br> <br>
-        <img src="images/launch/GSW-logo-white.png" />
+        <img src="images/launch/GSW_logo_white.png" />
         <div class='text-center'>
-            <i><h2>SAVE the DATE</h2></i>
-            <i><h1>25th Annual Conference:</h1></i>
-            <i><h2>Athens, Greece</h2></i>
-            <i><h1>March 30-31, 2023</h1></i>
+            <i><h1>SAVE the DATE</h1></i>
+            <i><h2>25th Annual Conference:</h2></i>
+            <i><h1>Athens, Greece</h1></i>
+            <i><h2>March 30-31, 2023</h2></i>
         </div>
         <br> <br><br> <br><br> <br>
 
@@ -67,7 +67,7 @@ function auto_version($file)
 
     <div class="brand-logo">
         <h2 style="font-size: 2.5em"> Hosted By</h2>
-        <img src="images/logo/GSW-logo-white.png">
+        <img src="images/logo/GSW_logo_white.png">
     </div>
 
     <div class="video-container">
