@@ -66,15 +66,14 @@
     </div>
 <div>
 
-<!--
     <div class="section-header section-header-page" style="color: white">Organizing Team</div>
     <div class="team-row text-center">
 	<div class="row">
         <div class="team col-sm-6 col-md-3"><a href="#teamSarahCen">
-            <img class="team-picture" src="images/team/Sarah.jpg"></a>
-            <div class="team-name">Sarah Cen</div>
-            <div class="team-role">Content Team Lead</div>
-            <div class="team-area">MIT Electrical Engineering and Computer Science</div>
+            <img class="team-picture" src="images/team/Tiasa.jpg"></a>
+            <div class="team-name">Tiasa Kim</div>
+            <div class="team-role">Marketing Team Media Lead</div>
+            <div class="team-area">Wellesley College '23</div>
         </div>
         <div class="team col-sm-6 col-md-3"><a href="#teamJennaAronson">
             <img class="team-picture" src="images/team/Jenna.jpg"></a>
@@ -178,7 +177,7 @@
             <div class="team-area">MIT Biology Undergrad</div>
         </div>
         </div>
--->       
+      
     </div>
     <div class="section-header section-header-page" style="color: white">Advisory Board</div>
     <div class="row text-center team">
