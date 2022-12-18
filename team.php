@@ -109,27 +109,20 @@
         </div>
         </div>
         <div class="row">
-        <div class="team col-sm-6 col-md-4">
+        <div class="team col-sm-6 col-md-6">
             <a href="#teamJoaquinRichards">
             <img class="team-picture" src="images/team/Vineet.jpg"></a>
             <div class="team-name">Vineet Jagadesan Nair</div>
             <div class="team-role">Operations Team Internal Relations</div>
             <div class="team-area">MIT MechE</div>
         </div>
-        <div class="team col-sm-6 col-md-4">
+        <div class="team col-sm-6 col-md-6">
             <a href="#teamMayaNasr">
-            <img class="team-picture" src="images/team/Katie.jpg"></a>
+            <img class="team-picture" src="images/team/Katie.JPG"></a>
             <div class="team-name">Katie Chen</div>
             <div class="team-role">Operations Team External Relations</div>
             <div class="team-area">MIT IDM</div>
         </div>
-        <div class="team col-sm-6 col-md-4">
-            <a href="#teamSantiagoMelo">
-            <img class="team-picture" src="images/team/Layla.jpg"></a>
-            <div class="team-name">Layla Araiinejad</div>
-            <div class="team-role">Community Engagement Lead</div>
-            <div class="team-area">MIT TPP</div>
-	</div>
         </div>
         <div class="row">
 	<div class="team col-sm-6 col-md-4">
@@ -149,6 +142,20 @@
             <div class="team-name">Noah Roberts</div>
             <div class="team-role">Finance Lead</div>
             <div class="team-area">MIT MBA '24</div>
+        </div>
+        <div class="row">
+	<div class="team col-sm-6 col-md-6">
+            <a href="#teamSantiagoMelo">
+            <img class="team-picture" src="images/team/Layla.jpg"></a>
+            <div class="team-name">Layla Araiinejad</div>
+            <div class="team-role">Community Engagement Lead</div>
+            <div class="team-area">MIT TPP</div>
+	</div>
+	<div class="team col-sm-6 col-md-6">
+            <a href="#teamJShelly"><img class="team-picture" src="images/team/Prem.jpg"></a>
+            <div class="team-name">Prem</div>
+            <div class="team-role">Community Impact Lead</div>
+            <div class="team-area">MIT</div>
         </div>
         </div>
       
