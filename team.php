@@ -69,19 +69,19 @@
     <div class="section-header section-header-page" style="color: white">Organizing Team</div>
     <div class="team-row text-center">
 	<div class="row">
-        <div class="team col-sm-6 col-md-3"><a href="#teamSarahCen">
+        <div class="team col-sm-6 col-md-4"><a href="#teamSarahCen">
             <img class="team-picture" src="images/team/Tiasa.jpg"></a>
             <div class="team-name">Tiasa Kim</div>
             <div class="team-role">Marketing Team Media Lead</div>
             <div class="team-area">Wellesley College, B.A. Computer Science '23</div>
         </div>
-        <div class="team col-sm-6 col-md-3"><a href="#teamJennaAronson">
+        <div class="team col-sm-6 col-md-4"><a href="#teamJennaAronson">
             <img class="team-picture" src="images/team/Liv_J.jpg"></a>
             <div class="team-name">Olivia Jones</div>
             <div class="team-role">Marketing Team  Content Lead</div>
             <div class="team-area">MIT MBA '24</div>
         </div>  
-        <div class="team col-sm-6 col-md-3"><a href="#teamSheaLombardo">
+        <div class="team col-sm-6 col-md-4"><a href="#teamSheaLombardo">
             <img class="team-picture" src="images/team/Shea.jpg"></a>
             <div class="team-name">Dominic Co</div>
             <div class="team-role">Marketing Team Design Lead</div>
@@ -89,19 +89,19 @@
 	</div>
     </div>
 	<div class="row">
-	<div class="team col-sm-6 col-md-3"><a href="#teamTomLuly">
+	<div class="team col-sm-6 col-md-4"><a href="#teamTomLuly">
             <img class="team-picture" src="images/team/Madi.jpg"></a>
             <div class="team-name">Madison Reddie</div>
             <div class="team-role">Content Team Lead</div>
             <div class="team-area">MIT MechE</div>
 	</div>
-        <div class="team col-sm-6 col-md-3">
+        <div class="team col-sm-6 col-md-4">
             <a href="#teamLenaDownes"><img class="team-picture" src="images/team/Jenny.jpg"></a>
             <div class="team-name">Jenny Cang</div>
             <div class="team-role">Content Team Interal Relations</div>
             <div class="team-area">MIT MBA '24</div>
         </div>
-        <div class="team col-sm-6 col-md-3">
+        <div class="team col-sm-6 col-md-4">
             <a href="#teamZoeWolszon"><img class="team-picture" src="images/team/Pooja.jpg"></a>
             <div class="team-name">Pooja Malhotra</div>
             <div class="team-role">Content Team External Relations</div>
@@ -109,21 +109,21 @@
         </div>
         </div>
         <div class="row">
-        <div class="team col-sm-6 col-md-3">
+        <div class="team col-sm-6 col-md-4">
             <a href="#teamJoaquinRichards">
             <img class="team-picture" src="images/team/Vineet.jpg"></a>
             <div class="team-name">Vineet Jagadesan Nair</div>
             <div class="team-role">Operations Team Internal Relations</div>
             <div class="team-area">MIT MechE</div>
         </div>
-        <div class="team col-sm-6 col-md-3">
+        <div class="team col-sm-6 col-md-4">
             <a href="#teamMayaNasr">
             <img class="team-picture" src="images/team/Katie.jpg"></a>
             <div class="team-name">Katie Chen</div>
             <div class="team-role">Operations Team External Relations</div>
             <div class="team-area">MIT IDM</div>
         </div>
-        <div class="team col-sm-6 col-md-3">
+        <div class="team col-sm-6 col-md-4">
             <a href="#teamSantiagoMelo">
             <img class="team-picture" src="images/team/Layla.jpg"></a>
             <div class="team-name">Layla Araiinejad</div>
@@ -132,19 +132,19 @@
 	</div>
         </div>
         <div class="row">
-	<div class="team col-sm-6 col-md-3">
+	<div class="team col-sm-6 col-md-4">
             <a href="#teamVananhSu"><img class="team-picture" src="images/team/Rishabh.jpg"></a>
             <div class="team-name">Rishabh Goyal</div>
             <div class="team-role">Competitions Team Design Lead</div>
             <div class="team-area">MIT MBA '23</div>
         </div>
-        <div class="team col-sm-6 col-md-3">
+        <div class="team col-sm-6 col-md-4">
             <a href="#teamRachelBellisle"><img class="team-picture" src="images/team/Olivia_G.jpg"></a>
             <div class="team-name">Olivia Gebhardt</div>
             <div class="team-role">Competitions Team Prizes Lead</div>
             <div class="team-area">MIT MBA '24</div>
         </div>
-        <div class="team col-sm-6 col-md-3">
+        <div class="team col-sm-6 col-md-4">
             <a href="#teamJShelly"><img class="team-picture" src="images/team/Noah.jpg"></a>
             <div class="team-name">Noah Roberts</div>
             <div class="team-role">Finance Lead</div>
