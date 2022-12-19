@@ -86,7 +86,15 @@
 	<div class="team container col-md-4">
 		<a href="#teamAnnaeckhoff">
 		<img class="team-picture" src="images/team/Anna.jpg"></a>
-		<div class="overlay"><div class="text">Bio</div></div>
+		<div class="overlay">
+			<div class="text">
+				Anna is a dual degree student currently working towards both a Masters in Business Administration at MIT Sloan School of Management and a Masters in Public Administration at the Harvard Kennedy School of Government. 
+				Prior to graduate school, Anna worked at Bain & Company and at The Nature Conservancy. 
+				Anna is passionate about social impact entrepreneurship, especially around sustainability and climate change resilience. 
+				One of her proudest achievements was working with The Republic of the Marshall Islands to launch the sustainable tuna company, Pacific Island Tuna. 
+				Anna has a BA in Economics and History from the University of Chicago.
+			</div>
+		</div>
 	    	<div class="team-name">Anna Eckhoff</div>
 	    	<div class="team-role">Co-Director</div>
 	    	<div class="team-area">MIT Sloan School of Management</div>
@@ -94,7 +102,15 @@
 	<div class="team container col-md-4">
 		<a href="#teamDanielaGorza">
             	<img class="team-picture" src="images/team/Daniela.jpg"></a>
-		<div class="overlay"><div class="text">Bio</div></div>
+		<div class="overlay">
+			<div class="text">
+				Daniela Gorza is a Master of Business Administration (MBA) candidate at MIT Sloan School of Management, and is the President of the Italy Club at MIT Sloan. 
+				Prior to the MBA, she worked for several years at the World Bank Group and Inter-American Development Bank. 
+				She also has experience in Asia as a consultant to advise European and American businesses in their expansion into emerging Asian economies like Vietnam and China. 
+				Daniela holds a Double Degree in Public Administration and Government from the London School of Economics and Peking University. 
+				She spends her free time traveling, doing reformer pilates, and eating and cooking delicious Italian and French food.
+			</div>
+		</div>
 		<div class="team-name">Daniela Gorza</div>
 		<div class="team-role">Co-Director</div>
 		<div class="team-area">MIT Sloan School of Management</div>
