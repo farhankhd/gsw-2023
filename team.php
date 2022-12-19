@@ -75,25 +75,29 @@
     <!-- <div class="col-xs-12">
         <h2>Directors</h2>
     </div> -->
-    <div class="team col-md-4">
-        <a href="https://www.linkedin.com/in/farhan-khodaee-62212242/">
-	<div class="overlay">
+	<div class="team container col-md-4">
+		<a href="https://www.linkedin.com/in/farhan-khodaee-62212242/">
 		<img class="team-picture" src="images/team/Farhan.jpg"></a>
-		<div class="text">Bio</div>
+		<div class="overlay"><div class="text">Bio</div></div>
 		<div class="team-name">Farhan Khodaee</div>
-           	<div class="team-role">Co-Director</div>
-            	<div class="team-area">MIT School of Engineering</div>
+		<div class="team-role">Co-Director</div>
+		<div class="team-area">MIT School of Engineering</div>
 	</div>
-        </div><div class="team col-md-4"><a href="#teamAnnaeckhoff">
-            <img class="team-picture" src="images/team/Anna.jpg"></a>
-            <div class="team-name">Anna Eckhoff</div>
-            <div class="team-role">Co-Director</div>
-            <div class="team-area">MIT Sloan School of Management</div>
-        </div><div class="team col-md-4"><a href="#teamDanielaGorza">
-            <img class="team-picture" src="images/team/Daniela.jpg"></a>
-            <div class="team-name">Daniela Gorza</div>
-            <div class="team-role">Co-Director</div>
-            <div class="team-area">MIT Sloan School of Management</div>
+	<div class="team container col-md-4">
+		<a href="#teamAnnaeckhoff">
+		<img class="team-picture" src="images/team/Anna.jpg"></a>
+		<div class="overlay"><div class="text">Bio</div></div>
+	    	<div class="team-name">Anna Eckhoff</div>
+	    	<div class="team-role">Co-Director</div>
+	    	<div class="team-area">MIT Sloan School of Management</div>
+        </div>
+	<div class="team container col-md-4">
+		<a href="#teamDanielaGorza">
+            	<img class="team-picture" src="images/team/Daniela.jpg"></a>
+		<div class="overlay"><div class="text">Bio</div></div>
+		<div class="team-name">Daniela Gorza</div>
+		<div class="team-role">Co-Director</div>
+		<div class="team-area">MIT Sloan School of Management</div>
         </div>
     </div>
 <div>
