@@ -63,6 +63,7 @@
 	<div style="color:white;">
         	Our team consists of individuals across all parts of the MIT campus, and is supported by an accomplished advisory board.
     	</div>
+	
 	<br>
 	
 	<div class="section-header section-header-page" style="color: white">Managing Directors</div>
@@ -246,10 +247,10 @@
     		</div>
 		
 		<br>
-		
-		<div class="row">
-		<div class="team container col-sm-6 col-md-6"><a href="#teamSantiagoMelo">
-            		<img class="team-picture" src="images/team/Layla.jpg"></a>
+	   
+        	<div class="row">
+		<div class="team container col-sm-6 col-md-6"><a href="#teamJoaquinRichards">
+			<img class="team-picture" src="images/team/Layla.jpg"></a>
 			<div class="overlay">
 				<div class="text">
 					Layla is a Masters of Science (S.M.) in Technology and Policy candidate at MIT Schwarzman College of Computing. 
@@ -258,12 +259,13 @@
 					Before MIT, she completed her degree in Industrial and Systems Engineering from Auburn University. 
 					Outside of school, she enjoys drawing portraits, watching documentaries and learning languages.
 				</div>
+			</div>
 			<div class="team-name">Layla Araiinejad</div>
             		<div class="team-role">Community Engagement Lead</div>
             		<div class="team-area">MIT TPP</div>
-		</div>
-		<div class="team container col-sm-6 col-md-6"><a href="#teamJShelly">
-			<img class="team-picture" src="images/team/Prem.jpg"></a>
+        	</div>
+        	<div class="team container col-sm-6 col-md-6"><a href="#teamMayaNasr">
+            		<img class="team-picture" src="images/team/Prem.jpg"></a>
 			<div class="overlay">
 				<div class="text">
 					Prem's Bio Coming Soon!
@@ -273,12 +275,12 @@
 			<div class="team-role">Community Impact Lead</div>
 			<div class="team-area">MIT</div>
         	</div>
-        	</div>
-			
+		</div>
+		
 		<br>
-			
-        	<div class="row">
-		<div class="team container col-sm-6 col-md-4"><a href="#teamVananhSu">
+		
+		<div class="row">
+		<div class="team container col-sm-6 col-md-4"><a href="#teamTomLuly">
 			<img class="team-picture" src="images/team/Rishabh.jpg"></a>
 			<div class="overlay">
 				<div class="text">
@@ -292,19 +294,19 @@
 			<div class="team-name">Rishabh Goyal</div>
 			<div class="team-role">Competitions Team - Design Lead</div>
 			<div class="team-area">MIT MBA '23</div>
-        	</div>
-        	<div class="team container col-sm-6 col-md-4"><a href="#teamRachelBellisle">
+		</div>
+		<div class="team container col-sm-6 col-md-4"><a href="#teamLenaDownes">
 			<img class="team-picture" src="images/team/Olivia_G.jpg"></a>
 			<div class="overlay">
 				<div class="text">
-					Olivia's Bio Coming Soon! 
+					Olivia's Bio Coming Soon!
 				</div>
 			</div>
 			<div class="team-name">Olivia Gebhardt</div>
 			<div class="team-role">Competitions Team - Prizes Lead</div>
 			<div class="team-area">MIT MBA '24</div>
-        	</div>
-        	<div class="team container col-sm-6 col-md-4"><a href="#teamJShelly">
+		</div>
+       		<div class="team container col-sm-6 col-md-4"><a href="#teamZoeWolszon">
 			<img class="team-picture" src="images/team/Noah.jpg"></a>
 			<div class="overlay">
 				<div class="text">
@@ -318,74 +320,10 @@
 			<div class="team-name">Noah Roberts</div>
 			<div class="team-role">Finance Lead</div>
 			<div class="team-area">MIT MBA '24</div>
-		</div>	
-    		</div>
-	</div>
-	</div>
-			
-	<div class="section-header section-header-page" style="color: white">Advisory Board</div>
-	<div class="row text-center team">
-	<div class="col-md-4">
-	    <img src="images/team/bill-aulet.jpg" class="team-picture" alt="">
-	    <div class="team-name">Bill Aulet</div>
-	    <div class="team-role">Faculty Advisor</div>
-	    <div class="team-area">MIT Sloan School of Management</div>
-	</div>
-	<div class="col-md-4">
-	    <img src="images/team/gita-rao.jpg" class="team-picture" alt="">
-	    <div class="team-name">Gita Rao</div>
-	    <div class="team-role">Faculty Advisor</div>
-	    <div class="team-area">MIT Sloan School of Management</div>
-	</div>
-	<div class="col-md-4">
-	    <img src="images/team/simon-johnson.jpg" class="team-picture" alt="">
-	    <div class="team-name">Simon Johnson</div>
-	    <div class="team-role">Faculty Advisor</div>
-	    <div class="team-area">MIT Sloan School of Management</div>
-	</div>
-	</div>
-	<div class="row text-center team">
-	<div class="col-md-4">
-	    <img src="images/team/Megan.jpg" class="team-picture" alt="">
-	    <div class="team-name">Megan Mitchell</div>
-	    <div class="team-role">Acting Director</div>
-	    <div class="team-area">MIT Legatum Center</div>
-	</div>
-	<div class="col-md-4">
-	    <img src="images/team/lee.jpg" class="team-picture" alt="">
-	    <div class="team-name">Lee Ullmann</div>
-	    <div class="team-role">Executive Director</div>
-	    <div class="team-area">MIT Sloan Latin America Office</div>
-	</div>
-	<div class="col-md-4">
-	    <img src="images/team/Travis.jpg" class="team-picture" alt="">
-	    <div class="team-name">Travis Hunter</div>
-	    <div class="team-role">Director</div>
-	    <div class="team-area">MIT Regional Entrepreneurship & Acceleration Program</div>
-	</div>
-	</div>
-	<div class="row team-row text-center">
-	<div class="team col-md-4">
-	    <img class="team-picture" src="images/team/Tom.jpg">
-	    <div class="team-name">Tom Luly</div>
-	    <div class="team-role">GSW Director 2020</div>
-	    <div class="team-area">MIT Sloan School of Management</div>
-	</div>
-	<!--        <div class="team col-md-4">
-	    <img class="team-picture" src="images/team/David.jpg">
-	    <div class="team-name">David Miranda Nieves</div>
-	    <div class="team-role">GSW Director 2018</div>
-	    <div class="team-area">MIT Health Sciences Technology</div>
-	</div>
-	<div class="team col-md-4">
-	    <img class="team-picture" src="images/team/Juan.jpg">
-	    <div class="team-name">Juan Ruiz Ruiz</div>
-	    <div class="team-role">GSW Director 2018</div>
-	    <div class="team-area">MIT Nuclear Science and Engineering</div>
-	</div>
-	</div>-->
-	</div>
-	</div>
+        	</div>
+        	</div>
+	    
+		
 
 <div class="section">
     <hr />
