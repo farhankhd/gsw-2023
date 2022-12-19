@@ -16,6 +16,11 @@
     </script>
     
     <style>
+	    
+    .container {
+	  position: relative;
+	  width: 80%;
+    }
     .overlay {
   	position: absolute;
   	top: 0;
@@ -34,8 +39,9 @@
     .text {
     	color: white;
 	font-size: 12px;
-	position: absolute;
-	
+	position: relative;
+	top: 50%;
+	left: 50%;
 	-webkit-transform: translate(-50%, -50%);
 	-ms-transform: translate(-50%, -50%);
 	transform: translate(-50%, -50%);
