@@ -1,5 +1,5 @@
 <?php
-    $pageTitle = 'Team | MIT Global Startup Workshop 2023';
+    $pageTitle = 'Mentors | MIT Global Startup Workshop 2023';
     include('templates/nav-bar.php');
 ?>
 
@@ -72,10 +72,35 @@
 					Mentor 1 Bio Coming Soon
 				</div>
 			</div>
-			<div class="team-name">Mentor A</div>
-			<div class="team-role">Co-Director</div>
-			<div class="team-area">MIT School of Engineering</div>
+			<div class="team-name">Mentor 1</div>
+			<div class="team-role">N/A</div>
+			<div class="team-area">N/A</div>
 		</div>
+		<div class="team container col-md-4">
+			<a href="">
+			<img class="team-picture" src="images/team/Farhan.jpg"></a>
+			<div class="overlay">
+				<div class="text">
+					Mentor 2 Bio Coming Soon
+				</div>
+			</div>
+			<div class="team-name">Mentor 2</div>
+			<div class="team-role">N/A</div>
+			<div class="team-area">N/A</div>
+		</div>
+		<div class="team container col-md-4">
+			<a href="">
+			<img class="team-picture" src="images/team/Farhan.jpg"></a>
+			<div class="overlay">
+				<div class="text">
+					Mentor 3 Bio Coming Soon
+				</div>
+			</div>
+			<div class="team-name">Mentor 3</div>
+			<div class="team-role">N/A</div>
+			<div class="team-area">N/A</div>
+		</div>
+	</div>
 		
 <div class="section">
     <hr />
