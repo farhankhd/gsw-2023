@@ -77,11 +77,9 @@
     </div> -->
     <div class="team col-md-4">
         <a href="https://www.linkedin.com/in/farhan-khodaee-62212242/">
-	<div class="container">
+	<div class="overlay">
 		<img class="team-picture" src="images/team/Farhan.jpg"></a>
-		<div class="overlay">
-			<div class="text">Bio</div>
-		</div>
+		<div class="text">Bio</div>
 		<div class="team-name">Farhan Khodaee</div>
            	<div class="team-role">Co-Director</div>
             	<div class="team-area">MIT School of Engineering</div>
