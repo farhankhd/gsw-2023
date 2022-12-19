@@ -62,7 +62,7 @@
 	
 	<br>
 	
-	<div class="section-header section-header-page" style="color: white">Introducing Our 2023 Judge</div>
+	<div class="section-header section-header-page" style="color: white">Introducing Our 2023 Judges</div>
 	<div class="row team-row text-center">
 		<div class="team container col-md-4">
 			<a href="">
