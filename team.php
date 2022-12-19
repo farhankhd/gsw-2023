@@ -16,11 +16,7 @@
     </script>
     
     <style>
-	    
-    .container {
-	  position: relative;
-	  width: 80%;
-    }
+
     .overlay {
   	position: absolute;
   	top: 0;
