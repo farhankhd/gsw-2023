@@ -123,94 +123,207 @@
     <div class="section-header section-header-page" style="color: white">Organizing Team</div>
     <div class="team-row text-center">
 	<div class="row">
-	<div class="team col-sm-6 col-md-4"><a href="#teamTomLuly">
+	<div class="team container col-sm-6 col-md-4"><a href="#teamTomLuly">
             <img class="team-picture" src="images/team/Madi.jpg"></a>
+		<div class="overlay">
+			<div class="text">
+				Madison is a National Science Foundation Graduate Research Fellow in the Department of Mechanical Engineering at MIT. 
+				Her research is in product design and engineering for global development and global health applications, and she is currently incubating a medical device start-up in MIT’s Sandbox program. 
+				She has a BS in Mechanical Engineering and a Certificate in Engineering Design from Penn State, as well as a Certificate in Product Design from the National University of Singapore. 
+				Her research and industry experience spans medical engineering, assistive technology development, ergonomics, off-grid mechanization, and co-design with rural communities. 
+				In her spare time, she plays for the MIT Club Volleyball Team and bakes bread. 
+			</div>
+		</div>
             <div class="team-name">Madison Reddie</div>
-            <div class="team-role">Content Team Lead</div>
+            <div class="team-role">Content Team - Agenda Design Lead</div>
             <div class="team-area">MIT MechE</div>
 	</div>
-        <div class="team col-sm-6 col-md-4">
-            <a href="#teamLenaDownes"><img class="team-picture" src="images/team/Jenny.jpg"></a>
-            <div class="team-name">Jenny Cang</div>
-            <div class="team-role">Content Team Interal Relations</div>
-            <div class="team-area">MIT MBA '24</div>
+        <div class="team container col-sm-6 col-md-4">
+		<a href="#teamLenaDownes"><img class="team-picture" src="images/team/Jenny.jpg"></a>
+		<div class="overlay">
+			<div class="text">
+				Jenny is a Masters in Business Administration (MBA) candidate at MIT Sloan School of Management. 
+				She operates at the intersection of business and human-centered design, and focuses on reimagining business challenges through incorporating design principles. 
+				At MIT, she is a Vice President of the Entrepreneurship Club. 
+				Prior to graduate school, Jenny worked at Deloitte Consulting, where she helped Fortune 500 companies deliver optimal employee integration experiences during Mergers & Acquisitions. 
+				She has a Bachelor of Arts in Economics from Claremont McKenna College. 
+				In her spare time, Jenny enjoys rock-climbing, being outdoors, and collecting good stories.
+			</div>
+		</div>
+		<div class="team-name">Jenny Cang</div>
+		<div class="team-role">Content Team - Interal Relations</div>
+		<div class="team-area">MIT MBA '24</div>
         </div>
-        <div class="team col-sm-6 col-md-4">
+        <div class="team container col-sm-6 col-md-4">
             <a href="#teamZoeWolszon"><img class="team-picture" src="images/team/Pooja.jpg"></a>
+		<div class="overlay">
+			<div class="text">
+				Pooja is a Masters of Business Administration (MBA) candidate at MIT Sloan School of Management. 
+				At MIT, she is a Senior Vice President of the Sloan Entrepreneurship Club and of the Sloan Healthcare Club. 
+				Prior to graduate school, Pooja worked in management consulting focused on biotechnology and healthcare. 
+				She has also worked with multiple early stage healthcare startups to help them to grow and scale their technologies. 
+				She is passionate about how artificial intelligence and analytics can democratize healthcare, and is particularly excited about mental health.  
+				Pooja has a Bachelor of Science in Neuroscience from Lehigh University. In her free time, she enjoys art, yoga, and exploring coffee shops.
+			</div>
+		</div>
             <div class="team-name">Pooja Malhotra</div>
-            <div class="team-role">Content Team External Relations</div>
+            <div class="team-role">Content Team - External Relations</div>
             <div class="team-area">MIT MBA '23</div>
         </div>
         </div>
         <div class="row">
-        <div class="team col-sm-6 col-md-6">
-            <a href="#teamJoaquinRichards">
-            <img class="team-picture" src="images/team/Vineet.jpg"></a>
-            <div class="team-name">Vineet Jagadesan Nair</div>
-            <div class="team-role">Operations Team Internal Relations</div>
-            <div class="team-area">MIT MechE</div>
+		<div class="team container col-sm-6 col-md-6">
+		    <a href="#teamJoaquinRichards">
+		    <img class="team-picture" src="images/team/Vineet.jpg"></a>
+			<div class="overlay">
+				<div class="text">
+					Vineet is a PhD candidate in the Computational Science & Engineering program. 
+					He conducts research in the Active-Adaptive Control Lab in the Mechanical Engineering department - applying tools from optimization, control theory, and machine learning to model smart grids & transportation networks. 
+					Prior to MIT, Vineet completed an MPhil in Energy Technologies at the University of Cambridge as a Gates Scholar and received his undergraduate degree in Mechanical Engineering & Economics from UC Berkeley. 
+					Outside GSW, he is currently a Co-President of the MIT Energy & Climate Club and previously served as Co-Managing Director for the 2022 MIT Energy Conference. 
+					In addition to research, he has industry experience through internships at Siemens, NREL, Avangrid and Applied Materials. 
+					In his spare time, he enjoys hiking, tennis, working out and singing.
+				</div>
+			</div>
+		<div class="team-name">Vineet Jagadesan Nair</div>
+		<div class="team-role">Operations Team - Internal Relations</div>
+		<div class="team-area">MIT MechE</div>
         </div>
-        <div class="team col-sm-6 col-md-6">
+        <div class="team container col-sm-6 col-md-6">
             <a href="#teamMayaNasr">
             <img class="team-picture" src="images/team/Katie.JPG"></a>
+		<div class="overlay">
+			<div class="text">
+				Daniela Gorza is a Master of Business Administration (MBA) candidate at MIT Sloan School of Management, and is the President of the Italy Club at MIT Sloan. 
+				Prior to the MBA, she worked for several years at the World Bank Group and Inter-American Development Bank. 
+				She also has experience in Asia as a consultant to advise European and American businesses in their expansion into emerging Asian economies like Vietnam and China. 
+				Daniela holds a Double Degree in Public Administration and Government from the London School of Economics and Peking University. 
+				She spends her free time traveling, doing reformer pilates, and eating and cooking delicious Italian and French food.
+			</div>
+		</div>
             <div class="team-name">Katie Chen</div>
-            <div class="team-role">Operations Team External Relations</div>
+            <div class="team-role">Operations Team - External Relations</div>
             <div class="team-area">MIT IDM</div>
         </div>
         </div>
 	<div class="row">
-	<div class="team col-sm-6 col-md-4"><a href="#teamSarahCen">
+	<div class="team container col-sm-6 col-md-4"><a href="#teamSarahCen">
 	    <img class="team-picture" src="images/team/Tiasa.jpg"></a>
+		<div class="overlay">
+			<div class="text">
+				Tiasa is a recent graduate from Wellesley College, earning a Bachelor's of Arts (B.A.) in Computer Science. 
+				Beyond her time at Wellesley, she has been extensively involved in the MIT community as a cross-registered student in the Departments of Electrical Engineering & Computer Science, Urban Studies & Planning, and Integrated Design & Management. 
+				She is also an Online Course Developer for MIT Energy Initiative, iHQ Innovation Ambassador, and Gordon Engineering Leader. 
+				After undergrad, she aspires to work in the urban mobility / sustainable transportation space as a Product / Project Manager and earn her MBA in the near future. 
+				Aside from school, Tiasa enjoys solo traveling, dancing, visiting a local cafe, and empowering clients as a [solidcore] fitness coach. 
+			</div>
+		</div>
 	    <div class="team-name">Tiasa Kim</div>
-	    <div class="team-role">Marketing Team Media Lead</div>
+	    <div class="team-role">Marketing Team - Media Lead</div>
 	    <div class="team-area">Wellesley College, B.A. Computer Science '23</div>
 	</div>
-	<div class="team col-sm-6 col-md-4"><a href="#teamJennaAronson">
+	<div class="team container col-sm-6 col-md-4"><a href="#teamJennaAronson">
 	    <img class="team-picture" src="images/team/Liv_J.jpg"></a>
+		<div class="overlay">
+			<div class="text">
+				Daniela Gorza is a Master of Business Administration (MBA) candidate at MIT Sloan School of Management, and is the President of the Italy Club at MIT Sloan. 
+				Prior to the MBA, she worked for several years at the World Bank Group and Inter-American Development Bank. 
+				She also has experience in Asia as a consultant to advise European and American businesses in their expansion into emerging Asian economies like Vietnam and China. 
+				Daniela holds a Double Degree in Public Administration and Government from the London School of Economics and Peking University. 
+				She spends her free time traveling, doing reformer pilates, and eating and cooking delicious Italian and French food.
+			</div>
+		</div>
 	    <div class="team-name">Olivia Jones</div>
-	    <div class="team-role">Marketing Team  Content Lead</div>
+	    <div class="team-role">Marketing Team - Content Lead</div>
 	    <div class="team-area">MIT MBA '24</div>
 	</div>  
-	<div class="team col-sm-6 col-md-4"><a href="#teamSheaLombardo">
+	<div class="team container col-sm-6 col-md-4"><a href="#teamSheaLombardo">
 	    <img class="team-picture" src="images/team/Shea.jpg"></a>
+		<div class="overlay">
+			<div class="text">
+				Olivia is a Masters of Business Administration (MBA) candidate at MIT Sloan School of Management. 
+				She is a Co-lead of the Food & Agriculture Club and is involved in the sustainability ecosystem at MIT. 
+				Prior to graduate school, Olivia worked as a Management Consultant at Accenture, focusing on regulatory change management and risk mitigation within financial services. 
+				She is passionate about climate change and is looking to transition her career to focus on clean energy following MIT. 
+				Olivia has a Bachelor of Business Administration from the University of Michigan. 
+				She spends her free time snowboarding, playing soccer, and listening to entomology podcasts.
+			</div>
+		</div>
 	    <div class="team-name">Dominic Co</div>
-	    <div class="team-role">Marketing Team Design Lead</div>
+	    <div class="team-role">Marketing Team - Design Lead</div>
 	    <div class="team-area">MIT Architecture Design & EECS</div>
 	</div>
     	</div>
 	<div class="row">
-	<div class="team col-sm-6 col-md-6">
+	<div class="team container col-sm-6 col-md-6">
             <a href="#teamSantiagoMelo">
             <img class="team-picture" src="images/team/Layla.jpg"></a>
-            <div class="team-name">Layla Araiinejad</div>
-            <div class="team-role">Community Engagement Lead</div>
-            <div class="team-area">MIT TPP</div>
+		<div class="overlay">
+			<div class="text">
+				Layla is a Masters of Science (S.M.) in Technology and Policy candidate at MIT Schwarzman College of Computing. 
+				Aside from being a part of GSW, she is a Wellness Ambassador for the Office of Student Wellbeing at MIT, Associate Editor for the MIT Science Policy Review and Treasurer for the Persian Student Association at MIT. 
+				She is passionate about Worker Health and Safety, Ergonomics, and AI policy. 
+				Before MIT, she completed her degree in Industrial and Systems Engineering from Auburn University. 
+				Outside of school, she enjoys drawing portraits, watching documentaries and learning languages
+			</div>
+			<div class="team-name">Layla Araiinejad</div>
+            		<div class="team-role">Community Engagement Lead</div>
+            		<div class="team-area">MIT TPP</div>
 	</div>
-	<div class="team col-sm-6 col-md-6">
+	<div class="team container col-sm-6 col-md-6">
             <a href="#teamJShelly"><img class="team-picture" src="images/team/Prem.jpg"></a>
+		<div class="overlay">
+			<div class="text">
+				Daniela Gorza is a Master of Business Administration (MBA) candidate at MIT Sloan School of Management, and is the President of the Italy Club at MIT Sloan. 
+				Prior to the MBA, she worked for several years at the World Bank Group and Inter-American Development Bank. 
+				She also has experience in Asia as a consultant to advise European and American businesses in their expansion into emerging Asian economies like Vietnam and China. 
+				Daniela holds a Double Degree in Public Administration and Government from the London School of Economics and Peking University. 
+				She spends her free time traveling, doing reformer pilates, and eating and cooking delicious Italian and French food.
+			</div>
+		</div>
             <div class="team-name">Prem</div>
             <div class="team-role">Community Impact Lead</div>
             <div class="team-area">MIT</div>
         </div>
         </div>
         <div class="row">
-	<div class="team col-sm-6 col-md-4">
+	<div class="team container col-sm-6 col-md-4">
             <a href="#teamVananhSu"><img class="team-picture" src="images/team/Rishabh.jpg"></a>
+		<div class="overlay">
+			<div class="text">
+				Rishabh is a Masters of Business Administration (MBA) candidate at MIT Sloan School of Management and SVP of the Product Management Club. 
+				Prior to school, Rishabh worked as a Program Manager scaling early-stage startups at a Google for Startups hub in Dubai. 
+				Previously he also helped set up the Family Business Consulting practice at PwC India. 
+				Rishabh holds an engineering degree in Electronics from the Delhi College of Engineering, India. 
+				He spends his free time reading books on asian political history, traveling and exploring local cuisines. 
+			</div>
+		</div>
             <div class="team-name">Rishabh Goyal</div>
-            <div class="team-role">Competitions Team Design Lead</div>
+            <div class="team-role">Competitions Team - Design Lead</div>
             <div class="team-area">MIT MBA '23</div>
         </div>
-        <div class="team col-sm-6 col-md-4">
+        <div class="team container col-sm-6 col-md-4">
             <a href="#teamRachelBellisle"><img class="team-picture" src="images/team/Olivia_G.jpg"></a>
+		
             <div class="team-name">Olivia Gebhardt</div>
-            <div class="team-role">Competitions Team Prizes Lead</div>
+            <div class="team-role">Competitions Team - Prizes Lead</div>
             <div class="team-area">MIT MBA '24</div>
         </div>
-        <div class="team col-sm-6 col-md-4">
-            <a href="#teamJShelly"><img class="team-picture" src="images/team/Noah.jpg"></a>
-            <div class="team-name">Noah Roberts</div>
-            <div class="team-role">Finance Lead</div>
-            <div class="team-area">MIT MBA '24</div>
+        <div class="team container col-sm-6 col-md-4">
+		<a href="#teamJShelly"><img class="team-picture" src="images/team/Noah.jpg"></a>
+		<div class="overlay">
+			<div class="text">
+				Noah is a Masters in Business Administration (MBA) candidate at MIT Sloan School of Management. 
+				At MIT, he is on the organizing committee for the 100K Startup Competition and is also working on a fintech analytics startup. 
+				Prior to graduate school, Noah worked at Elliott Management, a multi-strategy hedge fund, where he covered the global oil market for the commodities group. 
+				He has a Bachelor of Arts in Mathematics and Economics from Washington University in St. Louis. 
+				In his spare time, Noah enjoys hiking, reading, and poker.
+
+			</div>
+		</div>
+		<div class="team-name">Noah Roberts</div>
+		<div class="team-role">Finance Lead</div>
+		<div class="team-area">MIT MBA '24</div>
 	</div>	
     </div>
     <div class="section-header section-header-page" style="color: white">Advisory Board</div>
