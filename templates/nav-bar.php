@@ -120,6 +120,18 @@
         <div class="collapse navbar-collapse navbar-mobile" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
                 <li><a href="index.php">Home<span class="sr-only">(current)</span></a></li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Competitions <span class="caret"></span>
+                    </a>
+                    <div id="competitionMenu" class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="competition.php">Startup Pitch Competition</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="collab.php">Mentors</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="collab.php">Mentors</a>
+                    </div>
+                </li> 
                 
                 <!-- <li><a href="agenda.php">Agenda</a></li> --> 
             
