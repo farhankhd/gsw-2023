@@ -2,7 +2,7 @@
     <br><br>
     <div class="row text-center" style='font-size: 15px'>
         <div>
-            <p style="font-family: 'Din Light'"> Copyright &copy; 2011-2022. Massachusetts Institute of Technology. All Rights Reserved.</p>
+            <p style="font-family: 'Din Light'"> Copyright &copy; 2011-2023. Massachusetts Institute of Technology. All Rights Reserved.</p>
             <p style="font-family: 'Din Light'"> For more information please contact <a style="color: white; text-decoration: underline" href="mailto:gsw-contact@mit.edu"> gsw-contact@mit.edu</a>.</p>
 
             <!-- <p class="section-header section-header-footer">Stay in touch! Subscribe to our newsletter.</p>
