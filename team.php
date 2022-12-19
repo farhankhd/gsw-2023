@@ -73,7 +73,11 @@
 			<img class="team-picture" src="images/team/Farhan.jpg"></a>
 			<div class="overlay">
 				<div class="text">
-					Bio
+					Farhan is a PhD candidate in the Mechanical Engineering/Bioengineering program at MIT. 
+					Prior to graduate school, he worked in the medical device industry for several years in different sectors ranging from transfusion technology to diabetes and dental. 
+					Farhan is passionate about medical technology entrepreneurship, especially around creating novel drugs and therapeutic platforms. 
+					He has been part of medical innovation teams across the world and is enthusiastic about making clinical technologies more accessible globally. 
+					In his spare time, he enjoys hiking, playing soccer, cooking and drawing.
 				</div>
 			</div>
 			<div class="team-name">Farhan Khodaee</div>
