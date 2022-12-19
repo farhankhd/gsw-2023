@@ -14,6 +14,35 @@
     gtag('config', 'UA-130174054-2');
     gtag('send', 'pageview');
     </script>
+    
+    <style>
+    .overlay {
+  	position: absolute;
+  	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	height: 100%;
+	width: 100%;
+	opacity: 0;
+	transition: .5s ease;
+	background-color: #008CBA;
+	}
+	.container:hover .overlay {
+	  opacity: 1;
+	}
+    .text {
+    	color: white;
+	font-size: 20px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	text-align: center;
+     }
+    </style>
 
 </head>
 
@@ -48,10 +77,15 @@
     </div> -->
     <div class="team col-md-4">
         <a href="https://www.linkedin.com/in/farhan-khodaee-62212242/">
-            <img class="team-picture" src="images/team/Farhan.jpg"></a>
-            <div class="team-name">Farhan Khodaee</div>
-            <div class="team-role">Co-Director</div>
-            <div class="team-area">MIT School of Engineering</div>
+	<div class="container">
+		<img class="team-picture" src="images/team/Farhan.jpg"></a>
+		<div class="overlay">
+			<div class="text">Bio</div>
+		</div>
+		<div class="team-name">Farhan Khodaee</div>
+           	<div class="team-role">Co-Director</div>
+            	<div class="team-area">MIT School of Engineering</div>
+	</div>
         </div><div class="team col-md-4"><a href="#teamAnnaeckhoff">
             <img class="team-picture" src="images/team/Anna.jpg"></a>
             <div class="team-name">Anna Eckhoff</div>
