@@ -276,6 +276,7 @@
         	</div>
 			
 		<br>
+			
         	<div class="row">
 		<div class="team container col-sm-6 col-md-4"><a href="#teamVananhSu">
 			<img class="team-picture" src="images/team/Rishabh.jpg"></a>
@@ -319,71 +320,73 @@
 			<div class="team-area">MIT MBA '24</div>
 		</div>	
     		</div>
+	</div>
+	</div>
 			
-	    <div class="section-header section-header-page" style="color: white">Advisory Board</div>
-	    <div class="row text-center team">
-		<div class="col-md-4">
-		    <img src="images/team/bill-aulet.jpg" class="team-picture" alt="">
-		    <div class="team-name">Bill Aulet</div>
-		    <div class="team-role">Faculty Advisor</div>
-		    <div class="team-area">MIT Sloan School of Management</div>
-		</div>
-		<div class="col-md-4">
-		    <img src="images/team/gita-rao.jpg" class="team-picture" alt="">
-		    <div class="team-name">Gita Rao</div>
-		    <div class="team-role">Faculty Advisor</div>
-		    <div class="team-area">MIT Sloan School of Management</div>
-		</div>
-		<div class="col-md-4">
-		    <img src="images/team/simon-johnson.jpg" class="team-picture" alt="">
-		    <div class="team-name">Simon Johnson</div>
-		    <div class="team-role">Faculty Advisor</div>
-		    <div class="team-area">MIT Sloan School of Management</div>
-		</div>
-	    </div>
-	    <div class="row text-center team">
-		<div class="col-md-4">
-		    <img src="images/team/Megan.jpg" class="team-picture" alt="">
-		    <div class="team-name">Megan Mitchell</div>
-		    <div class="team-role">Acting Director</div>
-		    <div class="team-area">MIT Legatum Center</div>
-		</div>
-		<div class="col-md-4">
-		    <img src="images/team/lee.jpg" class="team-picture" alt="">
-		    <div class="team-name">Lee Ullmann</div>
-		    <div class="team-role">Executive Director</div>
-		    <div class="team-area">MIT Sloan Latin America Office</div>
-		</div>
-		<div class="col-md-4">
-		    <img src="images/team/Travis.jpg" class="team-picture" alt="">
-		    <div class="team-name">Travis Hunter</div>
-		    <div class="team-role">Director</div>
-		    <div class="team-area">MIT Regional Entrepreneurship & Acceleration Program</div>
-		</div>
-	    </div>
-	    <div class="row team-row text-center">
-		<div class="team col-md-4">
-		    <img class="team-picture" src="images/team/Tom.jpg">
-		    <div class="team-name">Tom Luly</div>
-		    <div class="team-role">GSW Director 2020</div>
-		    <div class="team-area">MIT Sloan School of Management</div>
-		</div>
+	<div class="section-header section-header-page" style="color: white">Advisory Board</div>
+	<div class="row text-center team">
+	<div class="col-md-4">
+	    <img src="images/team/bill-aulet.jpg" class="team-picture" alt="">
+	    <div class="team-name">Bill Aulet</div>
+	    <div class="team-role">Faculty Advisor</div>
+	    <div class="team-area">MIT Sloan School of Management</div>
+	</div>
+	<div class="col-md-4">
+	    <img src="images/team/gita-rao.jpg" class="team-picture" alt="">
+	    <div class="team-name">Gita Rao</div>
+	    <div class="team-role">Faculty Advisor</div>
+	    <div class="team-area">MIT Sloan School of Management</div>
+	</div>
+	<div class="col-md-4">
+	    <img src="images/team/simon-johnson.jpg" class="team-picture" alt="">
+	    <div class="team-name">Simon Johnson</div>
+	    <div class="team-role">Faculty Advisor</div>
+	    <div class="team-area">MIT Sloan School of Management</div>
+	</div>
+	</div>
+	<div class="row text-center team">
+	<div class="col-md-4">
+	    <img src="images/team/Megan.jpg" class="team-picture" alt="">
+	    <div class="team-name">Megan Mitchell</div>
+	    <div class="team-role">Acting Director</div>
+	    <div class="team-area">MIT Legatum Center</div>
+	</div>
+	<div class="col-md-4">
+	    <img src="images/team/lee.jpg" class="team-picture" alt="">
+	    <div class="team-name">Lee Ullmann</div>
+	    <div class="team-role">Executive Director</div>
+	    <div class="team-area">MIT Sloan Latin America Office</div>
+	</div>
+	<div class="col-md-4">
+	    <img src="images/team/Travis.jpg" class="team-picture" alt="">
+	    <div class="team-name">Travis Hunter</div>
+	    <div class="team-role">Director</div>
+	    <div class="team-area">MIT Regional Entrepreneurship & Acceleration Program</div>
+	</div>
+	</div>
+	<div class="row team-row text-center">
+	<div class="team col-md-4">
+	    <img class="team-picture" src="images/team/Tom.jpg">
+	    <div class="team-name">Tom Luly</div>
+	    <div class="team-role">GSW Director 2020</div>
+	    <div class="team-area">MIT Sloan School of Management</div>
+	</div>
 	<!--        <div class="team col-md-4">
-		    <img class="team-picture" src="images/team/David.jpg">
-		    <div class="team-name">David Miranda Nieves</div>
-		    <div class="team-role">GSW Director 2018</div>
-		    <div class="team-area">MIT Health Sciences Technology</div>
-		</div>
-		<div class="team col-md-4">
-		    <img class="team-picture" src="images/team/Juan.jpg">
-		    <div class="team-name">Juan Ruiz Ruiz</div>
-		    <div class="team-role">GSW Director 2018</div>
-		    <div class="team-area">MIT Nuclear Science and Engineering</div>
-		</div>
-	    </div>-->
+	    <img class="team-picture" src="images/team/David.jpg">
+	    <div class="team-name">David Miranda Nieves</div>
+	    <div class="team-role">GSW Director 2018</div>
+	    <div class="team-area">MIT Health Sciences Technology</div>
+	</div>
+	<div class="team col-md-4">
+	    <img class="team-picture" src="images/team/Juan.jpg">
+	    <div class="team-name">Juan Ruiz Ruiz</div>
+	    <div class="team-role">GSW Director 2018</div>
+	    <div class="team-area">MIT Nuclear Science and Engineering</div>
+	</div>
+	</div>-->
 	</div>
 	</div>
-		
+
 <div class="section">
     <hr />
 </div>
