@@ -79,8 +79,8 @@
 				    <li style="color:white;" class="trn"><strong class="trn">Prior Funding Limitations: </strong>Startups that have raised more than EUR 1,000,000  in equity capital from sources other than self-funding, friends, or family prior to March 2023 are <strong class="trn">not eligible to compete</strong>. Teams can engage in discussions to raise equity before the conference, but shouldn’t have officially raised more than the maximum amount before the conference.</li>
 				</ul>  
 				<br> 
-				<div style="color:white;"> In addition, the following funding sources do not contribute towards the EUR 1,000,000 limit:
 				<ul> 
+					<div style="color:white;"> In addition, the following funding sources do not contribute towards the EUR 1,000,000 limit:</div>
 				    <li style="color:white;" class="trn"> Contributions from friends, family, and mentors</li>
 				    <li style="color:white;" class="trn"> Research and funding grants</li>
 				    <li style="color:white;" class="trn"> Winnings from prior competitions</li>
