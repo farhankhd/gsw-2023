@@ -2,27 +2,27 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic");
 @font-face {
     font-family: "DIN";
-    src: url("../user_fonts/FF_DIN_Black.otf");
+    src: url("../user_fonts/Gotham-Bold.otf");
 }
 
 @font-face {
     font-family: "DIN Italic";
-    src: url("../user_fonts/FF_DIN_Black_Italic.otf");
+    src: url("../user_fonts/Gotham-Medium.otf");
 }
 
 @font-face {
     font-family: "DIN Condensed";
-    src: url("../user_fonts/FF_DIN_Condensed_Black.otf");
+    src: url("../user_fonts/Gotham-Medium.otf");
 }
 
 @font-face {
     font-family: "DIN Light";
-    src: url("../user_fonts/FF_DIN_Light.otf");
+    src: url("../user_fonts/Gotham-Medium.otf");
 }
 
 @font-face {
     font-family: "DIN Regular";
-    src: url("../user_fonts/FF_DIN_Regular.otf");
+    src: url("../user_fonts/Gotham-Medium.otf");
 }
 
 html,
@@ -55,7 +55,7 @@ h6 {
     font-weight: 900;
     text-transform: uppercase;
     letter-spacing: 2px;
-    font-family: "DIN", sans-serif;
+    font-family: "Gotham", sans-serif;
     color: white;
 }
 
