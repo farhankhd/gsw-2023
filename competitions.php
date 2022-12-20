@@ -68,7 +68,7 @@
 	<br>
 	
 	<div class="section-header section-header-page" style="color: white">Eligibility Criteria</div>
-		<div class="" style="color: white">
+		<div class="comp-section">
 		    <div class="row">
 			<div class="col-xs-12">
 			    <div class="trn"> Teams must meet all the following requirements to be eligible to compete in the Startup Pitch Competition.</div>
