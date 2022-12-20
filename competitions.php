@@ -71,7 +71,7 @@
 		<div class="">
 		    <div class="row">
 			<div class="col-xs-12">
-			    <div classs="trn"> Teams must meet all the following requirements to be eligible to compete in the Startup Pitch Competition.</div>
+			    <div class="trn"> Teams must meet all the following requirements to be eligible to compete in the Startup Pitch Competition.</div>
 				    <ul>
 					    <li class="trn"><strong class="trn">Applicant Eligibility: </strong>Anyone from any discipline and from any organization, including colleges and universities, government laboratories, research institutions, non-profit organizations, and for-profit companies</li>
 					    <li class="trn"><strong class="trn">Stage Eligibility: </strong>Startups should have a beta product/service/prototype. Ideation startups are not eligible to compete</li>
