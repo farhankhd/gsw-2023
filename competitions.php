@@ -71,14 +71,14 @@
 		<div class="why-section">
 		    <div class="row">
 			<div class="col-xs-12">
-			    <div class="text-center"> Teams must meet all the following requirements to be eligible to compete in the Startup Pitch Competition.</div>
+			    <div classs="trn"> Teams must meet all the following requirements to be eligible to compete in the Startup Pitch Competition.</div>
 				    <ul>
 					    <li class="trn"><strong class="trn">Applicant Eligibility: </strong>Anyone from any discipline and from any organization, including colleges and universities, government laboratories, research institutions, non-profit organizations, and for-profit companies</li>
 					    <li class="trn"><strong class="trn">Stage Eligibility: </strong>Startups should have a beta product/service/prototype. Ideation startups are not eligible to compete</li>
-					    <li class="trn">strong class="trn">Prior Funding Limitations: Startups that have raised more than EUR 1,000,000  in equity capital from sources other than self-funding, friends, or family prior to March 2023 are not eligible to compete. Teams can engage in discussions to raise equity before the conference, but shouldn’t have officially raised more than the maximum amount before the conference.</li>
+					    <li class="trn"><strong class="trn">Prior Funding Limitations: Startups that have raised more than EUR 1,000,000  in equity capital from sources other than self-funding, friends, or family prior to March 2023 are not eligible to compete. Teams can engage in discussions to raise equity before the conference, but shouldn’t have officially raised more than the maximum amount before the conference.</li>
 					    <br> In addition, the following funding sources do not contribute towards the EUR 1,000,000 limit:
 					    <li class="trn"> Contributions from friends, family, and mentors</li>
-				 	    <li class="ltrn"> Research and funding grants</li>
+				 	    <li class="trn"> Research and funding grants</li>
 					    <li class="trn"> Winnings from prior competitions</li>
 					    <li class="trn"> Traditional debt instruments (does not include convertible notes towards equity)</li> 
 				    </ul>
