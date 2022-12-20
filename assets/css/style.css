@@ -398,6 +398,42 @@ a:focus {
     font-size: 1em;
     /* background-color: white; */
 }
+.comp-section {
+    padding: 40px 15%;
+    font-size: 1em;
+    background-repeat: no-repeat;
+    background-image: rgba(255, 255, 255, 0.5);
+}
+.comp-section h1, 
+.comp-section ul {
+    color: white;
+    display: block;
+    font-family: DIN Italic;
+    font-size: 4vw
+}
+.comp-section p {
+    font-family: "DIN";
+    color: white;
+    font-size: 1.4vw;
+}
+
+.comp-img {
+    width: 35vw;
+    min-height: 100%;
+    padding: 10px;
+    display: inline-block;
+    object-fit: cover;
+}
+
+.comp-map {
+    width: 33vw;
+    height: 23vw;
+    padding: 10px;
+    display: inline-block;
+}
+.comp-section strong {
+    font-family: "DIN"
+}
 
 .why-section {
     padding: 40px 15%;
