@@ -398,19 +398,39 @@ a:focus {
     font-size: 1em;
     /* background-color: white; */
 }
+
+/* COMPETITIONS */
 .comp-section {
-    padding: 40px 15%;
+    /*padding: 40px 15%;*/
     font-size: 1em;
+    /*background-image: url('../../images/launch/blob_05.png');*/
     background-repeat: no-repeat;
     background-image: rgba(255, 255, 255, 0.5);
 }
-.comp-section h1, 
+
+.comp-section h1,
 .comp-section ul {
     color: white;
     display: block;
     font-family: DIN Italic;
     font-size: 4vw
 }
+
+.comp-section ul {
+    font-family: DIN Light;
+    font-size: 1.4vw
+}
+
+.comp-section h2,
+h3,
+h4,
+h5,
+h6 {
+    color: white;
+    font-size: 1.3vw;
+    font-family: "DIN Light";
+}
+
 .comp-section p {
     font-family: "DIN";
     color: white;
@@ -431,9 +451,12 @@ a:focus {
     padding: 10px;
     display: inline-block;
 }
+
 .comp-section strong {
     font-family: "DIN"
 }
+
+
 
 .why-section {
     padding: 40px 15%;
