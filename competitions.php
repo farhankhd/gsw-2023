@@ -67,6 +67,10 @@
 
 	<br>
 	
+	<div class="section-header section-header-page" style="color: white">More Info Coming Soon!</div>
+	
+	<!--
+	
 	<div class="section-header section-header-page" style="color: white">Eligibility Criteria</div>
 		<div class="comp-section">
 		    <div class="row">
@@ -89,9 +93,10 @@
 			    </div>
 			</div>
 	</div>
-			  	
+			  
+ 	-->
 <div class="section">
-    <hr />
+    <hr>
 </div>
 
 
