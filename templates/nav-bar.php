@@ -127,9 +127,11 @@
                     <div id="competitionMenu" class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <a class="dropdown-item" href="competitions.php">Startup Pitch Competition</a>
                         <div class="dropdown-divider"></div>
+                        <!--
                         <a class="dropdown-item" href="cp-mentors.php">Mentors</a>
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="cp-judges.php">Judges</a>
+                        -->
                     </div>
                 </li> 
                 
