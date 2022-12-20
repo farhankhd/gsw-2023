@@ -72,13 +72,14 @@
 		    <div class="row">
 			<div class="col-xs-12">
 			    <div style="color:white;" class="trn"> Teams must meet all the following requirements to be eligible to compete in the Startup Pitch Competition.</div>
-			
+				<br>
 				<ul>
 				    <li style="color:white;" class="trn"><strong class="trn">Applicant Eligibility: </strong>Anyone from any discipline and from any organization, including colleges and universities, government laboratories, research institutions, non-profit organizations, and for-profit companies</li>
 				    <li style="color:white;" class="trn"><strong class="trn">Stage Eligibility: </strong>Startups should have a beta product/service/prototype. Ideation startups are <strong class="trn">not eligible to compete</strong></li>
 				    <li style="color:white;" class="trn"><strong class="trn">Prior Funding Limitations: </strong>Startups that have raised more than EUR 1,000,000  in equity capital from sources other than self-funding, friends, or family prior to March 2023 are <strong class="trn">not eligible to compete</strong>. Teams can engage in discussions to raise equity before the conference, but shouldn’t have officially raised more than the maximum amount before the conference.</li>
 				</ul>  
-				<br> In addition, the following funding sources do not contribute towards the EUR 1,000,000 limit:
+				<br> 
+				<div style="color:white;"> In addition, the following funding sources do not contribute towards the EUR 1,000,000 limit:
 				<ul> 
 				    <li style="color:white;" class="trn"> Contributions from friends, family, and mentors</li>
 				    <li style="color:white;" class="trn"> Research and funding grants</li>
