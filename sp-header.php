@@ -15,7 +15,7 @@ function auto_version($file)
   return preg_replace('{\\.([^./]+)$}', ".$mtime.\$1", $file);
 }
 
-$pageTitle = 'MIT Global Startup Workshop BOGOTA Mayo 27 y 28, 2019';
+$pageTitle = 'MIT Global Startup Workshop ATHENS March 30 and 31, 2023';
 ?>
 
 <head>
