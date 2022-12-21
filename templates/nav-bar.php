@@ -30,7 +30,7 @@
     <meta name = "description" content = "MIT GSW is MIT's only global student-organized conference, with the goal of fostering an entrepreneurship ecosystem in a different country, every year." />
     <meta http-equiv=”Content-Type” content=”text/html; charset=utf-8″ />
     <meta name=”robot” content=”index,nofollow”>
-    <meta property=”og:title” content=”MITGSW -MIT Global Startup Workshop 2022”/>
+    <meta property=”og:title” content=”MITGSW -MIT Global Startup Workshop 2023”/>
     <meta property=”og:image” content=”https://i.ibb.co/p4Y8Mcj/meta-pic.png”/>
     <meta property=”og:site_name” content=”MITGSW GWS”/>
     <meta property=”og:description” content=”MITGSW MITGSW is MITs only global student-organized conference, with the goal of fostering an entrepreneurship ecosystem in a different country, every year."/>
