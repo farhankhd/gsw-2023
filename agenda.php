@@ -1,5 +1,5 @@
 <?php
-    $pageTitle = 'Agenda | MIT Global Startup Workshop 2018';
+    $pageTitle = 'Agenda | MIT Global Startup Workshop 2023';
     include('templates/nav-bar.php');
 ?>
 
