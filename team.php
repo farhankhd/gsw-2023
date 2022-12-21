@@ -102,7 +102,7 @@
 		</div>
 		<div class="team container col-md-4">
 			<a href="#teamDanielaGorza">
-			<img class="team-picture" src="images/team/Daniela.jpg"></a>
+			<img class="team-picture" src="images/team/daniela.jpeg"></a>
 			<div class="overlay">
 				<div class="text">
 					Daniela Gorza is a Master of Business Administration (MBA) candidate at MIT Sloan School of Management, and is the President of the Italy Club at MIT Sloan. 
