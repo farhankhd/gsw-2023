@@ -150,7 +150,7 @@
 				</div>
 			</div>
 			<div class="team-name">Jenny Cang</div>
-			<div class="team-role">Content Team - Interal Relations</div>
+			<div class="team-role">Content Team - Co-Speakers Lead</div>
 			<div class="team-area">MIT MBA '24</div>
 		</div>
        		<div class="team container col-sm-6 col-md-4"><a href="#teamZoeWolszon">
@@ -166,7 +166,7 @@
 				</div>
 			</div>
 			<div class="team-name">Pooja Malhotra</div>
-			<div class="team-role">Content Team - External Relations</div>
+			<div class="team-role">Content Team - Co-Speakers Lead</div>
 			<div class="team-area">MIT MBA '23</div>
         	</div>
         	</div>
