@@ -82,16 +82,17 @@
 				    <li style="color:white;" class="trn"><strong class="trn">Stage Eligibility: </strong>Startups should have a beta product/service/prototype. Ideation startups are </strong>not eligible</strong> to compete.</li>
 				    <li style="color:white;" class="trn"><strong class="trn">Prior Funding Limitations: </strong>Startups that have raised more than EUR 1,000,000 in equity capital from sources other than self-funding, friends, or family prior to March 2023 are <strong>not eligible</strong> to compete. Teams can engage in discussions to raise equity before the conference, but shouldn’t have officially raised more than the maximum amount before the conference. The EUR 1,000,000 limit applies to all dilutive funding sources such as but not limited to direct equity investments, SAFE, angel investments, professional investment, or from FF.</li>
 				<br> 
-				<ul> 
+				
 				<div style="color:white;">In addition, the following funding sources do not contribute towards the EUR 1,000,000 limit: </div>
-				    <li style="color:white;" class="trn"> Contributions from friends, family, and mentors</li>
-				    <li style="color:white;" class="trn"> Research and funding grants</li>
-				    <li style="color:white;" class="trn"> Winnings from prior competitions</li>
-				    <li style="color:white;" class="trn"> Traditional debt instruments (does not include convertible notes towards equity)</li> 
-			    	</ul>
+				    <ul>
+					    <li style="color:white;" class="trn"> Contributions from friends, family, and mentors</li>
+					    <li style="color:white;" class="trn"> Research and funding grants</li>
+					    <li style="color:white;" class="trn"> Winnings from prior competitions</li>
+					    <li style="color:white;" class="trn"> Traditional debt instruments (does not include convertible notes towards equity)</li> 
+					</ul>
+					</ul>
 				<br>
-				<div style="color:white;"></div>
-				<ul>
+
 					<li style="color:white;" class="trn"><strong class="trn">Market Requirements: </strong>The startup must be based in or have operations in Greece or Europe to be eligible to compete.</li>
 					<li style="color:white;" class="trn"><strong class="trn">Venture Limitations: </strong>The Startup Pitch Competition is meant to provide an avenue for early-stage startups to receive funding and accelerate their venture. Generally, the following types of ventures will <strong>not be eligible to apply</strong>: ventures within existing corporations, spinouts from existing corporations, franchises, and licensing agreements for distribution in a different geographical area.</li>
 					<li style="color:white;" class="trn"><strong class="trn">Team Presentation: </strong>At least two and up to three team members must attend the final pitch and be involved in the Q&A. All attending team members will need to complete the online conference registration process.</li>
