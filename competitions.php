@@ -55,59 +55,61 @@
     </h1>
     </div>
 </div>
+
 <div class="section">
 	<div style="color:white;">
 		Are you an entrepreneur trying to take your startup to the next level? The MIT GSW Startup Pitch Competition is an opportunity for you to pitch your company and compete for a chance to win seed money to scale your startup.
-		<!--<p class="competition-slogan">Are you an entrepreneur trying to take your startup to the next level?<br>
-		The MIT GSW Business Plan Competition is an opportunity for you to pitch your company and compete for a chance to win seed money to scale your startup.
-		<br><br><span class="competition-rules">For additional detail on format and eligibility requirements, <a class="competition-rules-link" href="Rules.pdf"><strong>please read the BPC Rules here</strong></a> before applying.</span>
-		</p>
-		-->
    	 </div>
 
 	<br>
-	
-	<!--<div class="section-header section-header-page" style="color: white">More Info Coming Soon!</div>-->
-
-	
-	
-	<div class="section-header section-header-page" style="color: white">Eligibility Criteria</div>
-		<div class="comp-section">
-		    <div class="row">
-			<div class="col-xs-12">
-			    <div style="color:white;" class="trn">Teams must meet all the following requirements to be eligible to compete in the Startup Pitch Competition.</div>
-				<br>
-				<ul>
-				    <li style="color:white;" class="trn"><strong class="trn">Applicant Eligibility: </strong>Anyone from any discipline and from any organization, including colleges and universities, government laboratories, research institutions, non-profit organizations, and for-profit companies.</li>
-				    <li style="color:white;" class="trn"><strong class="trn">Stage Eligibility: </strong>Startups should have a beta product/service/prototype. Ideation startups are <strong>not eligible</strong> to compete.</li>
-				    <li style="color:white;" class="trn"><strong class="trn">Prior Funding Limitations: </strong>Startups that have raised more than EUR 1,000,000 in equity capital from sources other than self-funding, friends, or family prior to March 2023 are <strong>not eligible</strong> to compete. Teams can engage in discussions to raise equity before the conference, but shouldn’t have officially raised more than the maximum amount before the conference. The EUR 1,000,000 limit applies to all dilutive funding sources such as but not limited to direct equity investments, SAFE, angel investments, professional investment, or from FF.</li>
-				<br> 
-				<ul> 
-					<div style="color:white;">In addition, the following funding sources do not contribute towards the EUR 1,000,000 limit: </div>
-					<li style="color:white;" class="trn"> Contributions from friends, family, and mentors</li>
-				    	<li style="color:white;" class="trn"> Research and funding grants</li>
-				   	<li style="color:white;" class="trn"> Winnings from prior competitions</li>
-				    	<li style="color:white;" class="trn"> Traditional debt instruments (does not include convertible notes towards equity)</li> 
-			    	</ul>
-				<br>
-				<ul>
-					<li style="color:white;" class="trn"><strong class="trn">Market Requirements: </strong>The startup must be based in or have operations in Greece or Europe to be eligible to compete.</li>
-					<li style="color:white;" class="trn"><strong class="trn">Venture Limitations: </strong>The Startup Pitch Competition is meant to provide an avenue for early-stage startups to receive funding and accelerate their venture. Generally, the following types of ventures will <strong>not be eligible to apply</strong>: ventures within existing corporations, spinouts from existing corporations, franchises, and licensing agreements for distribution in a different geographical area.</li>
-					<li style="color:white;" class="trn"><strong class="trn">Team Presentation: </strong>At least two and up to three team members must attend the final pitch and be involved in the Q&A. All attending team members will need to complete the online conference registration process.</li>
-					<li style="color:white;" class="trn"><strong class="trn">Team Composition: </strong>At least two team members must be registered in the online competition application to be eligible to compete.</li>
-					<li style="color:white;" class="trn"><strong class="trn">Pre-Conference Workshop and Mentorship: </strong>
-						<li style="color:white;" class="trn> All finalist teams will be required to attend an online pitch workshop organized by MIT in Feb 2023/early Mar 2023.</li>
-						<li style="color:white;" class="trn> All finalist teams are required to meet virtually with their assigned mentor once before the conference.</li>
-					</li>
+    
+    <div class="section-header section-header-page" style="color: white">Eligibility Criteria</div><div class="comp-section">
+    <div class="row">
+        <div class="col-xs-12">
+            <div style="color:white;" class="trn">Teams must meet all the following requirements to be eligible to compete in the Startup Pitch Competition.</div>
+            
+            <br>
+            
+            <ul>
+                <li style="color:white;" class="trn"><strong class="trn">Applicant Eligibility: </strong>Anyone from any discipline and from any organization, including colleges and universities, government laboratories, research institutions, non-profit organizations, and for-profit companies.</li>
+                
+                <li style="color:white;" class="trn"><strong class="trn">Stage Eligibility: </strong>Startups should have a beta product/service/prototype. Ideation startups are <strong>not eligible</strong> to compete.</li>
+                
+                <li style="color:white;" class="trn"><strong class="trn">Prior Funding Limitations: </strong>Startups that have raised more than EUR 1,000,000 in equity capital from sources other than self-funding, friends, or family prior to March 2023 are <strong>not eligible</strong> to compete. Teams can engage in discussions to raise equity before the conference, but shouldn’t have officially raised more than the maximum amount before the conference. The EUR 1,000,000 limit applies to all dilutive funding sources such as but not limited to direct equity investments, SAFE, angel investments, professional investment, or from FF.</li>
+				
+                <br> 
+				
+                <ul>
+                    <div style="color:white;">In addition, the following funding sources do not contribute towards the EUR 1,000,000 limit: </div>
+                    <li style="color:white;" class="trn"> Contributions from friends, family, and mentors</li>
+                    <li style="color:white;" class="trn"> Research and funding grants</li>
+                    <li style="color:white;" class="trn"> Winnings from prior competitions</li>
+                    <li style="color:white;" class="trn"> Traditional debt instruments (does not include convertible notes towards equity)</li> 
+                </ul>
+				
+                <br>
+                
+                <ul>
+                    <li style="color:white;" class="trn"><strong class="trn">Market Requirements: </strong>The startup must be based in or have operations in Greece or Europe to be eligible to compete.</li>
+                   
+                    <li style="color:white;" class="trn"><strong class="trn">Venture Limitations: </strong>The Startup Pitch Competition is meant to provide an avenue for early-stage startups to receive funding and accelerate their venture. Generally, the following types of ventures will <strong>not be eligible to apply</strong>: ventures within existing corporations, spinouts from existing corporations, franchises, and licensing agreements for distribution in a different geographical area.</li>
+					
+                    <li style="color:white;" class="trn"><strong class="trn">Team Presentation: </strong>At least two and up to three team members must attend the final pitch and be involved in the Q+A. All attending team members will need to complete the online conference registration process.</li>
+					
+                    <li style="color:white;" class="trn"><strong class="trn">Team Composition: </strong>At least two team members must be registered in the online competition application to be eligible to compete.</li>
+					
+                    <li style="color:white;" class="trn"><strong class="trn">Pre-Conference Workshop and Mentorship: </strong>
+                    
+                    <li style="color:white;" class="trn"> All finalist teams will be required to attend an online pitch workshop organized by MIT in Feb 2023/early Mar 2023.</li>
+                    <li style="color:white;" class="trn"> All finalist teams are required to meet virtually with their assigned mentor once before the conference.</li>
 					<li style="color:white;" class="trn"><strong class="trn">At-Conference Mentorship: </strong>All finalist teams will meet in person for 30 minutes with their mentor during the first day of the conference to practice and finalize their decks and pitches.</li>
 					<li style="color:white;" class="trn"><strong class="trn">Availability: </strong>All teams must be at the conference for registration on the morning of Thursday, March 30th, 2023.</li>
 					<li style="color:white;" class="trn"><strong class="trn">Disclaimer: </strong>The Global Startup Workshop competition committee reserves the right to include or exclude any teams for any reason.</li>
 					<li style="color:white;" class="trn"><strong class="trn">Disclosure: </strong>Teams agree that GSW can use materials shared with GSW in applications and for conference presentations in future years without limitation. This includes but is not limited to sharing publicly in photographs, example files for future years, and social media.</li>
 				</ul>
-
-			    </div>
-			</div>
-	</div>
+            </ul>
+        </div>
+</div>
 			  
  
 <div class="section">
