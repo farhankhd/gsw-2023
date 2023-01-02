@@ -80,10 +80,12 @@
                 <br> 
 				
                 <div style="color:white;">In addition, the following funding sources do not contribute towards the EUR 1,000,000 limit: </div>
+		    <ul>
                     <li style="color:white;" class="trn"> Contributions from friends, family, and mentors</li>
                     <li style="color:white;" class="trn"> Research and funding grants</li>
                     <li style="color:white;" class="trn"> Winnings from prior competitions</li>
-                    <li style="color:white;" class="trn"> Traditional debt instruments (does not include convertible notes towards equity)</li> 		
+                    <li style="color:white;" class="trn"> Traditional debt instruments (does not include convertible notes towards equity)</li> 
+		    </ul>
                 <br>
                 
             
