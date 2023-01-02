@@ -124,8 +124,6 @@
 					<br>
 					<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/sharing/share-offsite/?url=https://www.linkedin.com/in/danielagorza/');" title="Team | MIT Global Startup Workshop 2023">in</div>
 				</div>
-					
-				</div>
 			</div>
 			<div class="team-name">Daniela Gorza</div>
 			<div class="team-role">Co-Director</div>
