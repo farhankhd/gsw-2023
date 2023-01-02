@@ -83,7 +83,7 @@
 					In his spare time, he enjoys hiking, playing soccer, cooking and drawing.
 					<br>
 					<br>
-					<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/sharing/share-offsite/?url=https://www.linkedin.com/in/farhan-khodaee-62212242/');" title="Team | MIT Global Startup Workshop 2023">in</div>
+					<div id="idLinkedInIcon" onclick="https://www.linkedin.com/in/farhan-khodaee-62212242/');" title="Team | MIT Global Startup Workshop 2023">in</div>
 				</div>
 				
 			</div>
@@ -122,7 +122,7 @@
 					She spends her free time traveling, doing reformer pilates, and eating and cooking delicious Italian and French food.
 					<br>
 					<br>
-					<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/sharing/share-offsite/?url=https://www.linkedin.com/in/danielagorza/');" title="Team | MIT Global Startup Workshop 2023">in</div>
+					<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/danielagorza/');" title="Team | MIT Global Startup Workshop 2023">in</div>
 				</div>
 			</div>
 			<div class="team-name">Daniela Gorza</div>
@@ -146,7 +146,7 @@
 				    	In her spare time, she plays for the MIT Club Volleyball Team and bakes bread. 
 					<br>
 					<br>
-					<div><i class="fa-brands fa-weebly" href='https://mareddie.weebly.com/'></i></div>
+					<div><a href='https://mareddie.weebly.com/'><i class="fa-brands fa-weebly"></i></a></div>
 				</div>
 			</div>
 			<div class="team-name">Madison Reddie</div>
@@ -165,7 +165,7 @@
 					In her spare time, Jenny enjoys rock-climbing, being outdoors, and collecting good stories.
 					<br>
 					<br>
-					<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/sharing/share-offsite/?url=https://www.linkedin.com/in/jennycang/');" title="Team | MIT Global Startup Workshop 2023">in</div>
+					<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/jennycang/');" title="Team | MIT Global Startup Workshop 2023">in</div>
 				</div>
 			</div>
 			<div class="team-name">Jenny Cang</div>
@@ -184,7 +184,7 @@
 					Pooja has a Bachelor of Science in Neuroscience from Lehigh University. In her free time, she enjoys art, yoga, and exploring coffee shops.
 					<br>
 					<br>
-					<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/sharing/share-offsite/?url=http://www.linkedin.com/in/poojamalhotra320');" title="Team | MIT Global Startup Workshop 2023">in</div>
+					<div id="idLinkedInIcon" onclick="window.open('http://www.linkedin.com/in/poojamalhotra320');" title="Team | MIT Global Startup Workshop 2023">in</div>
 				</div>	
 			</div>
 			<div class="team-name">Pooja Malhotra</div>
@@ -208,7 +208,7 @@
 					In his spare time, he enjoys hiking, tennis, working out and singing.
 					<br>
 					<br>
-					<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/sharing/share-offsite/?url=https://www.linkedin.com/in/nairvineet9/');" title="Team | MIT Global Startup Workshop 2023">in</div>
+					<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/nairvineet9/');" title="Team | MIT Global Startup Workshop 2023">in</div>
 				</div>
 			</div>
 			<div class="team-name">Vineet Jagadesan Nair</div>
@@ -243,7 +243,7 @@
 				</div>
 				<br>
 				<br>
-				<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/sharing/share-offsite/?url=https://www.linkedin.com/in/tiasakim/');" title="Team | MIT Global Startup Workshop 2023">in</div>
+				<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/tiasakim/');" title="Team | MIT Global Startup Workshop 2023">in</div>
 			</div>
 			<div class="team-name">Tiasa Kim</div>
 			<div class="team-role">Marketing Team - Media Lead</div>
@@ -261,7 +261,7 @@
 					She spends her free time snowboarding, playing soccer, and listening to entomology podcasts.
 					<br>
 					<br>
-					<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/sharing/share-offsite/?url=https://www.linkedin.com/in/oliviajjones/');" title="Team | MIT Global Startup Workshop 2023">in</div>
+					<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/oliviajjones/');" title="Team | MIT Global Startup Workshop 2023">in</div>
 				</div>
 			</div>
 			<div class="team-name">Olivia Jones</div>
@@ -295,7 +295,7 @@
 					Outside of school, she enjoys drawing portraits, watching documentaries and learning languages.
 					<br>
 					<br>
-					<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/sharing/share-offsite/?url=https://www.linkedin.com/in/layla-arai');" title="Team | MIT Global Startup Workshop 2023">in</div>
+					<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/layla-arai');" title="Team | MIT Global Startup Workshop 2023">in</div>
 				</div>
 			</div>
 			<div class="team-name">Layla Araiinejad</div>
@@ -329,7 +329,7 @@
 					He spends his free time reading books on asian political history, traveling and exploring local cuisines. 
 					<br>
 					<br>
-					<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/sharing/share-offsite/?url=https://www.linkedin.com/in/rishabhgoyal95');" title="Team | MIT Global Startup Workshop 2023">in</div>
+					<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/rishabhgoyal95');" title="Team | MIT Global Startup Workshop 2023">in</div>
 				</div>
 			</div>
 			<div class="team-name">Rishabh Goyal</div>
