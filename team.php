@@ -103,7 +103,7 @@
 					Anna has a BA in Economics and History from the University of Chicago.
 					<br>
 					<br>
-					<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/sharing/share-offsite/?url=https://www.linkedin.com/in/annaeckhoff');" title="Team | MIT Global Startup Workshop 2023">in</div>
+					<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/annaeckhoff');" title="Team | MIT Global Startup Workshop 2023">in</div>
 				</div>
 			</div>
 			<div class="team-name">Anna Eckhoff</div>
