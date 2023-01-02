@@ -44,6 +44,9 @@
 	transform: translate(-50%, -50%);
 	text-align: center;
      }
+	    
+	#idLinkedInIcon{background-color:rgb(0, 102, 170);border-radius:6px;color:white;cursor:pointer;display:inline-block;font:bold 35px Arial, Helvetica, sans-serif;height:40px;margin-top:1px;text-align:center;width:40px;}
+	#idLinkedInIcon:hover{background-color:#06d;}
     </style>
 
 </head>
@@ -78,6 +81,8 @@
 					Farhan is passionate about medical technology entrepreneurship, especially around creating novel drugs and therapeutic platforms. 
 					He has been part of medical innovation teams across the world and is enthusiastic about making clinical technologies more accessible globally. 
 					In his spare time, he enjoys hiking, playing soccer, cooking and drawing.
+					
+					<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/sharing/share-offsite/?url=https://gsw.mit.edu/2023/team.php');" title="Team | MIT Global Startup Workshop 2023">in</div>
 				</div>
 			</div>
 			<div class="team-name">Farhan Khodaee</div>
