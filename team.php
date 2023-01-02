@@ -146,7 +146,7 @@
 				    	In her spare time, she plays for the MIT Club Volleyball Team and bakes bread. 
 					<br>
 					<br>
-					<div><a href='https://mareddie.weebly.com/'><i class="fa-brands fa-weebly"></i></a></div>
+					<a href='https://mareddie.weebly.com/'><i class="fa-brands fa-weebly"></i></a>
 				</div>
 			</div>
 			<div class="team-name">Madison Reddie</div>
@@ -238,7 +238,7 @@
 					Tiasa is a recent graduate from Wellesley College, earning a Bachelor's of Arts (B.A.) in Computer Science. 
 					Beyond her time at Wellesley, she has been extensively involved in the MIT community as a cross-registered student in the Departments of Electrical Engineering & Computer Science, Urban Studies & Planning, and Integrated Design & Management. 
 					She is also an Online Course Developer for MIT Energy Initiative, iHQ Innovation Ambassador, and Gordon Engineering Leader. 
-					After undergrad, she aspires to work in the urban mobility / sustainable transportation space as a Product / Project Manager and earn her MBA in the near future. 
+					Her professional interest lies in the urban mobility / sustainable transportation and entrepreneurship space. 
 					Aside from school, Tiasa enjoys solo traveling, dancing, visiting a local cafe, and empowering clients as a [solidcore] fitness coach. 
 				</div>
 				<br>
