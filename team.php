@@ -82,7 +82,8 @@
 					He has been part of medical innovation teams across the world and is enthusiastic about making clinical technologies more accessible globally. 
 					In his spare time, he enjoys hiking, playing soccer, cooking and drawing.
 					
-					<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/sharing/share-offsite/?url=https://gsw.mit.edu/2023/team.php');" title="Team | MIT Global Startup Workshop 2023">in</div>
+					<br>
+					<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/sharing/share-offsite/?url=https://www.linkedin.com/in/farhan-khodaee-62212242/');" title="Team | MIT Global Startup Workshop 2023">in</div>
 				</div>
 			</div>
 			<div class="team-name">Farhan Khodaee</div>
