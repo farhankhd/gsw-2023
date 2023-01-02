@@ -101,6 +101,10 @@
 					Anna is passionate about social impact entrepreneurship, especially around sustainability and climate change resilience. 
 					One of her proudest achievements was working with The Republic of the Marshall Islands to launch the sustainable tuna company, Pacific Island Tuna. 
 					Anna has a BA in Economics and History from the University of Chicago.
+					<br>
+					<br>
+					<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/sharing/share-offsite/?url=https://www.linkedin.com/in/annaeckhoff');" title="Team | MIT Global Startup Workshop 2023">in</div>
+				</div>
 				</div>
 			</div>
 			<div class="team-name">Anna Eckhoff</div>
@@ -117,6 +121,11 @@
 					She also has experience in Asia as a consultant to advise European and American businesses in their expansion into emerging Asian economies like Vietnam and China. 
 					Daniela holds a Double Degree in Public Administration and Government from the London School of Economics and Peking University. 
 					She spends her free time traveling, doing reformer pilates, and eating and cooking delicious Italian and French food.
+					<br>
+					<br>
+					<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/sharing/share-offsite/?url=https://www.linkedin.com/in/danielagorza/');" title="Team | MIT Global Startup Workshop 2023">in</div>
+				</div>
+					
 				</div>
 			</div>
 			<div class="team-name">Daniela Gorza</div>
@@ -138,6 +147,9 @@
 				    	She has a BS in Mechanical Engineering and a Certificate in Engineering Design from Penn State, as well as a Certificate in Product Design from the National University of Singapore. 
 				    	Her research and industry experience spans medical engineering, assistive technology development, ergonomics, off-grid mechanization, and co-design with rural communities. 
 				    	In her spare time, she plays for the MIT Club Volleyball Team and bakes bread. 
+					<br>
+					<br>
+					<div><i class="fa-brands fa-weebly" href='https://mareddie.weebly.com/'></i></div>
 				</div>
 			</div>
 			<div class="team-name">Madison Reddie</div>
@@ -154,6 +166,9 @@
 					Prior to graduate school, Jenny worked at Deloitte Consulting, where she helped Fortune 500 companies deliver optimal employee integration experiences during Mergers & Acquisitions. 
 					She has a Bachelor of Arts in Economics from Claremont McKenna College. 
 					In her spare time, Jenny enjoys rock-climbing, being outdoors, and collecting good stories.
+					<br>
+					<br>
+					<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/sharing/share-offsite/?url=https://www.linkedin.com/in/jennycang/');" title="Team | MIT Global Startup Workshop 2023">in</div>
 				</div>
 			</div>
 			<div class="team-name">Jenny Cang</div>
@@ -170,7 +185,10 @@
 					She has also worked with multiple early stage healthcare startups to help them to grow and scale their technologies. 
 					She is passionate about how artificial intelligence and analytics can democratize healthcare, and is particularly excited about mental health.  
 					Pooja has a Bachelor of Science in Neuroscience from Lehigh University. In her free time, she enjoys art, yoga, and exploring coffee shops.
-				</div>
+					<br>
+					<br>
+					<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/sharing/share-offsite/?url=http://www.linkedin.com/in/poojamalhotra320');" title="Team | MIT Global Startup Workshop 2023">in</div>
+				</div>	
 			</div>
 			<div class="team-name">Pooja Malhotra</div>
 			<div class="team-role">Content Team - Co-Speakers Lead</div>
@@ -191,6 +209,9 @@
 					Outside GSW, he is currently a Co-President of the MIT Energy & Climate Club and previously served as Co-Managing Director for the 2022 MIT Energy Conference. 
 					In addition to research, he has industry experience through internships at Siemens, NREL, Avangrid and Applied Materials. 
 					In his spare time, he enjoys hiking, tennis, working out and singing.
+					<br>
+					<br>
+					<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/sharing/share-offsite/?url=https://www.linkedin.com/in/nairvineet9/');" title="Team | MIT Global Startup Workshop 2023">in</div>
 				</div>
 			</div>
 			<div class="team-name">Vineet Jagadesan Nair</div>
@@ -223,6 +244,9 @@
 					After undergrad, she aspires to work in the urban mobility / sustainable transportation space as a Product / Project Manager and earn her MBA in the near future. 
 					Aside from school, Tiasa enjoys solo traveling, dancing, visiting a local cafe, and empowering clients as a [solidcore] fitness coach. 
 				</div>
+				<br>
+				<br>
+				<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/sharing/share-offsite/?url=https://www.linkedin.com/in/tiasakim/');" title="Team | MIT Global Startup Workshop 2023">in</div>
 			</div>
 			<div class="team-name">Tiasa Kim</div>
 			<div class="team-role">Marketing Team - Media Lead</div>
@@ -238,6 +262,9 @@
 					She is passionate about climate change and is looking to transition her career to focus on clean energy following MIT. 
 					Olivia has a Bachelor of Business Administration from the University of Michigan. 
 					She spends her free time snowboarding, playing soccer, and listening to entomology podcasts.
+					<br>
+					<br>
+					<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/sharing/share-offsite/?url=https://www.linkedin.com/in/oliviajjones/');" title="Team | MIT Global Startup Workshop 2023">in</div>
 				</div>
 			</div>
 			<div class="team-name">Olivia Jones</div>
@@ -269,6 +296,9 @@
 					She is passionate about Worker Health and Safety, Ergonomics, and AI policy. 
 					Before MIT, she completed her degree in Industrial and Systems Engineering from Auburn University. 
 					Outside of school, she enjoys drawing portraits, watching documentaries and learning languages.
+					<br>
+					<br>
+					<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/sharing/share-offsite/?url=https://www.linkedin.com/in/layla-arai');" title="Team | MIT Global Startup Workshop 2023">in</div>
 				</div>
 			</div>
 			<div class="team-name">Layla Araiinejad</div>
@@ -300,6 +330,9 @@
 					Previously he also helped set up the Family Business Consulting practice at PwC India. 
 					Rishabh holds an engineering degree in Electronics from the Delhi College of Engineering, India. 
 					He spends his free time reading books on asian political history, traveling and exploring local cuisines. 
+					<br>
+					<br>
+					<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/sharing/share-offsite/?url=https://www.linkedin.com/in/rishabhgoyal95');" title="Team | MIT Global Startup Workshop 2023">in</div>
 				</div>
 			</div>
 			<div class="team-name">Rishabh Goyal</div>
