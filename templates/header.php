@@ -98,16 +98,16 @@ Since 1998, our non-profit, student-run organization has held 22 international w
 </div>
 
 </br></br>
-<div class="video-container">
+<div class="section">
 	<iframe width="420" height="315"
 	src="https://www.youtube.com/watch?v=FLc7qrZ-Y0c&ab_channel=MITGSW?autoplay=1&mute=1">
 	</iframe>
-        <!--<video type='video/mp4' preload="none" autoplay loop muted="muted" plays-inline="" src="http://gsw-2019.herokuapp.com/images/launch/Splash.mp4"></video>-->
-    </div>
+	<!--<video type='video/mp4' preload="none" autoplay loop muted="muted" plays-inline="" src="http://gsw-2019.herokuapp.com/images/launch/Splash.mp4"></video>-->
+</div>
 
-    <div class="brand2">
+   <!-- <div class="brand2">
         <p> </p>
-    </div>
+    </div>-->
 
 <!--
 <div class="section">
