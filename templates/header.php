@@ -176,6 +176,8 @@ Since 1998, our non-profit, student-run organization has held 22 international w
         </div>
     </div>
 </div>
+
+<!--OLD
 <div class="container-fluid">
     <div class="row">
         <div class="hidden-xs">
@@ -192,6 +194,7 @@ Since 1998, our non-profit, student-run organization has held 22 international w
         <img src="images/launch/gsw-rafael-reif-mobile.jpg" class="img-responsive visible-xs-block" alt="Statement from L. Rafael Reif, president of MIT: By bringing together cross-sector experts and leaders, GSW has built a global support network, empowering and accelerating entrepreneurship in emerging markets, from Seoul to Madrid, Cape Town to Santiago. And now Bogota."/>
     </div>
 </div>
+-->
 <br><br><br>
 <div class="section">
     <div class="text-center">
@@ -230,11 +233,12 @@ Since 1998, our non-profit, student-run organization has held 22 international w
     <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
 </div> -->
 
+<!--
 <div class="section">
     <div class="text-center">
         <a href='https://gsw.mit.edu/gsw-about/history.php'><h1 style='color: rgba(243, 239, 239, 0.9);'>Our History</h1></a>
- 
     </div>
-
 </div>
+-->
+	
 </body>
