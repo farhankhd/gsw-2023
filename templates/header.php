@@ -74,8 +74,8 @@ function auto_version($file)
 	</div>
 	
 	<div class="brand2"><p> </p></div>
-
-
+</div>
+	
 <!--about us section:-->
 <div class="why-section">
     <div class="row">
@@ -94,10 +94,8 @@ function auto_version($file)
     </div>
     <br>
 </div>
-
-</div>
-
 </br></br>
+
 <div class="brand2"><p> </p></div>
 <br><br><br> 
            
@@ -134,7 +132,7 @@ function auto_version($file)
 <br><br><br>
 
 <!--map of past conferences-->
-<div class="section">
+<div class="why section">
 	<div class="text-center">
 		<div class="section-header"><h1 style='color: rgba(243, 239, 239, 0.9);'>Local Roots, Global Reach</h1></div>
 		<br>
@@ -150,7 +148,7 @@ function auto_version($file)
 	</div>
 </div>
 
-<div class="container-fluid">
+<div class="why section">
     <div class="row">
         <div class="hidden-xs">
             <div class="col-xs-1"></div>
