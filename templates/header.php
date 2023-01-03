@@ -95,22 +95,7 @@ function auto_version($file)
     <br>
 </div>
 
-<div class="container-fluid">
-    <div class="row">
-        <div class="hidden-xs">
-            <div class="col-xs-1"></div>
-            <div class="col-xs-5">
-                <div class="quote">
-                    <p class="img-quote">By bringing together cross-sector experts</br>and leaders, GSW has built a global</br>support network, empowering and accelerating</br>entrepreneurship in emerging markets,</br>from Seoul to Madrid, Cape Town to Santiago.</p>
-                    <p class="quote-name">L. Rafael Reif</p>
-                    <p class="quote-position">17th President of MIT</p>
-                </div>
-            </div>
-            <img src="images/launch/rafael_reif.jpg" class="img-responsive hidden-xs" alt="Statement from L. Rafael Reif, president of MIT: By bringing together cross-sector experts and leaders, GSW has built a global support network, empowering and accelerating entrepreneurship in emerging markets, from Seoul to Madrid, Cape Town to Santiago. And now Bogota."/>
-        </div>
-        <img src="images/launch/gsw-rafael-reif-mobile.jpg" class="img-responsive visible-xs-block" alt="Statement from L. Rafael Reif, president of MIT: By bringing together cross-sector experts and leaders, GSW has built a global support network, empowering and accelerating entrepreneurship in emerging markets, from Seoul to Madrid, Cape Town to Santiago. And now Bogota."/>
-    </div>
-</div>
+
 
 </br></br>
 <div class="brand2"><p> </p></div>
@@ -164,6 +149,24 @@ function auto_version($file)
 		</div>
 	</div>
 </div>
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="hidden-xs">
+            <div class="col-xs-1"></div>
+            <div class="col-xs-5">
+                <div class="quote">
+                    <p class="img-quote">By bringing together cross-sector experts</br>and leaders, GSW has built a global</br>support network, empowering and accelerating</br>entrepreneurship in emerging markets,</br>from Seoul to Madrid, Cape Town to Santiago.</p>
+                    <p class="quote-name">L. Rafael Reif</p>
+                    <p class="quote-position">17th President of MIT</p>
+                </div>
+            </div>
+            <img src="images/launch/rafael_reif.jpg" class="img-responsive hidden-xs" alt="Statement from L. Rafael Reif, president of MIT: By bringing together cross-sector experts and leaders, GSW has built a global support network, empowering and accelerating entrepreneurship in emerging markets, from Seoul to Madrid, Cape Town to Santiago. And now Bogota."/>
+        </div>
+        <img src="images/launch/gsw-rafael-reif-mobile.jpg" class="img-responsive visible-xs-block" alt="Statement from L. Rafael Reif, president of MIT: By bringing together cross-sector experts and leaders, GSW has built a global support network, empowering and accelerating entrepreneurship in emerging markets, from Seoul to Madrid, Cape Town to Santiago. And now Bogota."/>
+    </div>
+</div>
+
 
 <!--academic partners-->
 <div class="line"></div>
