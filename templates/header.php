@@ -143,21 +143,7 @@ Since 1998, our non-profit, student-run organization has held 22 international w
 </div>
 -->
 <br><br><br> 
-            
-    <div class="line"></div>
-	    <br><br><br><br>
-            <div class="section-subheader text-center">
-                <p><h1 style='color: rgba(243, 239, 239, 0.9);'>Academic Partners</h1></p>
-                <div class="row">
-                    <br>
-                    <img src="images/logo/mslao-logo.png" class="partner-logo">
-                    <img src="images/logo/legatum_2.png" class="partner-logo">
-                    <img src="images/logo/martin_trust_2.png" class="partner-logo">
-                    <img src="images/logo/reap_2.png" class="partner-logo">
-                </div>
-            </div>
-        <br><br>
-     </div>
+           
 
 
 <br><br>            
@@ -219,8 +205,22 @@ Since 1998, our non-profit, student-run organization has held 22 international w
     </div>
 </div>
 </div>
-<div class="why-section">
-    <br>
+
+<div class="line"></div>
+	    <br><br><br><br>
+            <div class="section-subheader text-center">
+                <p><h1 style='color: rgba(243, 239, 239, 0.9);'>Academic Partners</h1></p>
+                <div class="row">
+                    <br>
+                    <img src="images/logo/mslao-logo.png" class="partner-logo">
+                    <img src="images/logo/legatum_2.png" class="partner-logo">
+                    <img src="images/logo/martin_trust_2.png" class="partner-logo">
+                    <img src="images/logo/reap_2.png" class="partner-logo">
+                </div>
+            </div>
+        <br><br>
+</div>
+
 
 <!--
     <div class="container">
