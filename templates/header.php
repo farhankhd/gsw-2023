@@ -74,7 +74,7 @@ function auto_version($file)
 	</div>
 	
 	<div class="brand2"><p> </p></div>
-</div>
+
 
 <!--about us section:-->
 <div class="why-section">
@@ -95,7 +95,7 @@ function auto_version($file)
     <br>
 </div>
 
-
+</div>
 
 </br></br>
 <div class="brand2"><p> </p></div>
