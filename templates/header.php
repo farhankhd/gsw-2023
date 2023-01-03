@@ -99,6 +99,7 @@ function auto_version($file)
 <div class="brand2"><p> </p></div>
 <br><br><br> 
 
+<!--
 <div class="container-fluid">
     <div class="row">
         <div class="hidden-xs">
@@ -115,6 +116,7 @@ function auto_version($file)
         <img src="images/launch/gsw-rafael-reif-mobile.jpg" class="img-responsive visible-xs-block" alt="Statement from L. Rafael Reif, president of MIT: By bringing together cross-sector experts and leaders, GSW has built a global support network, empowering and accelerating entrepreneurship in emerging markets, from Seoul to Madrid, Cape Town to Santiago. And now Bogota."/>
     </div>
 </div>
+-->
 
 
 <br><br>         
