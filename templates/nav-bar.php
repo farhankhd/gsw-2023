@@ -145,8 +145,8 @@
                     </a>
                     <div id="competitionMenu" class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <a class="dropdown-item" href="team.php">Our Team</a>
-                        <div class="dropdown-divider"></div>
-                        <!--<a class="dropdown-item" href="collab.php">Collaborators</a>-->
+                        <!--<div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="collab.php">Collaborators</a>-->
                     </div>
                 </li> 
             </ul>
