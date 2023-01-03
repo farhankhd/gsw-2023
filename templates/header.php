@@ -49,34 +49,31 @@ function auto_version($file)
 
 
 <body>
+	
+<!--gsw landing image; conference highlight-->
 <div data-parallax="scroll" class="parallax-window main-page-header" style="display:inline-block;">
-
-    <div class="brand">
-        <img src="images/launch/gsw-heading.png"/>
-        <br> <br>
-        <img src="images/launch/GSW_logo_white.png" />
-        <div class='text-center'>
-            <i><h1 style="font-size:48px">SAVE the DATE</h1></i>
-            <i><h3>25th Annual Conference:</h3></i>
-            <i><h2>Athens, Greece</h2></i>
-            <i><h2>March 30-31, 2023</h2></i>
-        </div>
-        <br> <br><br> <br><br> <br>
-
-    </div>
-
-    <div class="brand-logo">
-        <h2 style="font-size: 2.5em"> Hosted By</h2>
-        <img src="images/logo/GSW_logo_white.png">
-    </div>
-
-    <div class="video-container">
-        <video type='video/mp4' preload="none" autoplay loop muted="muted" plays-inline="" src="http://gsw-2019.herokuapp.com/images/launch/Splash.mp4"></video>
-    </div>
-
-    <div class="brand2">
-        <p> </p>
-    </div>
+	<div class="brand">
+		<img src="images/launch/gsw-heading.png"/>
+		<br> <br>
+        	<img src="images/launch/GSW_logo_white.png" />
+        	<div class='text-center'>
+           		<i><h1 style="font-size:48px">SAVE the DATE</h1></i>
+            		<i><h3>25th Annual Conference:</h3></i>
+			<i><h2>Athens, Greece</h2></i>
+			<i><h2>March 30-31, 2023</h2></i>
+		</div>
+		<br> <br><br> <br><br> <br>
+	</div>
+	<div class="brand-logo">
+		<h2 style="font-size: 2.5em"> Hosted By</h2>
+		<img src="images/logo/GSW_logo_white.png">
+	</div>
+	
+	<div class="video-container">
+        	<video type='video/mp4' preload="none" autoplay loop muted="muted" plays-inline="" src="http://gsw-2019.herokuapp.com/images/launch/Splash.mp4"></video>
+	</div>
+	
+	<div class="brand2"><p> </p></div>
 </div>
 
 <!--about us section:-->
@@ -84,15 +81,16 @@ function auto_version($file)
     <div class="row">
     <br>
     <div class="section-header text-center">
-            <h1>25 Years Strong</h1>
+	    <h1>25 Years Strong</h1>
     </div>
     <div class="text-center">
-        <p>MIT Global Startup Workshop (MIT GSW) is an annual multi-day conference that brings together entrepreneurs, students, investors, and key stakeholders from across the world to accelerate the entrepreneurial ecosystem of a host region. Through a series of tailored workshops, panels and keynote speakers, MIT GSW aims to share the entrepreneurial practices that have empowered thousands of companies to launch from MIT.
-
-MIT GSW is organized by a diverse group of graduate students and is strongly supported by the MIT entrepreneurial ecosystem including the MIT Legatum Center for Development & Entrepreneurship, the Martin Trust Center for MIT Entrepreneurship, and the MIT Regional Entrepreneurship Accelerator Program (MIT REAP).
-
-Since 1998, our non-profit, student-run organization has held 22 international workshops across 6 continents, and has attracted participants from over 70 nations.</p>
-        
+	    <p> MIT Global Startup Workshop (MIT GSW) is an annual multi-day conference that brings together entrepreneurs, students, investors, and key stakeholders 
+		from across the world to accelerate the entrepreneurial ecosystem of a host region. 
+		Through a series of tailored workshops, panels and keynote speakers, MIT GSW aims to share the entrepreneurial practices that have empowered 
+		thousands of companies to launch from MIT. MIT GSW is organized by a diverse group of graduate students and is strongly supported 
+		by the MIT entrepreneurial ecosystem including the MIT Legatum Center for Development & Entrepreneurship, the Martin Trust Center for MIT Entrepreneurship, 
+		and the MIT Regional Entrepreneurship Accelerator Program (MIT REAP). Since 1998, our non-profit, student-run organization has held 22 international workshops across 6 continents, 
+		and has attracted participants from over 70 nations. </p>
     </div>
     <br>
 </div>
@@ -115,9 +113,7 @@ Since 1998, our non-profit, student-run organization has held 22 international w
 </div>
 
 </br></br>
-   <!-- <div class="brand2">
-        <p> </p>
-    </div>-->
+<div class="brand2"><p> </p></div>
 
 <!--
 <div class="section">
