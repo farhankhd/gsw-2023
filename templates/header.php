@@ -97,6 +97,23 @@ Since 1998, our non-profit, student-run organization has held 22 international w
     <br>
 </div>
 
+<div class="container-fluid">
+    <div class="row">
+        <div class="hidden-xs">
+            <div class="col-xs-1"></div>
+            <div class="col-xs-5">
+                <div class="quote">
+                    <p class="img-quote">By bringing together cross-sector experts</br>and leaders, GSW has built a global</br>support network, empowering and accelerating</br>entrepreneurship in emerging markets,</br>from Seoul to Madrid, Cape Town to Santiago.</p>
+                    <p class="quote-name">L. Rafael Reif</p>
+                    <p class="quote-position">17th President of MIT</p>
+                </div>
+            </div>
+            <img src="images/launch/rafael_reif.jpg" class="img-responsive hidden-xs" alt="Statement from L. Rafael Reif, president of MIT: By bringing together cross-sector experts and leaders, GSW has built a global support network, empowering and accelerating entrepreneurship in emerging markets, from Seoul to Madrid, Cape Town to Santiago. And now Bogota."/>
+        </div>
+        <img src="images/launch/gsw-rafael-reif-mobile.jpg" class="img-responsive visible-xs-block" alt="Statement from L. Rafael Reif, president of MIT: By bringing together cross-sector experts and leaders, GSW has built a global support network, empowering and accelerating entrepreneurship in emerging markets, from Seoul to Madrid, Cape Town to Santiago. And now Bogota."/>
+    </div>
+</div>
+
 </br></br>
    <!-- <div class="brand2">
         <p> </p>
@@ -170,54 +187,35 @@ Since 1998, our non-profit, student-run organization has held 22 international w
 	  <source src="movie.ogg" type="video/ogg">
 	</video>
 </div>
-
-<!--OLD
-<div class="container-fluid">
-    <div class="row">
-        <div class="hidden-xs">
-            <div class="col-xs-1"></div>
-            <div class="col-xs-5">
-                <div class="quote">
-                    <p class="img-quote">By bringing together cross-sector experts</br>and leaders, GSW has built a global</br>support network, empowering and accelerating</br>entrepreneurship in emerging markets,</br>from Seoul to Madrid, Cape Town to Santiago.</p>
-                    <p class="quote-name">L. Rafael Reif</p>
-                    <p class="quote-position">President of MIT</p>
-                </div>
-            </div>
-            <img src="images/launch/rafael_reif.jpg" class="img-responsive hidden-xs" alt="Statement from L. Rafael Reif, president of MIT: By bringing together cross-sector experts and leaders, GSW has built a global support network, empowering and accelerating entrepreneurship in emerging markets, from Seoul to Madrid, Cape Town to Santiago. And now Bogota."/>
-        </div>
-        <img src="images/launch/gsw-rafael-reif-mobile.jpg" class="img-responsive visible-xs-block" alt="Statement from L. Rafael Reif, president of MIT: By bringing together cross-sector experts and leaders, GSW has built a global support network, empowering and accelerating entrepreneurship in emerging markets, from Seoul to Madrid, Cape Town to Santiago. And now Bogota."/>
-    </div>
-</div>
--->
 <br><br><br>
 <div class="section">
-    <div class="text-center">
-      <div class="section-header"><h1 style='color: rgba(243, 239, 239, 0.9);'>Local Roots, Global Reach</h1></div>
-      <br>
-      <div class="text-center">
-      <p><h3 style='color: rgba(243, 239, 239, 0.9);'> Here's a map of the past venues for <strong>MIT GSW</strong>:</p>
-      <br>
-      <p class="text-center">
-        <a href="images/launch/Hi-Res_World Map_2022.png" title="Click to open larger version of the map">
-          <img src="images/launch/Hi-Res_World Map_2022.png" class="img-responsive full-width" alt="Map of countries" />
-        </a>
-      </p>
-    </div>
-</div>
+	<div class="text-center">
+		<div class="section-header"><h1 style='color: rgba(243, 239, 239, 0.9);'>Local Roots, Global Reach</h1></div>
+		<br>
+		<div class="text-center">
+			<p><h3 style='color: rgba(243, 239, 239, 0.9);'> Here's a map of the past venues for <strong>MIT GSW</strong>:</p>
+			<br>
+			<p class="text-center">
+				<a href="images/launch/Hi-Res_World Map_2022.png" title="Click to open larger version of the map">
+					<img src="images/launch/Hi-Res_World Map_2022.png" class="img-responsive full-width" alt="Map of countries" />
+				</a>
+			</p>
+		</div>
+	</div>
 </div>
 
 <div class="line"></div>
-	    <br><br><br><br>
-            <div class="section-subheader text-center">
-                <p><h1 style='color: rgba(243, 239, 239, 0.9);'>Academic Partners</h1></p>
-                <div class="row">
-                    <br>
-                    <img src="images/logo/mslao-logo.png" class="partner-logo">
-                    <img src="images/logo/legatum_2.png" class="partner-logo">
-                    <img src="images/logo/martin_trust_2.png" class="partner-logo">
-                    <img src="images/logo/reap_2.png" class="partner-logo">
+	<br><br><br><br>
+	<div class="section-subheader text-center">
+		<p><h1 style='color: rgba(243, 239, 239, 0.9);'>Academic Partners</h1></p>
+		<div class="row">
+			<br>
+			<img src="images/logo/mslao-logo.png" class="partner-logo">
+			<img src="images/logo/legatum_2.png" class="partner-logo">
+			<img src="images/logo/martin_trust_2.png" class="partner-logo">
+			<img src="images/logo/reap_2.png" class="partner-logo">
                 </div>
-            </div>
+	</div>
         <br><br>
 </div>
 
