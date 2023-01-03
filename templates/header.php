@@ -98,20 +98,6 @@ Since 1998, our non-profit, student-run organization has held 22 international w
 </div>
 
 </br></br>
-<div class="section">
-	<video width="800" height="600" controls>
-	  <source src="https://www.youtube.com/watch?v=FLc7qrZ-Y0c&ab_channel=MITGSW" type="video/mp4">
-	  <source src="movie.ogg" type="video/ogg">
-	</video>
-	
-	<!--
-	<iframe width="420" height="315"
-	src="https://www.youtube.com/watch?v=FLc7qrZ-Y0c&ab_channel=MITGSW?autoplay=1&mute=1">
-	</iframe>
--->
-	<!--<video type='video/mp4' preload="none" autoplay loop muted="muted" plays-inline="" src="http://gsw-2019.herokuapp.com/images/launch/Splash.mp4"></video>-->
-</div>
-
    <!-- <div class="brand2">
         <p> </p>
     </div>-->
@@ -192,6 +178,11 @@ Since 1998, our non-profit, student-run organization has held 22 international w
             </ul><br><br><br>
         </div>
     </div>
+	
+	<video width="800" height="600" controls>
+	  <source src="https://www.youtube.com/watch?v=FLc7qrZ-Y0c&ab_channel=MITGSW" type="video/mp4">
+	  <source src="movie.ogg" type="video/ogg">
+	</video>
 </div>
 
 <!--OLD
