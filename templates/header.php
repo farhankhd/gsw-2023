@@ -114,6 +114,73 @@ function auto_version($file)
 
 </br></br>
 <div class="brand2"><p> </p></div>
+<br><br><br> 
+           
+
+
+<br><br>         
+
+<!--why attend + promo video-->
+<div class="why-section">
+	<div class="row">
+		<div class="col-xs-12">
+			<div class="section-header text-center">
+				<h1 class="trn">WHY ATTEND?</h1>
+			</div>
+			<ul>
+				<li class="trn">Transform your ideas into successful <strong class="trn">startups</strong> by gaining valuable <strong>MIT expertise</strong> through workshops</li>
+				<li>Learn about cutting edge, innovative <strong>technologies</strong> from <strong>MIT & world experts</strong> through panel discussions</li>
+				<li>Participate in the <strong>GSW Competitions</strong> to receive mentorship from renowned entrepreneurs and gain access to exclusive <strong>VIP networking events</strong> </li>
+				<li>Display your company in the <strong>GSW Startup Showcase</strong> featuring protected time with investors</li>
+				<li>Gain access to top talent and emerging <strong>tech startups</strong></li>
+				<li>Learn and understand the <strong>business landscape</strong> in a global context</li>
+				<li>Make fruitful connections with <strong>investors, government officials, corporate representatives,</strong> and more.</li>
+            		</ul>
+			<br><br><br>
+		</div>
+	</div>
+	<div class="row">
+		<video width="800" height="600" controls>
+			<source src="https://www.youtube.com/watch?v=FLc7qrZ-Y0c&ab_channel=MITGSW" type="video/mp4">
+			<source src="movie.ogg" type="video/ogg">
+		</video>
+	</div>
+</div>
+<br><br><br>
+
+<!--map of past conferences-->
+<div class="section">
+	<div class="text-center">
+		<div class="section-header"><h1 style='color: rgba(243, 239, 239, 0.9);'>Local Roots, Global Reach</h1></div>
+		<br>
+		<div class="text-center">
+			<p><h3 style='color: rgba(243, 239, 239, 0.9);'> Here's a map of the past venues for <strong>MIT GSW</strong>:</p>
+			<br>
+			<p class="text-center">
+				<a href="images/launch/Hi-Res_World Map_2022.png" title="Click to open larger version of the map">
+					<img src="images/launch/Hi-Res_World Map_2022.png" class="img-responsive full-width" alt="Map of countries" />
+				</a>
+			</p>
+		</div>
+	</div>
+</div>
+
+<!--academic partners-->
+<div class="line"></div>
+	<br><br><br><br>
+	<div class="section-subheader text-center">
+		<p><h1 style='color: rgba(243, 239, 239, 0.9);'>Academic Partners</h1></p>
+		<div class="row">
+			<br>
+			<img src="images/logo/mslao-logo.png" class="partner-logo">
+			<img src="images/logo/legatum_2.png" class="partner-logo">
+			<img src="images/logo/martin_trust_2.png" class="partner-logo">
+			<img src="images/logo/reap_2.png" class="partner-logo">
+                </div>
+	</div>
+        <br><br>
+</div>
+
 
 <!--
 <div class="section">
@@ -155,86 +222,28 @@ function auto_version($file)
     </div>
 </div>
 -->
-<br><br><br> 
-           
 
-
-<br><br>            
-<div class="why-section">
-    <div class="row">
-        <div class="col-xs-12">
-            <div class="section-header text-center">
-                    <h1 class="trn">WHY ATTEND?</h1>
-            </div>
-            <ul>
-                <li class="trn">Transform your ideas into successful <strong class="trn">startups</strong> by gaining valuable <strong>MIT expertise</strong> through workshops</li>
-                <li>Learn about cutting edge, innovative <strong>technologies</strong> from <strong>MIT & world experts</strong> through panel discussions</li>
-                <li>Participate in the <strong>GSW Competitions</strong> to receive mentorship from renowned entrepreneurs and gain access to exclusive <strong>VIP networking events</strong> </li>
-                <li>Display your company in the <strong>GSW Startup Showcase</strong> featuring protected time with investors</li>
-                <li>Gain access to top talent and emerging <strong>tech startups</strong></li>
-                <li>Learn and understand the <strong>business landscape</strong> in a global context</li>
-                <li>Make fruitful connections with <strong>investors, government officials, corporate representatives,</strong> and more.</li>
-            </ul><br><br><br>
-        </div>
-    </div>
-	
-	<video width="800" height="600" controls>
-	  <source src="https://www.youtube.com/watch?v=FLc7qrZ-Y0c&ab_channel=MITGSW" type="video/mp4">
-	  <source src="movie.ogg" type="video/ogg">
-	</video>
-</div>
-<br><br><br>
-<div class="section">
-	<div class="text-center">
-		<div class="section-header"><h1 style='color: rgba(243, 239, 239, 0.9);'>Local Roots, Global Reach</h1></div>
-		<br>
-		<div class="text-center">
-			<p><h3 style='color: rgba(243, 239, 239, 0.9);'> Here's a map of the past venues for <strong>MIT GSW</strong>:</p>
-			<br>
-			<p class="text-center">
-				<a href="images/launch/Hi-Res_World Map_2022.png" title="Click to open larger version of the map">
-					<img src="images/launch/Hi-Res_World Map_2022.png" class="img-responsive full-width" alt="Map of countries" />
-				</a>
-			</p>
-		</div>
-	</div>
-</div>
-
-<div class="line"></div>
-	<br><br><br><br>
-	<div class="section-subheader text-center">
-		<p><h1 style='color: rgba(243, 239, 239, 0.9);'>Academic Partners</h1></p>
-		<div class="row">
-			<br>
-			<img src="images/logo/mslao-logo.png" class="partner-logo">
-			<img src="images/logo/legatum_2.png" class="partner-logo">
-			<img src="images/logo/martin_trust_2.png" class="partner-logo">
-			<img src="images/logo/reap_2.png" class="partner-logo">
-                </div>
-	</div>
-        <br><br>
-</div>
 
 
 <!--
-    <div class="container">
-        <div class="row">
-            <!-- <div class="col-xs-6 why-map" id="map">
-            </div> --> <!--
-            <div class="col-xs-6 why-img">
-                <iframe class="why-map" src="https://maps.google.com/maps?width=720&amp;height=600&amp;hl=en&amp;coord=4.64216, -74.079369&amp;q=Ak.%2030%20%2352-77%2C%20Bogota%2C%20Colombia+(El%20Cubo%20-%20Business%20and%20Recreation%20Center)&amp;ie=UTF8&amp;t=&amp;z=14&amp;iwloc=A&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0">
-                <a href="https://www.maps.ie/map-my-route/">Plot a route map</a>
-                </iframe>
-            </div>            
-            <div class="col-xs-6">
-                <img class="why-img" src="images/launch/mit-top-view.png" />
-            </div>
-        </div>
-    </div>
+<div class="container">
+	<div class="row">
+		<div class="col-xs-6 why-map" id="map"></div>
+		<div class="col-xs-6 why-img">
+			<iframe class="why-map" src="https://maps.google.com/maps?width=720&amp;height=600&amp;hl=en&amp;coord=4.64216, -74.079369&amp;q=Ak.%2030%20%2352-77%2C%20Bogota%2C%20Colombia+(El%20Cubo%20-%20Business%20and%20Recreation%20Center)&amp;ie=UTF8&amp;t=&amp;z=14&amp;iwloc=A&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0">
+				<a href="https://www.maps.ie/map-my-route/">Plot a route map</a>
+			</iframe>
+		</div>
+		<div class="col-xs-6">
+			<img class="why-img" src="images/launch/mit-top-view.png" />
+		</div>
+	</div>
+</div>
+<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+</div> 
+-->
 
-    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
-</div> -->
-
+<!--our history-->
 <!--
 <div class="section">
     <div class="text-center">
