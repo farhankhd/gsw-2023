@@ -125,10 +125,8 @@ function auto_version($file)
 		</div>
 	</div>
 	<div class="row">
-		<video width="800" height="600" controls>
-			<source src="https://www.youtube.com/watch?v=FLc7qrZ-Y0c&ab_channel=MITGSW" type="video/mp4">
-			<source src="movie.ogg" type="video/ogg">
-		</video>
+		<iframe width="600" height="350" src="https://www.youtube.com/watch?v=FLc7qrZ-Y0c&ab_channel=MITGSW" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+		<iframe width="600" height="350" src="https://www.youtube.com/watch?v=FLc7qrZ-Y0c&ab_channel=MITGSW" frameborder="0" gesture="media" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 	</div>
 </div>
 <br><br><br>
