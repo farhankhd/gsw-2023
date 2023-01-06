@@ -51,7 +51,7 @@ function auto_version($file)
 <body>
 	
 <!--gsw landing image; conference highlight-->
-<div data-parallax="scroll" class="parallax-window main-page-header">
+<div data-parallax="scroll" class="parallax-window main-page-header" <!--style="display:inline-block;"-->> 
 	<div class="brand">
 		<img src="images/launch/gsw-heading.png"/>
 		<br> <br>
