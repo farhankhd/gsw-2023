@@ -2366,10 +2366,11 @@ p {
 /* LIVE COUNTDOWN CSS */
 .coming-soon {
     min-height: 100vh;
-    display: inline-block;
-    align-items: center;
-    flex-direction: column;
+    display: flex;
     justify-content: center;
+    align-items: center;
+    flex-direction: row;
+   
 }
 
 /*
