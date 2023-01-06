@@ -61,29 +61,8 @@ function auto_version($file)
             		<i><h3>25th Annual Conference:</h3></i>
 			<i><h2>Athens, Greece</h2></i>
 			<i><h2>March 30-31, 2023</h2></i>
-			<div class='coming-soon'>
-				<div class='container-day'>
-					<h3 class='day'>Time</h3>
-					<h3>Day</h3>
-				</div>
-
-				<div class='container-hour'>
-					<h3 class='hour'>Time</h3>
-					<h3>Hour</h3>
-				</div>
-
-				<div class='container-minute'>
-					<h3 class='minute'>Time</h3>
-					<h3>Minute</h3>
-				</div>
-
-				<div class='container-second'>
-					<h3 class='second'>Time</h3>
-					<h3>Second</h3>
-				</div>
-			</div>
 		</div>
-		<br><br><br>
+		
 		
 		<!--live countdown
 		<div class='coming-soon'>
@@ -110,6 +89,27 @@ function auto_version($file)
 			</div>
 		 </div>
 		-->
+		<div class='coming-soon'>
+				<div class='container-day'>
+					<h3 class='day'>Time</h3>
+					<h3>Day</h3>
+				</div>
+
+				<div class='container-hour'>
+					<h3 class='hour'>Time</h3>
+					<h3>Hour</h3>
+				</div>
+
+				<div class='container-minute'>
+					<h3 class='minute'>Time</h3>
+					<h3>Minute</h3>
+				</div>
+
+				<div class='container-second'>
+					<h3 class='second'>Time</h3>
+					<h3>Second</h3>
+				</div>
+			</div>
 		<br> <br><br> <br><br> <br>
 	</div>
 	
