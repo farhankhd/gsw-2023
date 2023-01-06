@@ -279,6 +279,9 @@ function auto_version($file)
     </div>
 </div>
 -->
+
+<!--javascript for live countdown-->
+<script src="assets/js/countdown.js"></script>
 </body>
 
 
