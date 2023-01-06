@@ -114,30 +114,6 @@ function auto_version($file)
 		<br> <br><br> <br><br> <br>
 	</div>
 	
-	<section>
-		<div class='coming-soon'>
-				<div class='container-day'>
-					<h3 class='day'>Time</h3>
-					<h3>Day</h3>
-				</div>
-
-				<div class='container-hour'>
-					<h3 class='hour'>Time</h3>
-					<h3>Hour</h3>
-				</div>
-
-				<div class='container-minute'>
-					<h3 class='minute'>Time</h3>
-					<h3>Minute</h3>
-				</div>
-
-				<div class='container-second'>
-					<h3 class='second'>Time</h3>
-					<h3>Second</h3>
-				</div>
-			</div>
-	</section>
-	
 	<div class="brand-logo">
 		<h2 style="font-size: 2.5em"> Hosted By</h2>
 		<img src="images/logo/GSW_logo_white.png">
