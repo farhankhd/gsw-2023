@@ -98,10 +98,10 @@
                     <li style="color:white;" class="trn"><strong class="trn">Team Composition: </strong>At least two team members must be registered in the online competition application to be eligible to compete.</li>
 					
                     <li style="color:white;" class="trn"><strong class="trn">Pre-Conference Workshop and Mentorship: </strong>
-                    
-                    <li style="color:white;" class="trn"> All finalist teams will be required to attend an online pitch workshop organized by MIT in Feb 2023/early Mar 2023.</li>
-                    <li style="color:white;" class="trn"> All finalist teams are required to meet virtually with their assigned mentor once before the conference.</li>
-		    
+                    	<ul>
+                    		<li style="color:white;" class="trn"> All finalist teams will be required to attend an online pitch workshop organized by MIT in Feb 2023/early Mar 2023.</li>
+                    		<li style="color:white;" class="trn"> All finalist teams are required to meet virtually with their assigned mentor once before the conference.</li>
+			</ul>
 		    <li style="color:white;" class="trn"><strong class="trn">At-Conference Mentorship: </strong>All finalist teams will meet in person for 30 minutes with their mentor during the first day of the conference to practice and finalize their decks and pitches.</li>
 		    <li style="color:white;" class="trn"><strong class="trn">Availability: </strong>All teams must be at the conference for registration on the morning of Thursday, March 30th, 2023.</li>
 		    <li style="color:white;" class="trn"><strong class="trn">Disclaimer: </strong>The Global Startup Workshop competition committee reserves the right to include or exclude any teams for any reason.</li>
