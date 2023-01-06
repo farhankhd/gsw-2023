@@ -63,6 +63,48 @@
             <a class="navbar-brand" href="index.php"><img src="images/logo/GSW_logo_white.png" id="navbar-logo"></a>
         </div>
 
+        <!-- New navbar -->
+        <div class="collapse navbar-collapse navbar-mobile" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+                <li><a href="index.php">Home<span class="sr-only">(current)</span></a></li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Competitions <span class="caret"></span>
+                    </a>
+                    <div id="competitionMenu" class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="competitions.php">Startup Pitch Competition</a>
+                        <!--<div class="dropdown-divider"></div>-->
+                        <!--
+                        <a class="dropdown-item" href="cp-mentors.php">Mentors</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="cp-judges.php">Judges</a>
+                        -->
+                    </div>
+                </li> 
+                
+                <!-- <li><a href="agenda.php">Agenda</a></li> --> 
+            
+                <!--<li><a href="speakers.php">Speakers</a></li>-->
+                <!-- <li><a href="team.php">About Us</a></li> -->
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        About Us <span class="caret"></span>
+                    </a>
+                    <div id="competitionMenu" class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="team.php">Our Team</a>
+                        <!--<div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="collab.php">Collaborators</a>-->
+                    </div>
+                </li> 
+            </ul>
+            <ul class="nav navbar-nav navbar-right" id="navbarDropdown" >
+            <a href="https://www.mit.edu"> 
+                <img src="images/logo/mit-logo.png" id="navbar-logo-right">
+            </a>
+            </ul>
+        </div><!-- /.navbar-collapse -->                                                                                                       
+                                                                                                                                                                                                   
+                                                                                                               
         <!-- Old Navbar: Collect the nav links, forms, and other content for toggling -->
         <!--<div class="collapse navbar-collapse navbar-mobile" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
@@ -116,46 +158,7 @@
             </ul>
         </div><!-- /.navbar-collapse -->
 
-        <!-- New navbar -->
-        <div class="collapse navbar-collapse navbar-mobile" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav">
-                <li><a href="index.php">Home<span class="sr-only">(current)</span></a></li>
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        Competitions <span class="caret"></span>
-                    </a>
-                    <div id="competitionMenu" class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="competitions.php">Startup Pitch Competition</a>
-                        <!--<div class="dropdown-divider"></div>-->
-                        <!--
-                        <a class="dropdown-item" href="cp-mentors.php">Mentors</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="cp-judges.php">Judges</a>
-                        -->
-                    </div>
-                </li> 
-                
-                <!-- <li><a href="agenda.php">Agenda</a></li> --> 
-            
-                <!--<li><a href="speakers.php">Speakers</a></li>-->
-                <!-- <li><a href="team.php">About Us</a></li> -->
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        About Us <span class="caret"></span>
-                    </a>
-                    <div id="competitionMenu" class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="team.php">Our Team</a>
-                        <!--<div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="collab.php">Collaborators</a>-->
-                    </div>
-                </li> 
-            </ul>
-            <ul class="nav navbar-nav navbar-right" id="navbarDropdown" >
-            <a href="https://www.mit.edu"> 
-                <img src="images/logo/mit-logo.png" id="navbar-logo-right">
-            </a>
-            </ul>
-        </div><!-- /.navbar-collapse -->
+      
     </div><!-- /.container-fluid -->
 </nav>
 
