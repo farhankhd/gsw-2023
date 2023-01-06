@@ -66,9 +66,10 @@ h6 {
     align-items: center;
     flex-direction: column;
     justify-content: center;
-    /*bg image*/
+    /* 
     background-image: url("./athens-bg.jpeg");
     background-size: 100%;
+    */
 }
 
 .countdown {
