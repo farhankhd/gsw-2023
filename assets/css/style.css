@@ -59,36 +59,6 @@ h6 {
     color: white;
 }
 
-/* LIVE COUNTDOWN CSS */
-.coming-soon {
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    justify-content: center;
-    /* 
-    background-image: url("./athens-bg.jpeg");
-    background-size: 100%;
-    */
-}
-
-.countdown {
-    display: flex;
-    justify-content: space-around;
-    text-align: center;
-    margin-bottom: 40%;
-}
-
-.day,
-.hour,
-.minute,
-.second {
-    font-size: 3rem;
-}
-
-.waiting {
-    height: 50vh;
-}
 
 /* LANDING PAGE CSS */
 
@@ -2385,4 +2355,37 @@ p {
 .white>p>a:hover {
     opacity: 0.8;
     text-decoration: none;
+}
+
+
+
+
+
+
+
+/* LIVE COUNTDOWN CSS */
+.coming-soon {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.countdown {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin-bottom: 40%;
+}
+
+.day,
+.hour,
+.minute,
+.second {
+    font-size: 3rem;
+}
+
+.waiting {
+    height: 50vh;
 }
