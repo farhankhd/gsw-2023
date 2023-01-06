@@ -62,7 +62,7 @@ function auto_version($file)
 			<i><h2>Athens, Greece</h2></i>
 			<i><h2>March 30-31, 2023</h2></i>
 			<br><br><br>
-			<i class="countdown">
+			<i>
 				<i class='container-day'>
 				    <h3 class='day'>Time</h3>
 				    <h3>Day</h3>
