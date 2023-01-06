@@ -279,9 +279,6 @@ function auto_version($file)
     </div>
 </div>
 -->
-
-<!--import js file-->
-<script src="./scripts.js"></script>
 </body>
 
 
