@@ -65,7 +65,7 @@ function auto_version($file)
 		<br><br><br>
 		
 		<!--live countdown-->
-		<div class='coming-soon text-center'>
+		<div class='coming-soon'>
 			<div class="countdown">
 				<div class='container-day'>
 				    <h3 class='day'>Time</h3>
