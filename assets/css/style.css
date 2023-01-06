@@ -2366,18 +2366,20 @@ p {
 /* LIVE COUNTDOWN CSS */
 .coming-soon {
     min-height: 100vh;
-    display: flex;
+    display: inline-block;
     align-items: center;
     flex-direction: column;
     justify-content: center;
 }
 
+/*
 .countdown {
     display: flex;
     justify-content: space-around;
     text-align: center;
     margin-bottom: 40%;
 }
+*/
 
 .day,
 .hour,
