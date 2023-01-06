@@ -61,9 +61,7 @@ function auto_version($file)
             		<i><h3>25th Annual Conference:</h3></i>
 			<i><h2>Athens, Greece</h2></i>
 			<i><h2>March 30-31, 2023</h2></i>
-		</div>
-		
-		<div class='coming-soon' style='display:flex justify-content:center;'>
+			<div class='coming-soon' style='display:flex justify-content:center;'>
 				<div class='container-day'>
 					<h3 class='day'>Time</h3>
 					<h3>Day</h3>
@@ -84,6 +82,7 @@ function auto_version($file)
 					<h3>Second</h3>
 				</div>
 			</div>
+		</div>
 		
 		<br> <br><br> <br><br> <br>
 	</div>
