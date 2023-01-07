@@ -172,7 +172,7 @@ a:hover .button.style {
     <div class="button style">Click to Register 
     </div>
   </a>
-</div			  
+</div>			  
  
 <div class="section">
     <hr>
