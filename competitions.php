@@ -90,13 +90,13 @@
 
 .button.style {
   background-color: #fff;
-  border: 4px solid rgba(225, 109, 54, 0);
+  border: 4px solid rgb(226, 109, 54);
   border-radius: 50px;
-  color: rgba(225, 109, 54, 0);
+  color: rgb(226, 109, 54);
 }
 
 a:hover .button.style {
-  background-color: rgba(225, 109, 54, 0);
+  background-color: rgb(226, 109, 54, 0);
   color: #fff;
 }
 
