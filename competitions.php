@@ -170,7 +170,7 @@ a:hover .button.style {
 	<br>
 
  <a href="https://docs.google.com/forms/d/e/1FAIpQLScGcvXe5ioa0kCA6X9UsN-wxMntEF_qolskXs7sgE_3z3AYnA/viewform?usp=sf_link"><!-- link in here -->
-    <div class="button style">Click to Register 
+    <div class="button style">Apply Now 
     </div>
   </a>
 
