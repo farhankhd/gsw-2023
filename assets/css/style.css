@@ -2446,6 +2446,7 @@ a {
   height: auto;
   display: inline-block;
   align-content: center;
+	text-align: center;
 }
 
 @media all and (max-width: 768px) and (orientation: portrait) {
