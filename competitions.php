@@ -89,14 +89,15 @@
 }
 
 .button.style {
-  border: 4px solid rgb(226, 109, 54);
-  border-radius: 50px;
-  color: rgb(226, 109, 54);
+	border: 4px solid rgb(226, 109, 54);
+  	border-radius: 50px;
+  	color: #fff;
 }
 
 a:hover .button.style {
-  background-color: rgb(226, 109, 54, 0);
+  background-color: rgb(226, 109, 54);
   color: #fff;
+	
 }
 
 
