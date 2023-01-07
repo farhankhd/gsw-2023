@@ -167,12 +167,13 @@ a:hover .button.style {
             </ul>
         </div>
 </div>
+	<br><br><br>
 <div>
  <a href=""><!-- link in here -->
     <div class="button style">Click to Register 
     </div>
   </a>
-</div>			  
+</div		  
  
 <div class="section">
     <hr>
