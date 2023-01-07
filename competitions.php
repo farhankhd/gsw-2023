@@ -167,7 +167,7 @@ a:hover .button.style {
             </ul>
         </div>
 </div>
-	<br><br><br>
+	<br><br>
 <div>
  <a href=""><!-- link in here -->
     <div class="button style">Click to Register 
