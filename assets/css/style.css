@@ -210,6 +210,9 @@ h6 {
     color: white;
 }
 
+
+
+/*BEGIN OLD REGISTRATION*/
 #registration-section p {
     font-family: DIN Italic;
     font-size: 2vw
@@ -290,7 +293,7 @@ a:focus {
     text-align: justify;
     font-size: 0.9em;
 }
-
+/*END OLD REGISTRATION*/
 
 /* video on main page */
 
@@ -2413,6 +2416,12 @@ p {
     height: 50vh;
 }
 
+@media only screen and (min-width: 480px) {
+    .coming-soon {
+        padding: 20px 15%;
+        font-size: 1em;
+    }
+}
 
 
 /*REGISTRATION BUTTON*/
