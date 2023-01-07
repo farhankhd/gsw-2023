@@ -52,7 +52,7 @@
 
 
 @media all and (max-width: 768px) and (orientation: portrait) {
-  .col33 {
+  .button {
     width: 100%;
   }
 }
@@ -90,13 +90,13 @@
 
 .button.style {
   background-color: #fff;
-  border: 4px solid #00cc99;
+  border: 4px solid rgba(225, 109, 54, 0);
   border-radius: 50px;
-  color: #00cc99;
+  color: rgba(225, 109, 54, 0);
 }
 
 a:hover .button.style {
-  background-color: #00cc99;
+  background-color: rgba(225, 109, 54, 0);
   color: #fff;
 }
 
