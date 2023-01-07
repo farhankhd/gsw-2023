@@ -110,12 +110,15 @@
             </ul>
         </div>
 </div>
+	
+<!--
 <div class="col33">
-  <a href=""><!-- link in here -->
+  <a href="">
     <div class="button style">Click to Register 
     </div>
   </a>
 </div>
+-->
 			  
  
 <div class="section">
