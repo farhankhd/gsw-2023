@@ -1,27 +1,30 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic");
 @font-face {
-    font-family: "Gotham";
+    font-family: Gotham, sans-serif;
+    font-weight: bold;
     src: url("../user_fonts/Gotham-Bold.otf");
 }
 
 @font-face {
-    font-family: "Gotham Italic";
+    font-family: Gotham, sans-serif;
+    font-style: italic;
     src: url("../user_fonts/Gotham-Medium.otf");
 }
 
 @font-face {
-    font-family: "Gotham Condensed";
+    font-family: "Gotham Condensed", sans-serif;
     src: url("../user_fonts/Gotham-Medium.otf");
 }
 
 @font-face {
-    font-family: "Gotham Light";
+    font-family: Gotham, sans-serif;
+    font-weight: 300;
     src: url("../user_fonts/Gotham-Medium.otf");
 }
 
 @font-face {
-    font-family: "Gotham Regular";
+    font-family: Gotham, sans-serif;
     src: url("../user_fonts/Gotham-Medium.otf");
 }
 
@@ -30,7 +33,7 @@ body {
     margin: 0px;
     padding: 0px;
     width: 100vw;
-    font-family: 'Gotham Regular', sans-serif;
+    font-family: Gotham, sans-serif;
     display: inline-block;
     background-image: url("../../images/launch/launch_background_short.png");
     background-size: cover;
@@ -55,7 +58,7 @@ h6 {
     font-weight: 900;
     text-transform: uppercase;
     letter-spacing: 2px;
-    font-family: "Gotham", sans-serif;
+    font-family: Gotham, sans-serif;
     color: white;
 }
 
@@ -101,7 +104,7 @@ h6 {
     bottom: 5%;
     z-index: 2;
     width: 20%;
-    font-family: "DIN", sans-serif;
+    font-family: Gotham, sans-serif;
 }
 
 .blob-img:hover img {
@@ -122,7 +125,7 @@ h6 {
     position: absolute;
     left: 18%;
     bottom: 8%;
-    font-family: "DIN", sans-serif;
+    font-family: Gotham, sans-serif;
 }
 
 .text p {
@@ -153,11 +156,12 @@ h6 {
     overflow: hidden;
     position: relative;
     text-align: center;
-    font-family: "DIN", sans-serif;
+    font-family: Gotham, sans-serif;
 }
 
 #banner2 p {
-    font-family: 'Din Light';
+    font-family: Gotham, sans-serif;
+    font-weight: 300;
     color: white;
     font-size: 1.2vw;
     line-height: 90%;
@@ -424,7 +428,8 @@ a:focus {
 }
 
 .comp-section ul {
-    font-family: Gotham Light;
+    font-family: Gotham, sans-serif;
+    font-weight: 300;
     font-size: 1.4vw
 }
 
@@ -435,11 +440,12 @@ h5,
 h6 {
     color: white;
     font-size: 1.3vw;
-    font-family: "Gotham Light";
+    font-family: Gotham, sans-serif;
+    font-weight: 300;
 }
 
 .comp-section p {
-    font-family: "Gotham";
+    font-family: Gotham, sans-serif;
     color: white;
     font-size: 1.4vw;
 }
@@ -460,7 +466,7 @@ h6 {
 }
 
 .comp-section strong {
-    font-family: "Gotham"
+    font-family: Gotham, sans-serif;
 }
 
 
@@ -477,12 +483,14 @@ h6 {
 .why-section ul {
     color: white;
     display: block;
-    font-family: Gotham Italic;
+    font-family: Gotham, sans-serif;
+    font-style: italic;
     font-size: 4vw
 }
 
 .why-section ul {
-    font-family: Gotham Light;
+    font-family: Gotham, sans-serif;
+    font-weight: 300;
     font-size: 1.4vw
 }
 
@@ -493,11 +501,12 @@ h5,
 h6 {
     color: white;
     font-size: 1.3vw;
-    font-family: "Gotham Light";
+    font-family: Gotham, sans-serif;
+    font-weight: 300;
 }
 
 .why-section p {
-    font-family: "Gotham";
+    font-family: Gotham, sans-serif;
     color: white;
     font-size: 1.4vw;
 }
@@ -518,7 +527,7 @@ h6 {
 }
 
 .why-section strong {
-    font-family: "Gotham"
+    font-family: Gotham, sans-serif;
 }
 
 @media only screen and (min-width: 480px) {
@@ -565,7 +574,7 @@ h6 {
     border-bottom: 2px solid rgba(255, 255, 255, 0.8);
     padding-bottom: 5px;
     color: #0e1e58;
-    font-family: "Gotham";
+    font-family: Gotham, sans-serif;
 }
 
 #newsletter_section {
@@ -987,7 +996,7 @@ h6 {
 /* HEADER CSS */
 
 .navbar a {
-    font-family: "DIN Light";
+    font-family: Gotham, sans-serif;
 }
 
 .navbar {
@@ -1092,7 +1101,7 @@ h6 {
 
 .navbar-default .navbar-nav>li>a {
     color: rgba(255, 255, 255, 0.8);
-    font-family: "Gotham";
+    font-family: Gotham, sans-serif;
     letter-spacing: 0.08em;
     font-size: 0.6em;
 }
@@ -1613,7 +1622,7 @@ h6 {
     margin-bottom: 5px;
     font-size: 1em;
     color: white;
-    font-family: "Gotham";
+    font-family: Gotham, sans-serif;
 }
 
 .team-association,
@@ -1625,7 +1634,7 @@ h6 {
     font-weight: 800;
     text-transform: uppercase;
     letter-spacing: -0.2px;
-    font-family: "Gotham Regular";
+    font-family: Gotham, sans-serif;
 }
 
 .team-area {
@@ -1633,7 +1642,7 @@ h6 {
     color: #e4e4f0;
     font-size: 0.9em;
     text-align: center;
-    font-family: "Gotham Regular";
+    font-family: Gotham, sans-serif;
 }
 
 .team-row,
@@ -1644,7 +1653,7 @@ h6 {
 
 .team-row h2 {
     margin-bottom: 35px;
-    font-family: "Gotham";
+    font-family: Gotham, sans-serif;
     font-size: 3vw;
 }
 
@@ -1658,7 +1667,7 @@ h6 {
     text-align: justify;
     text-justify: inter-word;
     color: rgba(255, 255, 255, 0.9);
-    font-family: "Gotham Regular";
+    font-family: Gotham, sans-serif;
 }
 
 .team-expanded-name {
@@ -2020,13 +2029,13 @@ h6 {
 
 .registration-closed {
     font-weight: 900 !important;
-    font-family: 'Gotham', sans-serif;
+    font-family: Gotham, sans-serif;
     color: #81FFA3;
 }
 
 .register-button {
     padding: 12px 16px;
-    font-family: "Gotham", sans-serif;
+    font-family: Gotham, sans-serif;
 }
 
 .footer-title {
@@ -2138,7 +2147,7 @@ p {
         overflow: hidden;
         position: relative;
         text-align: center;
-        font-family: "Gotham", sans-serif;
+        font-family: Gotham, sans-serif;
     }
     #banner2 div.landing-box {
         float: left;
@@ -2167,7 +2176,7 @@ p {
         bottom: 10%;
         z-index: 2;
         width: 40%;
-        font-family: "Gotham", sans-serif;
+        font-family: Gotham, sans-serif;
     }
     .blob-img:hover img {
         opacity: 0;
@@ -2185,7 +2194,7 @@ p {
         position: absolute;
         left: 40%;
         bottom: 10%;
-        font-family: "Gotham", sans-serif;
+        font-family: Gotham, sans-serif;
     }
     .text p {
         color: white;
@@ -2200,13 +2209,14 @@ p {
         line-height: 90%;
     }
     #banner2 h2 {
-        font-family: "Gotham Italic";
+        font-family: Gotham, sans-serif;
+        font-style: italic;
         color: white;
         font-size: 5vw;
         line-height: 90%;
     }
     #banner2 h3 {
-        font-family: "Gotham Regular";
+        font-family: Gotham, sans-serif; 
         color: white;
         font-size: 1.7vw;
         line-height: 90%;
@@ -2242,7 +2252,7 @@ p {
         text-align: center;
         text-decoration: none;
         display: inline-block;
-        font-family: "Gotham", sans-serif;
+        font-family: Gotham, sans-serif;
         font-size: 16px;
         margin: 4px 2px;
         cursor: pointer;
@@ -2285,7 +2295,8 @@ p {
         font-size: 10vw
     }
     .why-section ul {
-        font-family: Gotham Light;
+        font-family: Gotham, sans-serif;
+        font-weight: 300;
         font-size: 4vw
     }
     .why-section h2,
@@ -2295,10 +2306,10 @@ p {
     h6 {
         color: white;
         font-size: 4vw;
-        font-family: "Gotham Light", sans-serif;
+        font-family: Gotham, sans-serif;
     }
     .why-section p {
-        font-family: "Gotham", sans-serif;
+        font-family: Gotham, sans-serif;
         color: white;
         font-size: 4vw;
     }
@@ -2316,7 +2327,8 @@ p {
     }
     #registration-section p {
         color: white;
-        font-family: Gotham Italic;
+        font-family: Gotham, sans-serif;
+        font-style: italic;
         font-size: 10vw
     }
     #footer p {
@@ -2327,7 +2339,7 @@ p {
         display: none;
     }
     .navbar li {
-        font-family: "Gotham", sans-serif;
+        font-family: Gotham, sans-serif;
         font-size: 5vw;
     }
     .brand2 {
