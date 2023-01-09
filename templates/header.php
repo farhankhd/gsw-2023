@@ -49,6 +49,7 @@ function auto_version($file)
 	<!-- inline css for countdown-->
 	<style>
 		.coming-soon {
+			min-height: 0;
 			display: flex;
 			
 			/*specify browser type to display flex*/
@@ -60,7 +61,7 @@ function auto_version($file)
 			
 			justify-content: center;
 			box-sizing: border-box; 
-			min-height: 100vh;
+			/*min-height: 100vh;*/
 		}
 		.container-day, .container-hour, .container-minute, .container-second {
 			margin:1%;
