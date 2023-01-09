@@ -52,10 +52,10 @@ function auto_version($file)
 			display: flex;
 			
 			/*specify browser type to display flex*/
-			display: -webkit-flex;      /* OLD - iOS 6-, Safari 3.1-6 */
-   			display: -moz-flex;         /* OLD - Firefox 19- (buggy but mostly works) */
-   			display: -ms-flex;      /* TWEENER - IE 10 */
-  			display: -webkit-flex;     /*CHROME*/
+			display: -webkit-;      /* OLD - iOS 6-, Safari 3.1-6 */
+   			display: -moz-;         /* OLD - Firefox 19- (buggy but mostly works) */
+   			display: -ms-;      /* TWEENER - IE 10 */
+  			display: -webkit-;     /*CHROME*/
 			
 			
 			justify-content: center;
