@@ -49,8 +49,8 @@ function auto_version($file)
 	<!-- inline css for countdown-->
 	<style>
 		.coming-soon {
-			display:flex;
-			justify-content:center;
+			display: flex;
+			justify-content: center;
 			box-sizing: border-box; 
 			min-height: 100vh;
 		}
