@@ -2015,13 +2015,13 @@ h6 {
 
 .registration-closed {
     font-weight: 900 !important;
-    font-family: 'Gotham';
+    font-family: 'Gotham', sans-serif;
     color: #81FFA3;
 }
 
 .register-button {
     padding: 12px 16px;
-    font-family: "Gotham";
+    font-family: "Gotham", sans-serif;
 }
 
 .footer-title {
@@ -2237,7 +2237,7 @@ p {
         text-align: center;
         text-decoration: none;
         display: inline-block;
-        font-family: "Gotham";
+        font-family: "Gotham", sans-serif;
         font-size: 16px;
         margin: 4px 2px;
         cursor: pointer;
@@ -2290,10 +2290,10 @@ p {
     h6 {
         color: white;
         font-size: 4vw;
-        font-family: "Gotham Light";
+        font-family: "Gotham Light", sans-serif;
     }
     .why-section p {
-        font-family: "Gotham";
+        font-family: "Gotham", sans-serif;
         color: white;
         font-size: 4vw;
     }
@@ -2322,7 +2322,7 @@ p {
         display: none;
     }
     .navbar li {
-        font-family: "Gotham" sans-serif;
+        font-family: "Gotham", sans-serif;
         font-size: 5vw;
     }
     .brand2 {
