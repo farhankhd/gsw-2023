@@ -89,13 +89,13 @@ function auto_version($file)
 		
 		<br> <br><br> <br><br> <br>
 	</div>
-	<!-- OLD CONTENT
+
 	<div class="brand-logo">
 		<h2 style="font-size: 2.5em"> Hosted By</h2>
 		<img src="images/logo/GSW_logo_white.png">
 	</div>
 
-
+	<!-- OLD CONTENT
 	
 	<div class="video-container">
         	<video type='video/mp4' preload="none" autoplay loop muted="muted" plays-inline="" src="http://gsw-2019.herokuapp.com/images/launch/Splash.mp4"></video>
