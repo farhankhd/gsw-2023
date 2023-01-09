@@ -91,7 +91,7 @@
 .button.style {
 	border: 4px solid rgb(226, 109, 54);
   	border-radius: 50px;
-  	color: #fff;
+  	color: rgb(226, 109, 54);
 }
 
 a:hover .button.style {
