@@ -1087,7 +1087,7 @@ h6 {
 
 .navbar-default .navbar-nav>li>a {
     color: rgba(255, 255, 255, 0.8);
-    font-family: "DIN";
+    font-family: "Gotham";
     letter-spacing: 0.08em;
     font-size: 0.6em;
 }
@@ -2322,7 +2322,7 @@ p {
         display: none;
     }
     .navbar li {
-        font-family: "Gotham";
+        font-family: "Gotham" sans-serif;
         font-size: 5vw;
     }
     .brand2 {
