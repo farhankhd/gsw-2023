@@ -90,6 +90,7 @@ function auto_version($file)
 		<br> <br><br> <br><br> <br>
 	</div>
 
+	<!-- this sets up the background image -->
 	<div class="brand-logo">
 		<h2 style="font-size: 2.5em"> Hosted By</h2>
 		<img src="images/logo/GSW_logo_white.png">
