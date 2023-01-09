@@ -2386,35 +2386,6 @@ p {
 
 
 
-/* LIVE COUNTDOWN CSS */
-.coming-soon {
-    min-height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-   
-}
-
-/*
-.countdown {
-    display: flex;
-    justify-content: space-around;
-    text-align: center;
-    margin-bottom: 40%;
-}
-*/
-
-.day,
-.hour,
-.minute,
-.second {
-    font-size: 3rem;
-}
-
-.waiting {
-    height: 50vh;
-}
 
 
 
