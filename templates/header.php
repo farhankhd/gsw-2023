@@ -60,9 +60,6 @@ function auto_version($file)
 		}
 		.day, .hour, .minute, .second {
 			font-size: 3rem;
-			opacity: .2;
-    			background-color: whitesmoke;
-    			color: black;
 		}
 		
 		
