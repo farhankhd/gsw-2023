@@ -2416,13 +2416,6 @@ p {
     height: 50vh;
 }
 
-@media only screen and (min-width: 480px) {
-    .coming-soon {
-        padding: 20px 15%;
-        font-size: 1em;
-    }
-}
-
 
 /*REGISTRATION BUTTON*/
 
