@@ -19,32 +19,51 @@ function auto_version($file)
 ?>
 
 <head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-130174054-2"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
 
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130174054-2"></script>
-    <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+	gtag('config', 'UA-130174054-2');
+	gtag('send', 'pageview');
+	</script>
 
-    gtag('config', 'UA-130174054-2');
-    gtag('send', 'pageview');
-    </script>
+	<meta charset="UTF-8">
+	<title><?= $pageTitle ?></title>
+	<link rel="shortcut icon" href="favicon.ico"/>
 
-    <meta charset="UTF-8">
-    <title><?= $pageTitle ?></title>
-    <link rel="shortcut icon" href="favicon.ico"/>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:200,400,400i,500,500i,600,700,800,900" rel="stylesheet">
+	<link rel="stylesheet" href="assets/css/style.css?v=1.1">
+	<link href="https://use.fontawesome.com/0b972b6cf8.css" media="all" rel="stylesheet">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
 
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:200,400,400i,500,500i,600,700,800,900" rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/style.css?v=1.1">
-    <link href="https://use.fontawesome.com/0b972b6cf8.css" media="all" rel="stylesheet">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
+	<script src="assets/js/jquery.min.js"></script>
+	<script src="assets/js/jquery.translate.js"></script>
+	<script src="assets/js/translate_page.js"></script>
 
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/jquery.translate.js"></script>
-    <script src="assets/js/translate_page.js"></script>
+
+	<!-- inline css for countdown-->
+	<style>
+		.coming-soon {
+			display:flex;
+			justify-content:center;
+			box-sizing: border-box; 
+			min-height: 100vh;
+		}
+		.container-day, .container-hour, .container-minute, .container-second {
+			margin:1%;
+			
+		}
+		.day, .hour, .minute, .second {
+			font-size: 3rem;
+		}
+		
+		
+	</style>
 </head>
 
 
@@ -64,24 +83,24 @@ function auto_version($file)
 			
 			<br>
 			
-			<div class='coming-soon' style='display:flex; justify-content:center; box-sizing: border-box; min-height: 100vh'>
-				<div class='container-day' style='margin:1%'>
-					<h3 class='day' style='font-size:3rem'>Time</h3>
+			<div class='coming-soon'>
+				<div class='container-day'>
+					<h3 class='day'>Time</h3>
 					<h3>Day</h3>
 				</div>
 
-				<div class='container-hour' style='margin:1%'>
-					<h3 class='hour' style='font-size:3rem'>Time</h3>
+				<div class='container-hour'>
+					<h3 class='hour' >Time</h3>
 					<h3>Hour</h3>
 				</div>
 
-				<div class='container-minute' style='margin:1%'>
-					<h3 class='minute' style='font-size:3rem'>Time</h3>
+				<div class='container-minute'>
+					<h3 class='minute'>Time</h3>
 					<h3>Minute</h3>
 				</div>
 
-				<div class='container-second' style='margin:1%'>
-					<h3 class='second' style='font-size:3rem'>Time</h3>
+				<div class='container-second'>
+					<h3 class='second'>Time</h3>
 					<h3>Second</h3>
 				</div>
 			</div>
