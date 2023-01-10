@@ -37,8 +37,7 @@
 	font-size: 12px;
 	position: relative;
 	margin: 5%;
-	top: 50%;
-	left: 50%;
+	
 	width: 90%;
 	-webkit-transform: translate(-50%, -50%);
 	-ms-transform: translate(-50%, -50%);
