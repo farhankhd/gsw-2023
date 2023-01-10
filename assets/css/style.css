@@ -1005,21 +1005,8 @@ h6 {
     /* width: 100%; */
     max-width: 100%;
     
-    /*background-image: url("../../images/launch/2023-gradient.png");*/
-    background: -moz-linear-gradient(to bottom right, rgba(243, 158, 33), rgba(226, 109, 54), rgba(174, 35, 93), rgba(86, 12, 129), rgba(0, 0, 108), rgba(41, 115, 232));
-    /* FF3.6+ */
-    background: -webkit-gradient(linear, left top, right bottom, rgba(243, 158, 33), rgba(226, 109, 54), rgba(174, 35, 93), rgba(86, 12, 129), rgba(0, 0, 108), rgba(41, 115, 232));
-    /* Chrome,Safari4+ */
-    background: -webkit-linear-gradient(to bottom right, rgba(243, 158, 33), rgba(226, 109, 54), rgba(174, 35, 93), rgba(86, 12, 129), rgba(0, 0, 108), rgba(41, 115, 232));
-    /* Chrome10+,Safari5.1+ */
-    background: -o-linear-gradient(to bottom right, rgba(243, 158, 33), rgba(226, 109, 54), rgba(174, 35, 93), rgba(86, 12, 129), rgba(0, 0, 108), rgba(41, 115, 232));
-    /* Opera 11.10+ */
-    background: -ms-linear-gradient(to bottom right, rgba(243, 158, 33), rgba(226, 109, 54), rgba(174, 35, 93), rgba(86, 12, 129), rgba(0, 0, 108), rgba(41, 115, 232));
-    /* IE10+ */
-    background: linear-gradient(to bottom right, rgba(243, 158, 33), rgba(226, 109, 54), rgba(174, 35, 93), rgba(86, 12, 129), rgba(0, 0, 108), rgba(41, 115, 232));
-    /* W3C */
-    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#a6000000', endColorstr='#00000000', GradientType=0);
-    /* IE6-9 */
+    background-image: url("../../images/launch/2023-gradient.png");
+
     
     /*
     background-image: url("../../images/launch/launch_background_short.png");
@@ -1037,7 +1024,7 @@ h6 {
     -webkit-mask-image: -o-linear-gradient(top, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0) 100%);
     -webkit-mask-image: -ms-linear-gradient(top, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0) 100%); */
     mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
-    /*filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#0a1c3f', endColorstr='#000000', GradientType=0);*/
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#0a1c3f', endColorstr='#000000', GradientType=0);
     border: none;
     height: 120px;
     padding: 20px;
@@ -1047,20 +1034,7 @@ h6 {
 
 .navbar-condensed {
     background-image: url("../../images/launch/2023-gradient.png");
-    background: -moz-linear-gradient(to bottom right, rgba(243, 158, 33), rgba(226, 109, 54), rgba(174, 35, 93), rgba(86, 12, 129), rgba(0, 0, 108), rgba(41, 115, 232));
-    /* FF3.6+ */
-    background: -webkit-gradient(linear, left top, right bottom, rgba(243, 158, 33), rgba(226, 109, 54), rgba(174, 35, 93), rgba(86, 12, 129), rgba(0, 0, 108), rgba(41, 115, 232));
-    /* Chrome,Safari4+ */
-    background: -webkit-linear-gradient(to bottom right, rgba(243, 158, 33), rgba(226, 109, 54), rgba(174, 35, 93), rgba(86, 12, 129), rgba(0, 0, 108), rgba(41, 115, 232));
-    /* Chrome10+,Safari5.1+ */
-    background: -o-linear-gradient(to bottom right, rgba(243, 158, 33), rgba(226, 109, 54), rgba(174, 35, 93), rgba(86, 12, 129), rgba(0, 0, 108), rgba(41, 115, 232));
-    /* Opera 11.10+ */
-    background: -ms-linear-gradient(to bottom right, rgba(243, 158, 33), rgba(226, 109, 54), rgba(174, 35, 93), rgba(86, 12, 129), rgba(0, 0, 108), rgba(41, 115, 232));
-    /* IE10+ */
-    background: linear-gradient(to bottom right, rgba(243, 158, 33), rgba(226, 109, 54), rgba(174, 35, 93), rgba(86, 12, 129), rgba(0, 0, 108), rgba(41, 115, 232));
-    /* W3C */
-    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#a6000000', endColorstr='#00000000', GradientType=0);
-    /* IE6-9 */
+    
     
     /* background: rgba(10, 28, 63, 1);
     background: -moz-linear-gradient(top, rgba(10, 28, 63, 1) 0%, rgba(5, 15, 33, 0.92) 48%, rgba(3, 8, 18, 0.88) 72%, rgba(0, 0, 0, 0.8) 100%);
