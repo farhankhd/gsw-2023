@@ -43,7 +43,7 @@
 
             <hr id="footer-hr">
 
-            <div class="row">
+            <div class="row footer">
                 <div class="col-md-offset-2 col-md-4">
                     <p class="footer-title">The Conference</p>
                     <a href="index.php">Home</a><br>
