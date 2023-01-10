@@ -335,7 +335,7 @@ a:focus {
     width: 100%;
     height: 100%;
     overflow: hidden;
-    background-image: url("../../images/launch/Athens-image.jpg");
+    background-image: linear-gradient(to bottom right, rgba(243, 158, 33), rgba(226, 109, 54), rgba(174, 35, 93), rgba(86, 12, 129), rgba(0, 0, 108), rgba(41, 115, 232)), url("../../images/launch/Athens-image.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -416,7 +416,7 @@ a:focus {
     font-size: 1em;
     /*background-image: url('../../images/launch/blob_05.png');*/
     background-repeat: no-repeat;
-    background-image: rgba(255, 255, 255, 0.5);
+    background-image: linear-gradient(to bottom right, rgba(243, 158, 33), rgba(226, 109, 54), rgba(174, 35, 93), rgba(86, 12, 129), rgba(0, 0, 108), rgba(41, 115, 232));
 }
 
 .comp-section h1,
