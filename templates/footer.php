@@ -1,3 +1,6 @@
+<head>
+    <link rel="stylesheet" href="assets/css/style.css?v=5"> <!--?v=1.1-->
+</head>
 <div id="footer">
     <br><br>
     <div class="row text-center" style='font-size: 15px'>
