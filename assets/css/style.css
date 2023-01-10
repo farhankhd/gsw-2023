@@ -1944,6 +1944,10 @@ h6 {
 
 /* FOOTER CSS */
 
+.footer {
+    font-family: Gotham, sans-serif;
+}
+
 #footer {
     margin-top: 50px;
     /* background-color: white; */
