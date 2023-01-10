@@ -36,6 +36,7 @@
     	color: white;
 	font-size: 12px;
 	position: relative;
+	margin: 5%;
 	top: 50%;
 	left: 50%;
 	width: 90%;
