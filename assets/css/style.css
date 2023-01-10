@@ -218,7 +218,8 @@ h6 {
 
 /* MAIN PAGE CSS */
 
-#registration-section p,
+#registration-
+p,
 h4 {
     text-transform: none !important;
 }
@@ -329,7 +330,7 @@ a:focus {
     height: 100%;
     overflow: hidden;
     
-    
+ 
     filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#a6000000', endColorstr='#00000000', GradientType=0);
     /* IE6-9 */
    
@@ -1147,9 +1148,15 @@ h6 {
     font-weight: 600;
 }
 
+
+/*ADJUST NAVBAR CONTENT ON MOBILE*/
+
 @media (max-width: 767px) {
     .navbar-nav .open .dropdown-menu {
         font-size: 0.7em;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
 }
 
