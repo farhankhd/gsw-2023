@@ -32,7 +32,7 @@
 	.container:hover .overlay {
 	  opacity: 1;
 	}
-    .text {
+    .team-bio {
     	color: white;
 	font-size: 12px;
 	position: relative;
@@ -75,7 +75,7 @@
 			<a href="https://www.linkedin.com/in/farhan-khodaee-62212242/">
 			<img class="team-picture" src="images/team/Farhan.jpg"></a>
 			<div class="overlay">
-				<div class="text">
+				<div class="team-bio">
 					Farhan is a PhD candidate in the Mechanical Engineering/Bioengineering program at MIT. 
 					Prior to graduate school, he worked in the medical device industry for several years in different sectors ranging from transfusion technology to diabetes and dental. 
 					Farhan is passionate about medical technology entrepreneurship, especially around creating novel drugs and therapeutic platforms. 
@@ -95,7 +95,7 @@
 			<a href="#teamAnnaeckhoff">
 			<img class="team-picture" src="images/team/Anna.jpg"></a>
 			<div class="overlay">
-				<div class="text">
+				<div class="team-bio">
 					Anna is a dual degree student currently working towards both a Masters in Business Administration at MIT Sloan School of Management and a Masters in Public Administration at the Harvard Kennedy School of Government. 
 					Prior to graduate school, Anna worked at Bain & Company and at The Nature Conservancy. 
 					Anna is passionate about social impact entrepreneurship, especially around sustainability and climate change resilience. 
@@ -114,7 +114,7 @@
 			<a href="#teamDanielaGorza">
 			<img class="team-picture" src="images/team/daniela.jpeg"></a>
 			<div class="overlay">
-				<div class="text">
+				<div class="team-bio">
 					Daniela Gorza is a Master of Business Administration (MBA) candidate at MIT Sloan School of Management, and is the President of the Italy Club at MIT Sloan. 
 					Prior to the MBA, she worked for several years at the World Bank Group and Inter-American Development Bank. 
 					She also has experience in Asia as a consultant to advise European and American businesses in their expansion into emerging Asian economies like Vietnam and China. 
@@ -138,7 +138,7 @@
 		<div class="team container col-sm-6 col-md-4"><a href="#teamTomLuly">
 			<img class="team-picture" src="images/team/Madi.jpg"></a>
 			<div class="overlay">
-				<div class="text">
+				<div class="team-bio">
 					Madison is a National Science Foundation Graduate Research Fellow in the Department of Mechanical Engineering at MIT. 
 				    	Her research is in product design and engineering for global development and global health applications, and she is currently incubating a medical device start-up in MIT’s Sandbox program. 
 				    	She has a BS in Mechanical Engineering and a Certificate in Engineering Design from Penn State, as well as a Certificate in Product Design from the National University of Singapore. 
@@ -156,7 +156,7 @@
 		<div class="team container col-sm-6 col-md-4"><a href="#teamLenaDownes">
 			<img class="team-picture" src="images/team/Jenny.jpg"></a>
 			<div class="overlay">
-				<div class="text">
+				<div class="team-bio">
 					Jenny is a Masters in Business Administration (MBA) candidate at MIT Sloan School of Management. 
 					She operates at the intersection of business and human-centered design, and focuses on reimagining business challenges through incorporating design principles. 
 					At MIT, she is a Vice President of the Entrepreneurship Club. 
@@ -175,7 +175,7 @@
        		<div class="team container col-sm-6 col-md-4"><a href="#teamZoeWolszon">
 			<img class="team-picture" src="images/team/Pooja.jpg"></a>
 			<div class="overlay">
-				<div class="text">
+				<div class="team-bio">
 					Pooja is a Masters of Business Administration (MBA) candidate at MIT Sloan School of Management. 
 					At MIT, she is a Senior Vice President of the Sloan Entrepreneurship Club and of the Sloan Healthcare Club. 
 					Prior to graduate school, Pooja worked in management consulting focused on biotechnology and healthcare. 
@@ -199,7 +199,7 @@
 		<div class="team container col-sm-6 col-md-6"><a href="#teamJoaquinRichards">
 			<img class="team-picture" src="images/team/Vineet.jpg"></a>
 			<div class="overlay">
-				<div class="text">
+				<div class="team-bio">
 					Vineet is a PhD candidate in the Computational Science & Engineering program. 
 					He conducts research in the Active-Adaptive Control Lab in the Mechanical Engineering department - applying tools from optimization, control theory, and machine learning to model smart grids & transportation networks. 
 					Prior to MIT, Vineet completed an MPhil in Energy Technologies at the University of Cambridge as a Gates Scholar and received his undergraduate degree in Mechanical Engineering & Economics from UC Berkeley. 
@@ -218,7 +218,7 @@
         	<div class="team container col-sm-6 col-md-6"><a href="#teamMayaNasr">
             		<img class="team-picture" src="images/team/Katie.JPG"></a>
 			<div class="overlay">
-				<div class="text">
+				<div class="team-bio">
 					Katie's Bio Coming Soon!
 				</div>
 			</div>
@@ -234,7 +234,7 @@
 		<div class="team container col-sm-6 col-md-4"><a href="#teamSarahCen">
 			<img class="team-picture" src="images/team/Tiasa.jpg"></a>
 			<div class="overlay">
-				<div class="text">
+				<div class="team-bio">
 					Tiasa is a recent graduate from Wellesley College, earning a Bachelor's of Arts (B.A.) in Computer Science. 
 					Beyond her time at Wellesley, she has been extensively involved in the MIT community as a cross-registered student in the Departments of Electrical Engineering & Computer Science, Urban Studies & Planning, and Integrated Design & Management. 
 					She is also an Online Course Developer for MIT Energy Initiative, iHQ Innovation Ambassador, and Gordon Engineering Leader. 
@@ -252,7 +252,7 @@
 		<div class="team container col-sm-6 col-md-4"><a href="#teamJennaAronson">
 			<img class="team-picture" src="images/team/Liv_J.jpg"></a>
 			<div class="overlay">
-				<div class="text">
+				<div class="team-bio">
 					Olivia is a Masters of Business Administration (MBA) candidate at MIT Sloan School of Management. 
 					She is a Co-lead of the Food & Agriculture Club and is involved in the sustainability ecosystem at MIT. 
 					Prior to graduate school, Olivia worked as a Management Consultant at Accenture, focusing on regulatory change management and risk mitigation within financial services. 
@@ -271,7 +271,7 @@
 		<div class="team container col-sm-6 col-md-4"><a href="#teamSheaLombardo">
 	    		<img class="team-picture" src="images/team/Shea.jpg"></a>
 			<div class="overlay">
-				<div class="text">
+				<div class="team-bio">
 					Dominic's Bio Coming Soon!
 				</div>
 			</div>
@@ -287,7 +287,7 @@
 		<div class="team container col-sm-6 col-md-6"><a href="#teamJoaquinRichards">
 			<img class="team-picture" src="images/team/Layla.jpg"></a>
 			<div class="overlay">
-				<div class="text">
+				<div class="team-bio">
 					Layla is a Masters of Science (S.M.) in Technology and Policy candidate at MIT Schwarzman College of Computing. 
 					Aside from being a part of GSW, she is a Wellness Ambassador for the Office of Student Wellbeing at MIT, Associate Editor for the MIT Science Policy Review and Treasurer for the Persian Student Association at MIT. 
 					She is passionate about Worker Health and Safety, Ergonomics, and AI policy. 
@@ -305,7 +305,7 @@
         	<div class="team container col-sm-6 col-md-6"><a href="#teamMayaNasr">
             		<img class="team-picture" src="images/team/Prem.jpg"></a>
 			<div class="overlay">
-				<div class="text">
+				<div class="team-bio">
 					Prem's Bio Coming Soon!
 				</div>
 			</div>
@@ -321,7 +321,7 @@
 		<div class="team container col-sm-6 col-md-4"><a href="#teamTomLuly">
 			<img class="team-picture" src="images/team/Rishabh.jpg"></a>
 			<div class="overlay">
-				<div class="text">
+				<div class="team-bio">
 					Rishabh is a Masters of Business Administration (MBA) candidate at MIT Sloan School of Management and SVP of the Product Management Club. 
 					Prior to school, Rishabh worked as a Program Manager scaling early-stage startups at a Google for Startups hub in Dubai. 
 					Previously he also helped set up the Family Business Consulting practice at PwC India. 
@@ -339,7 +339,7 @@
 		<div class="team container col-sm-6 col-md-4"><a href="#teamLenaDownes">
 			<img class="team-picture" src="images/team/Olivia_G.jpg"></a>
 			<div class="overlay">
-				<div class="text">
+				<div class="team-bio">
 					Olivia's Bio Coming Soon!
 				</div>
 			</div>
@@ -350,7 +350,7 @@
        		<div class="team container col-sm-6 col-md-4"><a href="#teamZoeWolszon">
 			<img class="team-picture" src="images/team/Noah.jpg"></a>
 			<div class="overlay">
-				<div class="text">
+				<div class="team-bio">
 					Noah is a Masters in Business Administration (MBA) candidate at MIT Sloan School of Management. 
 					At MIT, he is on the organizing committee for the 100K Startup Competition and is also working on a fintech analytics startup. 
 					Prior to graduate school, Noah worked at Elliott Management, a multi-strategy hedge fund, where he covered the global oil market for the commodities group. 
