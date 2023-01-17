@@ -240,8 +240,8 @@
 				<div class="overlay">
 					<div class="team-bio">
 						Tiasa is a recent graduate from Wellesley College, earning a Bachelor's of Arts (B.A.) in Computer Science. 
-						Beyond her time at Wellesley, she has been extensively involved in the MIT community as a cross-registered student in the Departments of Electrical Engineering & Computer Science, Urban Studies & Planning, and Integrated Design & Management. 
-						She is also an Online Course Developer for MIT Energy Initiative, iHQ Innovation Ambassador, and Gordon Engineering Leader. 
+						Beyond her time at Wellesley, she has been extensively involved in the MIT community working for MIT Energy Initiative 
+						and as a cross-registered student in the Departments of Electrical Engineering & Computer Science, Urban Studies & Planning, Integrated Design & Management, and Gordon-Engineering Leadership program. 
 						Her professional interest lies in the urban mobility / sustainable transportation and entrepreneurship space. 
 						Aside from school, Tiasa enjoys solo traveling, dancing, fitness, and visiting local cafes. 
 					</div>
