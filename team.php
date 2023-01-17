@@ -135,6 +135,45 @@
 	<div class="section-header section-header-page" style="color: white">Organizing Team</div>
 	<div class="team-row text-center">
 		<div class="row">
+			<div class="team container col-sm-6 col-md-6"><a href="#teamJoaquinRichards">
+				<img class="team-picture" src="images/team/Vineet.jpg"></a>
+				<div class="overlay">
+					<div class="team-bio">
+						Vineet is a PhD candidate in the Computational Science & Engineering program. 
+						He conducts research in the Active-Adaptive Control Lab in the Mechanical Engineering department - applying tools from optimization, control theory, and machine learning to model smart grids & transportation networks. 
+						Prior to MIT, Vineet completed an MPhil in Energy Technologies at the University of Cambridge as a Gates Scholar and received his undergraduate degree in Mechanical Engineering & Economics from UC Berkeley. 
+						Outside GSW, he is currently a Co-President of the MIT Energy & Climate Club and previously served as Co-Managing Director for the 2022 MIT Energy Conference. 
+						In addition to research, he has industry experience through internships at Siemens, NREL, Avangrid and Applied Materials. 
+						In his spare time, he enjoys hiking, tennis, working out and singing.
+						<br>
+						<br>
+						<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/nairvineet9/');" title="Team | MIT Global Startup Workshop 2023">in</div>
+					</div>
+				</div>
+				<div class="team-name">Vineet Jagadesan Nair</div>
+				<div class="team-role">Operations Team - Internal Operations Lead</div>
+				<div class="team-area">MIT MechE</div>
+			</div>
+			<div class="team container col-sm-6 col-md-6"><a href="#teamMayaNasr">
+				<img class="team-picture" src="images/team/Katie.JPG"></a>
+				<div class="overlay">
+					<div class="team-bio">
+						Katie is a graduate student at the Integrated Design and Management program, working towards an Engineering Management degree. 
+						Her focus is on human-centered product design and development. Prior to MIT, Katie worked as a hardware product manager at Microsoft. 
+						Outside GSW, she is a Sloan Senator and is on the Graduate Student Council. 
+						In her spare time, she enjoys going on photo walks, hiking and yoga. 
+
+					</div>
+				</div>
+				<div class="team-name">Katie Chen</div>
+				<div class="team-role">Operations Team - External Operations Lead</div>
+				<div class="team-area">MIT IDM</div>
+			</div>
+		</div>
+		
+		<br>
+		
+		<div class="row">
 			<div class="team container col-sm-6 col-md-4"><a href="#teamTomLuly">
 				<img class="team-picture" src="images/team/Madi.jpg"></a>
 				<div class="overlay">
@@ -191,51 +230,12 @@
 				<div class="team-role">Content Team - Co-Speakers Lead</div>
 				<div class="team-area">MIT MBA '23</div>
 			</div>
-			</div>
-
-			<br>
-
-			<div class="row">
-			<div class="team container col-sm-6 col-md-6"><a href="#teamJoaquinRichards">
-				<img class="team-picture" src="images/team/Vineet.jpg"></a>
-				<div class="overlay">
-					<div class="team-bio">
-						Vineet is a PhD candidate in the Computational Science & Engineering program. 
-						He conducts research in the Active-Adaptive Control Lab in the Mechanical Engineering department - applying tools from optimization, control theory, and machine learning to model smart grids & transportation networks. 
-						Prior to MIT, Vineet completed an MPhil in Energy Technologies at the University of Cambridge as a Gates Scholar and received his undergraduate degree in Mechanical Engineering & Economics from UC Berkeley. 
-						Outside GSW, he is currently a Co-President of the MIT Energy & Climate Club and previously served as Co-Managing Director for the 2022 MIT Energy Conference. 
-						In addition to research, he has industry experience through internships at Siemens, NREL, Avangrid and Applied Materials. 
-						In his spare time, he enjoys hiking, tennis, working out and singing.
-						<br>
-						<br>
-						<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/nairvineet9/');" title="Team | MIT Global Startup Workshop 2023">in</div>
-					</div>
-				</div>
-				<div class="team-name">Vineet Jagadesan Nair</div>
-				<div class="team-role">Operations Team - Internal Operations Lead</div>
-				<div class="team-area">MIT MechE</div>
-			</div>
-			<div class="team container col-sm-6 col-md-6"><a href="#teamMayaNasr">
-				<img class="team-picture" src="images/team/Katie.JPG"></a>
-				<div class="overlay">
-					<div class="team-bio">
-						Katie is a graduate student at the Integrated Design and Management program, working towards an Engineering Management degree. 
-						Her focus is on human-centered product design and development. Prior to MIT, Katie worked as a hardware product manager at Microsoft. 
-						Outside GSW, she is a Sloan Senator and is on the Graduate Student Council. 
-						In her spare time, she enjoys going on photo walks, hiking and yoga. 
-
-					</div>
-				</div>
-				<div class="team-name">Katie Chen</div>
-				<div class="team-role">Operations Team - External Operations Lead</div>
-				<div class="team-area">MIT IDM</div>
-			</div>
 		</div>
-		
+
 		<br>
 		
 		<div class="row">
-			<div class="team container col-sm-6 col-md-4"><a href="#teamSarahCen">
+			<div class="team container col-sm-6 col-md-6"><a href="#teamSarahCen">
 				<img class="team-picture" src="images/team/Tiasa.jpg"></a>
 				<div class="overlay">
 					<div class="team-bio">
@@ -253,7 +253,7 @@
 				<div class="team-role">Marketing Team - Media Lead</div>
 				<div class="team-area">Wellesley College, B.A. Computer Science '23</div>
 			</div>
-			<div class="team container col-sm-6 col-md-4"><a href="#teamJennaAronson">
+			<div class="team container col-sm-6 col-md-6"><a href="#teamJennaAronson">
 				<img class="team-picture" src="images/team/Liv_J.jpg"></a>
 				<div class="overlay">
 					<div class="team-bio">
@@ -272,52 +272,7 @@
 				<div class="team-role">Marketing Team - Content Lead</div>
 				<div class="team-area">MIT MBA '24</div>
 			</div>  
-			<div class="team container col-sm-6 col-md-4"><a href="#teamSheaLombardo">
-				<img class="team-picture" src="images/team/Shea.jpg"></a>
-				<div class="overlay">
-					<div class="team-bio">
-						Dominic's Bio Coming Soon!
-					</div>
-				</div>
-				<div class="team-name">Dominic Co</div>
-				<div class="team-role">Marketing Team - Design Lead</div>
-				<div class="team-area">MIT Architecture Design & EECS</div>
-			</div>
     		</div>
-		
-		<br>
-	   
-        	<div class="row">
-			<div class="team container col-sm-6 col-md-6"><a href="#teamJoaquinRichards">
-				<img class="team-picture" src="images/team/Layla.jpg"></a>
-				<div class="overlay">
-					<div class="team-bio">
-						Layla is a Masters of Science (S.M.) in Technology and Policy candidate at MIT Schwarzman College of Computing. 
-						Aside from being a part of GSW, she is a Wellness Ambassador for the Office of Student Wellbeing at MIT, Associate Editor for the MIT Science Policy Review and Treasurer for the Persian Student Association at MIT. 
-						She is passionate about Worker Health and Safety, Ergonomics, and AI policy. 
-						Before MIT, she completed her degree in Industrial and Systems Engineering from Auburn University. 
-						Outside of school, she enjoys drawing portraits, watching documentaries and learning languages.
-						<br>
-						<br>
-						<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/layla-arai');" title="Team | MIT Global Startup Workshop 2023">in</div>
-					</div>
-				</div>
-				<div class="team-name">Layla Araiinejad</div>
-				<div class="team-role">Community Engagement Lead</div>
-				<div class="team-area">MIT TPP</div>
-			</div>
-			<div class="team container col-sm-6 col-md-6"><a href="#teamMayaNasr">
-				<img class="team-picture" src="images/team/Prem.jpg"></a>
-				<div class="overlay">
-					<div class="team-bio">
-						Prem's Bio Coming Soon!
-					</div>
-				</div>
-				<div class="team-name">Prem</div>
-				<div class="team-role">Community Impact Lead</div>
-				<div class="team-area">MIT</div>
-			</div>
-		</div>
 		
 		<br>
 		
@@ -367,6 +322,41 @@
 				<div class="team-area">MIT MBA '24</div>
 			</div>
         	</div>
+		
+		<br>
+		
+		<div class="row">
+			<div class="team container col-sm-6 col-md-6"><a href="#teamJoaquinRichards">
+				<img class="team-picture" src="images/team/Layla.jpg"></a>
+				<div class="overlay">
+					<div class="team-bio">
+						Layla is a Masters of Science (S.M.) in Technology and Policy candidate at MIT Schwarzman College of Computing. 
+						Aside from being a part of GSW, she is a Wellness Ambassador for the Office of Student Wellbeing at MIT, Associate Editor for the MIT Science Policy Review and Treasurer for the Persian Student Association at MIT. 
+						She is passionate about Worker Health and Safety, Ergonomics, and AI policy. 
+						Before MIT, she completed her degree in Industrial and Systems Engineering from Auburn University. 
+						Outside of school, she enjoys drawing portraits, watching documentaries and learning languages.
+						<br>
+						<br>
+						<div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/layla-arai');" title="Team | MIT Global Startup Workshop 2023">in</div>
+					</div>
+				</div>
+				<div class="team-name">Layla Araiinejad</div>
+				<div class="team-role">Community Engagement Lead</div>
+				<div class="team-area">MIT TPP</div>
+			</div>
+			<div class="team container col-sm-6 col-md-6"><a href="#teamMayaNasr">
+				<img class="team-picture" src="images/team/Prem.jpg"></a>
+				<div class="overlay">
+					<div class="team-bio">
+						Prem's Bio Coming Soon!
+					</div>
+				</div>
+				<div class="team-name">Prem</div>
+				<div class="team-role">Community Impact Lead</div>
+				<div class="team-area">MIT</div>
+			</div>
+		</div>
+
 	</div>
 		
 	<div class="section-header section-header-page" style="color: white">Advisory Board</div>
