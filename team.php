@@ -212,18 +212,22 @@
 					</div>
 				</div>
 				<div class="team-name">Vineet Jagadesan Nair</div>
-				<div class="team-role">Operations Team - Internal Relations</div>
+				<div class="team-role">Operations Team - Internal Operations Lead</div>
 				<div class="team-area">MIT MechE</div>
 			</div>
 			<div class="team container col-sm-6 col-md-6"><a href="#teamMayaNasr">
 				<img class="team-picture" src="images/team/Katie.JPG"></a>
 				<div class="overlay">
 					<div class="team-bio">
-						Katie's Bio Coming Soon!
+						Katie is a graduate student at the Integrated Design and Management program, working towards an Engineering Management degree. 
+						Her focus is on human-centered product design and development. Prior to MIT, Katie worked as a hardware product manager at Microsoft. 
+						Outside GSW, she is a Sloan Senator and is on the Graduate Student Council. 
+						In her spare time, she enjoys going on photo walks, hiking and yoga. 
+
 					</div>
 				</div>
 				<div class="team-name">Katie Chen</div>
-				<div class="team-role">Operations Team - External Relations</div>
+				<div class="team-role">Operations Team - External Operations Lead</div>
 				<div class="team-area">MIT IDM</div>
 			</div>
 		</div>
