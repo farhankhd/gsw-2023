@@ -212,7 +212,7 @@
 				<div class="team-area">MIT MBA '24</div>
 			</div>
 			<div class="team container col-sm-6 col-md-4"><a href="#teamZoeWolszon">
-				<img class="team-picture" src="images/team/Pooja.jpg"></a>
+				<img class="team-picture" src="images/team/pooja.jpeg"></a>
 				<div class="overlay">
 					<div class="team-bio">
 						Pooja is a Masters of Business Administration (MBA) candidate at MIT Sloan School of Management. 
