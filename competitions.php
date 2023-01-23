@@ -49,7 +49,7 @@
 	    }
 	   
 	    .collapsible {
-		    background-color: #008CBA;
+		    color: rgb(226, 109, 54);
 		    color: white;
 		    cursor: pointer;
 		    padding: 18px;
@@ -58,6 +58,16 @@
 		    text-align: left;
 		    outline: none;
 		    font-size: 15px;
+	    }
+	    .collapsible:after {
+		    content: '\002B';
+		    color: white;
+		    font-weight: bold;
+		    float: right;
+		    margin-left: 5px;
+	    }
+	    .active:after {
+		    content: "\2212";
 	    }
 
 
