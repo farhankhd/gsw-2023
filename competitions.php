@@ -84,6 +84,13 @@
 	    .active:after {
 		    content: "\2212";
 	    }
+	    .content {
+		  padding: 0 18px;
+		  max-height: 0;
+		  overflow: hidden;
+		  transition: max-height 0.2s ease-out;
+		  background-color: #f1f1f1;
+	    }
 
 
 	@media all and (max-width: 768px) and (orientation: portrait) {
