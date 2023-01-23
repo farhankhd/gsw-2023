@@ -62,7 +62,7 @@
 		    font-size: 15px;
 	    }
 	    .active, .collapsible:hover {
-		    background-color; rgb(226, 109, 54);
+		    background-color: rgb(226, 109, 54);
 	    }
 	    .collapsible:after {
 		    content: '\002B';
