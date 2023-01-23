@@ -140,7 +140,10 @@ a:hover .button.style {
             <div style="color:white;" class="trn">Teams must meet all the following requirements to be eligible to compete in the Startup Pitch Competition.</div>
             
             <br>
-            
+		<button id='collapse' class="collapsible">Applicant Eligibility</button>
+            	<div class="content">
+                	<p>Anyone from any discipline and from any organization, including colleges and universities, government laboratories, research institutions, non-profit organizations, and for-profit companies.</p>
+            	</div>
             <ul>
                 <li style="color:white;" class="trn"><strong class="trn">Applicant Eligibility: </strong>Anyone from any discipline and from any organization, including colleges and universities, government laboratories, research institutions, non-profit organizations, and for-profit companies.</li>
                 
