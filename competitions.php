@@ -50,7 +50,8 @@
 	    }
 	   
 	    .collapsible {
-		    background-color: rgb(226, 109, 54);
+		    background-color: #EB966E;
+		    
 		    color: white;
 		    cursor: pointer;
 		    padding: 18px;
@@ -59,6 +60,9 @@
 		    text-align: left;
 		    outline: none;
 		    font-size: 15px;
+	    }
+	    .collapsible:hover {
+		    background-color; rgb(226, 109, 54);
 	    }
 	    .collapsible:after {
 		    content: '\002B';
