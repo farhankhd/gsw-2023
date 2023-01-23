@@ -16,39 +16,49 @@
     </script>
     
     <style>
-
-    .overlay {
-  	position: absolute;
-  	top: 0;
-	bottom: 0;
-	left: 0;
-	right: 0;
-	height: 100%;
-	width: 100%;
-	opacity: 0;
-	transition: .5s ease;
-	background-color: #008CBA;
-	}
-	.container:hover .overlay {
-	  opacity: 1;
-	}
-    .text {
-    	color: white;
-	font-size: 12px;
-	position: relative;
-	top: 50%;
-	left: 50%;
-	width: 90%;
-	-webkit-transform: translate(-50%, -50%);
-	-ms-transform: translate(-50%, -50%);
-	transform: translate(-50%, -50%);
-	text-align: center;
-     }
-	    
+	    .overlay {
+		    position: absolute;
+		    top: 0;
+		    bottom: 0;
+		    left: 0;
+		    right: 0;
+		    height: 100%;
+		    width: 100%;
+		    opacity: 0;
+		    transition: .5s ease;
+		    background-color: #008CBA;
+	    }
+	    .container:hover .overlay {
+		    opacity: 1;
+	    }
+	    .text {
+		    color: white;
+		    font-size: 12px;
+		    position: relative;
+		    top: 50%;
+		    left: 50%;
+		    width: 90%;
+		    -webkit-transform: translate(-50%, -50%);
+		    -ms-transform: translate(-50%, -50%);
+		    transform: translate(-50%, -50%);
+		    text-align: center;
+	    }
 	    
 	    a {
-  text-decoration: none;
-}
+	    	text-decoration: none;
+	    }
+	   
+	    .collapsible {
+		    background-color: #008CBA;
+		    color: white;
+		    cursor: pointer;
+		    padding: 18px;
+		    width: 100%;
+		    border: none;
+		    text-align: left;
+		    outline: none;
+		    font-size: 15px;
+	    }
 
 
 @media all and (max-width: 768px) and (orientation: portrait) {
