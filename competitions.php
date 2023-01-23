@@ -119,6 +119,20 @@ a:hover .button.style {
    	 </div>
 
 	<br>
+	
+	<div class="section-header section-header-page" style="color: white">Prizes</div><div class="comp-section">
+   	<div class="row">
+		<div class="col-xs-12">
+			<ul>
+				<li style="color:white;" class="trn"><strong class="trn">1st Place - $5,000 cash prize, paid trip to Boston (airfare and hotel up to $5,000) with pre-planned itinerary connecting the team with Boston and MIT entrepreneurship resources such as Martin Trust Center, MIT Media Lab, etc., dedicated Venture Mentoring Services support</li>
+
+				<li style="color:white;" class="trn"><strong class="trn">2nd Place - $3,000 cash prize, dedicated Venture Mentoring Services support specialized to team needs</li>
+				<li style="color:white;" class="trn"><strong class="trn">3rd Place (Audience Choice) - $1,500 cash prize</li>
+			</ul>
+		</div>
+	</div>
+					
+			
     
     <div class="section-header section-header-page" style="color: white">Eligibility Criteria</div><div class="comp-section">
     <div class="row">
