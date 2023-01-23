@@ -49,7 +49,7 @@
 	    }
 	   
 	    .collapsible {
-		    color: rgb(226, 109, 54);
+		    background-color: rgb(226, 109, 54);
 		    color: white;
 		    cursor: pointer;
 		    padding: 18px;
@@ -71,54 +71,54 @@
 	    }
 
 
-@media all and (max-width: 768px) and (orientation: portrait) {
-  .button {
-    width: 100%;
-  }
-}
+	@media all and (max-width: 768px) and (orientation: portrait) {
+	  .button {
+	    width: 100%;
+	  }
+	}
 
-/* *** buttons *** */
+	/* *** buttons *** */
 
-.button {
+	.button {
 
-  width: calc(90% - 8px);
-	width: -o-calc(90% - 8px);
-	width: -moz-calc(90% - 8px);
-	width: -webkit-calc(90% - 8px);
-	width: expression(90% - 8px);
-  height: auto;
-  padding: 20px 0px 20px 0px;
-  margin: 10px auto;
-  cursor: pointer;
-  
-  font-family: "Helvetica";
-  font-size: 20px;
-  font-weight: 400;
-  text-transform: uppercase;
-  text-align: center;
-  
-  -o-transition:.25s;
-	-ms-transition:.25s;
-	-moz-transition:.25s;
-	-webkit-transition:.25s;
-	transition:.25s;
-  
-  width: 25%;
-  height: auto;
-  align-content: center;
-}
+	  width: calc(90% - 8px);
+		width: -o-calc(90% - 8px);
+		width: -moz-calc(90% - 8px);
+		width: -webkit-calc(90% - 8px);
+		width: expression(90% - 8px);
+	  height: auto;
+	  padding: 20px 0px 20px 0px;
+	  margin: 10px auto;
+	  cursor: pointer;
 
-.button.style {
-	border: 4px solid rgb(226, 109, 54);
-  	border-radius: 50px;
-  	color: rgb(226, 109, 54);
-}
+	  font-family: "Helvetica";
+	  font-size: 20px;
+	  font-weight: 400;
+	  text-transform: uppercase;
+	  text-align: center;
 
-a:hover .button.style {
-  background-color: rgb(226, 109, 54);
-  color: #fff;
-	
-}
+	  -o-transition:.25s;
+		-ms-transition:.25s;
+		-moz-transition:.25s;
+		-webkit-transition:.25s;
+		transition:.25s;
+
+	  width: 25%;
+	  height: auto;
+	  align-content: center;
+	}
+
+	.button.style {
+		border: 4px solid rgb(226, 109, 54);
+		border-radius: 50px;
+		color: rgb(226, 109, 54);
+	}
+
+	a:hover .button.style {
+	  background-color: rgb(226, 109, 54);
+	  color: #fff;
+
+	}
 
 
     </style>
