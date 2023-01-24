@@ -152,6 +152,10 @@
    	 </div>
 
 	<br>
+	<a href="https://docs.google.com/forms/d/e/1FAIpQLScGcvXe5ioa0kCA6X9UsN-wxMntEF_qolskXs7sgE_3z3AYnA/viewform?usp=sf_link"><!-- link in here -->
+    		<div class="button style">Apply Now </div>
+  	</a>
+	<br>
 	
 	<div class="section-header section-header-page" style="color: white">Prizes</div><div class="comp-section">
    	<div class="row">
@@ -219,13 +223,6 @@
         	</div>
 	</div>
 	</div>
-	<br>
-
- <a href="https://docs.google.com/forms/d/e/1FAIpQLScGcvXe5ioa0kCA6X9UsN-wxMntEF_qolskXs7sgE_3z3AYnA/viewform?usp=sf_link"><!-- link in here -->
-    <div class="button style">Apply Now 
-    </div>
-  </a>
-
 	<br>
  
 <div class="section">
