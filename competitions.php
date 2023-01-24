@@ -153,7 +153,7 @@
 		Are you an entrepreneur trying to take your startup to the next level? The MIT GSW Startup Pitch Competition is an opportunity for you to pitch your company and compete for a chance to win seed money to scale your startup.
    	 </div>
 	<br>
-	<div class="box row">
+	<div class="row">
 		<div class="col-xs-12">
 			Submissions will close on February 10th, 2023. Semifinalists will be invited to conduct a short 15 min interview with the competition evaluation team between February 13th, 2023, and February 19th, 2023. The final competition will be held on March 31st, 2023
 			Eligibility Criteria can be found below. If you have any questions, please email gsw_competitions@mit.edu
