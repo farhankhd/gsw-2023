@@ -2418,7 +2418,9 @@ p {
     text-decoration: none;
 }
 
-
+.box {
+    background-color: #fffff;
+}
 
 
 
