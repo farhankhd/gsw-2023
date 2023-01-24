@@ -161,6 +161,8 @@
 
 				<li style="color:white;" class="trn"><strong class="trn">2nd Place</strong> - $3,000 cash prize, dedicated Venture Mentoring Services support specialized to team needs</li>
 				<li style="color:white;" class="trn"><strong class="trn">3rd Place (Audience Choice)</strong> - $1,500 cash prize</li>
+				
+				All the teams that will be selected to present at GSW will be eligible to enter the next cycle of the MITGEF startup acceleration program that will run from Sept 2023 to Nov 2023
 			</ul>
 		</div>
 	</div>
