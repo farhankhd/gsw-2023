@@ -132,9 +132,7 @@
 
 	}
 	    
-	.box {
-		background-color: #fffff;
-	 }
+	
 
 
     </style>
