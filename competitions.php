@@ -131,6 +131,10 @@
 	  color: #fff;
 
 	}
+	    
+	.box {
+		background-color: #fffff;
+	 }
 
 
     </style>
@@ -150,6 +154,14 @@
 	<div style="color:white;">
 		Are you an entrepreneur trying to take your startup to the next level? The MIT GSW Startup Pitch Competition is an opportunity for you to pitch your company and compete for a chance to win seed money to scale your startup.
    	 </div>
+	<br>
+	<div class="box row">
+		<div class="col-xs-12">
+			Submissions will close on February 10th, 2023. Semifinalists will be invited to conduct a short 15 min interview with the competition evaluation team between February 13th, 2023, and February 19th, 2023. The final competition will be held on March 31st, 2023
+			Eligibility Criteria can be found below. If you have any questions, please email gsw_competitions@mit.edu
+		</div>
+	</div>
+	
 
 	<br>
 	<a href="https://docs.google.com/forms/d/e/1FAIpQLScGcvXe5ioa0kCA6X9UsN-wxMntEF_qolskXs7sgE_3z3AYnA/viewform?usp=sf_link"><!-- link in here -->
@@ -157,18 +169,18 @@
   	</a>
 	<br>
 	
-	<div class="section-header section-header-page" style="color: white">Prizes</div><div class="comp-section">
-   	<div class="row">
-		<div class="col-xs-12">
-			<ul>
-				<li style="color:white;" class="trn"><strong class="trn">1st Place</strong>- $5,000 cash prize, paid trip to Boston (airfare and hotel up to $5,000) with pre-planned itinerary connecting the team with Boston and MIT entrepreneurship resources such as Martin Trust Center, MIT Media Lab, etc., dedicated Venture Mentoring Services support</li>
+	<div class="section-header section-header-page" style="color: white">Prizes</div>
+	<div class="comp-section">
+		<div class="row">
+			<div class="col-xs-12">
+				<ul>
+					<li style="color:white;" class="trn"><strong class="trn">1st Place</strong>- $5,000 cash prize, paid trip to Boston (airfare and hotel up to $5,000) with pre-planned itinerary connecting the team with Boston and MIT entrepreneurship resources such as Martin Trust Center, MIT Media Lab, etc., dedicated Venture Mentoring Services support</li>
 
-				<li style="color:white;" class="trn"><strong class="trn">2nd Place</strong> - $3,000 cash prize, dedicated Venture Mentoring Services support specialized to team needs</li>
-				<li style="color:white;" class="trn"><strong class="trn">3rd Place (Audience Choice)</strong> - $1,500 cash prize</li>
-				<br>
-				All the teams that will be selected to present at GSW will be eligible to enter the next cycle of the MITGEF startup acceleration program that will run from Sept 2023 to Nov 2023
-			</ul>
-		</div>
+					<li style="color:white;" class="trn"><strong class="trn">2nd Place</strong> - $3,000 cash prize, dedicated Venture Mentoring Services support specialized to team needs</li>
+					<li style="color:white;" class="trn"><strong class="trn">3rd Place (Audience Choice)</strong> - $1,500 cash prize</li>
+					<li style="color:white;" class="trn">All the teams that will be selected to present at GSW will be eligible to enter the next cycle of the MITGEF startup acceleration program that will run from Sept 2023 to Nov 2023</li>
+				</ul>
+			</div>
 	</div>
 					
 			
