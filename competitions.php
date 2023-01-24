@@ -136,6 +136,7 @@
     </style>
 
 </head>
+<body>
 
 <div class="parallax-window header" data-parallax="scroll" style="background-image: url('images/dome.jpg');">
     <div class="header-overlay">
@@ -172,7 +173,7 @@
             <div style="color:white;" class="trn">Teams must meet all the following requirements to be eligible to compete in the Startup Pitch Competition.</div>
             
             <br>
-		<button id='collapse' class="collapsible">Applicant Eligibility</button>
+		<button class="collapsible">Applicant Eligibility</button>
             	<div class="content">
                 	<p>Anyone from any discipline and from any organization, including colleges and universities, government laboratories, research institutions, non-profit organizations, and for-profit companies.</p>
             	</div>
@@ -228,12 +229,25 @@
 <div class="section">
     <hr>
 </div>
+<script>
+	var coll = document.getElementsByClassName("collapsible");
+	var i;
 
+	for (i = 0; i < coll.length; i++) {
+	  coll[i].addEventListener("click", function() {
+	    this.classList.toggle("active");
+	    var content = this.nextElementSibling;
+	    if (content.style.maxHeight){
+	      content.style.maxHeight = null;
+	    } else {
+	      content.style.maxHeight = content.scrollHeight + "px";
+	    } 
+	  });
+	}
+</script>
+	
 
+</body>
 <?php
     include('templates/footer.php');
 ?>
-
-    
-    
-   >
