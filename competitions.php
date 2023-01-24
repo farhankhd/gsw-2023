@@ -173,7 +173,7 @@
             <div style="color:white;" class="trn">Teams must meet all the following requirements to be eligible to compete in the Startup Pitch Competition.</div>
             
             <br>
-		<button class="collapsible">Applicant Eligibility</button>
+		<button class="collapsible">Eligibility Criteria</button>
             	<div class="content">
                 	<ul>
 				<li style="color:white;" class="trn"><strong class="trn">Applicant Eligibility: </strong>Anyone from any discipline and from any organization, including colleges and universities, government laboratories, research institutions, non-profit organizations, and for-profit companies.</li>
