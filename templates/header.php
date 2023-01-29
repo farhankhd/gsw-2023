@@ -118,7 +118,13 @@ function auto_version($file)
             </div> 
 		</div>
 	</div>
+	<div class="video-container">
+		<video type='video/mp4' preload="none" autoplay loop muted="muted" plays-inline="" src="http://gsw-2019.herokuapp.com/images/launch/Splash.mp4"></video>
+	</div>
+
+	<div class="brand2"><p> </p></div>
 </div>	
+
 
 	
 <!--about us section:-->
