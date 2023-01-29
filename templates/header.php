@@ -79,54 +79,61 @@ function auto_version($file)
 
 <body>
 <!--gsw landing image; conference highlight-->
-<div data-parallax="scroll" class="parallax-window main-page-header"> 
-    <div class="brand">
-        <div class='container main'>
-            <div class="row">
-                <div class="col-7">
-                    <input type="image" src="./main-logo.png" alt="logo" width="500" height="675">
-                </div>
-                <div class="col" style="text-align: center; padding: 90px 0;">
-                    <h6>MIT GLOBAL STARTUP WORKSHOP</h6>
-                    <input type="image" src="images/GSW_logo_white.png" alt="logo" width="250" height="75">
-                    <h5>25TH ANNUAL CONFERENCE</h5>
-                    <h4><span style="color: #00c0f2">ATHENS</span>, GREECE</h4>
-                    <h4><span style="color: #00c0f2">MARCH 30-31</span>, 2023</h4>
-                </div>
-                
-                <div class='col coming-soon'>
-                    <div class='container-day'>
-                        <h3 class='day'>Time</h3>
-                        <h3>Day</h3>
-                    </div>
+<div data-parallax="scroll" class="parallax-window main-page-header" <!--style="display:inline-block;"-->> 
+	<div class="brand">
+		<img src="images/launch/gsw-heading.png"/>
+		<br> <br>
+        	<img src="images/launch/GSW_logo_white.png" />
+        	<div class='text-center'>
+           		<i><h1 style="font-size:48px">SAVE the DATE</h1></i>
+            		<i><h3>25th Annual Conference:</h3></i>
+			<i><h2>Athens, Greece</h2></i>
+			<i><h2>March 30-31, 2023</h2></i>
+			
+			<br>
+			
+			<div class='coming-soon'>
+				<div class='container-day'>
+					<h3 class='day'>Time</h3>
+					<h3>Day</h3>
+				</div>
 
-                    <div class='container-hour'>
-                        <h3 class='hour' >Time</h3>
-                        <h3>Hour</h3>
-                    </div>
+				<div class='container-hour'>
+					<h3 class='hour' >Time</h3>
+					<h3>Hour</h3>
+				</div>
 
-                    <div class='container-minute'>
-                        <h3 class='minute'>Time</h3>
-                        <h3>Minute</h3>
-                    </div>
+				<div class='container-minute'>
+					<h3 class='minute'>Time</h3>
+					<h3>Minute</h3>
+				</div>
 
-                    <div class='container-second'>
-                        <h3 class='second'>Time</h3>
-                        <h3>Second</h3>
-                    </div>
-                </div>
-            </div> 
+				<div class='container-second'>
+					<h3 class='second'>Time</h3>
+					<h3>Second</h3>
+				</div>
+			</div>
 		</div>
+		
+		<br> <br><br> <br><br> <br>
 	</div>
-	<div class="video-container">
-		<video type='video/mp4' preload="none" autoplay loop muted="muted" plays-inline="" src="http://gsw-2019.herokuapp.com/images/launch/Splash.mp4"></video>
-	</div>
 
-	<div class="brand2"><p> </p></div>
-</div>	
-
-
+	<!-- this sets up the background image -->
 	
+	
+	<!--
+	<div class="brand-logo">
+		<h2 style="font-size: 2.5em"> Hosted By</h2>
+		<img src="images/logo/GSW_logo_white.png">
+	</div>
+	-->
+	
+	<div class="video-container">
+        	<video type='video/mp4' preload="none" autoplay loop muted="muted" plays-inline="" src="http://gsw-2019.herokuapp.com/images/launch/Splash.mp4"></video>
+	</div>
+	
+	<div class="brand2"><p> </p></div>
+</div>
 <!--about us section:-->
 <div class="why-section">
     <div class="row">
