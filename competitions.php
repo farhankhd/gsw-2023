@@ -176,7 +176,7 @@
 					<li style="color:white;" class="trn"><strong class="trn">2nd Place</strong> - $3,000 cash prize, dedicated Venture Mentoring Services support specialized to team needs</li>
 					<li style="color:white;" class="trn"><strong class="trn">3rd Place (Audience Choice)</strong> - $1,500 cash prize</li>
 					<li style="color:white;" class="trn">All teams selected to present at GSW will be pre-qualified to enter the next MITEF Greece Acceleration program running from Sept 2023 to Nov 2023</li>
-					<li style="color:white;" class="trn">All teams selected to preseent at GSW will receive a booth during the conference's Tech Showcaase to demo their product/service</li>
+					<li style="color:white;" class="trn">All teams selected to present at GSW will receive a booth during the conference's Tech Showcaase to demo their product/service</li>
 						
 						
 				</ul>
