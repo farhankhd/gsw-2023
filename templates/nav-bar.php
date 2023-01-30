@@ -84,7 +84,7 @@
                             <div class="dropdown-divider"></div>
                             <a class="dropdown-item" href="mentors.php">Mentors</a>
                         </div>
-                    </li> -->
+                    </li>
                 </ul>
                 <ul class="nav navbar-nav navbar-right" id="navbarDropdown" >
                     <li class="nav-item dropdown">
