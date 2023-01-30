@@ -154,7 +154,10 @@
    	 </div>
 	<br>
 	<div style="color:white; border-style:solid; background-color: #EB966E; border-color: rgb(226, 109, 54); border-weight: 3px; padding-left: 20px; padding-right:20px;">
-		<p>Submissions will close on <strong class="trn">February 10th, 2023</strong>. Semifinalists will be invited to conduct a short 15 min interview with the competition evaluation team between February 13th, 2023, and February 19th, 2023. The final <strong class="trn">competition will be held on March 31st, 2023</strong>
+		<p>Submissions will be considered on a rolling basis until<strong class="trn">February 20th, 2023</strong>. Apply early before spots fill!
+		Semifinalists will be invited after their application has been reviewed. The final competition will be held on March 31st, 2023. 
+			
+		<br>
 		Eligibility Criteria can be found below. If you have any questions, please email gsw_competitions@mit.edu</p>
 	</div>
 
@@ -170,10 +173,12 @@
 			<div class="col-xs-12">
 				<ul>
 					<li style="color:white;" class="trn"><strong class="trn">1st Place</strong>- $5,000 cash prize, paid trip to Boston (airfare and hotel up to $5,000) with pre-planned itinerary connecting the team with Boston and MIT entrepreneurship resources such as Martin Trust Center, MIT Media Lab, etc., dedicated Venture Mentoring Services support</li>
-
 					<li style="color:white;" class="trn"><strong class="trn">2nd Place</strong> - $3,000 cash prize, dedicated Venture Mentoring Services support specialized to team needs</li>
 					<li style="color:white;" class="trn"><strong class="trn">3rd Place (Audience Choice)</strong> - $1,500 cash prize</li>
-					<li style="color:white;" class="trn">All the teams that will be selected to present at GSW will be eligible to enter the next cycle of the MITEF startup acceleration program that will run from Sept 2023 to Nov 2023</li>
+					<li style="color:white;" class="trn">All teams selected to present at GSW will be pre-qualified to enter the next MITEF Greece Acceleration program running from Sept 2023 to Nov 2023</li>
+					<li style="color:white;" class="trn">All teams selected to preseent at GSW will receive a booth during the conference's Tech Showcaase to demo their product/service</li>
+						
+						
 				</ul>
 			</div>
 	</div>
@@ -186,18 +191,18 @@
             <div style="color:white;" class="trn">Teams must meet all the following requirements to be eligible to compete in the Startup Pitch Competition.</div>
             
             <br>
-		<button class="collapsible">Eligibility Criteria</button>
+		<button class="collapsible">Additional Details</button>
             	<div class="content">
                 	<ul>
 				<li style="color:white;" class="trn"><strong class="trn">Applicant Eligibility: </strong>Anyone from any discipline and from any organization, including colleges and universities, government laboratories, research institutions, non-profit organizations, and for-profit companies.</li>
 
 				<li style="color:white;" class="trn"><strong class="trn">Stage Eligibility: </strong>Startups should have a beta product/service/prototype. Ideation startups are <strong>not eligible</strong> to compete.</li>
 
-				<li style="color:white;" class="trn"><strong class="trn">Prior Funding Limitations: </strong>Startups that have raised more than EUR 1,000,000 in equity capital from sources other than self-funding, friends, or family prior to March 2023 are <strong>not eligible</strong> to compete. Teams can engage in discussions to raise equity before the conference, but shouldn’t have officially raised more than the maximum amount before the conference. The EUR 1,000,000 limit applies to all dilutive funding sources such as but not limited to direct equity investments, SAFE, angel investments, professional investment, or from FF.</li>
+				<li style="color:white;" class="trn"><strong class="trn">Prior Funding Limitations: </strong>Startups that have raised more than EUR 1,000,000 in equity capital are <strong>not eligible</strong> to compete. Teams can engage in discussions to raise equity before the conference, but shouldn’t have officially raised more than the maximum amount before the conference. The EUR 1,000,000 limit applies to all dilutive funding sources such as but not limited to direct equity investments, SAFE, angel investments, professional investment, or from FF.</li>
 
 				<br> 
 
-				<div style="color:white;">In addition, the following funding sources do not contribute towards the EUR 1,000,000 limit: </div>
+				<div style="color:white;">In addition, the following funding sources do contribute towards the EUR 1,000,000 limit: </div>
 				    <ul>
 				    <li style="color:white;" class="trn"> Contributions from friends, family, and mentors</li>
 				    <li style="color:white;" class="trn"> Research and funding grants</li>
