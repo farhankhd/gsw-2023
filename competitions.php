@@ -154,10 +154,11 @@
    	 </div>
 	<br>
 	<div style="color:white; border-style:solid; background-color: #EB966E; border-color: rgb(226, 109, 54); border-weight: 3px; padding-left: 20px; padding-right:20px;">
-		<p>Submissions will be considered on a rolling basis until<strong class="trn">February 20th, 2023</strong>. Apply early before spots fill!
+		<p>Submissions will be considered on a rolling basis until <strong class="trn">February 20th, 2023</strong>. Apply early before spots fill!
+			<br>
 		Semifinalists will be invited after their application has been reviewed. The final competition will be held on March 31st, 2023. 
 			
-		<br>
+		<br><br>
 		Eligibility Criteria can be found below. If you have any questions, please email gsw_competitions@mit.edu</p>
 	</div>
 
