@@ -29,6 +29,7 @@
                 <div class="col-md-9"></div>
             </div> -->
 
+            <!---
             <div class="col-lg-12 comp-content" id="plenary-section-expanded">
                 <p class="section-header section-header-page" style="color: white">Plenary Speakers</p>
                 <div class="row speaker-expanded-bio">
@@ -36,6 +37,7 @@
                     <div class="col-md-9"></div>
                 </div>
             </div>
+            --->
 
             <div class="col-lg-12 comp-content" id="keynote-section-expanded">
                 <p class="section-header section-header-page" style="color: white">Keynotes</p>
