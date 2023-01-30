@@ -65,7 +65,7 @@
             <div class="collapse navbar-collapse navbar-mobile" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li><a href="index.php">Home<span class="sr-only">(current)</span></a></li>
-                    <li><a href="registration.php">Registration</a></li>
+                    <!--<li><a href="registration.php">Registration</a></li>-->
                     
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -102,14 +102,14 @@
                     </li> 
                 </ul>
                 <ul class="nav navbar-nav navbar-right" id="navbarDropdown" >
-                <a href="https://www.mit.edu"> 
-                    <img src="images/logo/mit-logo.png" id="navbar-logo-right">
-                </a>
+                    <a href="https://www.mit.edu"> 
+                        <img src="images/logo/mit-logo.png" id="navbar-logo-right">
+                    </a>
                 </ul>
             </div><!-- /.navbar-collapse -->                                                                                                      
         </div><!-- /.container-fluid -->
     </nav>
-
+</body.
 
 <?php
 $scripts = "
