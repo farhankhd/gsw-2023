@@ -55,12 +55,12 @@
         <div class="container-fluid">
             <!-- Brand and toggle grouped for better mobile display -->
             <div class="navbar-header">
-                <!-- <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
                     <span class="sr-only">Toggle navigation</span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
-                </button> -->
+                </button>
                 <a class="navbar-brand" href="index.php"><img src="images/logo/GSW_logo_white.png" id="navbar-logo"></a>
             </div>
 
@@ -68,21 +68,23 @@
             <div class="collapse navbar-collapse navbar-mobile" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li><a href="index.php">Home<span class="sr-only">(current)</span></a></li>
-                    <li><a href="agenda.php">Agenda</a></li>
-                    <li><a href="registration.php">Registration</a></li>
+                    <!--<li><a href="agenda.php">Agenda</a></li>-->
+                    <!--<li><a href="registration.php">Registration</a></li>-->
                     <li><a href="speakers.php">Speakers</a></li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             Competitions <span class="caret"></span>
                         </a>
                         <div id="competitionMenu" class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="startup-showcase.php">Startup <br />Showcase</a>
+                            <a class="dropdown-item" href="startup-showcase.php">Startup Pitch</a>
+                            <!--
                             <div class="dropdown-divider"></div>
                             <a class="dropdown-item" href="epc.php">Elevator Pitch <br /> Competition</a>
                             <div class="dropdown-divider"></div>
                             <a class="dropdown-item" href="bpc.php">Business Plan <br />Competition</a>
                             <div class="dropdown-divider"></div>
                             <a class="dropdown-item" href="mentors.php">Mentors</a>
+                            -->
                         </div>
                     </li>
                 </ul>
