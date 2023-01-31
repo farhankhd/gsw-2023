@@ -138,7 +138,7 @@
                     <div class="team-area"></div>
                 </div>
                 <div class="team container col-sm-6 col-md-4"><a href="https://www.linkedin.com/in/marinahatsopoulos/">
-                    <img class="team-picture" src="images/speaker/marina-hatsopoulous.jpeg"></a>
+                    <img class="team-picture" src="images/speaker/marina-hatsopoulos.jpeg"></a>
                     <div class="overlay">
                         <div class="team-bio">
                         CEO and an original investor in Z Corporation. 
@@ -306,7 +306,7 @@
                         </div>
                     </div>
                     <div class="team-name">Deeph Chana</div>
-                    <div class="team-role">Imperial Entreprenur Professor /div>
+                    <div class="team-role">Imperial Entreprenur Professor</div>
                     <div class="team-area"></div>
                 </div>
             </div>
@@ -316,7 +316,7 @@
             <div class="team-row text-center">
             <div class="row">
                 <div class="team container col-sm-6 col-md-4"><a href="https://www.insead.edu/faculty-research/faculty/theodoros-evgeniou">
-                    <img class="team-picture" src="images/speaker/theos-evgeniou.jpeg"></a>
+                    <img class="team-picture" src="images/speaker/theodoros-evgeniou.png"></a>
                     <div class="overlay">
                         <div class="team-bio">
                             Bio coming soon!
