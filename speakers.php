@@ -168,7 +168,311 @@
             </div>
 
             <br>
-
+            
+            <div class="team-row text-center">
+            <div class="row">
+                <div class="team container col-sm-6 col-md-4"><a href="https://www.linkedin.com/in/george-nounesis-89054b73/?originalSubdomain=gr">
+                    <img class="team-picture" src="images/speaker/george-nounesis.jpeg"></a>
+                    <div class="overlay">
+                        <div class="team-bio">
+                            Director and Chairman of the Board, National Centre for Scientific Research "Demokritos"
+                            <br>
+                            <br>
+                            <div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/george-nounesis-89054b73/?originalSubdomain=gr');" title="">in</div>
+                        </div>
+                    </div>
+                    <div class="team-name">George Nounesis</div>
+                    <div class="team-role">Academia</div>
+                    <div class="team-area"></div>
+                </div>
+                <div class="team container col-sm-6 col-md-4"><a href="">
+                    <img class="team-picture" src="images/speaker/bill-aulet.jpeg"></a>
+                    <div class="overlay">
+                        <div class="team-bio">
+                        Bio coming soon! 
+                        <br>
+                        <br>
+                        <div id="idLinkedInIcon" onclick="window.open('');" title="">in</div>
+                        </div>
+                    </div>
+                    <div class="team-name">Bill Aulet</div>
+                    <div class="team-role"></div>
+                    <div class="team-area"></div>
+                </div>
+                <div class="team container col-sm-6 col-md-4"><a href="">
+                    <img class="team-picture" src="images/speaker"></a>
+                    <div class="overlay">
+                        <div class="team-bio">
+                            
+                            <br>
+                            <br>
+                            <div id="idLinkedInIcon" onclick="window.open('');" title="">in</div>
+                        </div>
+                    </div>
+                    <div class="team-name">Travis Hunter</div>
+                    <div class="team-role"></div>
+                    <div class="team-area"></div>
+                </div>
+            </div>
+                
+            <br>
+                
+            <div class="team-row text-center">
+            <div class="row">
+                <div class="team container col-sm-6 col-md-4"><a href="https://www.linkedin.com/in/larserasmussen/">
+                    <img class="team-picture" src="images/speaker/lars-rasmussen.jpeg"></a>
+                    <div class="overlay">
+                        <div class="team-bio">
+                            Bio coming soon!
+                            <br>
+                            <br>
+                            <div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/larserasmussen/');" title="">in</div>
+                        </div>
+                    </div>
+                    <div class="team-name">Lars Rasmussen</div>
+                    <div class="team-role">Investor</div>
+                    <div class="team-area"></div>
+                </div>
+                <div class="team container col-sm-6 col-md-4"><a href="https://www.linkedin.com/in/marco-veremis-03356/">
+                    <img class="team-picture" src="images/speaker/marco-veremis.jpeg"></a>
+                    <div class="overlay">
+                        <div class="team-bio">
+                        Bio coming soon! 
+                        <br>
+                        <br>
+                        <div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/marco-veremis-03356/');" title="">in</div>
+                        </div>
+                    </div>
+                    <div class="team-name">Marco Veremis</div>
+                    <div class="team-role">Investor and Entrepreneur</div>
+                    <div class="team-area">Deep Tech</div>
+                </div>
+                <div class="team container col-sm-6 col-md-4"><a href="https://www.linkedin.com/in/alisee-de-tonnac/">
+                    <img class="team-picture" src="images/speaker/alisee-de-tonnac.jpeg"></a>
+                    <div class="overlay">
+                        <div class="team-bio">
+                            Bio coming soon!
+                            <br>
+                            <br>
+                            <div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/alisee-de-tonnac/');" title="">in</div>
+                        </div>
+                    </div>
+                    <div class="team-name">Alisee de Tonnac</div>
+                    <div class="team-role">Founder of Seedstars</div>
+                    <div class="team-area">Identifying Opportunities</div>
+                </div>
+            </div>
+                
+            <br>
+                
+            <div class="team-row text-center">
+            <div class="row">
+                <div class="team container col-sm-6 col-md-4"><a href="https://www.linkedin.com/in/michaeltzannes/">
+                    <img class="team-picture" src="images/speaker/michael-tzannes.jpeg"></a>
+                    <div class="overlay">
+                        <div class="team-bio">
+                            Bio coming soon!
+                            <br>
+                            <br>
+                            <div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/michaeltzannes/');" title="">in</div>
+                        </div>
+                    </div>
+                    <div class="team-name">Michael Tzannes</div>
+                    <div class="team-role">Entrepreneur</div>
+                    <div class="team-area">Identifying Opportunities</div>
+                </div>
+                <div class="team container col-sm-6 col-md-4"><a href="https://mitsloan.mit.edu/faculty/directory/charles-kane">
+                    <img class="team-picture" src="images/speaker/chuck-kane.jpeg"></a>
+                    <div class="overlay">
+                        <div class="team-bio">
+                        Bio coming soon! 
+                        <br>
+                        <br>
+                        <div id="idLinkedInIcon" onclick="window.open('https://mitsloan.mit.edu/faculty/directory/charles-kane');" title="">in</div>
+                        </div>
+                    </div>
+                    <div class="team-name">Chuck Kane</div>
+                    <div class="team-role">MIT Sloan Professor</div>
+                    <div class="team-area">Academia</div>
+                </div>
+                <div class="team container col-sm-6 col-md-4"><a href="https://www.linkedin.com/in/deephchana/">
+                    <img class="team-picture" src="images/speaker/deeph-chana.jpeg"></a>
+                    <div class="overlay">
+                        <div class="team-bio">
+                            Bio coming soon!
+                            <br>
+                            <br>
+                            <div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/deephchana/');" title="">in</div>
+                        </div>
+                    </div>
+                    <div class="team-name">Deeph Chana</div>
+                    <div class="team-role">Imperial Entreprenur Professor /div>
+                    <div class="team-area"></div>
+                </div>
+            </div>
+                
+            <br>
+                
+            <div class="team-row text-center">
+            <div class="row">
+                <div class="team container col-sm-6 col-md-4"><a href="https://www.insead.edu/faculty-research/faculty/theodoros-evgeniou">
+                    <img class="team-picture" src="images/speaker/theos-evgeniou.jpeg"></a>
+                    <div class="overlay">
+                        <div class="team-bio">
+                            Bio coming soon!
+                            <br>
+                            <br>
+                            <div id="idLinkedInIcon" onclick="window.open('https://www.insead.edu/faculty-research/faculty/theodoros-evgeniou');" title="">in</div>
+                        </div>
+                    </div>
+                    <div class="team-name">Theos Evgeniou</div>
+                    <div class="team-role">Insead AI/Machine Learning Professor</div>
+                    <div class="team-area"></div>
+                </div>
+                <div class="team container col-sm-6 col-md-4"><a href="https://meche.mit.edu/people/faculty/aanna%40mit.edu">
+                    <img class="team-picture" src="images/speaker/anuradha-annaswamy.jpeg"></a>
+                    <div class="overlay">
+                        <div class="team-bio">
+                        Bio coming soon! 
+                        <br>
+                        <br>
+                        <div id="idLinkedInIcon" onclick="window.open('https://meche.mit.edu/people/faculty/aanna%40mit.edu');" title="">in</div>
+                        </div>
+                    </div>
+                    <div class="team-name">Anuradha Annaswamy</div>
+                    <div class="team-role">MIT MechE Professor</div>
+                    <div class="team-area">AI, Sustainability</div>
+                </div>
+                <div class="team container col-sm-6 col-md-4"><a href="https://www.linkedin.com/in/timos-sellis-6b985657/">
+                    <img class="team-picture" src="images/speaker/timos-selis.jpeg"></a>
+                    <div class="overlay">
+                        <div class="team-bio">
+                            Bio coming soon!
+                            <br>
+                            <br>
+                            <div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/timos-sellis-6b985657/');" title="">in</div>
+                        </div>
+                    </div>
+                    <div class="team-name">Timos Selis</div>
+                    <div class="team-role"></div>
+                    <div class="team-area"></div>
+                </div>
+            </div>
+                
+            <br>
+                
+            <div class="team-row text-center">
+            <div class="row">
+                <div class="team container col-sm-6 col-md-4"><a href="https://www.biogen.com/company/leadership/bio-papadopoulos-stelios.html">
+                    <img class="team-picture" src="images/speaker/stelios-papadopoulos.jpeg"></a>
+                    <div class="overlay">
+                        <div class="team-bio">
+                            Bio coming soon!
+                            <br>
+                            <br>
+                            <div id="idLinkedInIcon" onclick="window.open('https://www.biogen.com/company/leadership/bio-papadopoulos-stelios.html');" title="">in</div>
+                        </div>
+                    </div>
+                    <div class="team-name">Stelios Papadopoulos</div>
+                    <div class="team-role">Biotech</div>
+                    <div class="team-area"></div>
+                </div>
+                <div class="team container col-sm-6 col-md-4"><a href="https://www.linkedin.com/in/tylerspalding/">
+                    <img class="team-picture" src="images/speaker/tyler-spalding.jpeg"></a>
+                    <div class="overlay">
+                        <div class="team-bio">
+                        Bio coming soon! 
+                        <br>
+                        <br>
+                        <div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/tylerspalding/');" title="">in</div>
+                        </div>
+                    </div>
+                    <div class="team-name">Tyler Spalding</div>
+                    <div class="team-role">Co-Founder of Flexa</div>
+                    <div class="team-area">AI</div>
+                </div>
+                <div class="team container col-sm-6 col-md-4"><a href="https://meche.mit.edu/people/faculty/banthony@mit.edu">
+                    <img class="team-picture" src="images/speaker/brian-anthony.jpeg"></a>
+                    <div class="overlay">
+                        <div class="team-bio">
+                            Bio coming soon!
+                            <br>
+                            <br>
+                            <div id="idLinkedInIcon" onclick="window.open('https://meche.mit.edu/people/faculty/banthony@mit.edu');" title="">in</div>
+                        </div>
+                    </div>
+                    <div class="team-name">Brian Anthony</div>
+                    <div class="team-role"></div>
+                    <div class="team-area">Biotech</div>
+                </div>
+            </div>
+                
+            <br>
+            
+            <div class="team-row text-center">
+            <div class="row">
+                <div class="team container col-sm-6 col-md-4"><a href="">
+                    <img class="team-picture" src="images/speaker/nektarios-tavernarakis.jpeg"></a>
+                    <div class="overlay">
+                        <div class="team-bio">
+                            Bio coming soon!
+                            <br>
+                            <br>
+                            <div id="idLinkedInIcon" onclick="window.open('');" title="">in</div>
+                        </div>
+                    </div>
+                    <div class="team-name">Nektarios Tavernarakis</div>
+                    <div class="team-role"></div>
+                    <div class="team-area">Biotech</div>
+                </div>
+                <div class="team container col-sm-6 col-md-4"><a href="https://www.linkedin.com/in/luisa-alemany-46902419b/?originalSubdomain=uk">
+                    <img class="team-picture" src="images/speaker/luisa-alemany.jpeg"></a>
+                    <div class="overlay">
+                        <div class="team-bio">
+                        Bio coming soon! 
+                        <br>
+                        <br>
+                        <div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/luisa-alemany-46902419b/?originalSubdomain=uk');" title="">in</div>
+                        </div>
+                    </div>
+                    <div class="team-name">Luisa Alemany</div>
+                    <div class="team-role"></div>
+                    <div class="team-area">Academia</div>
+                </div>
+                <div class="team container col-sm-6 col-md-4"><a href="">
+                    <img class="team-picture" src="images/speaker/ariel-furst.jpeg"></a>
+                    <div class="overlay">
+                        <div class="team-bio">
+                            Bio coming soon!
+                            <br>
+                            <br>
+                            <div id="idLinkedInIcon" onclick="window.open('');" title="">in</div>
+                        </div>
+                    </div>
+                    <div class="team-name">Ariel Furst</div>
+                    <div class="team-role">MIT Professor, Found of Pharmor</div>
+                    <div class="team-area">Academia, Sustainability</div>
+                </div>
+            </div>
+                
+            <br>
+          
+            <div class="team-row text-center">
+            <div class="row">
+                <div class="team container col-sm-6 col-md-4"><a href="https://www.linkedin.com/in/snejinazacharia/">
+                    <img class="team-picture" src="images/speaker/snejina-zacharia.jpeg"></a>
+                    <div class="overlay">
+                        <div class="team-bio">
+                            Bio coming soon!
+                            <br>
+                            <br>
+                            <div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/snejinazacharia/');" title="">in</div>
+                        </div>
+                    </div>
+                    <div class="team-name">Snejina Zacharia</div>
+                    <div class="team-role"></div>
+                    <div class="team-area"></div>
+                </div>
         </div>
     </div>
 </div>
