@@ -76,7 +76,7 @@
                             Competitions <span class="caret"></span>
                         </a>
                         <div id="competitionMenu" class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="startup-showcase.php">Startup Pitch</a>
+                            <a class="dropdown-item" href="competitions.php">Startup Pitch</a>
                             <!--
                             <div class="dropdown-divider"></div>
                             <a class="dropdown-item" href="epc.php">Elevator Pitch <br /> Competition</a>
@@ -94,8 +94,10 @@
                             About <span class="caret"></span>
                         </a>
                         <div id="aboutMenu" class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <!--
                             <a class="dropdown-item" href="history.php">History</a>
                             <div class="dropdown-divider"></div>
+                            -->
                             <a class="dropdown-item" href="team.php">Who we are</a>
                             <div class="dropdown-divider"></div>
                             <a class="dropdown-item" href="sponsors.php">Sponsors</a>
