@@ -28,6 +28,7 @@
             opacity: 0;
             transition: .5s ease;
             background-color: #008CBA;
+            padding: 3px;
         }
         .container:hover .overlay {
             opacity: 1;
@@ -45,7 +46,7 @@
             text-align: center;
         }
 
-        #idLinkedInIcon{background-color:rgb(0, 102, 170);border-radius:6px;color:white;cursor:pointer;display:inline-block;font:bold 35px Arial, Helvetica, sans-serif;height:40px;margin-top:1px;text-align:center;width:40px;}
+        #idLinkedInIcon{background-color:rgb(0, 102, 170);border-radius:6px;color:white;cursor:pointer;display:inline-block;font:bold 25px Arial, Helvetica, sans-serif;height:30px;margin-top:1px;text-align:center;width:30px;}
         #idLinkedInIcon:hover{background-color:#06d;}
     </style>
 
