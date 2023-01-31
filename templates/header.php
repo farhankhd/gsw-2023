@@ -37,7 +37,7 @@ function auto_version($file)
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
 	<link href="https://fonts.googleapis.com/css?family=Montserrat:200,400,400i,500,500i,600,700,800,900" rel="stylesheet">
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	<!--<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">-->
 	<link rel="stylesheet" href="assets/css/style.css?v=5"> <!--?v=1.1-->
 	<link href="https://use.fontawesome.com/0b972b6cf8.css" media="all" rel="stylesheet">
 	<meta name="viewport" content="width=device-width,initial-scale=1">
@@ -79,7 +79,7 @@ function auto_version($file)
 
 <body>
 <!--gsw landing image; conference highlight-->
-<div data-parallax="scroll" class="parallax-window main-page-header" <!--style="display:inline-block;"-->> 
+<div data-parallax="scroll" class="parallax-window main-page-header" <!--style="display:inline-block;"-->
 	<div class="brand">
 		<img src="images/launch/gsw-heading.png"/>
 		<br> <br>
@@ -115,7 +115,6 @@ function auto_version($file)
 			</div>
 		</div>
 		
-		<br> <br><br> <br><br> <br>
 	</div>
 
 	<!-- this sets up the background image -->
