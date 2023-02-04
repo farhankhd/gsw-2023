@@ -230,7 +230,6 @@ function auto_version($file)
 		<p><h1 style='color: rgba(243, 239, 239, 0.9);'>Academic Partners</h1></p>
 		<div class="row">
 			<br>
-			<img src="images/logo/mslao-logo.png" class="partner-logo">
 			<img src="images/logo/legatum_2.png" class="partner-logo">
 			<img src="images/logo/martin_trust_2.png" class="partner-logo">
 			<img src="images/logo/reap_2.png" class="partner-logo">
