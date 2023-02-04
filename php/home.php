@@ -1,13 +1,22 @@
-<?php
-    //include CSS Style Sheet
-    echo "<link rel='stylesheet' type='text/css' href='../assets/css/style.css' />";
+<!DOCTYPE html>
 
-    //include a javascript file
-    echo "<script type='text/javascript' src='../assets/js/scripts.js'></script>";
-?>
-<?php require_once("../assets/css/style.css");?>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+        <title>MIT GSW 2023</title>
+        <?php
+            //include CSS Style Sheet
+            echo "<link rel='stylesheet' type='text/css' href='../assets/css/style.css' />";
 
-<?php include('navbar.php');?>
+            //include a javascript file
+            echo "<script type='text/javascript' src='../assets/js/scripts.js'></script>";
+        ?>
+        <?php require_once("../assets/css/style.css");?>
+        
+        <?php include('navbar.php');?>
+    </head>
 
     <body>
         <!--LANDING OWL VISUAL + COUNTDOWN-->
@@ -97,3 +106,4 @@
         <!--External JS-->
         <script src="../assets/js/scripts.js"></script>
     </body>
+</html>
