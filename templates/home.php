@@ -8,9 +8,17 @@
         <title>MIT GSW 2023</title>
 
         <!--CSS: Google Font, Boostrap, style.css-->
+        <!--
         <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Myriad Pro'>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
         <link rel='stylesheet' href='../assets/css/style.css'>
+        -->
+        
+        //include CSS Style Sheet
+        <?php echo "<link rel='stylesheet' type='text/css' href='assets/css/style.css' />";?>
+
+        //include a javascript file
+        <?php echo "<script type='text/javascript' src='assets/js/scripts.js'></script>";?>
 
         <?php include('navbar.php');?>
     </head>
