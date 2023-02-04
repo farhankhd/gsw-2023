@@ -19,6 +19,12 @@
     header("Pragma: no-cache"); //HTTP 1.0
     header("Expires: Sat, 26 Jul 1997 05:00:00 GMT"); // Date in the past
 
+    //include CSS Style Sheet
+        echo "<link rel='stylesheet' type='text/css' href='../assets/css/style.css' />";
+
+    //include a javascript file
+        echo "<script type='text/javascript' src='../assets/js/scripts.js'></script>";
+
     include('php/navbar.php');
     include('php/home.php');
     include("php/schedule.php");
