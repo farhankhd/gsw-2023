@@ -19,8 +19,6 @@
 
         <!--include a javascript file-->
         <?php echo "<script type='text/javascript' src='assets/js/scripts.js'></script>";?>
-
-        <?php include('navbar.php');?>
     </head>
 
     <body>
