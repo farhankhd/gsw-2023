@@ -1,19 +1,13 @@
-<!DOCTYPE html>
+<?php
+    //include CSS Style Sheet
+    echo "<link rel='stylesheet' type='text/css' href='../assets/css/style.css' />";
 
-<html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name='viewport' content='width=device-width, initial-scale=1.0'>
-        <title>MIT GSW 2023</title>
+    //include a javascript file
+    echo "<script type='text/javascript' src='../assets/js/scripts.js'></script>";
+?>
+<?php require_once("../assets/css/style.css");?>
 
-        <!--CSS: Google Font, Boostrap, style.css-->
-        <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Myriad Pro'>
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-        <link rel='stylesheet' href='../assets/css/style.css'>
-
-        <?php include('navbar.php');?>
-    </head>
+<?php include('navbar.php');?>
 
     <body>
         <!--LANDING OWL VISUAL + COUNTDOWN-->
@@ -103,4 +97,3 @@
         <!--External JS-->
         <script src="../assets/js/scripts.js"></script>
     </body>
-</html>
