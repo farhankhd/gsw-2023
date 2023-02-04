@@ -25,13 +25,13 @@
     //include a javascript file
         echo "<script type='text/javascript' src='assets/js/scripts.js'></script>";
 
-    include('php/navbar.php');
-    include('php/home.php');
-    include("php/schedule.php");
+    include('templates/navbar.php');
+    include('templates/home.php');
+    include("templates/schedule.php");
 ?>
 <br /><br />
 <?php
     //include('php/location.php');
-    include('php/collaborators.php');
-    include('php/footer.php');
+    include('templates/collaborators.php');
+    include('templates/footer.php');
 ?>
