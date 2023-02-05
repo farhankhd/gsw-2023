@@ -184,6 +184,8 @@
                 </div>
             </div>
         </section>
+        
+        <?php include_once 'footer.php'; ?>
 
         <!--JS-->
         <script src="../assets/js/scripts.js"></script>
