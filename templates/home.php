@@ -105,9 +105,8 @@
             </div>
         </section>
     
-        <?php include("templates/schedule.php"); ?>
-        <?php include('templates/collaborators.php'); ?>
-        <?php include('templates/footer.php'); ?>
+        <?php include("schedule.php"); ?>
+        <?php include('collaborators.php'); ?>
   
 
         <!-- Optional JavaScript -->
