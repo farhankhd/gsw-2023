@@ -130,182 +130,68 @@ section {
 /**************
 *** NAVBAR ***
 **************/
-.navbar a {
-    font-family: "DIN Light";
-}
-
 .navbar {
-    /* background: rgba(10, 28, 63, 1); */
-    /* width: 100%; */
-    max-width: 100%;
-    background-image: url("../../images/launch/launch_background_short.png");
-    background: -moz-linear-gradient(top, rgba(10, 28, 63, 1) 0%, rgb(8, 39, 47) 25%, rgba(0, 0, 0, 0) 100%);
-    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(10, 28, 63, 1)), color-stop(25%, rgba(8, 21, 47, 1)), color-stop(100%, rgba(0, 0, 0, 0)));
-    background: -webkit-linear-gradient(top, rgba(10, 28, 63, 1) 0%, rgba(8, 21, 47, 1) 25%, rgba(0, 0, 0, 0) 100%);
-    background: -o-linear-gradient(top, rgba(10, 28, 63, 1) 0%, rgba(8, 21, 47, 1) 25%, rgba(0, 0, 0, 0) 100%);
-    background: -ms-linear-gradient(top, rgba(10, 28, 63, 1) 0%, rgba(8, 21, 47, 1) 25%, rgba(0, 0, 0, 0) 100%);
-    background: linear-gradient(to bottom, rgba(10, 28, 63, 1) 0%, rgba(8, 21, 47, 1) 25%, rgba(0, 0, 0, 0) 100%);
-    /* -webkit-mask-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 1)), to(rgba(0, 0, 0, 0)));
-    -webkit-mask-image: -moz-linear-gradient(top, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0) 100%);
-    -webkit-mask-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0) 100%);
-    -webkit-mask-image: -o-linear-gradient(top, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0) 100%);
-    -webkit-mask-image: -ms-linear-gradient(top, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 25%, rgba(0, 0, 0, 0) 100%); */
-    mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
-    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#0a1c3f', endColorstr='#000000', GradientType=0);
+    background: rgba(10,28,63,1);
+    background: -moz-linear-gradient(top, rgba(10,28,63,1) 0%, rgba(8,21,47,1) 25%, rgba(0,0,0,0) 100%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(10,28,63,1)), color-stop(25%, rgba(8,21,47,1)), color-stop(100%, rgba(0,0,0,0)));
+    background: -webkit-linear-gradient(top, rgba(10,28,63,1) 0%, rgba(8,21,47,1) 25%, rgba(0,0,0,0) 100%);
+    background: -o-linear-gradient(top, rgba(10,28,63,1) 0%, rgba(8,21,47,1) 25%, rgba(0,0,0,0) 100%);
+    background: -ms-linear-gradient(top, rgba(10,28,63,1) 0%, rgba(8,21,47,1) 25%, rgba(0,0,0,0) 100%);
+    background: linear-gradient(to bottom, rgba(10,28,63,1) 0%, rgba(8,21,47,1) 25%, rgba(0,0,0,0) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0a1c3f', endColorstr='#000000', GradientType=0 );
     border: none;
-    height: 120px;
+    height: 150px;
     padding: 20px;
     text-transform: uppercase;
-    font-size: 1.5vw;
 }
 
 .navbar-condensed {
-    background-image: url("../../images/launch/launch_background_short.png");
-    /* background: rgba(10, 28, 63, 1);
-    background: -moz-linear-gradient(top, rgba(10, 28, 63, 1) 0%, rgba(5, 15, 33, 0.92) 48%, rgba(3, 8, 18, 0.88) 72%, rgba(0, 0, 0, 0.8) 100%);
-    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(10, 28, 63, 1)), color-stop(48%, rgba(5, 15, 33, 0.92)), color-stop(72%, rgba(3, 8, 18, 0.88)), color-stop(100%, rgba(0, 0, 0, 0.8)));
-    background: -webkit-linear-gradient(top, rgba(10, 28, 63, 1) 0%, rgba(5, 15, 33, 0.92) 48%, rgba(3, 8, 18, 0.88) 72%, rgba(0, 0, 0, 0.8) 100%);
-    background: -o-linear-gradient(top, rgba(10, 28, 63, 1) 0%, rgba(5, 15, 33, 0.92) 48%, rgba(3, 8, 18, 0.88) 72%, rgba(0, 0, 0, 0.8) 100%);
-    background: -ms-linear-gradient(top, rgba(10, 28, 63, 1) 0%, rgba(5, 15, 33, 0.92) 48%, rgba(3, 8, 18, 0.88) 72%, rgba(0, 0, 0, 0.8) 100%);
-    background: linear-gradient(to bottom, rgba(10, 28, 63, 1) 0%, rgba(5, 15, 33, 0.92) 48%, rgba(3, 8, 18, 0.88) 72%, rgba(0, 0, 0, 0.8) 100%); */
-    -webkit-mask-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 1)), to(rgba(0, 0, 0, 0)));
-    mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
-    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#0a1c3f', endColorstr='#000000', GradientType=0);
+    background: rgba(10,28,63,1);
+    background: -moz-linear-gradient(top, rgba(10,28,63,1) 0%, rgba(5,15,33,0.92) 48%, rgba(3,8,18,0.88) 72%, rgba(0,0,0,0.8) 100%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(10,28,63,1)), color-stop(48%, rgba(5,15,33,0.92)), color-stop(72%, rgba(3,8,18,0.88)), color-stop(100%, rgba(0,0,0,0.8)));
+    background: -webkit-linear-gradient(top, rgba(10,28,63,1) 0%, rgba(5,15,33,0.92) 48%, rgba(3,8,18,0.88) 72%, rgba(0,0,0,0.8) 100%);
+    background: -o-linear-gradient(top, rgba(10,28,63,1) 0%, rgba(5,15,33,0.92) 48%, rgba(3,8,18,0.88) 72%, rgba(0,0,0,0.8) 100%);
+    background: -ms-linear-gradient(top, rgba(10,28,63,1) 0%, rgba(5,15,33,0.92) 48%, rgba(3,8,18,0.88) 72%, rgba(0,0,0,0.8) 100%);
+    background: linear-gradient(to bottom, rgba(10,28,63,1) 0%, rgba(5,15,33,0.92) 48%, rgba(3,8,18,0.88) 72%, rgba(0,0,0,0.8) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0a1c3f', endColorstr='#000000', GradientType=0 );
     height: 90px;
 }
 
-.navbar-brand {
-    padding: 0 15px;
+.navbar a {
+    color: white;
 }
 
-#navbar-logo-right {
-    /* height: 50px;
-    transition: height 0.3s ease-out; */
-    height: 40px;
-    margin-left: auto;
-    margin-right: 0;
-    float: right;
+.navbar a:hover {
+    border-bottom: 1px solid white;
+    color: white;
 }
 
-@media only screen and (min-width: 768px) {
-    #navbar-logo {
-        height: 50px;
-    }
-}
-
-@media (max-width: 768px) {
-    .navbar-mobile {
-        background-clip: padding-box;
-        border-radius: 4px;
-        box-shadow: rgba(0, 0, 0, 0.17) 0px 6px 12px;
-        background-color: #213356;
-        margin-top: 20px;
-    }
-}
-
-@media only screen and (min-width: 480px) {
-    .navbar-logo-small {
-        height: 55px !important;
-    }
-}
-
-.active {
-    font-weight: 600;
-    color: white !important;
-}
-
-.navbar-default .navbar-nav>.active>a,
-.navbar-default .navbar-nav>.active>a:focus {
-    color: #fff;
-    font-weight: 600;
-    background-color: transparent;
-}
-
-.navbar-default .navbar-nav>.active>a:hover,
-.navbar-default .navbar-nav>li>a:hover {
-    color: rgba(255, 255, 255, 0.8);
-    font-weight: 600;
-    background-color: transparent;
-}
-
-.navbar-default a:hover,
-.navbar-default a:focus {
-    /* font-size: 0.95em; */
-}
-
-.navbar-default .navbar-nav>li>a {
-    color: rgba(255, 255, 255, 0.8);
-    font-family: "DIN";
-    letter-spacing: 0.08em;
-    font-size: 0.6em;
-}
-
-@media (max-width: 960px) and (min-width: 870px) {
-    .navbar-default .navbar-nav>li>a {
-        font-size: 0.75em;
-    }
-}
-
-@media (max-width: 870px) {
-    .navbar-default .navbar-nav>li>a {
-        font-size: 0.7em;
-    }
-}
-
-.dropdown-menu {
-    padding: 15px;
-    letter-spacing: 0.08em;
-    font-size: 0.6em;
-    font-weight: 300;
-    background-color: rgba(10, 28, 63, 1);
-}
-
-.navbar-nav>li>.dropdown-menu {
-    /* width: 100%; */
-    max-width: 10px;
-}
-
-.dropdown-menu a:hover,
-.dropdown-menu a:focus {
-    color: #fff;
-    font-weight: 600;
-}
-
-@media (max-width: 767px) {
-    .navbar-nav .open .dropdown-menu {
-        font-size: 0.7em;
-    }
-}
-
-.dropdown-divider {
-    border: 1px solid #2f3f5f;
-    margin: 10px -8px;
+.navbar a.active {
+  border-bottom: 1px solid white;
 }
 
 
-/* Anchors */
 
-.anchor {
-    display: block;
-    height: 120px;
-    /*same height as fixed .navbar */
-    margin-top: -120px;
-    /*same height as fixed .navbar */
-    visibility: hidden;
+/* On screens that are less than 700px wide, make the sidebar into a topbar */
+@media screen and (max-width: 700px) {
+  .collapse a {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+  .collapse a {float: left;}
+  div.content {margin-left: 0;}
 }
 
-.imgHeader {
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: -1;
+/* On screens that are less than 400px, display the bar vertically, instead of horizontally */
+@media screen and (max-width: 400px) {
+  .collapse a {
+    text-align: center;
+    float: none;
+  }
 }
 
 
-/*.navbar-* {
-    background-color: transparent;
-}
-*/
 #logo-left {
     width: 170px;
     height: 55px;
@@ -314,6 +200,11 @@ section {
     width: 105px;
     height: 45px;
 }
+
+/*.navbar-* {
+    background-color: transparent;
+}
+
 /*Toggle button*/
 .navbar-toggler .navbar-toggler-icon {
     background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
