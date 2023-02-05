@@ -339,19 +339,19 @@
             </div>
             <div class="row text-center team-row">
                 <div class="team container col-sm-6 col-md-4">
-                    <img src="../img/board/bill-aulet.jpg" class="team-picture" alt="">
+                    <img src="../img/board/BillAulet.jpg" class="team-picture" alt="">
                     <div class="team-name bold-text">Bill Aulet</div>
                     <div class="team-role light-text">Faculty Advisor</div>
                     <div class="team-area light-text">MIT Sloan School of Management</div>
                 </div>
                 <div class="team container col-sm-6 col-md-4">
-                    <img src="../img/board/gita-rao.jpg" class="team-picture" alt="">
+                    <img src="../img/board/GitaRao.jpg" class="team-picture" alt="">
                     <div class="team-name bold-text">Gita Rao</div>
                     <div class="team-role light-text">Faculty Advisor</div>
                     <div class="team-area light-text">MIT Sloan School of Management</div>
                 </div>
                 <div class="team container col-sm-6 col-md-4">
-                    <img src="../img/board/simon-johnson.jpg" class="team-picture" alt="">
+                    <img src="../img/board/SimonJohnson.jpg" class="team-picture" alt="">
                     <div class="team-name bold-text">Simon Johnson</div>
                     <div class="team-role light-text">Faculty Advisor</div>
                     <div class="team-area light-text">MIT Sloan School of Management</div>
@@ -359,19 +359,19 @@
             </div>
             <div class="row text-center team-row">
                 <div class="team container col-sm-6 col-md-4">
-                    <img src="../img/board/Megan.jpg" class="team-picture" alt="">
+                    <img src="../img/board/MeganMitchell.jpg" class="team-picture" alt="">
                     <div class="team-name bold-text">Megan Mitchell</div>
                     <div class="team-role light-text">Acting Director</div>
                     <div class="team-area light-text">MIT Legatum Center</div>
                 </div>
                 <div class="team container col-sm-6 col-md-4">
-                    <img src="../img/board/lee.jpg" class="team-picture" alt="">
+                    <img src="../img/board/LeeUllman.jpg" class="team-picture" alt="">
                     <div class="team-name bold-text">Lee Ullmann</div>
                     <div class="team-role light-text">Executive Director</div>
                     <div class="team-area light-text">MIT Sloan Latin America Office</div>
                 </div>
                 <div class="team container col-sm-6 col-md-4">
-                    <img src="../img/board/Travis.jpg" class="team-picture" alt="">
+                    <img src="../img/board/TravisHunter.jpg" class="team-picture" alt="">
                     <div class="team-name bold-text">Travis Hunter</div>
                     <div class="team-role light-text">Director</div>
                     <div class="team-area light-text">MIT Regional Entrepreneurship &#38; Acceleration Program</div>
