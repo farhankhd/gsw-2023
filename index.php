@@ -23,6 +23,6 @@
 
 
     include('templates/navbar.php');
-    include('templates/home.php');
+
     include('templates/footer.php');
 ?>
