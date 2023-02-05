@@ -10,13 +10,13 @@
         <!--CSS: Adobe Font, Boostrap, style.css-->
         <link rel="stylesheet" href="https://use.typekit.net/fww3ner.css">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-        <link rel='stylesheet' href='../assets/css/style.css'>
+        <link rel='stylesheet' href='assets/css/style.css'>
     </head>
     <body>
         <!--ACADEMIC PARTNERS-->
           
         <div class="section-div">
-            <img class="banner" src="../img/banner/collaborators.png"> 
+            <img class="banner" src="img/banner/collaborators.png"> 
         </div>
         <section>
             <div class="row white-bg">
@@ -26,13 +26,13 @@
             </div>
             <div class="row white-bg logo">
                 <div class="col-sm-6 col-md-3 col-lg white-bg">
-                    <a href="https://entrepreneurship.mit.edu/"><img id="collab-logo" src="../img/collaborators/mtc.png"></a>
+                    <a href="https://entrepreneurship.mit.edu/"><img id="collab-logo" src=".img/collaborators/mtc.png"></a>
                 </div>
                 <div class="col-sm-6 col-md-3 col-lg white-bg">
-                   <a href="https://legatum.mit.edu/"><img id="collab-logo" src="../img/collaborators/legatum.png"></a>
+                   <a href="https://legatum.mit.edu/"><img id="collab-logo" src="img/collaborators/legatum.png"></a>
                 </div>
                 <div class="col-sm-6 col-md-3 col-lg white-bg">
-                    <a href="https://reap.mit.edu/"><img id="collab-logo" src="../img/collaborators/reap.png"></a>
+                    <a href="https://reap.mit.edu/"><img id="collab-logo" src="img/collaborators/reap.png"></a>
                 </div>
             </div>
         </section>
