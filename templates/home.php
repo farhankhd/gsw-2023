@@ -102,10 +102,7 @@
                 </div>
             </div>
         </section>
-        <?php include("collaborators.php"); ?>
-        
-
-
+  
 
         <!-- Optional JavaScript -->
         <!-- jQuery first, then Popper.js, then Bootstrap JS -->
