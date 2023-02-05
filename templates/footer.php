@@ -1,3 +1,9 @@
+<!--include CSS Style Sheet-->
+        <?php echo "<link rel='stylesheet' type='text/css' href='assets/css/style.css' />";?>
+
+<!--include a javascript file-->
+        <?php echo "<script type='text/javascript' src='assets/js/scripts.js'></script>";?>
+
 <footer>
     <div class="container">
         <div class="row text-center">
