@@ -102,6 +102,10 @@
                 </div>
             </div>
         </section>
+        
+         <?php include("templates/schedule.php");?>
+        //include('php/location.php');
+        <?php include('templates/collaborators.php');?>
   
 
         <!-- Optional JavaScript -->
