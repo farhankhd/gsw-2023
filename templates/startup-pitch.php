@@ -38,7 +38,7 @@
                     <br>
                     Semifinalists will be invited after their application has been reviewed. The final competition will be held on March 31st, 2023.
 
-                    Eligibility Criteria can be found below. 
+                    Full details on Eligibility Criteria can be found <a href="../docs/startup-pitch.pdf">here</a> and below. 
 
                     <br><br>
                     If you have any questions, please email <a class="light-bg-dark-text" href="gsw_competitions@mit.edu">gsw_competitions@mit.edu</a>
