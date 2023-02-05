@@ -43,8 +43,8 @@
                 </div>
                 <ul class="nav navbar-nav mr-auto">
                     <li class="active"><a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a></li>
-                    <li class=""><a class="nav-link disabled" href="#">Register Now</a></li>
-                    <li class=""><a class="nav-link disabled" href="#">Agenda</a></li>
+                    <li class=""><a class="nav-link disabled" href="https://www.eventora.gr/mit-gsw/">Register Now</a></li>
+                    <li class=""><a class="nav-link" href="templates/schedule.php">Agenda</a></li>
                     <li class=""><a class="nav-link disabled" href="#">Speakers</a></li>
                     <li class="dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Competitions</a>
