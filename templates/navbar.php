@@ -79,7 +79,7 @@
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="bpc.php">Business Plan <br /> Competition</a>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="efair.php">Startup <br /> Showcase</a>
+                        <a class="dropdown-item" href="templates/startup-pitch.php">Startup <br /> Pitch</a>
                     </div>
                 </li> 
                 <!-- <li><a href="agenda.php">Agenda</a></li> -->
