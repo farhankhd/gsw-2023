@@ -3,6 +3,10 @@
 // See more in https://css-tricks.com/strategies-for-cache-busting-css/#article-header-id-1
 $cssVersion = "1.0.8";
 ?>
+<!--include CSS Style Sheet-->
+<?php echo "<link rel='stylesheet' type='text/css' href='assets/css/style.css' />";?>
+<!--include a javascript file-->
+<?php echo "<script type='text/javascript' src='assets/js/scripts.js'></script>";?>
 
 <!DOCTYPE html>
 <html lang="en">
