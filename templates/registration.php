@@ -8,8 +8,8 @@
         <title>MIT GSW 2023</title>
 
         <!--CSS: Adobe Font, Boostrap, style.css-->
-        <link rel="stylesheet" href="https://use.typekit.net/fww3ner.css">
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <!--<link rel="stylesheet" href="https://use.typekit.net/fww3ner.css">-->
+        <!--<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">-->
         <!--<link rel='stylesheet' href='assets/css/style.css'>-->
         
          <!--include CSS Style Sheet-->
@@ -18,6 +18,7 @@
         <!--include a javascript file-->
         <?php echo "<script type='text/javascript' src='assets/js/scripts.js'></script>";?>
     </head>
+    
     <body>
       <!--REGISTRATION-->
         <div class="section" id="registration-section">
