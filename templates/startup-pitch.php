@@ -61,7 +61,7 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-lg white-bg" style="padding-bottom: 0">
+                <div class="col-lg" style="padding-bottom: 0">
                     <h4 style="background-color: #131d25">2nd Place</h4>
                     <div class="p-5" style="background-color: #F5F5F5">
                         <ul class="dark-bullet" style="padding: 0px 20px 0px">
@@ -71,7 +71,7 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-lg white-bg" style="padding-bottom: 0">
+                <div class="col-lg" style="padding-bottom: 0">
                     <h4 style="background-color: #131d25">3rd Place<br>(Audience Choice)</h4>
                     <div class="p-5" style="background-color: #F5F5F5">
                         <ul class="dark-bullet" style="padding: 0px 20px 0px">
@@ -82,8 +82,8 @@
 
             </div>
             <div class="row white-bg" style="padding-top: 0">
-                <div class="col-lg white-bg">
-                    <h4>General Qualifications</h4>
+                <div class="col-lg ">
+                    <h4 style="background-color: #131d25">General Qualifications</h4>
                     <div class="p-5" style="background-color: #F5F5F5">
                         <ul class="dark-bullet" style="padding: 0px 60px 0px">
                             <li class="dark-bullet light-text">All teams selected to present at GSW will be pre-qualified to enter the next MITEF Greece Acceleration program running from Sept 2023 to Nov 2023.</li>
