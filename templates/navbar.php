@@ -62,23 +62,20 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="index.php"><img src="images/logo/logo2.png" id="navbar-logo"></a>
+            <a class="navbar-brand" href="index.php"><img src="img/GSW_logo_white.png" id="navbar-logo"></a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse navbar-mobile" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
                 <li><a href="index.php">Home<span class="sr-only">(current)</span></a></li>
-                <li><a href="registration.php">Registration</a></li>
+                <li><a href="templates/registration.php">Registration</a></li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Competitions <span class="caret"></span>
                     </a>
                     <div id="competitionMenu" class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="gc.php">Grand <br />Challenge</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="bpc.php">Business Plan <br /> Competition</a>
-                        <div class="dropdown-divider"></div>
+                  
                         <a class="dropdown-item" href="templates/startup-pitch.php">Startup <br /> Pitch</a>
                     </div>
                 </li> 
@@ -91,7 +88,7 @@
                         <a class="dropdown-item" href="assets/booklet2.pdf">Agenda with Locations</a>
                         <a class="dropdown-item" href="assets/booklet.pdf">Conference Program (Download)</a>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="agenda.php">Schedule</a>
+                        <a class="dropdown-item" href="templates/schedule.php">Schedule</a>
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="panels.php">Content</a>
                     </div>
@@ -104,16 +101,16 @@
                         About Us <span class="caret"></span>
                     </a>
                     <div id="competitionMenu" class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="team.php">Who We <br />Are</a>
+                        <a class="dropdown-item" href="templates/team.php">Who We <br />Are</a>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="collab.php">Collaborators</a>
+                        <a class="dropdown-item" href="templates/collaborators.php">Collaborators</a>
                     </div>
                 </li> 
-                <li><a href="sp-index.php">Español</a></li>
+                
             </ul>
             <ul class="nav navbar-nav navbar-right" id="navbarDropdown" >
-            <a href="https://www.ccb.org.co/en"> 
-                <img src="images/logo/bogota-team-logo.png" id="navbar-logo-right">
+            <a href="https://www.mit.edu"> 
+                <img src="img/mit.png" id="navbar-logo-right">
             </a>
             </ul>
         </div><!-- /.navbar-collapse -->
