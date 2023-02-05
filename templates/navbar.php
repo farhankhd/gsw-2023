@@ -26,30 +26,17 @@
 <head>
     <meta http-equiv="Cache-control" content="public">
     <meta charset="UTF-8">
-    <meta name = "author" content = "MIT Global Startup Workshop" />
-    <meta name = "revised" content = "MITGSW, 1/1/2019" />
-    <meta name = "keywords" content = "MIT, MITGSW, Colombia, Bogota, Conference, Global Startup Workshop, MIT Global Startup Workshop, Global, Startup, Workshop, Bangkok, Thailand, Massachusetts Institute of Technology, Entrepreneurship, 2019, 2018, Sloan, MIT Business, MIT Entrepreneurship" />
-    <meta name = "description" content = "MITGSW 2019 will be hosted in Bogota, Colombia - the 22 years in the making, MITGSW is MIT's only global student-organized conference, with the goal of fostering an entrepreneurship ecosystem in a different country, every year." />
-    <meta http-equiv=”Content-Type” content=”text/html; charset=utf-8″ />
-    <meta name=”robot” content=”index,nofollow”>
-    <meta property=”og:title” content=”MITGSW in Bogota, Colombia - MIT Global Startup Workshop 2019”/>
-    <meta property=”og:image” content=”https://i.ibb.co/p4Y8Mcj/meta-pic.png”/>
-    <meta property=”og:site_name” content=”MITGSW Bogota”/>
-    <meta property=”og:description” content=”MITGSW 2019 will be hosted in Bogota, Colombia - the 22 years in the making, MITGSW is MITs only global student-organized conference, with the goal of fostering an entrepreneurship ecosystem in a different country, every year."/>
-
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    
     <title><?= $pageTitle ?></title>
     <link rel="shortcut icon" href="favicon.ico"/>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
-
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:200,400,400i,500,500i,600,700,800,900" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/style.css">
     <link href="https://use.fontawesome.com/0b972b6cf8.css" media="all" rel="stylesheet">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
 </head>
 <body>
 <nav class="navbar navbar-default navbar-fixed-top" id="nav">
