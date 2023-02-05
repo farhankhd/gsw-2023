@@ -22,7 +22,12 @@
     </head>
 
     <body>
-        <?php echo "alert('Hello, fellow innovator! Our website is under rennovation. Please come back tommorow for updated information on GSW 2023!')";?>
+        <?php   
+            echo '<script type ="text/JavaScript">';  
+            echo 'alert("Hello, fellow innovator! Our website is under rennovation. Please come back tommorow for updated information on GSW 2023!")';  
+            echo '</script>';  
+        ?>  
+
         <!--LANDING OWL VISUAL + COUNTDOWN-->
         <div class='main'>
             <div class="row">
