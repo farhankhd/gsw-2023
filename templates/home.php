@@ -26,11 +26,11 @@
         <div class='main'>
             <div class="row">
                 <div class="col">
-                    <img class="main-visual" src="../img/main-logo.png" alt="logo" width="480" height="670">
+                    <img class="main-visual" src="img/main-logo.png" alt="logo" width="480" height="670">
                 </div>
                 <div class="col" style="text-align: center;  padding: 100px 0px 100px 0px;">
                     <h6 style="padding-top:20px">MIT GLOBAL STARTUP WORKSHOP</h6>
-                    <input type="image" src="../img/GSW_logo_white.png" alt="logo" width="250" height="75">
+                    <input type="image" src="img/GSW_logo_white.png" alt="logo" width="250" height="75">
                     <h5>25TH ANNUAL CONFERENCE</h5>
                     <h4 class="bold-text"><span style="color: #00c0f2">ATHENS</span>, GREECE <br><span style="color: #00c0f2">MARCH 30-31</span>, 2023</h4>
                     <div class="countdown">
@@ -58,8 +58,8 @@
 
         <!--BACKGROUND-->
         <div class="section-div">
-            <img id="element1" src="../img/elements/Asset%201.svg"> 
-            <img id="element2" src="../img/elements/Asset%202.svg"> 
+            <img id="element1" src="img/elements/Asset%201.svg"> 
+            <img id="element2" src="img/elements/Asset%202.svg"> 
         </div>
         <section>
             <div class="row white-bg">
@@ -75,8 +75,8 @@
 
         <!--WHY ATTEND-->
         <div class="section-div">
-            <img id="element3" src="../img/elements/Asset%202.svg"> 
-            <img id="element4" src="../img/elements/Asset%204.svg"> 
+            <img id="element3" src="img/elements/Asset%202.svg"> 
+            <img id="element4" src="img/elements/Asset%204.svg"> 
         </div>
         <section class="why-attend">
             <div class="row">
@@ -107,6 +107,6 @@
         <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
         <!--External JS-->
-        <script src="../assets/js/scripts.js"></script>
+        <script src="assets/js/scripts.js"></script>
     </body>
 </html>
