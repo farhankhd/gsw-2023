@@ -117,7 +117,6 @@
         <!--External JS-->
         <script src="assets/js/scripts.js"></script>
     </body>
+    <?php include("footer.php"); ?>
+
 </html>
-<?php
-    include("footer.php");
-?>
