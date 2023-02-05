@@ -80,8 +80,8 @@
                         <a class="dropdown-item" href="panels.php">Content</a>
                     </div>
                 </li> 
-                <li><a href="sponsors.php">Sponsors</a></li>
-                <li><a href="speakers.php">Speakers</a></li>
+                <li><a href="templates/sponsors.php">Sponsors</a></li>
+                <li><a href="templates/speakers.php">Speakers</a></li>
                 <!-- <li><a href="team.php">About Us</a></li> -->
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
