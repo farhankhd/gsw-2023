@@ -1,7 +1,7 @@
 <?php
 // Increase this version every time you change the style.css file
 // See more in https://css-tricks.com/strategies-for-cache-busting-css/#article-header-id-1
-$cssVersion = "1.0.8";
+$cssVersion = "1.1.0";
 ?>
 <!--include CSS Style Sheet-->
 <?php echo "<link rel='stylesheet' type='text/css' href='assets/css/style.css' />";?>
