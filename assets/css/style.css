@@ -704,6 +704,7 @@ background-color: #ffff;
 
     text-align: center;
     background-color: #131d25;
+    color: white;
     padding: 20px;
     font-size: 16px;
     overflow: auto;
@@ -726,9 +727,6 @@ background-color: #ffff;
 }
 #idLinkedInIcon:hover{
     background-color:#06d;
-}
-.team-bio  {
-
 }
 
 .test-div {
