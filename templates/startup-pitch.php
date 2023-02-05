@@ -28,11 +28,14 @@
                 <p class="light-text light-bg-dark-text"> 
                     Are you an entrepreneur trying to take your startup to the next level? <br>The <strong class="light-bg-dark-text" style="color: #00c0f2">MIT GSW Startup Pitch Competition</strong> is an opportunity for you to pitch your company and compete for a chance to win seed money to scale your startup.
                 </p>
-                <div style="text-align:center">
-                    <a style=href="https://docs.google.com/forms/d/e/1FAIpQLScGcvXe5ioa0kCA6X9UsN-wxMntEF_qolskXs7sgE_3z3AYnA/viewform?usp=sf_link"><!-- link in here -->
-                    <div class="comp-btn" style="text-align-center; color">Apply Now </div>
-                    </a>
+                <div style="text-align:center; align-content:center;">
+                    
+                <a style=href="https://docs.google.com/forms/d/e/1FAIpQLScGcvXe5ioa0kCA6X9UsN-wxMntEF_qolskXs7sgE_3z3AYnA/viewform?usp=sf_link"><!-- link in here -->
+                    <div class="comp-btn" style="text-align: center">Apply Now </div>
+                </a>
+                    
                 </div>
+               
                 
                 <br><br><br>
                 <p class="light-text light-bg-dark-text">
