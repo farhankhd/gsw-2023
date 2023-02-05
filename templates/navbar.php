@@ -1,16 +1,12 @@
-<?php
-// Increase this version every time you change the style.css file
-// See more in https://css-tricks.com/strategies-for-cache-busting-css/#article-header-id-1
-$cssVersion = "1.1.5";
-?>
-<!--include CSS Style Sheet-->
-<?php echo "<link rel='stylesheet' type='text/css' href='assets/css/style.css' />";?>
-<!--include a javascript file-->
-<?php echo "<script type='text/javascript' src='assets/js/scripts.js'></script>";?>
-
 <!DOCTYPE html>
 <html lang="en">
     <head>
+        <?php
+            //Increase this version every time you change the style.css file
+            //See more in https://css-tricks.com/strategies-for-cache-busting-css/#article-header-id-1-->
+            $cssVersion = "1.1.5";
+        ?>
+        
         <meta charset="UTF-8">
         <title><?= $pageTitle ?></title>
         <meta name="description" content="<?= $metaDescription ?>">
@@ -31,14 +27,18 @@ $cssVersion = "1.1.5";
         <meta name="description" content="MIT Global Startup Workshop is coming to Greece this year. Grab tickets now and come have an entrepreneurial experience you will never forget!">
         <meta property="og:type" content="website">
         <meta name="viewport" content="width=device-width,initial-scale=1">
-
         
         <!--CSS: Adobe Font, Boostrap, style.css-->
         <link rel="stylesheet" href="https://use.typekit.net/fww3ner.css">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
         <link rel="stylesheet" href="../assets/css/style.css?v=<?= $cssVersion ?>">
         <!--<link href="https://use.fontawesome.com/0b972b6cf8.css" media="all" rel="stylesheet">-->
-        
+           
+        <!--include CSS Style Sheet-->
+        <?php echo "<link rel='stylesheet' type='text/css' href='assets/css/style.css' />";?>
+        <!--include a javascript file-->
+        <?php echo "<script type='text/javascript' src='assets/js/scripts.js'></script>";?>
+
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109416268-1"></script>
         <script>
