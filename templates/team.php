@@ -26,7 +26,7 @@
         </section>
         -->
         <div class="section-div">
-            <img class="banner" src="../img/team/team_01.jpg">
+            <img class="banner" style="height: 200px" src="../img/team/team_01.jpg">
             <h1 class="section-header">OUR TEAM</h1>
         </div>
         <section>
