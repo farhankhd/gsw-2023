@@ -142,8 +142,7 @@ section {
 .navbar {
     background: rgba(10,28,63,1);
     background: -moz-linear-gradient(top, rgba(10,28,63,1) 0%, rgba(8,21,47,1) 25%, rgba(0,0,0,0) 100%);
-    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(10,28,63,1)), color-stop(25%, rgba(8,21,47,1)), color-stop(
-100%, rgba(0,0,0,0)));
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(10,28,63,1)), color-stop(25%, rgba(8,21,47,1)), color-stop(100%, rgba(0,0,0,0)));
     background: -webkit-linear-gradient(top, rgba(10,28,63,1) 0%, rgba(8,21,47,1) 25%, rgba(0,0,0,0) 100%);
     background: -o-linear-gradient(top, rgba(10,28,63,1) 0%, rgba(8,21,47,1) 25%, rgba(0,0,0,0) 100%);
     background: -ms-linear-gradient(top, rgba(10,28,63,1) 0%, rgba(8,21,47,1) 25%, rgba(0,0,0,0) 100%);
@@ -175,22 +174,13 @@ section {
     height: 50px;
     transition:height 0.3s ease-out;
 }
-@media only screen and (min-width: 1200px) {
+@media only screen and (min-width: 768px) {
     #navbar-logo {
         height: 50px;
     }
 }
 
-@media (max-width: 1200px){
-    .navbar-mobile{
-        background-clip: padding-box;
-        border-radius: 4px;
-        box-shadow: rgba(0, 0, 0, 0.17) 0px 6px 12px;
-        background-color: #213356;
-        margin-top: 20px;
-    }
-}
-@media (max-width: 1200px){
+@media (max-width: 768px){
     .navbar-mobile{
         background-clip: padding-box;
         border-radius: 4px;
@@ -219,8 +209,7 @@ section {
 }
 
 
-.navbar-default .navbar-nav>.active> a:hover,
-.navbar-default .navbar-nav>li>a:hover {
+.navbar-default .navbar-nav>.active> a:hover, .navbar-default .navbar-nav>li>a:hover {
     color: rgba(255,255,255,0.8);
     font-weight: 600;
     background-color: transparent;
@@ -230,36 +219,27 @@ section {
     font-size: 0.95em;
 }
 
-.navbar-default .navbar-nav>li>a,
-.dropdown-menu a {
-    color: rgba(255,255,255,0.75);
+
+.navbar-default .navbar-nav>li>a {
+    color: rgba(255,255,255,0.5);
     letter-spacing: 0.08em;
     font-size: 0.9em;
 }
 
-@media (max-width: 1300px) and (min-width: 1200px) {
+@media (max-width: 960px) and (min-width: 870px) {
     .navbar-default .navbar-nav>li>a {
         font-size: 0.75em;
     }
 }
-@media (max-width: 1200px) {
+
+@media (max-width: 870px) {
     .navbar-default .navbar-nav>li>a {
         font-size: 0.7em;
     }
 }
 
-.navbar-default .navbar-nav>li>a.btn.btn-default {
-    padding: 5px 8px;
-    margin-top: 10px;
-    color: #FFFFFF;
-}
 
-.navbar-default .navbar-nav>li>a.btn.btn-default:hover {
-    background-color: #dd4f33;
-    padding: 5px 7px;
-}
-
-.dropdown-menu {
+.dropdown-menu{
     padding: 15px;
     letter-spacing: 0.08em;
     font-size: 0.9em;
@@ -272,7 +252,7 @@ section {
     font-weight: 600;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 767px) {
     .navbar-nav .open .dropdown-menu {
         font-size: 0.7em;
     }
@@ -281,44 +261,6 @@ section {
 .dropdown-divider {
     border: 1px solid #2f3f5f;
     margin: 10px -8px;
-}
-
-/* Change navbar breakpoint since the menu is so big... */
-@media (max-width: 1200px) {
-    .navbar-header {
-        float: none;
-    }
-    .navbar-left,.navbar-right {
-        float: none !important;
-    }
-    .navbar-toggle {
-        display: block;
-    }
-    .navbar-collapse {
-        border-top: 1px solid transparent;
-        box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
-    }
-    .navbar-fixed-top {
-        top: 0;
-        border-width: 0 0 1px;
-    }
-    .navbar-collapse.collapse {
-        display: none!important;
-    }
-    .navbar-nav {
-        float: none!important;
-        margin-top: 7.5px;
-    }
-    .navbar-nav>li {
-        float: none;
-    }
-    .navbar-nav>li>a {
-        padding-top: 10px;
-        padding-bottom: 10px;
-    }
-    .collapse.in{
-        display:block !important;
-    }
 }
 
 /*.navbar-* {
