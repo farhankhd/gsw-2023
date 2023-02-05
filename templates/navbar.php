@@ -44,12 +44,12 @@
                 <ul class="nav navbar-nav mr-auto">
                     <li class="active"><a class="nav-link" href="home.php">Home <span class="sr-only">(current)</span></a></li>
                     <li class=""><a class="nav-link"  style="background-color: #7d4270; color: white; border-radius: 3.5px;" href="https://www.eventora.gr/mit-gsw/">Register Now</a></li>
-                    <li class=""><a class="nav-link disabled" href="schedule.php">Agenda</a></li>
-                    <li class=""><a class="nav-link disabled" href="speakers.php">Speakers</a></li>
+                    <li class=""><a class="nav-link disabled" href="templates/schedule.php">Agenda</a></li>
+                    <li class=""><a class="nav-link disabled" href="templates/speakers.php">Speakers</a></li>
                     <li class="dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Competitions</a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <a class="nav-link dropdown-item" href="startup-pitch.php">Startup Pitch</a>
+                            <a class="nav-link dropdown-item" href="templates/startup-pitch.php">Startup Pitch</a>
                         </div>
                     </li> 
                     <li class="dropdown">
@@ -59,7 +59,7 @@
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                             <a class="nav-link dropdown-item" href="templates/team.php">Our Team</a>
                             <div class="dropdown-divider"></div>
-                            <a class="nav-link dropdown-item" href="sponsors.php">Sponsors</a>
+                            <a class="nav-link dropdown-item" href="templates/sponsors.php">Sponsors</a>
                         </div>
                     </li> 
                 </ul>
