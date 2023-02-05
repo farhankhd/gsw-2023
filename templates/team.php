@@ -208,8 +208,8 @@
                 <br>
 
                 <div class="row">
-                    <div class="team container col-4"><a href="">
-                        <img class="team-picture" src="../img/team/tiasa.jpg"></a>
+                    <div class="team container col-4">
+                        <a href=""><img class="team-picture" src="../img/team/tiasa.jpg"></a>
                         <div class="overlay">
                             <div class="team-bio light-text">
                                 Tiasa is a recent graduate from Wellesley College, earning her Bachelors of Arts (B.A.) in Computer Science. 
@@ -226,8 +226,8 @@
                         <div class="team-role light-text">Marketing Team - Media Lead</div>
                         <div class="team-area light-text">Wellesley College, B.A. Computer Science '23</div>
                     </div>
-                    <div class="team container col-4"><a href="">
-                        <img class="team-picture" src="../img/team/liv-j.jpg"></a>
+                    <div class="team container col-4">
+                        <a href=""><img class="team-picture" src="../img/team/liv-j.jpg"></a>
                         <div class="overlay">
                             <div class="team-bio light-text">
                                 Olivia is a Masters of Business Administration (MBA) candidate at MIT Sloan School of Management. 
@@ -250,8 +250,8 @@
                 <br>
 
                 <div class="row">
-                    <div class="team container col-sm-6 col-md-4"><a href="">
-                        <img class="team-picture" src="../img/team/rishabh.jpg"></a>
+                    <div class="team container col-sm-6 col-md-4">
+                        <a href=""><img class="team-picture" src="../img/team/rishabh.jpg"></a>
                         <div class="overlay">
                             <div class="team-bio light-text">
                                 Rishabh is a Masters of Business Administration (MBA) candidate at MIT Sloan School of Management and SVP of the Product Management Club. 
@@ -339,7 +339,7 @@
             </div>
             <div class="row text-center team-row">
                 <div class="team container col-sm-6 col-md-4">
-                    <a><img src="../img/board/BillAulet.jpg" class="team-picture" alt=""></a>
+                    <a><img src="../img/team/tiasa.jpg" class="team-picture" alt=""></a>
                     <div class="team-name bold-text">Bill Aulet</div>
                     <div class="team-role light-text">Faculty Advisor</div>
                     <div class="team-area light-text">MIT Sloan School of Management</div>
