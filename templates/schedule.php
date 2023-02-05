@@ -1,4 +1,4 @@
-<div class="banner" data-parallax="scroll" data-image-src="../img/banner/schedule.png">
+<div class="banner" data-parallax="scroll" data-image-src="img/banner/schedule.png">
     <a name="schedule"></a>
     <!--
 <h1 class="banner-text">
@@ -42,7 +42,7 @@ Schedule
             <div class="row">
                 <?php
                 // PARSE CSV CONTENT
-                $fileHandle = fopen("../data/schedule.csv", "r");
+                $fileHandle = fopen("data/schedule.csv", "r");
 
                 if ($fileHandle !== FALSE) {
                     fgetcsv($fileHandle, 1000, ","); // Skip first line (headers)
