@@ -1,70 +1,25 @@
 <?php
     // Increase this version every time you change the style.css file
     // See more in https://css-tricks.com/strategies-for-cache-busting-css/#article-header-id-1
-    $cssVersion = "1.0.8";
+    $cssVersion = "1.0.1";
 ?>
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">   
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-   
     <title><?= $pageTitle ?></title>
-    <meta name="description" content="<?= $metaDescription ?>">
-    <meta name="keywords" content="MIT Global Startup Workshop, MIT GSW, MIT, Thailand, Entrepreneurship, Mentorship, Workshops, Innovation, Technology,innovation-driven entrepreneurship,Sasin School of Managment, MIT Association of Thailand,<?= $specificKeywords?>">
     <link rel="shortcut icon" href="favicon.ico"/>
-    <link rel="canonical" href="http://2017.mitgsw.org/">
-    <meta property="og:site_name" content="MIT Global Startup Workshop">
-    <meta property="og:title" content="Home">
-    <meta property="og:url" content="http://gsw.mit.edu/2018/">
-    <meta itemprop="name" content="Home">
-    <meta itemprop="url" content="http://gsw.mit.edu/2018/">
-    <link rel="image_src" href="splash/img/logo.png">
-    <meta itemprop="image" content="splash/img/logo.png">
-    <meta name="twitter:title" content="Home">
-    <meta name="twitter:image" content="splash/img/logo.png">
-    <meta name="twitter:url" content="http://gsw.mit.edu/2018/">
-    <meta name="twitter:card" content="summary">
-    <meta name="description" content="MIT Global Startup Workshop is coming to Thailand this year. Grab tickets now and come have an entrepreneurial experience you will never forget!">
-    <meta property="og:type" content="website">
-    
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" 
-    <link rel="stylesheet" href="assets/css/style.css?v=<?= $cssVersion ?>">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:200,400,400i,500,500i,600,700,800,900" rel="stylesheet">
+    <link rel="stylesheet" href="splash/css/style.css?v=<?= $cssVersion ?>">
     <link href="https://use.fontawesome.com/0b972b6cf8.css" media="all" rel="stylesheet">
- 
-
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109416268-1"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-
-        gtag('config', 'UA-109416268-1');
-    </script>
-    <!-- End global site tag (gtag.js) - Google Analytics -->
-  <!-- Facebook Pixel Code -->
-    <script>
-        !function(f,b,e,v,n,t,s)
-        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-        n.queue=[];t=b.createElement(e);t.async=!0;
-        t.src=v;s=b.getElementsByTagName(e)[0];
-        s.parentNode.insertBefore(t,s)}(window,document,'script',
-        'https://connect.facebook.net/en_US/fbevents.js');
-        fbq('init', '334959103628229'); 
-        fbq('track', 'PageView');
-    </script>
-    <noscript>
-        <img height="1" width="1" src="https://www.facebook.com/tr?id=334959103628229&ev=PageView&noscript=1"/>
-    </noscript>
-    <!-- End Facebook Pixel Code -->
+    <meta name="viewport" content="width=device-width,initial-scale=1">
 </head>
 <body>
-    <nav class="navbar navbar-default navbar-fixed-top" id="nav">
+<nav class="navbar navbar-default navbar-fixed-top" id="nav">
     <div class="container-fluid">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
@@ -81,37 +36,23 @@
         <div class="collapse navbar-collapse navbar-mobile" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
                 <li><a href="index.php">Home<span class="sr-only">(current)</span></a></li>
-                <li><a href="registration.php" onClick="fbq('trackCustom', 'Top_Menu_Registration_GSW');">Register now</a></li>
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        Agenda <span class="caret"></span>
-                    </a>
-                    <div id="agendaMenu" class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="schedule.php">Schedule</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="panels_workshops.php">Content overview</a>
-                    </div>
-                </li>
-                      <li><a href="speakers.php">Speakers</a></li>
+                <li><a href="agenda.php">Agenda</a></li>
+                <li><a href="registration.php">Registration</a></li>
+                <li><a href="speakers.php">Speakers</a></li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Competitions <span class="caret"></span>
                     </a>
                     <div id="competitionMenu" class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="bpc.php">Business Plan <br />Competition</a>
+                        <a class="dropdown-item" href="startup-showcase.php">Startup <br />Showcase</a>
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="epc.php">Elevator Pitch <br /> Competition</a>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="startup-showcase.php">Startup <br />Showcase</a>
+                        <a class="dropdown-item" href="bpc.php">Business Plan <br />Competition</a>
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="mentors.php">Mentors</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="judges.php">Judges</a>
                     </div>
                 </li>
-                <li><a href="index.php#official_app">Official app</a></li>
-                <li><a href="get_involved.php">Get involved with MIT</a></li>
-                <!--<li><a href="faq.php">FAQ</a></li>-->
             </ul>
             <ul class="nav navbar-nav navbar-right" id="navbarDropdown" >
                 <li class="nav-item dropdown">
@@ -124,12 +65,9 @@
                         <a class="dropdown-item" href="team.php">Who we are</a>
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="sponsors.php">Sponsors</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="collaborators.php">Collaborators</a>
                     </div>
                 </li>
-                
-                          </ul>
+            </ul>
         </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->
 </nav>
@@ -148,7 +86,7 @@ $scripts = "
             }
         });
 
-       (function() {
+        (function() {
             var nav = document.getElementById('nav'),
             anchor = nav.getElementsByTagName('a'),
             current = window.location.href.split('/')[window.location.href.split('/').length-1];
@@ -164,5 +102,3 @@ $scripts = "
         })();
     </script>";
 ?>
-
-
