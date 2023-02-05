@@ -43,7 +43,7 @@
                 </div>
                 <ul class="nav navbar-nav mr-auto">
                     <li class="active"><a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a></li>
-                    <li class=""><a class="nav-link disabled" href="https://www.eventora.gr/mit-gsw/">Register Now</a></li>
+                    <li class=""><a class="nav-link"  style="background-color: #7d4270; color: white; border-radius: 3.5px;" href="https://www.eventora.gr/mit-gsw/">Register Now</a></li>
                     <li class=""><a class="nav-link" href="templates/schedule.php">Agenda</a></li>
                     <li class=""><a class="nav-link disabled" href="#">Speakers</a></li>
                     <li class="dropdown">
