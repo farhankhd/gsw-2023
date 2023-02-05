@@ -8,6 +8,9 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">   
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+   
     <title><?= $pageTitle ?></title>
     <meta name="description" content="<?= $metaDescription ?>">
     <meta name="keywords" content="MIT Global Startup Workshop, MIT GSW, MIT, Thailand, Entrepreneurship, Mentorship, Workshops, Innovation, Technology,innovation-driven entrepreneurship,Sasin School of Managment, MIT Association of Thailand,<?= $specificKeywords?>">
@@ -26,11 +29,11 @@
     <meta name="twitter:card" content="summary">
     <meta name="description" content="MIT Global Startup Workshop is coming to Thailand this year. Grab tickets now and come have an entrepreneurial experience you will never forget!">
     <meta property="og:type" content="website">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:200,400,400i,500,500i,600,700,800,900" rel="stylesheet">
-    <link rel="stylesheet" href="splash/css/style.css?v=<?= $cssVersion ?>">
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" 
+    <link rel="stylesheet" href="assets/css/style.css?v=<?= $cssVersion ?>">
     <link href="https://use.fontawesome.com/0b972b6cf8.css" media="all" rel="stylesheet">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
+ 
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109416268-1"></script>
@@ -78,7 +81,6 @@
         <div class="collapse navbar-collapse navbar-mobile" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
                 <li><a href="index.php">Home<span class="sr-only">(current)</span></a></li>
-                <li><a class="btn btn-default" href="http://gsw.mit.edu/2019/">GSW 2019</a></li>
                 <li><a href="registration.php" onClick="fbq('trackCustom', 'Top_Menu_Registration_GSW');">Register now</a></li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
