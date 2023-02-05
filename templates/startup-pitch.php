@@ -28,9 +28,12 @@
                 <p class="light-text light-bg-dark-text"> 
                     Are you an entrepreneur trying to take your startup to the next level? <br>The <strong class="light-bg-dark-text" style="color: #00c0f2">MIT GSW Startup Pitch Competition</strong> is an opportunity for you to pitch your company and compete for a chance to win seed money to scale your startup.
                 </p>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLScGcvXe5ioa0kCA6X9UsN-wxMntEF_qolskXs7sgE_3z3AYnA/viewform?usp=sf_link"><!-- link in here -->
-                    <div class="comp-btn">Apply Now </div>
-                </a>
+                <div style="text-align:center">
+                    <a style=href="https://docs.google.com/forms/d/e/1FAIpQLScGcvXe5ioa0kCA6X9UsN-wxMntEF_qolskXs7sgE_3z3AYnA/viewform?usp=sf_link"><!-- link in here -->
+                    <div class="comp-btn" style="text-align-center; color">Apply Now </div>
+                    </a>
+                </div>
+                
                 <br><br><br>
                 <p class="light-text light-bg-dark-text">
                     <strong class="light-bg-dark-text" >Submissions will be considered on a rolling basis until February 20th, 2023.</strong> Apply early before spots fill!
@@ -50,7 +53,7 @@
            <h1>Prizes</h1>
         </div>
         <section>
-            <div class="row white-bg" style="padding-bottom: 10px;">
+            <div class="row white-bg" style="padding-bottom: 0;">
                 <div class="col-lg" style="padding-bottom: 0">
                     <h4 style="background-color: #131d25">1st Place</h4>
                     <div class="p-5" style="background-color: #F5F5F5">
