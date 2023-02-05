@@ -57,7 +57,7 @@
                             About Us
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <a class="nav-link dropdown-item" href="team.php">Our Team</a>
+                            <a class="nav-link dropdown-item" href="templates/team.php">Our Team</a>
                             <div class="dropdown-divider"></div>
                             <a class="nav-link dropdown-item" href="sponsors.php">Sponsors</a>
                         </div>
