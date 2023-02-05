@@ -339,7 +339,7 @@
             </div>
             <div class="row text-center team-row">
                 <div class="team container col-sm-6 col-md-4">
-                    <a><img src="../img/team/tiasa.jpg" class="team-picture" alt=""></a>
+                    <a><img src="../img/board/BillAulet.jpg" class="team-picture" alt=""></a>
                     <div class="team-name bold-text">Bill Aulet</div>
                     <div class="team-role light-text">Faculty Advisor</div>
                     <div class="team-area light-text">MIT Sloan School of Management</div>
