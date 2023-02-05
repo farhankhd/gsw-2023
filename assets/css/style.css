@@ -514,7 +514,9 @@ transform: scale(0.4) translate(90%,  30%);
     border-color: #9959a4;
 }
 
-.event-type-competition {
+.event-type-
+
+etition {
     border-color: #7a97ad;
 }
 @media screen and (max-width: 640px) {
@@ -551,7 +553,7 @@ transform: scale(0.4) translate(90%,  30%);
     background-color: #F5F5F5;
     padding: 50px;
 }
-a.register-btn, .register-btn, a.comp-btn, comp-btn  {
+.comp-btn {
     text-align: center;
     color: #ffff;
     font-size:  20px;
@@ -560,6 +562,20 @@ a.register-btn, .register-btn, a.comp-btn, comp-btn  {
     width: 250px;
     background-color: rgb(125, 66, 112);
     border-radius: 50px;
+}
+.register-btn {
+    text-align: center;
+    color: #ffff;
+    font-size:  20px;
+    /*border: 3px solid rgb(213, 190, 194);*/
+    height: 80px;
+    width: 250px;
+    background-color: rgb(125, 66, 112);
+    border-radius: 50px;
+}
+a:hover .comp-btn {
+    background-color: rgb(125, 66, 112);
+    color: #ffff;
 }
 a:hover .register-btn {
     background-color: rgb(125, 66, 112);
