@@ -74,7 +74,7 @@ $cssVersion = "1.0.8";
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand logo-left" href="index.php"><img src="../img/GSW_logo_white.png" id="navbar-logo"></a>
+                    <a class="navbar-brand logo-left" href="index.php"><img src="img/GSW_logo_white.png" id="navbar-logo"></a>
                 </div>
 
                 <!-- Collect the nav links, forms, and other content for toggling -->
@@ -135,7 +135,7 @@ $cssVersion = "1.0.8";
                 </div><!-- /.navbar-collapse -->
                 <!--Right most MIT logo-->
                 <a class="navbar-brand" href="index.html">
-                    <img id="logo-right" src="../img/mit.png">
+                    <img id="logo-right" src="img/mit.png">
                 </a>
             </div><!-- /.container-fluid -->
         </nav>
