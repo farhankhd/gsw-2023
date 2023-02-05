@@ -704,7 +704,7 @@ background-color: #ffff;
 
     text-align: center;
     background-color: #131d25;
-    color: white;
+    color: #ffff;
     padding: 20px;
     font-size: 16px;
     overflow: auto;
@@ -716,10 +716,10 @@ background-color: #ffff;
 #idLinkedInIcon  {
     background-color: rgb(0, 102, 170);
     border-radius: 5px;
-    color:white;
+    color: #ffff;
     cursor:pointer;
     display:inline-block;
-    font: bold 25px Arial, Helvetica, sans-serif;
+    font: bold 25px Myriad Pro, Myriad Pro Light, sans-serif;
     height:30px;
     width:30px;
     margin-top:1px;
