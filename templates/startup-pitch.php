@@ -50,7 +50,7 @@
            <h1>Prizes</h1>
         </div>
         <section>
-            <div class="row""padding-bottom: 0">
+            <div class="row" style="padding-bottom: 0">
                 <div class="col-lg" style="padding-bottom: 0">
                     <h4 style="background-color: #131d25>1st Place</h4>
                     <div class="p-5" style="background-color: #F5F5F5">
@@ -95,12 +95,10 @@
         </section>
 
         <!--ELIGIBILITY-->
+        <div class="section-div">
+           <h1>Eligibility</h1>
+        </div>
         <section>
-            <div class="row">
-                <div class="col">
-                    <h1 class="section-header">Eligibility</h1>
-                </div>
-            </div>
             <div class="white-bg" style="padding: 50px 150px 50px">
                 <p class="light-text light-bg-dark-text"> 
                     Teams must meet all the following requirements to be eligible to compete in the <strong class="light-bg-dark-text" style="color: #00c0f2">Startup Pitch Competition</strong>.
@@ -108,20 +106,20 @@
             </div>
             <div class="row white-bg" style="padding: 0px 150px 50px">
                 
-                <button class="collapsible">Test</button>
-                <div class="content">
+                <button class="collapsible-elig">Test</button>
+                <div class="content-elig">
                     <p>Anyone from any discipline and from any organization, including colleges and universities, government laboratories, research institutions, non-profit organizations, and for-profit companies.</p></div>
-                <button class="collapsible">Application Eligibility</button>
-                <div class="content"><br>Anyone from any discipline and from any organization, including colleges and universities, government laboratories, research institutions, non-profit organizations, and for-profit companies.</div>
+                <button class="collapsible-elig">Application Eligibility</button>
+                <div class="content-elig"><br>Anyone from any discipline and from any organization, including colleges and universities, government laboratories, research institutions, non-profit organizations, and for-profit companies.</div>
                 
-                <button class="collapsible">Stage Eligibility</button>
-                <div class="content"><br>Anyone from any discipline and from any organization, including colleges and universities, government laboratories, research institutions, non-profit organizations, and for-profit companies.</div>
-                <div class="content"><br>
+                <button class="collapsible-elig">Stage Eligibility</button>
+                <div class="content-elig"><br>Anyone from any discipline and from any organization, including colleges and universities, government laboratories, research institutions, non-profit organizations, and for-profit companies.</div>
+                <div class="content-elig"><br>
                     Startups should have a beta product/service/prototype. Ideation startups are not eligible to compete.
                 </div>
 
-                <button class="collapsible">Prior Funding Limitations</button>
-                <div class="content"><br>Startups that have raised more than EUR 1,000,000 in equity capital are not eligible to compete. Teams can engage in discussions to raise equity before the conference, but shouldn’t have officially raised more than the maximum amount before the conference. The EUR 1,000,000 limit applies to all dilutive funding sources such as but not limited to direct equity investments, SAFE, angel investments, professional investment, or from FF.
+                <button class="collapsible-elig">Prior Funding Limitations</button>
+                <div class="content-elig"><br>Startups that have raised more than EUR 1,000,000 in equity capital are not eligible to compete. Teams can engage in discussions to raise equity before the conference, but shouldn’t have officially raised more than the maximum amount before the conference. The EUR 1,000,000 limit applies to all dilutive funding sources such as but not limited to direct equity investments, SAFE, angel investments, professional investment, or from FF.
                     <br><br>
                     In addition, the following funding sources do contribute towards the EUR 1,000,000 limit:
                     <br>
@@ -140,24 +138,24 @@
                     </ul>
                 </div>
 
-                <button class="collapsible">Market Requirements</button>
-                <div class="content"><br>
+                <button class="collapsible-elig">Market Requirements</button>
+                <div class="content-elig"><br>
                     The startup must be based in or have operations in Greece or Europe to be eligible to compete.
                 </div>
 
-                <button class="collapsible">Venture Limitations</button>
-                <div class="content"><br>
+                <button class="collapsible-elig">Venture Limitations</button>
+                <div class="content-elig"><br>
                     The Startup Pitch Competition is meant to provide an avenue for early-stage startups to receive funding and accelerate their venture. Generally, the following types of ventures will not be eligible to apply: ventures within existing corporations, spinouts from existing corporations, franchises, and licensing agreements for distribution in a different geographical area.
                 </div>
 
-                <button class="collapsible">Team Presentation</button>
-                <div class="content"><br>
+                <button class="collapsible-elig">Team Presentation</button>
+                <div class="content-elig"><br>
                     At least two and up to three team members must attend the final pitch and be involved in the Q+A. All attending team members will need to complete the online conference registration process.
 
                 </div>
 
-                <button class="collapsible">Pre-Conference Workshop and Mentorship</button>
-                <div class="content"><br>
+                <button class="collapsible-elig">Pre-Conference Workshop and Mentorship</button>
+                <div class="content-elig"><br>
                     <ul class="bullet-elig" >
                         <li class="bullet-elig light-text">All finalist teams will be required to attend an online pitch workshop organized by MIT in Feb 2023/early Mar 2023.
                         </li>
@@ -165,18 +163,18 @@
                     </ul>
                 </div>
 
-                <button class="collapsible">At Conference Mentorship</button>
-                <div class="content"><br>
+                <button class="collapsible-elig">At Conference Mentorship</button>
+                <div class="content-elig"><br>
                     All finalist teams will meet in person for 30 minutes with their mentor during the first day of the conference to practice and finalize their decks and pitches.
                 </div>
 
-                <button class="collapsible">Full Availability</button>
-                <div class="content"><br>
+                <button class="collapsible-elig">Full Availability</button>
+                <div class="content-elig"><br>
                     All teams must be at the conference for registration on the morning of Thursday, March 30th, 2023.
                 </div>
 
-                <button class="collapsible">Additional Fineprint</button>
-                <div class="content"><br>
+                <button class="collapsible-elig">Additional Fineprint</button>
+                <div class="content-elig"><br>
                     <ul class="bullet-elig" style="padding: 0px 50px 0px">
                         <li class="bullet-elig light-text">Disclaimer: The Global Startup Workshop competition committee reserves the right to include or exclude any teams for any reason.
                         </li>
@@ -187,6 +185,6 @@
         </section>
 
         <!--JS-->
-        <script src="../assets/js/scripts.js"></script>
+        <script src="assets/js/scripts.js"></script>
     </body>
 </html>
