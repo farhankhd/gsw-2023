@@ -1,65 +1,7 @@
-.section {
-    padding: 40px 15%;
-    font-size: 1em;
-    background-color: white;
-}
-@media only screen and (min-width: 480px) {
-    .section {
-        padding: 40px 15%;
-        font-size: 1.4em;
-    }
-}
-
-.section-header {
-    font-size: 0.9em;
-    font-weight: 700;
-    margin-top: 30px;
-    margin-bottom: 20px;
-}
-@media only screen and (min-width: 480px) {
-    .section-header {
-        font-size: 1.5em;
-    }
-}
-
-.section-header-light {
-    font-size: 0.8em;
-    font-weight: 500;
-    margin-top: 30px;
-    margin-bottom: 20px;
-}
-@media only screen and (min-width: 480px) {
-    .section-header-light {
-        font-size: 1.7em;
-    }
-}
-
-.section-header-highlighted{
-    text-align: center;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    font-weight: 900;
-}
-.section-header-page{
-    border-bottom: 2px solid rgba(100, 121, 162,0.3);
-    padding-bottom: 5px;
-    color: #0e1e58;
-}
-
-
-
-
 
 /***************
 *** GENERAL ***
 ***************/
-.section-div {
-    background-color: #131d25;
-    height: 100%;
-    max-height: 300px;
-    
-}
-
 * {
     /*background-color: #131d25;*/
     /*color: #ffff;*/
@@ -126,6 +68,7 @@ h4 {
 h5, h6 {
     color: #ffff;
 }
+
 /*STRUCTURE*/
 .section-header{
     padding-bottom: 70px;
@@ -133,8 +76,56 @@ h5, h6 {
 section {
     padding: 70px 0px 70px;
 }
+.section-div {
+    background-color: #131d25;
+    height: 100%;
+    max-height: 300px; 
+}
+.section {
+    padding: 40px 15%;
+    font-size: 1em;
+    background-color: white;
+}
+@media only screen and (min-width: 480px) {
+    .section {
+        padding: 40px 15%;
+        font-size: 1.4em;
+    }
+}
+.section-header {
+    font-size: 0.9em;
+    font-weight: 700;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+@media only screen and (min-width: 480px) {
+    .section-header {
+        font-size: 1.5em;
+    }
+}
 
-
+.section-header-light {
+    font-size: 0.8em;
+    font-weight: 500;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+@media only screen and (min-width: 480px) {
+    .section-header-light {
+        font-size: 1.7em;
+    }
+}
+.section-header-highlighted{
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-weight: 900;
+}
+.section-header-page{
+    border-bottom: 2px solid rgba(100, 121, 162,0.3);
+    padding-bottom: 5px;
+    color: #0e1e58;
+}
 
 /**************
 *** NAVBAR ***
@@ -218,8 +209,6 @@ section {
 .navbar-default a:hover, .navbar-default a:focus {
     font-size: 0.95em;
 }
-
-
 .navbar-default .navbar-nav>li>a {
     color: rgba(255,255,255,0.5);
     letter-spacing: 0.08em;
@@ -237,8 +226,6 @@ section {
         font-size: 0.7em;
     }
 }
-
-
 .dropdown-menu{
     padding: 15px;
     letter-spacing: 0.08em;
