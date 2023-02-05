@@ -43,7 +43,7 @@
             <div class="row team-row text-center">
                 <div class="team container col-md-4">
                     <a href="https://www.linkedin.com/in/farhan-khodaee-62212242/">
-                        <img class="team-picture" src="../../img/team/farhan.jpg"></a>
+                        <img class="team-picture" src="../img/team/farhan.jpg"></a>
                     <div class="overlay">
                         <div class="team-bio light-text">
                             Farhan is a PhD candidate in the Mechanical Engineering/Bioengineering program at MIT. 
@@ -62,7 +62,7 @@
                 </div>
                 <div class="team container col-md-4">
                     <a href="">
-                        <img class="team-picture" src="../../img/team/anna.jpg"></a>
+                        <img class="team-picture" src="../img/team/anna.jpg"></a>
                     <div class="overlay">
                         <div class="team-bio light-text">
                             Anna is a dual degree student currently working towards both a Masters in Business Administration at MIT Sloan School of Management and a Masters in Public Administration at the Harvard Kennedy School of Government. 
@@ -81,7 +81,7 @@
                 </div>
                 <div class="team container col-md-4">
                     <a href="#teamDanielaGorza">
-                        <img class="team-picture" src="../../img/team/daniela.jpeg"></a>
+                        <img class="team-picture" src="../img/team/daniela.jpeg"></a>
                     <div class="overlay">
                         <div class="team-bio light-text">
                             Daniela Gorza is a Master of Business Administration (MBA) candidate at MIT Sloan School of Management, and is the President of the Italy Club at MIT Sloan. 
