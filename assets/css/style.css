@@ -612,7 +612,6 @@ li.dark-bullet {
 .active, .collapsible-elig:hover {
 background-color: rgb(226, 109, 54);
 }
-
 */
 .collapsible-elig:after {
     content: '\002B';
@@ -657,8 +656,8 @@ font-size: 16px;
 max-width: 100%;
 color: #131d25;
 background-color: #F5F5F5;
-
-}*/
+}
+*/
 
 /***************
 *** ABOUT US ***
