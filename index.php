@@ -24,9 +24,5 @@
 
     include('templates/navbar.php');
     include('templates/home.php');
-    include("templates/schedule.php");
-
-    //include('php/location.php');
-    include('templates/collaborators.php');
     include('templates/footer.php');
 ?>
