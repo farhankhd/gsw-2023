@@ -11,8 +11,7 @@
         <link rel="stylesheet" href="https://use.typekit.net/fww3ner.css">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
         <link rel='stylesheet' href='../assets/css/style.css'>
-        
-        <? php include('php/navbar.php'); ?>
+   
     </head>
 
     <body>
@@ -44,7 +43,7 @@
             <div class="row team-row text-center">
                 <div class="team container col-md-4">
                     <a href="https://www.linkedin.com/in/farhan-khodaee-62212242/">
-                        <img class="team-picture" src="../img/team/Farhan.jpg"></a>
+                        <img class="team-picture" src="../../img/team/farhan.jpg"></a>
                     <div class="overlay">
                         <div class="team-bio light-text">
                             Farhan is a PhD candidate in the Mechanical Engineering/Bioengineering program at MIT. 
@@ -63,7 +62,7 @@
                 </div>
                 <div class="team container col-md-4">
                     <a href="">
-                        <img class="team-picture" src="../img/team/Anna.jpg"></a>
+                        <img class="team-picture" src="../../img/team/anna.jpg"></a>
                     <div class="overlay">
                         <div class="team-bio light-text">
                             Anna is a dual degree student currently working towards both a Masters in Business Administration at MIT Sloan School of Management and a Masters in Public Administration at the Harvard Kennedy School of Government. 
@@ -82,7 +81,7 @@
                 </div>
                 <div class="team container col-md-4">
                     <a href="#teamDanielaGorza">
-                        <img class="team-picture" src="../img/team/daniela.jpeg"></a>
+                        <img class="team-picture" src="../../img/team/daniela.jpeg"></a>
                     <div class="overlay">
                         <div class="team-bio light-text">
                             Daniela Gorza is a Master of Business Administration (MBA) candidate at MIT Sloan School of Management, and is the President of the Italy Club at MIT Sloan. 
@@ -110,7 +109,7 @@
             <div class="team-row text-center">
                 <div class="row">
                     <div class="team container col-4"><a href="">
-                        <img class="team-picture" src="../img/team/Vineet.jpg"></a>
+                        <img class="team-picture" src="../img/team/vineet.jpg"></a>
                         <div class="overlay">
                             <div class="team-bio light-text">
                                 Vineet is a PhD candidate in the Computational Science &#38; Engineering program. 
@@ -129,7 +128,7 @@
                         <div class="team-area light-text">MIT MechE</div>
                     </div>
                     <div class="team container col-4"><a href="">
-                        <img class="team-picture" src="../img/team/Katie.JPG"></a>
+                        <img class="team-picture" src="../img/team/katie.jpg"></a>
                         <div class="overlay">
                             <div class="team-bio light-text">
                                 Katie is a graduate student at the Integrated Design and Management program, working towards an Engineering Management degree. 
@@ -149,7 +148,7 @@
 
                 <div class="row">
                     <div class="team container col-sm-6 col-md-4"><a href="">
-                        <img class="team-picture" src="../img/team/Madi.jpg"></a>
+                        <img class="team-picture" src="../img/team/madi.jpg"></a>
                         <div class="overlay">
                             <div class="team-bio light-text">
                                 Madison is a National Science Foundation Graduate Research Fellow in the Department of Mechanical Engineering at MIT. 
@@ -167,7 +166,7 @@
                         <div class="team-area light-text">MIT MechE</div>
                     </div>
                     <div class="team container col-sm-6 col-md-4"><a href="">
-                        <img class="team-picture" src="../img/team/Jenny.jpg"></a>
+                        <img class="team-picture" src="../img/team/jenny.jpg"></a>
                         <div class="overlay">
                             <div class="team-bio light-text">
                                 Jenny is a Masters in Business Administration (MBA) candidate at MIT Sloan School of Management. 
@@ -210,7 +209,7 @@
 
                 <div class="row">
                     <div class="team container col-4"><a href="">
-                        <img class="team-picture" src="../img/team/Tiasa.jpg"></a>
+                        <img class="team-picture" src="../img/team/tiasa.jpg"></a>
                         <div class="overlay">
                             <div class="team-bio light-text">
                                 Tiasa is a recent graduate from Wellesley College, earning her Bachelors of Arts (B.A.) in Computer Science. 
@@ -228,7 +227,7 @@
                         <div class="team-area light-text">Wellesley College, B.A. Computer Science '23</div>
                     </div>
                     <div class="team container col-4"><a href="">
-                        <img class="team-picture" src="../img/team/Liv_J.jpg"></a>
+                        <img class="team-picture" src="../img/team/liv-j.jpg"></a>
                         <div class="overlay">
                             <div class="team-bio light-text">
                                 Olivia is a Masters of Business Administration (MBA) candidate at MIT Sloan School of Management. 
@@ -252,7 +251,7 @@
 
                 <div class="row">
                     <div class="team container col-sm-6 col-md-4"><a href="">
-                        <img class="team-picture" src="../img/team/Rishabh.jpg"></a>
+                        <img class="team-picture" src="../img/team/rishabh.jpg"></a>
                         <div class="overlay">
                             <div class="team-bio light-text">
                                 Rishabh is a Masters of Business Administration (MBA) candidate at MIT Sloan School of Management and SVP of the Product Management Club. 
@@ -270,7 +269,7 @@
                         <div class="team-area light-text">MIT MBA '23</div>
                     </div>
                     <div class="team container col-sm-6 col-md-4"><a href="">
-                        <img class="team-picture" src="../img/team/Olivia_G.jpg"></a>
+                        <img class="team-picture" src="../img/team/olivia-g.jpg"></a>
                         <div class="overlay">
                             <div class="team-bio light-text">
                                 Olivia's Bio Coming Soon!
@@ -281,7 +280,7 @@
                         <div class="team-area light-text">MIT MBA '24</div>
                     </div>
                     <div class="team container col-sm-6 col-md-4"><a href="">
-                        <img class="team-picture" src="../img/team/Noah.jpg"></a>
+                        <img class="team-picture" src="../img/team/noah.jpg"></a>
                         <div class="overlay">
                             <div class="team-bio light-text">
                                 Noah is a Masters in Business Administration (MBA) candidate at MIT Sloan School of Management. 
@@ -301,7 +300,7 @@
 
                 <div class="row">
                     <div class="team container col-4"><a href="">
-                        <img class="team-picture" src="../img/team/Layla.jpg"></a>
+                        <img class="team-picture" src="../img/team/layla.jpg"></a>
                         <div class="overlay">
                             <div class="team-bio light-text">
                                 Layla is a Masters of Science (S.M.) in Technology and Policy candidate at MIT Schwarzman College of Computing. 
@@ -319,7 +318,7 @@
                         <div class="team-area light-text">MIT TPP</div>
                     </div>
                     <div class="team container col-4"><a href="">
-                        <img class="team-picture" src="../img/team/Prem.jpg"></a>
+                        <img class="team-picture" src="../img/team/prem.jpg"></a>
                         <div class="overlay">
                             <div class="team-bio light-text">
                                 Prem's Bio Coming Soon!
@@ -379,12 +378,7 @@
                 </div>
             </div>
         </section>
-        
-        <!-- Optional JavaScript -->
-        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
         <!--JS-->
         <script src="../assets/js/scripts.js"></script>
     </body>
