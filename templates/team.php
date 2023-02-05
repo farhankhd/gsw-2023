@@ -299,8 +299,8 @@
                 <br>
 
                 <div class="row">
-                    <div class="team container col-4"><a href="">
-                        <img class="team-picture" src="../img/team/layla.jpg"></a>
+                    <div class="team container col-4">
+                        <a href=""><img class="team-picture" src="../img/team/layla.jpg"></a>
                         <div class="overlay">
                             <div class="team-bio light-text">
                                 Layla is a Masters of Science (S.M.) in Technology and Policy candidate at MIT Schwarzman College of Computing. 
@@ -339,19 +339,19 @@
             </div>
             <div class="row text-center team-row">
                 <div class="team container col-sm-6 col-md-4">
-                    <img src="../img/board/BillAulet.jpg" class="team-picture" alt="">
+                    <a><img src="../img/board/BillAulet.jpg" class="team-picture" alt=""></a>
                     <div class="team-name bold-text">Bill Aulet</div>
                     <div class="team-role light-text">Faculty Advisor</div>
                     <div class="team-area light-text">MIT Sloan School of Management</div>
                 </div>
                 <div class="team container col-sm-6 col-md-4">
-                    <img src="../img/board/GitaRao.jpg" class="team-picture" alt="">
+                    <a><img src="../img/board/GitaRao.jpg" class="team-picture" alt=""></a>
                     <div class="team-name bold-text">Gita Rao</div>
                     <div class="team-role light-text">Faculty Advisor</div>
                     <div class="team-area light-text">MIT Sloan School of Management</div>
                 </div>
                 <div class="team container col-sm-6 col-md-4">
-                    <img src="../img/board/SimonJohnson.jpg" class="team-picture" alt="">
+                    <a><img src="../img/board/SimonJohnson.jpg" class="team-picture" alt=""></a>
                     <div class="team-name bold-text">Simon Johnson</div>
                     <div class="team-role light-text">Faculty Advisor</div>
                     <div class="team-area light-text">MIT Sloan School of Management</div>
@@ -359,19 +359,19 @@
             </div>
             <div class="row text-center team-row">
                 <div class="team container col-sm-6 col-md-4">
-                    <img src="../img/board/MeganMitchell.jpg" class="team-picture" alt="">
+                    <a><img src="../img/board/MeganMitchell.jpg" class="team-picture" alt=""></a>
                     <div class="team-name bold-text">Megan Mitchell</div>
                     <div class="team-role light-text">Acting Director</div>
                     <div class="team-area light-text">MIT Legatum Center</div>
                 </div>
                 <div class="team container col-sm-6 col-md-4">
-                    <img src="../img/board/LeeUllman.jpg" class="team-picture" alt="">
+                    <a><img src="../img/board/LeeUllman.jpg" class="team-picture" alt=""></a>
                     <div class="team-name bold-text">Lee Ullmann</div>
                     <div class="team-role light-text">Executive Director</div>
                     <div class="team-area light-text">MIT Sloan Latin America Office</div>
                 </div>
                 <div class="team container col-sm-6 col-md-4">
-                    <img src="../img/board/TravisHunter.jpg" class="team-picture" alt="">
+                    <a><img src="../img/board/TravisHunter.jpg" class="team-picture" alt=""></a>
                     <div class="team-name bold-text">Travis Hunter</div>
                     <div class="team-role light-text">Director</div>
                     <div class="team-area light-text">MIT Regional Entrepreneurship &#38; Acceleration Program</div>
