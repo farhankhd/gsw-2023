@@ -690,8 +690,8 @@ background-color: #ffff;
     color: #131d25;
 }
 
-.team-bio {
-    color:  white;
+.team-bio p {
+    color: #ffff;
 }
 
 .container {
