@@ -20,115 +20,59 @@
         }
     }
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta http-equiv="Cache-control" content="public">
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    
-    <title><?= $pageTitle ?></title>
-    <link rel="shortcut icon" href="favicon.ico"/>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+        <title>MIT GSW 2023</title>
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+        <!--CSS: Adobe Font, Boostrap, style.css-->
+        <link rel="stylesheet" href="https://use.typekit.net/fww3ner.css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <link rel='stylesheet' href='assets/css/style.css'>
+    </head>
 
-    <link rel="stylesheet" href="assets/css/style.css">
-    <link href="https://use.fontawesome.com/0b972b6cf8.css" media="all" rel="stylesheet">
-</head>
-<body>
-<nav class="navbar navbar-default navbar-fixed-top" id="nav">
-    <div class="container-fluid">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="index.php"><img src="img/GSW_logo_white.png" id="navbar-logo"></a>
-        </div>
 
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse navbar-mobile" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav">
-                <li><a href="index.php">Home<span class="sr-only">(current)</span></a></li>
-                <li><a href="templates/registration.php">Registration</a></li>
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        Competitions <span class="caret"></span>
-                    </a>
-                    <div id="competitionMenu" class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  
-                        <a class="dropdown-item" href="templates/startup-pitch.php">Startup <br /> Pitch</a>
-                    </div>
-                </li> 
-                <!-- <li><a href="agenda.php">Agenda</a></li> -->
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        Agenda <span class="caret"></span>
-                    </a>
-                    <div id="competitionMenu" class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="assets/booklet2.pdf">Agenda with Locations</a>
-                        <a class="dropdown-item" href="assets/booklet.pdf">Conference Program (Download)</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="templates/schedule.php">Schedule</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="panels.php">Content</a>
-                    </div>
-                </li> 
-                <li><a href="templates/sponsors.php">Sponsors</a></li>
-                <li><a href="templates/speakers.php">Speakers</a></li>
-                <!-- <li><a href="team.php">About Us</a></li> -->
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        About Us <span class="caret"></span>
-                    </a>
-                    <div id="competitionMenu" class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="templates/team.php">Who We <br />Are</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="templates/collaborators.php">Collaborators</a>
-                    </div>
-                </li> 
-                
-            </ul>
-            <ul class="nav navbar-nav navbar-right" id="navbarDropdown" >
-            <a href="https://www.mit.edu"> 
-                <img src="img/mit.png" id="navbar-logo-right">
-            </a>
-            </ul>
-        </div><!-- /.navbar-collapse -->
-    </div><!-- /.container-fluid -->
-</nav>
+    <body>
+        <nav class="navbar navbar-expand-lg navbar-fixed-top">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="index.php"><img id="logo-left" src="img/GSW_logo_black.png"></a>
+                </div>
+                <ul class="nav navbar-nav mr-auto">
+                    <li class="active"><a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a></li>
+                    <li class=""><a class="nav-link disabled" href="#">Register Now</a></li>
+                    <li class=""><a class="nav-link disabled" href="#">Agenda</a></li>
+                    <li class=""><a class="nav-link disabled" href="#">Speakers</a></li>
+                    <li class="dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Competitions</a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="nav-link dropdown-item" href="templates/startup-pitch.php">Startup Pitch</a>
+                        </div>
+                    </li> 
+                    <li class="dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            About Us
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="nav-link dropdown-item" href="#">Our Team</a>
+                            <div class="dropdown-divider"></div>
+                            <a class="nav-link dropdown-item" href="#">Sponsors</a>
+                        </div>
+                    </li> 
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="https://web.mit.edu/"><img id="logo-right" src="img/mit.png"></a></li>
+                </ul>
+            </div>
+        </nav> 
 
-<?php
-$scripts = "
-    <script>
-        $(document).scroll(function () {
-            var scrollPos = $(document).scrollTop();
-            if (scrollPos > 250) {
-                $('#navbar-logo').addClass('navbar-logo-small');
-                $('.navbar').addClass('navbar-condensed');
-            } else {
-                $('#navbar-logo').removeClass('navbar-logo-small');
-                $('.navbar').removeClass('navbar-condensed');
-            }
-        });
-        (function() {
-            var nav = document.getElementById('nav'),
-            anchor = nav.getElementsByTagName('a'),
-            current = window.location.href.split('/')[window.location.href.split('/').length-1];
-                        
-            for (var i = 0; i < anchor.length; i++) {
-                var url = anchor[i].href.split('/')[anchor[i].href.split('/').length-1];
-                if(url == current) {
-                    
-                        anchor[i].className = \"active\";
-                }
-            }
-        })();
-    </script>";
-?>
+        <!-- Optional JavaScript -->
+        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    </body>  
+</html>
