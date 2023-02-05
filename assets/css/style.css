@@ -690,6 +690,10 @@ background-color: #ffff;
     color: #131d25;
 }
 
+.team-bio {
+    color:  white;
+}
+
 .container {
     position: relative;
 
@@ -737,9 +741,7 @@ background-color: #ffff;
 
 }
 .test-pic {
-
     width: 400px;
-
 }
 
 /***************
