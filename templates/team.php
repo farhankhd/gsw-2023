@@ -25,10 +25,12 @@
 
         </section>
         -->
-        <div class="section-div">
-            <img class="banner" style="height: 200px" src="../img/team/team_01.jpg">
-            <h1 class="section-header">OUR TEAM</h1>
+        <div class="section-div banner header" data-parallax="scroll" style="background-image: url('../img/team/team_01.jpg');">
+            <div class="header-overlay">
+                 <h1 class="section-header banner-text">OUR TEAM</h1>
+            </div>
         </div>
+       
         <section>
             <div class="white-bg" style="padding: 50px 150px 50px">
                 <p class="light-text light-bg-dark-text"> 
