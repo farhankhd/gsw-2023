@@ -64,8 +64,8 @@
 
         <!--BACKGROUND-->
         <div class="section-div">
-            <img id="element1" src="img/elements/Asset%201.svg"> 
-            <img id="element2" src="img/elements/Asset%202.svg"> 
+            <!--<img id="element1" src="img/elements/Asset%201.svg"> 
+            <img id="element2" src="img/elements/Asset%202.svg">-->
         </div>
         <section>
             <div class="row white-bg">
@@ -81,8 +81,8 @@
 
         <!--WHY ATTEND-->
         <div class="section-div">
-            <img id="element3" src="img/elements/Asset%202.svg"> 
-            <img id="element4" src="img/elements/Asset%204.svg"> 
+            <!--<img id="element3" src="img/elements/Asset%202.svg"> 
+            <img id="element4" src="img/elements/Asset%204.svg">-->
         </div>
         <section class="why-attend">
             <div class="row">
