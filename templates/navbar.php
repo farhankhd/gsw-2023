@@ -18,10 +18,10 @@
         <meta property="og:url" content="http://gsw.mit.edu/2023/">
         <meta itemprop="name" content="Home">
         <meta itemprop="url" content="http://gsw.mit.edu/2023/">
-        <link rel="image_src" href="../img/GSW_logo_white.png">
-        <meta itemprop="image" content="../img/GSW_logo_white.png">
+        <link rel="image_src" href="img/GSW_logo_white.png">
+        <meta itemprop="image" content="img/GSW_logo_white.png">
         <meta name="twitter:title" content="Home">
-        <meta name="twitter:image" content="../img/GSW_logo_white.png">
+        <meta name="twitter:image" content="img/GSW_logo_white.png">
         <meta name="twitter:url" content="http://gsw.mit.edu/2023/">
         <meta name="twitter:card" content="summary">
         <meta name="description" content="MIT Global Startup Workshop is coming to Greece this year. Grab tickets now and come have an entrepreneurial experience you will never forget!">
@@ -144,34 +144,5 @@
             </div><!-- /.container-fluid -->
         </nav>
     </body>
-<?php
-    $scripts = "
-    <script>
-        $(document).scroll(function () {
-            var scrollPos = $(document).scrollTop();
-            if (scrollPos > 250) {
-                $('#navbar-logo').addClass('navbar-logo-small');
-                $('.navbar').addClass('navbar-condensed');
-            } else {
-                $('#navbar-logo').removeClass('navbar-logo-small');
-                $('.navbar').removeClass('navbar-condensed');
-            }
-        });
 
-        (function() {
-            var nav = document.getElementById('nav'),
-            anchor = nav.getElementsByTagName('a'),
-            current = window.location.href.split('/')[window.location.href.split('/').length-1];
-
-            for (var i = 0; i < anchor.length; i++) {
-                var url = anchor[i].href.split('/')[anchor[i].href.split('/').length-1];
-
-                if(url == current) {
-
-                        anchor[i].className = \"active\";
-                }
-            }
-        })();
-    </script>";
-?>
 </html>
