@@ -26,7 +26,7 @@
             </div>
             <div class="row white-bg logo">
                 <div class="col-sm-6 col-md-3 col-lg white-bg">
-                    <a href="https://entrepreneurship.mit.edu/"><img id="collab-logo" src=".img/collaborators/mtc.png"></a>
+                    <a href="https://entrepreneurship.mit.edu/"><img id="collab-logo" src="img/collaborators/mtc.png"></a>
                 </div>
                 <div class="col-sm-6 col-md-3 col-lg white-bg">
                    <a href="https://legatum.mit.edu/"><img id="collab-logo" src="img/collaborators/legatum.png"></a>
