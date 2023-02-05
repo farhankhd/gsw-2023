@@ -52,7 +52,7 @@
         <section>
             <div class="row" style="padding-bottom: 0">
                 <div class="col-lg" style="padding-bottom: 0">
-                    <h4 style="background-color: #131d25>1st Place</h4>
+                    <h4 style="background-color: #131d25">1st Place</h4>
                     <div class="p-5" style="background-color: #F5F5F5">
                         <ul class="dark-bullet" style="padding: 0px 20px 0px">
                             <li class="dark-bullet">$5,000 cash prize</li>
@@ -62,7 +62,7 @@
                     </div>
                 </div>
                 <div class="col-lg white-bg" style="padding-bottom: 0">
-                    <h4 style="background-color: #131d25>2nd Place</h4>
+                    <h4 style="background-color: #131d25">2nd Place</h4>
                     <div class="p-5" style="background-color: #F5F5F5">
                         <ul class="dark-bullet" style="padding: 0px 20px 0px">
                             <li class="dark-bullet">$3,000 cash prize</li>
@@ -72,7 +72,7 @@
                     </div>
                 </div>
                 <div class="col-lg white-bg" style="padding-bottom: 0">
-                    <h4 style="background-color: #131d25>3rd Place<br>(Audience Choice)</h4>
+                    <h4 style="background-color: #131d25">3rd Place<br>(Audience Choice)</h4>
                     <div class="p-5" style="background-color: #F5F5F5">
                         <ul class="dark-bullet" style="padding: 0px 20px 0px">
                             <li class="dark-bullet">$1,500 cash prize</li>
