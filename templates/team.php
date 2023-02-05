@@ -16,7 +16,7 @@
 
     <body>
         <!--PAGE HEADER-->
-        <section>
+        <!--<section>
             <div class="row">
                 <div class="col">
                     <h1 class="section-header">WHO WE ARE</h1>
@@ -24,6 +24,10 @@
             </div>
 
         </section>
+        -->
+        <div class="section-div">
+            <img class="banner" src="../img/team/team_00.jpg"> 
+        </div>
         <section>
             <div class="white-bg" style="padding: 50px 150px 50px">
                 <p class="light-text light-bg-dark-text"> 
