@@ -177,7 +177,10 @@ section {
  .navbar-nav > li > .dropdown-menu a{   
      color: white;  
 }
-
+.navbar-nav > li > .dropdown-menu a:hover {
+    color: white;  
+    background-color: #131d25;
+}
 
 /* On screens that are less than 700px wide, make the sidebar into a topbar */
 @media screen and (max-width: 700px) {
