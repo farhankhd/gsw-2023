@@ -42,7 +42,7 @@
                     <a class="navbar-brand" href="index.php"><img id="logo-left" src="img/GSW_logo_black.png"></a>
                 </div>
                 <ul class="nav navbar-nav mr-auto">
-                    <li class="active"><a class="nav-link" href="templates/home.php">Home <span class="sr-only">(current)</span></a></li>
+                    <li class="active"><a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a></li>
                     <li class=""><a class="nav-link"  style="background-color: #7d4270; color: white; border-radius: 3.5px;" href="https://www.eventora.gr/mit-gsw/">Register Now</a></li>
                     <li class=""><a class="nav-link disabled" href="templates/schedule.php">Agenda</a></li>
                     <li class=""><a class="nav-link disabled" href="templates/speakers.php">Speakers</a></li>
