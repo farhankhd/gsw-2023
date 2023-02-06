@@ -157,7 +157,7 @@
 
                 <div class="row">
                     <div class="team container col-sm-6 col-md-4"><a href="">
-                        <img class="team-picture" src="../img/team/madi.jpg"></a>
+                        <img class="team-picture" src="../img/team/maddie.jpg"></a>
                         <div class="overlay">
                             <div class="team-bio light-text">
                                 Madison is a National Science Foundation Graduate Research Fellow in the Department of Mechanical Engineering at MIT. 
