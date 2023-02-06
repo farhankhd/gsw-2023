@@ -2,3 +2,4 @@ index.php doesn't show content from footer.php (and any other php files after he
 startup-pitch.php has issues showing startup-flyer.pdf
 startup-pitch.php collapsible for Eligibility Criteria section doesn't activate. Used to work
 startup-pitch.php content in collapsible is off (sizing, spacing, etc.)
+CSS seems not to reflect on index.php and other php files sometimes.
