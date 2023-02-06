@@ -172,6 +172,7 @@ section {
 /*dropdown nav items*/
 .navbar-nav > li > .dropdown-menu {    
     background-color: #131d25;
+}
 /* Dropdown menu font color*/ 
  .navbar-nav > li > .dropdown-menu a{   
      color: white;  
