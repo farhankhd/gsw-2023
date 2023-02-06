@@ -169,7 +169,13 @@ section {
 .navbar a.active {
   border-bottom: 1px solid white;
 }
-
+/*dropdown nav items*/
+.navbar-nav > li > .dropdown-menu {    
+    background-color: #131d25;
+/* Dropdown menu font color*/ 
+ .navbar-nav > li > .dropdown-menu a{   
+     color: white;  
+}
 
 
 /* On screens that are less than 700px wide, make the sidebar into a topbar */
