@@ -1,0 +1,4 @@
+index.php doesn't show content from footer.php (and any other php files after header.php // Same applies in header.php when including other php files 
+startup-pitch.php has issues showing startup-flyer.pdf
+startup-pitch.php collapsible for Eligibility Criteria section doesn't activate. Used to work
+startup-pitch.php content in collapsible is off (sizing, spacing, etc.)
