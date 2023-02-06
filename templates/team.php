@@ -25,7 +25,7 @@
 
         </section>
         -->
-        <div class="section-div banner" data-parallax="scroll" style="background-image: url('../img/team/team_01_sm.jpg')">
+        <div class="section-div banner" data-parallax="scroll" style="background-image: url('../img/team/team_01-sm.jpg')">
             <div class="header-overlay">
                  <h1 class="section-header banner-text">OUR TEAM</h1>
             </div>
