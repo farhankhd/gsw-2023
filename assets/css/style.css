@@ -664,15 +664,9 @@ background-color: #F5F5F5;
 ****************/
 
 /*Team*/
-/*
-.team-container {
-/background-color: #ffff;
-
+.team-row {
+    padding: 15px 30px 15px;
 }
-.team {
-background-color: #ffff; 
-}
-*/
 .team-picture, .speaker-pic {
     object-fit: cover;
     width: 250px;
