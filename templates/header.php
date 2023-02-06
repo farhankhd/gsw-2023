@@ -11,7 +11,7 @@
         
         <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Myriad Pro'>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-        <link rel='stylesheet' href='../assets/css/style.css'>
+        <link rel='stylesheet' href='../2023/assets/css/style.css'>
 
     </head>
 
@@ -26,11 +26,11 @@
         <div class='main'>
             <div class="row">
                 <div class="col">
-                    <img class="main-visual" src="../img/main-logo.png" alt="logo" width="480" height="670">
+                    <img class="main-visual" src="../2023/img/main-logo.png" alt="logo" width="480" height="670">
                 </div>
                 <div class="col" style="text-align: center;  padding: 100px 0px 100px 0px;">
                     <h6 style="padding-top:20px">MIT GLOBAL STARTUP WORKSHOP</h6>
-                    <input type="image" src="../img/GSW_logo_white.png" alt="logo" width="250" height="75">
+                    <input type="image" src="../2023/img/GSW_logo_white.png" alt="logo" width="250" height="75">
                     <h5>25TH ANNUAL CONFERENCE</h5>
                     <h4 class="bold-text"><span style="color: #00c0f2">ATHENS</span>, GREECE <br><span style="color: #00c0f2">MARCH 30-31</span>, 2023</h4>
                     <div class="countdown">
@@ -98,10 +98,32 @@
                 </div>
             </div>
         </section>
+        
+        
     
-        <?php include("schedule.php"); ?>
-        <?php include('collaborators.php'); ?>
-    
+        <?php //include("schedule.php"); ?>
+        <?php //include('collaborators.php'); ?>
+     <div class="section-div">
+            <img class="banner" src="img/banner/collaborators.png"> 
+        </div>
+        <section>
+            <div class="row white-bg">
+                <div class="col white-bg">
+                    <h1 class="gradient-text">We're proud to collaborate with these organizations!</h1>
+                </div>
+            </div>
+            <div class="row white-bg logo">
+                <div class="col-sm-6 col-md-3 col-lg white-bg">
+                    <a href="https://entrepreneurship.mit.edu/"><img id="collab-logo" src="img/collaborators/mtc.png"></a>
+                </div>
+                <div class="col-sm-6 col-md-3 col-lg white-bg">
+                   <a href="https://legatum.mit.edu/"><img id="collab-logo" src="img/collaborators/legatum.png"></a>
+                </div>
+                <div class="col-sm-6 col-md-3 col-lg white-bg">
+                    <a href="https://reap.mit.edu/"><img id="collab-logo" src="img/collaborators/reap.png"></a>
+                </div>
+            </div>
+        </section>
 
         <!-- Optional JavaScript -->
         <!-- jQuery first, then Popper.js, then Bootstrap JS -->

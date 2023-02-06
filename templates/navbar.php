@@ -1,5 +1,3 @@
-
-
 <?php
     // Increase this version every time you change the style.css file
     // See more in https://css-tricks.com/strategies-for-cache-busting-css/#article-header-id-1
@@ -31,7 +29,13 @@
         <!--CSS: Adobe Font, Boostrap, style.css-->
         <link rel="stylesheet" href="https://use.typekit.net/fww3ner.css">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-        <link rel='stylesheet' href='../assets/css/style.css'>
+        <link rel='stylesheet' href='../2023/assets/css/style.css'>
+        <style>@media (min-width: 992px){
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 1.5rem !important;
+    padding-left: 1.5rem !important;
+}
+}</style>
     </head>
 
 
@@ -39,17 +43,17 @@
         <nav class="navbar navbar-expand-lg navbar-fixed-top">
             <div class="container-fluid">
                 <div class="navbar-header">
-                    <a class="navbar-brand" href="index.php"><img id="logo-left" src="img/GSW_logo_black.png"></a>
+                    <a class="navbar-brand" href="/2023/index.php"><img id="logo-left" src="img/GSW_logo_black.png"></a>
                 </div>
                 <ul class="nav navbar-nav mr-auto">
                     <li class="active"><a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a></li>
                     <li class=""><a class="nav-link"  style="background-color: #7d4270; color: white; border-radius: 3.5px;" href="https://www.eventora.gr/mit-gsw/">Register Now</a></li>
-                    <li class=""><a class="nav-link disabled" href="templates/schedule.php">Agenda</a></li>
-                    <li class=""><a class="nav-link disabled" href="templates/speakers.php">Speakers</a></li>
+                    <li class=""><a class="nav-link" href="/2023/templates/schedule.php">Agenda</a></li>
+                    <li class=""><a class="nav-link" href="/2023/templates/speakers.php">Speakers</a></li>
                     <li class="dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Competitions</a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <a class="nav-link dropdown-item" href="templates/startup-pitch.php">Startup Pitch</a>
+                            <a class="nav-link dropdown-item" href="/2023/templates/startup-pitch.php">Startup Pitch</a>
                         </div>
                     </li> 
                     <li class="dropdown">
@@ -57,9 +61,9 @@
                             About Us
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <a class="nav-link dropdown-item" href="templates/team.php">Our Team</a>
+                            <a class="nav-link dropdown-item" href="/2023/templates/team.php">Our Team</a>
                             <div class="dropdown-divider"></div>
-                            <a class="nav-link dropdown-item" href="templates/sponsors.php">Sponsors</a>
+                            <a class="nav-link dropdown-item" href="/2023/templates/sponsors.php">Sponsors</a>
                         </div>
                     </li> 
                 </ul>
