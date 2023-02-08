@@ -74,7 +74,7 @@ h5, h6 {
     padding-bottom: 70px;
 }
 section {
-    padding: 70px 0px 70px;
+    padding: 0px 0px 70px;
 }
 .section-div {
     background-color: #131d25;
@@ -86,11 +86,49 @@ section {
     font-size: 1em;
     background-color: white;
 }
-@media only screen and (min-width: 480px) {
+@media (min-width: 768px) and (max-width: 1024px){
+    
+    .keynote-section {
+       padding: 15px 10% !important;
+       font-size: 1.4em;
+   }
+   #team-section{
+       padding: 50px 60px 50px 60px;
+   }
+   
     .section {
-        padding: 40px 15%;
+        padding: 15px 15%;
         font-size: 1.4em;
     }
+    .heading-m{
+    margin-bottom:unset !important;
+}
+ul.white-bullet{
+        padding: 0px 90px 0px;
+}
+.gradient-text{
+    font-size:30px;
+    text-align: left;
+}
+.para{
+    padding:20px;
+    text-align: left !important;
+}
+.index-para{
+        padding: 50px 60px 50px 60px;
+}
+div#navbarSupportedContent {
+    background: #000;
+    padding: 20px;
+    z-index: 2;
+}
+
+
+
+}
+.para{
+    padding:20px;
+    text-align: left;
 }
 .section-header {
     font-size: 0.9em;
@@ -98,6 +136,8 @@ section {
     margin-top: 30px;
     margin-bottom: 20px;
 }
+
+
 @media only screen and (min-width: 480px) {
     .section-header {
         font-size: 1.5em;
@@ -140,7 +180,8 @@ section {
     background: linear-gradient(to bottom, rgba(10,28,63,1) 0%, rgba(8,21,47,1) 25%, rgba(0,0,0,0) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0a1c3f', endColorstr='#000000', GradientType=0 );
     border: none;
-    height: 150px;
+    /*height: 150px;*/
+    height: 90px;
     padding: 20px;
     text-transform: uppercase;
 }
@@ -300,7 +341,7 @@ img.main-visual { /*centered image formatting*/
 }
 /*ADDITIONAL SECTIONS*/
 div.white-bg {
-    text-align: center;
+    /*text-align: center;*/
     width: 100%;
     padding: 50px 60px 50px 60px;
     margin: 0px;
@@ -312,9 +353,9 @@ div.white-bg {
     margin: 0px;
 }
 /*WHY ATTEND*/
-ul.white-bullet {
-    padding: 0px 200px 0px;
-}
+/*ul.white-bullet {*/
+/*    padding: 0px 200px 0px;*/
+/*}*/
 li.white-bullet { /*bullets*/
     text-align: left;
     font-size: 22px;
@@ -785,7 +826,7 @@ div.logo {
 }
 
 .speaker-row, .speaker-expanded-bio {
-    margin-bottom: 40px;
+    margin-bottom: 10px;
     padding: 20px;
 }
 
@@ -795,17 +836,15 @@ div.logo {
     color: #515152;
 }
 
-.speaker-expanded-text {
-    font-size: 0.7em;
-    text-align: justify;
-    text-justify: inter-word;
-}
-.speaker-expanded-text {
-    font-size: 0.7em;
-    text-align: justify;
-    text-justify: inter-word;
-}
 
+.speaker-expanded-text {
+    font-size: 0.7em;
+    text-align: justify;
+    text-justify: inter-word;
+}
+.row.speaker-expanded-bio, .row.keynote-expanded-bio {
+    padding: 15px 140px;
+}
 .speaker-expanded-name {
     font-weight: 800;
     margin-bottom: 5px;
@@ -837,11 +876,11 @@ div.logo {
     color: #dd4f33;
 }
 .keynote-picture {
-    width: 90%;
-    height: auto;
+    object-fit: cover;
+    width: 250px;
+    height: 250px;
     border-radius: 50%;
     margin-bottom: 10px;
-    /*border: 5px double #dd4f33;*/
 }
 .keynote-picture-association{
     width: 30px;
@@ -919,4 +958,73 @@ footer a:hover, footer-title a:focus {
 .copyright p {
     line-height: 1em;
     color: rgba(255, 255, 255, 0.6);
+}
+@media only screen and (max-width: 600px) {
+    .row.speaker-expanded-bio, .row.keynote-expanded-bio {
+    padding: 15px 15px;
+}
+    .white-bullet1 {
+    padding:0px 10px 50px 40px !important;
+}
+.main-visual{
+    width: 378px;
+}
+.para{
+    padding:20px;
+    text-align: left;
+}
+.section{
+    padding: 18px 4%;
+}
+.gradient-text{
+    font-size: 22px;
+    text-align: left;
+}
+#collab-logo{
+        margin-bottom: 15px;
+}
+.schedule-banner{
+    height:23% !important;
+}
+.footer-menu-one, .footer-menu-two{
+    padding-left:20px !important;
+}
+.footer-div a {
+    font-size: 14px;
+}
+.banner-text {
+    padding-top: 25px;
+}
+.speakers-banner{
+    height:100px !important;
+}
+
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+   .white-bullet1 {
+    padding:0px 10px 50px 40px !important;
+}
+.row.speaker-expanded-bio, .row.keynote-expanded-bio {
+    padding: 15px 15px;
+}
+}
+.speaker-picture{
+    object-fit: cover;
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+.competition-text {
+      font-weight: 700;
+      margin-top: 147px;
+      margin-bottom: 20px;
+      font-size: 40px;
+      }
+.startup-pitch{
+    padding-top:unset!important;
+    padding-bottom:unset!important;
+}
+.white-bullet1 {
+    padding: 0px 100px 50px 170px;
 }
