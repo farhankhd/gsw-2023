@@ -66,6 +66,17 @@
                  <h1 class="section-header banner-text">OUR TEAM</h1>
             </div>
         </div>
+      <!--   <section class="startup-pitch">-->
+      <!--   <div class="row" style="-->
+      <!--      background-image: url(img/team/team_01-sm.jpg);-->
+      <!--      background-repeat: no-repeat;-->
+      <!--      background-size: cover;height: 344px;-->
+      <!--      ">-->
+      <!--      <div class="col">-->
+      <!--         <h1 class="section-header competition-text">OUR TEAM </h1>-->
+      <!--      </div>-->
+      <!--   </div>-->
+      <!--</section>-->
        
         <section>
             <div class="white-bg" class="back-padding">
@@ -79,7 +90,7 @@
         <section>
             <div class="row">
                 <div class="col">
-                    <h1 class="gradient-text" id="team-section">Managing Directors</h1>
+                    <h1 class="para text-center gradient-text" id="team-section">Managing Directors</h1>
                     <hr class="team-hr">
                 </div>
             </div>
@@ -147,7 +158,7 @@
         <section>
             <div class="row white-bg">
                 <div class="col">
-                    <h1 class="gradient-text">Organizing Team</h1>
+                    <h1 class="para text-center gradient-text">Organizing Team</h1>
                     <hr class="team-hr">
                 </div>
             </div>
@@ -380,7 +391,7 @@
         <section>
             <div class="row white-bg">
                 <div class="col">
-                    <h1 class="gradient-text">Advisory Board</h1>
+                    <h1 class="para text-center gradient-text">Advisory Board</h1>
                     <hr class="team-hr">
                 </div>
             </div>

@@ -58,16 +58,16 @@ function markup(Callable $filterFunction) {
 <div class='row {$speakerOrKeynoteTag}-expanded-bio'>
 <span class='anchor' id='{$speakerTag}'></span>
 
-<div class='{$speakerOrKeynoteTag} col-sm-6 col-md-3'>
+<div class='{$speakerOrKeynoteTag} col-sm-6 col-md-4 col-lg-3'>
 {$associationMarkup}
 <img class='{$speakerOrKeynoteTag}-picture' src='img/speakers/{$pictureFilename}' />
 </div>
 
-<div class='col-sm-6 col-md-9 {$speakerOrKeynoteTag}-expanded-text'>
+<div class='col-sm-6 col-md-8 col-lg-9 speaker-expanded-text {$speakerOrKeynoteTag}-expanded-text'>
 " . ($isKeynote ? "<div class='keynote-title'>Keynote</div>" : "") ."
 <div class='{$speakerOrKeynoteTag}-expanded-name'>{$name}</div>
 <div class='{$speakerOrKeynoteTag}-expanded-position'>{$title}</div>
-<p>" . $bio . "</p>
+<p class='para light-text light-bg-dark-text'>" . $bio . "</p>
 </div>
 </div>";
          }

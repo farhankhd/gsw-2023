@@ -2,6 +2,7 @@
     .banner {
     background-image: url(img/banner/schedule.png);
 }
+
 </style>
 <?php
 $pageTitle = 'MIT Global Startup Workshop 2023 | Athens, Greece';
@@ -12,14 +13,18 @@ include('navbar.php');
 include('markup.php');
 ?>
 
-<div class="banner" data-parallax="scroll" data-image-src="img/banner/schedule.png">
-    <a name="schedule"></a>
-    <!--
-<h1 class="banner-text">
-Schedule
-</h1>
--->
-</div>
+
+ <section class="startup-pitch">
+         <div class="row" style="
+            background-image: url(img/banner/schedule.png);
+            background-repeat: no-repeat;
+            background-size: cover;height: 344px;
+            ">
+            <div class="col">
+               <h1 class="section-header competition-text">OUR SCHEDULE </h1>
+            </div>
+         </div>
+      </section>
 
 <section class="content-schedule container">
     <article class="content ">

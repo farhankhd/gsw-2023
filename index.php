@@ -31,7 +31,48 @@
             // echo 'alert("Hello, fellow innovator! Our website is under rennovation. Please come back tommorow for updated information on GSW 2023!")';  
             // echo '</script>';  
         ?>  
-
+<style>
+        .sponsor-hr{
+            border-top: 1px solid#dd4f33 !important;
+            margin: 0 auto;
+            width:30%;
+           
+        }
+        .team-hr{
+            border-bottom: 2px solid rgba(100, 121, 162,0.3);
+            border-top: unset;
+            padding-bottom: 5px;
+            color: #0e1e58;
+            width: 60%;
+            margin: 0 auto;
+            margin-top: -40px;
+        }
+        .libra-logo, .scince-logo{
+            margin-top: 30px !important;
+        }
+        .banner-margin {
+            margin-top: 50px;
+        }
+@media only screen and (min-width: 480px) {
+        .logo{
+            paddin-right: 113px;
+        }
+}
+@media only screen and (max-width: 600px) {
+    div.main{
+        padding:unset!important;
+    }
+    ul.white-bullet{
+        padding: 0px 20px 0px;
+    }
+    #workshop_section, #why-attend-section {
+        padding: 50px 20px 10px;
+    }
+    section {
+        padding: 62px 0px 20px;
+    }
+}
+</style>
         <!--LANDING OWL VISUAL + COUNTDOWN-->
         <div class='main'>
             <div class="row">
@@ -72,7 +113,7 @@
                 <div class="col-xs-12">
                     <br />
                     <div class="white-bg text-center">
-                        <h1 class="gradient-text">Are you ready for MIT Global Startup Workshop 2023?</h1>
+                        <h1 class="para text-center gradient-text">Are you ready for MIT Global Startup Workshop 2023?</h1>
                     <p class="light-text light-bg-dark-text">Don't wait! <strong class="light-bg-dark-text">Buy your tickets</strong> now for a lifelong innovative experience</p>
                     </div>
                     <a class="btn btn-default register-btn"onClick="fbq('trackCustom', 'Home_Register Now_GSW’);" href="http://eventora.gr/mit-gsw" role="button">REGISTER TO ATTEND</a>
@@ -93,45 +134,53 @@
             <div class="row white-bg">
                 <div class="col white-bg">
                     <h1 class="gradient-text">25 Years Strong</h1>
-                    <br><br>
-                    <p class=" light-text light-bg-dark-text"> MIT Global Startup Workshop (MIT GSW) is an annual multi-day conference that brings together entrepreneurs, students, investors, and key stakeholders from across the world to accelerate the entrepreneurial ecosystem of a host region. Through a series of tailored workshops, panels and keynote speakers, MIT GSW aims to share the entrepreneurial practices that have empowered thousands of companies to launch from MIT. MIT GSW is organized by a diverse group of graduate students and is strongly supported by the MIT entrepreneurial ecosystem including the MIT Legatum Center for Development &#38; Entrepreneurship, the Martin Trust Center for MIT Entrepreneurship, and the MIT Regional Entrepreneurship Accelerator Program (MIT REAP). Since 1998, our non-profit, student-run organization has held 22 international workshops across 6 continents, and has attracted participants from over 70 nations. </p>
+                    
+                    <p class="para light-text light-bg-dark-text"> MIT Global Startup Workshop (MIT GSW) is an annual multi-day conference that brings together entrepreneurs, students, investors, and key stakeholders from across the world to accelerate the entrepreneurial ecosystem of a host region. Through a series of tailored workshops, panels and keynote speakers, MIT GSW aims to share the entrepreneurial practices that have empowered thousands of companies to launch from MIT. MIT GSW is organized by a diverse group of graduate students and is strongly supported by the MIT entrepreneurial ecosystem including the MIT Legatum Center for Development &#38; Entrepreneurship, the Martin Trust Center for MIT Entrepreneurship, and the MIT Regional Entrepreneurship Accelerator Program (MIT REAP). Since 1998, our non-profit, student-run organization has held 22 international workshops across 6 continents, and has attracted participants from over 70 nations. </p>
                 </div>
             </div>
         </section>
 
         <?php //include("sponsors.php"); ?>
 
-        <div class="section-div">
-            <img class="banner" src="/2023/img/banner/sponsors.png"> 
-        </div>
-        <section id="sponsors_section">
-            <div class="row white-bg">
-                <div class="col white-bg">
-                    <h1 class="gradient-text">Thank you to our Sponsors and Partners! </h1>
-                </div>
+        <section class="startup-pitch">
+         <div class="row" style="
+            background-image: url(img/image.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;height: 344px;
+            ">
+            <div class="col">
+               <h1 class="section-header competition-text">OUR SPONSORS </h1>
             </div>
-            <!--</div>-->
+         </div>
+      </section>
+            <section>
+            <div class="row white-bg">
+                <div class="col mb-5 heading-m">
+                    <h1 class="para text-center gradient-text" class="banner-margin">Thank you to our Sponsors and Partners! </h1>
+                </div>
+                
+            </div>
+            <hr class="team-hr">
             <div class="row white-bg logo d-flex justify-content-center">
-                <div class="col-sm-6 col-md-3 col-lg-3 white-bg">
+                <div class="col-sm-1 col-md-4 white-bg">
                     <a href=""> <img id="sponsor-logo" src="/2023/img/sponsors/capitalpartner-diamond.png"></a>
                 </div>
-            <!--</div>-->
-            <!--<div class="row white-bg logo d-flex justify-content-center">-->
-                <div class="col-sm-6 col-md-3 col-lg-3 white-bg">
-                    <a href="https://shopflix.gr/"><img id="sponsor-logo" src="/2023/img/sponsors/shopflix.png"></a>
+                <div class="col-sm-1 col-md-4">
+                    <a href="https://www.libra.com/en/"><img id="sponsor-logo" class="libra-logo" src="/2023/img/sponsors/libragroup.png"></a>
                 </div>
-            <!--</div>-->
-            <!--<div class="row white-bg logo d-flex justify-content-center">-->
-                <div class="col-sm-6 col-md-3 col-lg-3 white-bg">
-                    <a href="https://www.libra.com/en/"><img id="sponsor-logo" src="/2023/img/sponsors/libragroup.png"></a>
-                </div>
-                <div class="col-sm-6 col-md-3 col-lg-3 white-bg">
-                    <a href=""><img id="sponsor-logo" src="/2023/img/sponsors/scienceagora.png"></a>
-                  
+                <div class="col-sm-1 col-md-4">
+                    <a href=""><img id="sponsor-logo" class="scince-logo" src="/2023/img/sponsors/scienceagora.png"></a>
                 </div>
             </div>
+            <hr class="sponsor-hr">
+            <div class="row white-bg logo d-flex justify-content-center">
+                <div class="col-sm-1 col-md-4 banner-margin">
+                    <a href=""> <img id="sponsor-logo" src="/2023/img/sponsors/shopflix.png"></a>
+                </div>
+            </div>
+            <hr class="sponsor-hr">           
+          
         </section>
-
 
         <!--WHY ATTEND-->
         <div class="section-div">
@@ -141,11 +190,11 @@
         </div>
         <section class="why-attend" id="why-attend-section">
             <div class="row">
-                <div class="col">
-                    <h1 class="gradient-text">What's awaiting you at GSW?</h1>
-                    <p class="light-text light-bg-dark-text">Take advantage of the <strong class="light-bg-dark-text">exclusive opportunities</strong> for GSW attendees. <br>The doors are open for you to <strong class="light-bg-dark-text">unleash your inner entrepreneurial potential</strong>!</p>
+                <div class="col index-para">
+                    <h1 class="para gradient-text text-center">What's awaiting you at GSW?</h1>
+                    <p class="para light-text light-bg-dark-text text-center">Take advantage of the <strong class="light-bg-dark-text">exclusive opportunities</strong> for GSW attendees. <br>The doors are open for you to <strong class="light-bg-dark-text">unleash your inner entrepreneurial potential</strong>!</p>
                     <br>
-                    <ul class="white-bullet">
+                    <ul class="white-bullet1">
                         <li class="light-text white-bullet">Transform your ideas into successful <strong style="color: #00c0f2">startups</strong> by gaining valuable <strong>MIT expertise</strong> through workshops</li>
                         <li class="light-text white-bullet">Learn about cutting edge, innovative <strong style="color: #00c0f2">technologies</strong> from <strong>MIT &#38; world experts</strong> through panel discussions</li>
                         <li class="light-text white-bullet">Participate in the <strong style="color: #00c0f2">GSW Competitions</strong> to receive mentorship from renowned entrepreneurs and gain access to exclusive <strong style="color: #00c0f2">VIP networking events</strong> </li>
@@ -161,18 +210,21 @@
         
     
         <?php //include("schedule.php"); ?>
-        <div class="banner schedule_banner" data-parallax="scroll" data-image-src="img/banner/schedule.png">
-    <a name="schedule"></a>
-    <!--
-<h1 class="banner-text">
-Schedule
-</h1>
--->
-</div>
+    <section class="startup-pitch">
+         <div class="row" style="
+            background-image: url(img/banner/schedule.png);
+            background-repeat: no-repeat;
+            background-size: cover;height: 344px;
+            ">
+            <div class="col">
+               <h1 class="section-header competition-text">OUR SCHEDULE </h1>
+            </div>
+         </div>
+      </section>
 
 <section class="content-schedule container">
     <article class="content ">
-        <div class="col-xs-12 col-md-12">
+        <div class="col-xs-12 col-md-12 mt-3">
             <span class="anchor" id="schedule-navigation"></span>
             <p class="text-center">
                 Use the buttons below to view the conference schedule day by day.
@@ -345,80 +397,25 @@ Schedule
             <img class="banner" src="img/banner/collaborators.png"> 
         </div>
         <section>
-            <div class="row white-bg">
+            <div class="row">
                 <div class="col white-bg">
-                    <h1 class="gradient-text">We're proud to collaborate with these organizations!</h1>
+                    <h1 class="para gradient-text mt-5 text-center">We're proud to collaborate with these organizations!</h1>
                 </div>
             </div>
             <div class="row white-bg logo">
-                <div class="col-sm-6 col-md-3 col-lg white-bg">
+                <div class="col-sm-6 col-lg-4 col-md-5">
                     <a href="https://entrepreneurship.mit.edu/"><img id="collab-logo" src="img/collaborators/mtc.png"></a>
                 </div>
-                <div class="col-sm-6 col-md-3 col-lg white-bg">
+                <div class="col-sm-6 col-md-4 col-lg-4">
                    <a href="https://legatum.mit.edu/"><img id="collab-logo" src="img/collaborators/legatum.png"></a>
                 </div>
-                <div class="col-sm-6 col-md-3 col-lg white-bg">
+                <div class="col-sm-6 col-md-3 col-lg-4">
                     <a href="https://reap.mit.edu/"><img id="collab-logo" src="img/collaborators/reap.png"></a>
                 </div>
             </div>
         </section>
 
-        
     
-    <!--    <div class="section-div">-->
-    <!--    <div class="row text-center">-->
-    <!--        <div class="col-md-offset-2 col-md-8">-->
-    <!--            <div class="row">-->
-    <!--            <div class="col-xs-4 col-md-offset-1 col-md-2">-->
-    <!--                <a href="https://twitter.com/MITGSW"><span class="fa fa-twitter-square sm-icon"></span></a>-->
-    <!--            </div>-->
-    <!--            <div class="col-xs-4 col-md-2">-->
-    <!--                <a href="https://www.facebook.com/MITGSW/"><span class="fa fa-facebook-square sm-icon"></span></a>-->
-    <!--            </div>-->
-    <!--            <div class="col-xs-4 col-md-2">-->
-    <!--                <a href="https://www.instagram.com/MITGSW/"><span class="fa fa-instagram sm-icon"></span></a>-->
-    <!--            </div>-->
-    <!--            <div class="col-xs-4 col-xs-offset-2 col-md-offset-0 col-md-2">-->
-    <!--                <a href="https://www.linkedin.com/company/mit-global-startup-workshop/"><span class="fa fa-linkedin-square sm-icon"></span></a>-->
-    <!--            </div>-->
-    <!--            <div class="col-xs-4 col-md-2">-->
-    <!--                <a href="mailto:gsw-tech@mit.edu"><span class="fa fa-envelope-square sm-icon"></span></a>-->
-    <!--            </div></div>-->
-    <!--        </div>-->
-    <!--    </div>-->
-        
-    <!--    <br />-->
-
-    <!--    <hr id="footer-hr">-->
-
-    <!--    <div class="row text-center">-->
-    <!--        <div class="col-md-offset-2 col-md-4">-->
-    <!--            <p class="footer-title">The Conference</p>-->
-    <!--            <a href="index.php">Home</a><br>-->
-    <!--            <a href="registration.php" onClick="fbq('trackCustom', 'Bottom_Register_to_attend_GSW');">Registration</a><br>-->
-    <!--            <a href="schedule.php">Schedule</a><br>-->
-                <!--<a href="content_overview.php">Content Overview</a><br>-->
-    <!--            <a href="startup-pitch.php">Competitions</a><br>-->
-    <!--            <a href="speakers.php">Speakers</a><br>-->
-    <!--        </div>-->
-    <!--        <div class="col-md-4">-->
-    <!--            <p class="footer-title">Organization</p>-->
-                <!--<a href="get_involved.php">Get involved with MIT</a><br>-->
-                <!--<a href="history.php">History</a><br>-->
-    <!--            <a href="team.php">Who we are</a><br>-->
-    <!--            <a href="sponsors.php">Sponsors</a><br>-->
-    <!--            <a href="collaborators.php">Collaborators</a><br>-->
-                <!--<a href="index.php#location">Venue</a><br>-->
-    <!--        </div>-->
-    <!--    </div>-->
-    
-    <!--    <div class="row">-->
-    <!--        <div class="copyright col-md-12">-->
-    <!--            Copyright ©2011–2023 Massachusetts Institute of Technology. All rights reserved.<br>-->
-    <!--            For more information please contact <a href="mailto:gsw-tech@mit.edu">gsw-tech@mit.edu</a>-->
-    <!--        </div>-->
-    <!--    </div>-->
-    <!--</div>-->
     <?php include('footer.php');
     
     

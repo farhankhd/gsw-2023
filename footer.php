@@ -10,10 +10,13 @@ ul.footer-menu-one p , ul.footer-menu-two p {
     text-align: start;
 }
 .footer-div{
-    padding-left: 343px;
+    justify-content:center;
 }
 .white-bg {
     padding: 50px 150px 50px;
+}
+#footer_icons1{
+    justify-content: center;
 }
 @media only screen and (max-width: 667px) {
   .footer-div{
@@ -25,35 +28,33 @@ ul.footer-menu-one p , ul.footer-menu-two p {
 #footer_section {
     max-height: 835px;
 }
-#footer_icons {
-    margin-left: 0px;
-}
 #footer-hr {
     border-color: #eeeeee3d;
     width: unset;
     margin-left: 0px;
 }
+
 }
    </style>
  
     <div class="section-div" id="footer_section">
         <div class="row text-center">
             
-            <div class="col-md-offset-2 col-md-8">
-                <div class="row mt-4" id="footer_icons">
-                <div class="col-xs-4 col-md-offset-1 col-md-2">
+            <div class="col-md-offset-2 col">
+                <div class="row mt-4" id="footer_icons1">
+                <div class="col-lg-1 col">
                     <a href="https://twitter.com/MITGSW"><span class="fa fa-twitter-square sm-icon twitter-icon"></span></a>
                 </div>
-                <div class="col-xs-4 col-md-2">
+                <div class="col col-lg-1">
                     <a href="https://www.facebook.com/MITGSW/"><span class="fa fa-facebook-square sm-icon facebook-icon"></span></a>
                 </div>
-                <div class="col-xs-4 col-md-2">
+                <div class="col col-lg-1">
                     <a href="https://www.instagram.com/MITGSW/"><span class="fa fa-instagram sm-icon instagram-icon"></span></a>
                 </div>
-                <div class="col-xs-4 col-xs-offset-2 col-md-offset-0 col-md-2">
+                <div class="col col-lg-1">
                     <a href="https://www.linkedin.com/company/mit-global-startup-workshop/"><span class="fa fa-linkedin-square sm-icon linkedin-icon"></span></a>
                 </div>
-                <div class="col-xs-4 col-md-2">
+                <div class="col col-lg-1">
                     <a href="mailto:gsw-tech@mit.edu"><span class="fa fa-envelope-square sm-icon envelope-icon"></span></a>
                 </div></div>
             </div>
@@ -67,7 +68,7 @@ ul.footer-menu-one p , ul.footer-menu-two p {
         <div class="row text-center footer-div" style="">
            
                 
-            <div class="col-md-offset-2 col-md-4">
+            <div class="col col-lg-2 col-md-3">
                 
                 <ul class="footer-menu-one">
                     <p class="footer-title">The Conference</p>
@@ -80,7 +81,7 @@ ul.footer-menu-one p , ul.footer-menu-two p {
                 </ul>
                 
             </div>
-            <div class="col-md-4">
+            <div class="col col-md-4">
                
                 <ul class="footer-menu-two">
                      <p class="footer-title">Organization</p>

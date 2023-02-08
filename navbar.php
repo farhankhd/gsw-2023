@@ -75,7 +75,7 @@
 }
 
 #workshop_section div {
-   padding: 12px 60px 13px 60px;
+   padding: 12px 25px 13px 25px;
     
 }
 
@@ -88,16 +88,13 @@
 }
 
 #registration-section div.white-bg{
-    padding: 0px 60px 50px 60px;
+    padding: 0px 60px 15px 60px;
 }
 
 #footer_section{
    max-height: 419px;
 }
 
-#footer_icons{
-  margin-left: 400px;
-}
 
 .twitter-icon,.facebook-icon,.instagram-icon,.linkedin-icon,.envelope-icon{
     font-size: 2.5rem;
@@ -121,6 +118,7 @@
             z-index: 2;
         }
 }
+
 </style>
     </head>
 
@@ -169,7 +167,7 @@
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="nav navbar-nav mr-auto">
                     <li class="active"><a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a></li>
-                    <li class=""><a class="nav-link"  style="background-color: #7d4270; color: white; border-radius: 3.5px;" href="https://www.eventora.gr/mit-gsw/">Register Now</a></li>
+                    <li class=""><a class="nav-link" target="_blank"  style="background-color: #7d4270; color: white; border-radius: 3.5px;" href="https://www.eventora.gr/mit-gsw/">Register Now</a></li>
                     <li class=""><a class="nav-link" href="/2023/schedule.php">Agenda</a></li>
                     <li class=""><a class="nav-link" href="/2023/speakers.php">Speakers</a></li>
                     <li class="dropdown">
@@ -190,7 +188,7 @@
                     </li> 
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
-                    <li><a href="https://web.mit.edu/"><img id="logo-right" src="img/mit.png"></a></li>
+                    <li><a href="https://web.mit.edu/" target="_blank"><img id="logo-right" src="img/mit.png"></a></li>
                 </ul>
                     </div>
             </div>
