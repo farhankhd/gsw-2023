@@ -342,10 +342,7 @@ ul.dark-bullet {
                }
                }
                toggleAccordian();
-            </script>
-            <!-- <button class="collapsible-elig">Test</button>
-               <div class="content-elig">
-                   <p>Anyone from any discipline and from any organization, including colleges and universities, government laboratories, research institutions, non-profit organizations, and for-profit companies.</p></div>
+             </script>
                <button class="collapsible-elig">Application Eligibility</button>
                <div class="content-elig"><br>Anyone from any discipline and from any organization, including colleges and universities, government laboratories, research institutions, non-profit organizations, and for-profit companies.</div>
                
