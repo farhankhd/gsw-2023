@@ -70,8 +70,8 @@
         
         <hr class="team-hr">
         
-        <div class="row white-bg logo d-flex justify-content-center">
-          <div class="col-sm-1 col-md-4 white-bg">
+        <div class="row white-bg justify-content-center">
+          <div class="col">
             <h1 class="para text-center gradient-text" class="banner-margin">Thank you to our Silver Sponsors! </h1>
           </div>
         </div>
@@ -83,8 +83,8 @@
        
         <hr class="team-hr">
         
-        <div class="row white-bg logo d-flex justify-content-center">
-          <div class="col-sm-1 col-md-4 white-bg">
+        <div class="row white-bg justify-content-center">
+          <div class="col">
             <h1 class="para text-center gradient-text" class="banner-margin">Thank you to our Community, Design, and Global Acadamic Partners! </h1>
           </div>
         </div>
