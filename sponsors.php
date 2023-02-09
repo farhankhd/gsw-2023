@@ -61,6 +61,8 @@
           <div class="col-sm-1 col-md-4 white-bg">
             <h1 class="para text-center gradient-text" class="banner-margin">Thank you to our Diamond Sponsors! </h1>
           </div>
+        </div>
+        <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-4 white-bg">
             <a href=""> <img id="sponsor-logo" src="/2023/img/sponsors/capitalpartner-diamond.png"></a>
           </div>
@@ -72,6 +74,8 @@
           <div class="col-sm-1 col-md-4 white-bg">
             <h1 class="para text-center gradient-text" class="banner-margin">Thank you to our Silver Sponsors! </h1>
           </div>
+        </div>
+        <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-4 banner-margin">
               <a href=""> <img id="sponsor-logo" src="/2023/img/sponsors/shopflix.png"></a>
           </div>
@@ -83,6 +87,8 @@
           <div class="col-sm-1 col-md-4 white-bg">
             <h1 class="para text-center gradient-text" class="banner-margin">Thank you to our Community, Design, and Global Acadamic Partners! </h1>
           </div>
+        </div>
+        <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-4">
             <a href="https://www.libra.com/en/"><img id="sponsor-logo" class="libra-logo" src="/2023/img/sponsors/libragroup.png"></a>
           </div>
