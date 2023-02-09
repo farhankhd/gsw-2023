@@ -56,34 +56,55 @@
             </div>
          </div>
       </section>
-        <section>
-            <div class="row white-bg">
-                <div class="col" >
-                    <h1 class="para text-center gradient-text" class="banner-margin">Thank you to our Sponsors and Partners! </h1>
-                </div>
-                
-            </div>
-            <hr class="team-hr">
-            <div class="row white-bg logo d-flex justify-content-center">
-                <div class="col-sm-1 col-md-4 white-bg">
-                    <a href=""> <img id="sponsor-logo" src="/2023/img/sponsors/capitalpartner-diamond.png"></a>
-                </div>
-                <div class="col-sm-1 col-md-4">
-                    <a href="https://www.libra.com/en/"><img id="sponsor-logo" class="libra-logo" src="/2023/img/sponsors/libragroup.png"></a>
-                </div>
-                <div class="col-sm-1 col-md-4">
-                    <a href=""><img id="sponsor-logo" class="scince-logo" src="/2023/img/sponsors/scienceagora.png"></a>
-                </div>
-            </div>
-            <hr class="sponsor-hr">
-            <div class="row white-bg logo d-flex justify-content-center">
-                <div class="col-sm-1 col-md-4 banner-margin">
-                    <a href=""> <img id="sponsor-logo" src="/2023/img/sponsors/shopflix.png"></a>
-                </div>
-            </div>
-            <hr class="sponsor-hr">           
-          
-        </section>
+      <section>
+        <div class="row white-bg logo d-flex justify-content-center">
+          <div class="col-sm-1 col-md-4 white-bg">
+            <h1 class="para text-center gradient-text" class="banner-margin">Thank you to our Diamond Sponsors! </h1>
+          </div>
+          <div class="col-sm-1 col-md-4 white-bg">
+            <a href=""> <img id="sponsor-logo" src="/2023/img/sponsors/capitalpartner-diamond.png"></a>
+          </div>
+        </div>
+        
+        <hr class="team-hr">
+        
+        <div class="row white-bg logo d-flex justify-content-center">
+          <div class="col-sm-1 col-md-4 white-bg">
+            <h1 class="para text-center gradient-text" class="banner-margin">Thank you to our Silver Sponsors! </h1>
+          </div>
+          <div class="col-sm-1 col-md-4 banner-margin">
+              <a href=""> <img id="sponsor-logo" src="/2023/img/sponsors/shopflix.png"></a>
+          </div>
+        </div>
+       
+        <hr class="team-hr">
+        
+        <div class="row white-bg logo d-flex justify-content-center">
+          <div class="col-sm-1 col-md-4 white-bg">
+            <h1 class="para text-center gradient-text" class="banner-margin">Thank you to our Community, Design, and Global Acadamic Partners! </h1>
+          </div>
+          <div class="col-sm-1 col-md-4">
+            <a href="https://www.libra.com/en/"><img id="sponsor-logo" class="libra-logo" src="/2023/img/sponsors/libragroup.png"></a>
+          </div>
+          <div class="col-sm-1 col-md-4">
+            <a href=""><img id="sponsor-logo" class="scince-logo" src="/2023/img/sponsors/scienceagora.png"></a>
+          </div>
+          <div class="col-sm-1 col-md-4">
+            <a href=""><img id="sponsor-logo" class="scince-logo" src="/2023/img/sponsors/kathimerini.png"></a>
+          </div>
+          <div class="col-sm-1 col-md-4">
+            <a href=""><img id="sponsor-logo" class="scince-logo" src="/2023/img/sponsors/ogilvy.png"></a>
+          </div>
+          <div class="col-sm-1 col-md-4">
+            <a href=""><img id="sponsor-logo" class="scince-logo" src="/2023/img/sponsors/eventora.png"></a>
+          </div>
+          <div class="col-sm-1 col-md-4">
+            <a href=""><img id="sponsor-logo" class="scince-logo" src="/2023/img/sponsors/seeders.png"></a>
+          </div>
+        </div>
+        
+        <hr class="team-hr">
+      </section>
     </body>
 </html>
 <?php include('footer.php');
