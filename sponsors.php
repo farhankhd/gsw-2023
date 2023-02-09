@@ -85,7 +85,7 @@
         
         <div class="row white-bg justify-content-center">
           <div class="col">
-            <h1 class="para text-center gradient-text" class="banner-margin">Thank you to our Community, Design, and Global Acadamic Partners! </h1>
+            <h1 class="para text-center gradient-text" class="banner-margin">Thank you to our Community, Design, &#38; Global Acadamic Partners! </h1>
           </div>
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
