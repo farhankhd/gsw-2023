@@ -43,7 +43,7 @@
         <nav class="navbar navbar-expand-lg navbar-fixed-top">
             <div class="container-fluid">
                 <div class="navbar-header">
-                    <a class="navbar-brand" href="/2023/index.php"><img id="logo-left" src="img/GSW_logo_black.png"></a>
+                    <a class="navbar-brand" href="/2023/index.php"><img id="logo-left" src="img/GSW_logo_white.png"></a>
                 </div>
                 <ul class="nav navbar-nav mr-auto">
                     <li class="active"><a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a></li>
