@@ -159,7 +159,7 @@
         <nav class="navbar navbar-expand-lg navbar-fixed-top">
             <div class="container-fluid">
                 <div class="navbar-header">
-                    <a class="navbar-brand" href="/2023/index.php"><img id="logo-left" src="img/GSW_logo_black.png"></a>
+                    <a class="navbar-brand" href="/2023/index.php"><img id="logo-left" src="img/GSW_logo_white.png"></a>
                 </div>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
