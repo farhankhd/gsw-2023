@@ -47,7 +47,7 @@
         <!--SPONSORS-->
         <section class="startup-pitch">
          <div class="row" style="
-            background-image: url(img/banner/collaborators.png);
+            background-image: url(img/image.jpg);
             background-repeat: no-repeat;
             background-size: cover;height: 344px;
             ">
