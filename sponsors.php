@@ -57,8 +57,8 @@
          </div>
       </section>
       <section>
-        <div class="row justify-content-center">
-          <div class="col-sm-1 col-md-4">
+        <div class="row white-bg justify-content-center">
+          <div class="col">
             <h1 class="gradient-text">Thank you to our Diamond Sponsors! </h1>
           </div>
         </div>
