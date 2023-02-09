@@ -59,7 +59,7 @@
       <section>
         <div class="row white-bg justify-content-center">
           <div class="col-sm-1 col-md-4 white-bg">
-            <h1 class="para text-center gradient-text" class="banner-margin">Thank you to our Diamond Sponsors! </h1>
+            <h1 class="para text-center gradient-text">Thank you to our Diamond Sponsors! </h1>
           </div>
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
