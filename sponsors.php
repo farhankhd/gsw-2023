@@ -28,6 +28,11 @@
         .banner-margin{
             margin-top: 50px;
         }
+        .sponsor-category{
+          margin: 0;
+          padding: 0;
+          
+        }
         @media only screen and (max-width: 600px) {
             .white-bg{
                 padding: 30px 0px !important;
@@ -59,7 +64,7 @@
       <section>
         <div class="row white-bg justify-content-center">
           <div class="col">
-            <h1 class="gradient-text">Thank you to our Diamond Sponsors! </h1>
+            <h1 class="gradient-text sponsor-category">Thank you to our Diamond Sponsors! </h1>
           </div>
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
@@ -69,10 +74,11 @@
         </div>
         
         <hr class="team-hr">
+        <br>
         
         <div class="row white-bg justify-content-center">
           <div class="col">
-            <h1 class="para text-center gradient-text" class="banner-margin">Thank you to our Silver Sponsors! </h1>
+            <h1 class="gradient-text sponsor-category" style>Thank you to our Silver Sponsors! </h1>
           </div>
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
@@ -82,10 +88,11 @@
         </div>
        
         <hr class="team-hr">
+        <br>
         
         <div class="row white-bg justify-content-center">
           <div class="col">
-            <h1 class="para text-center gradient-text" class="banner-margin">Thank you to our Community, Design, &#38; Global Acadamic Partners! </h1>
+            <h1 class="gradient-text sponsor-category">Thank you to our Community, Design, &#38; Global Acadamic Partners! </h1>
           </div>
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
