@@ -23,14 +23,16 @@ include('markup.php');
 <!--    </head>-->
 <!--    <body>-->
 
-         <section class="startup-pitch">
+        <!--SPEAKERS-->
+        <section class="startup-pitch">
          <div class="row" style="
-            background-image: url(img/bg-img.png);
+            background-image: url(img/banner/banner-01.png);
             background-repeat: no-repeat;
-            background-size: cover;height: 344px;
+            background-size: cover; height: 344px;
+                                 margin-bottom: 20px;
             ">
             <div class="col">
-               <h1 class="section-header competition-text">OUR SPEAKERS </h1>
+               <h1 class="section-header competition-text">OUR SPEAKERS</h1>
             </div>
          </div>
       </section>
