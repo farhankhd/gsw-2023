@@ -33,6 +33,15 @@
         <link rel='stylesheet' href='../2023/assets/css/style.css'>
         <link href="https://use.fontawesome.com/0b972b6cf8.css" media="all" rel="stylesheet">
         
+        <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y5RBXMBDQ7"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-Y5RBXMBDQ7');
+</script>
+        
         <style>@media (min-width: 992px){
 .navbar-expand-lg .navbar-nav .nav-link {
     padding-right: 1.5rem !important;
