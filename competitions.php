@@ -159,11 +159,9 @@ ul.dark-bullet {
                   <ul class="dark-bullet" style="padding: 0px 20px 0px">
                      <li class="dark-bullet">$1,500 cash prize</li>
                   </ul>
-                   <br><br><br>
+                  <br><br><br>
+                   *Audience Choice 
                    
-                   <ul>
-                       *Audience Choice
-                   </ul>
                </div>
             </div>
          </div>
@@ -191,14 +189,6 @@ ul.dark-bullet {
          </div>
          <div class="row white-bg" style="padding: 0px 150px 50px">
          <div class="accordion-main">
-            <div class="accordion-item">
-               <div class="accordion-title">
-                  <h5 class="accordian-text">Test <span class="accordion-span">+</span></h5>
-               </div>
-               <div class="accordion-body">
-                  Anyone from any discipline and from any organization, including colleges and universities, government laboratories, research institutions, non-profit organizations, and for-profit companies.
-               </div>
-            </div>
             <div class="accordion-item">
                <div class="accordion-title">
                   <h5 class="accordian-text">Application Eligibility<span class="accordion-span">+</span></h5>
