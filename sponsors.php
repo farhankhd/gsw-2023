@@ -61,13 +61,14 @@
          <div class="row" style="
             background-image: url(img/sponsors.png);
             background-repeat: no-repeat;
-            background-size: cover;height: 344px;
+            background-size: cover;height: 344px; padding-bottom: 10px;
             ">
             <div class="col">
                <h1 class="section-header competition-text">OUR SPONSORS </h1>
             </div>
          </div>
       </section>
+   
       <section>
         <div class="row white-bg justify-content-center">
           <div class="col">
