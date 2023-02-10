@@ -793,7 +793,7 @@ background-color: #F5F5F5;
 /***************
 *** SPONSORS ***
 ****************/
-#sponsor-logo,  #collab-logo {
+#sponsor-logo
     width: 100%;
     max-width:  221px;
     /*height: 100%;*/
@@ -803,9 +803,11 @@ background-color: #F5F5F5;
 div.logo {
     padding-top: 0px;
 }
+
 /***************
 *** SPEAKERS ***
 ****************/
+
 /* SPEAKER CSS */
 #speaker-section-expanded {
     margin-top: -60px;
@@ -992,8 +994,22 @@ footer a:hover, footer-title a:focus {
     text-align: left;
 }
 #collab-logo{
-        margin-bottom: 15px;
+    margin-bottom: 15px;
+    width: 100%;
+    max-width: 250px;
+    height: 100%;
+    max-height: 250px;
 }
+@media only screen and (max-width: 1180px) {
+    #collab-logo {
+        width: 100%;
+        max-width: 250px;;
+        height: 100%;
+        max-height: 100px;*/
+        /*margin: auto;*/
+    }
+}
+
 .schedule-banner{
     height:23% !important;
 }
@@ -1040,11 +1056,11 @@ footer a:hover, footer-title a:focus {
     padding: 0px 100px 50px 170px;
 }
 @media only screen and (max-width: 1180px) {
-  #sponsor-logo,  #collab-logo {
-    width: 100%;
-    max-width: unset!important;
-    height: 100%;
-    /*max-height: 100px;*/
-    /*margin: auto;*/
-}
+    #sponsor-logo {
+        width: 100%;
+        max-width: unset!important;
+        height: 100%;
+        /*max-height: 100px;*/
+        /*margin: auto;*/
+    }
 }
