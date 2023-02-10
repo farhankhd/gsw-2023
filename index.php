@@ -175,7 +175,7 @@
             background-image: url(img/sponsors.png);
             background-repeat: no-repeat;
             background-size: cover; height: 344px;
-                                 margin-bottom: 20px;
+                                 margin-bottom: 10px;
             ">
             <div class="col">
                <h1 class="section-header competition-text">OUR SPONSORS </h1>
