@@ -158,10 +158,8 @@ ul.dark-bullet {
                <div class="p-5" style="background-color: #F5F5F5">
                   <ul class="dark-bullet" style="padding: 0px 20px 0px">
                      <li class="dark-bullet">$1,500 cash prize</li>
+                      *Audience Choice
                   </ul>
-                  <br><br><br>
-                   *Audience Choice 
-                   
                </div>
             </div>
          </div>
