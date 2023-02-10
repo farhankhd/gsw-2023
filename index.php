@@ -52,7 +52,7 @@
             color: #0e1e58;
             width: 60%;
             margin: 0 auto;
-            margin-top: -40px;
+            /*margin-bottom: 31px;*/
         }
         .libra-logo, .scince-logo{
             margin-top: 30px !important;
@@ -69,7 +69,10 @@
 }
     
  
-    
+    img#partner-logo {
+    width: 100%;
+    max-width: 319px;
+}
 @media only screen and (max-width: 600px) {
     div.main{
         padding:unset!important;
@@ -140,7 +143,7 @@
          <!--REGISTRATION-->
         <div class="section" id="registration-section">
             <div class="row text-center">
-                <div class="col-xs-12">
+                <div class="col-lg-12">
                     <br />
                     <div class="white-bg text-center">
                         <h1 class="para text-center gradient-text">Are you ready for MIT Global Startup Workshop 2023?</h1>
@@ -155,11 +158,11 @@
         
         
         <!--BACKGROUND-->
-        <div class="section-div">
-            <div></div>
+        <!--<div class="section-div">-->
+        <!--    <div></div>-->
             <!--<img id="element1" src="../img/elements/Asset%201.svg"> 
-            <img id="element2" src="../img/elements/Asset%202.svg">-->
-        </div>
+        <!--    <img id="element2" src="../img/elements/Asset%202.svg">-->
+        <!--</div>-->
         <section id="workshop_section">
             <div class="row white-bg">
                 <div class="col white-bg">
@@ -190,12 +193,12 @@
       <section>
         <div class="row white-bg justify-content-center">
           <div class="col">
-            <h1 class="gradient-text sponsor-category">Thank you to our Diamond Sponsors! </h1>
+            <h1 class="gradient-text sponsor-category mb-3">Thank you to our Diamond Sponsors! </h1>
           </div>
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
-          <div class="col-sm-1 col-md-4 white-bg">
-            <a href=""> <img id="sponsor-logo" src="/2023/img/sponsors/capitalpartner-diamond.png"></a>
+          <div class="col-sm-1 col-md-12 ">
+            <a href=""> <img id="partner-logo" src="/2023/img/sponsors/capitalpartner-diamond.png"></a>
           </div>
         </div>
         
@@ -204,12 +207,12 @@
         
         <div class="row white-bg justify-content-center">
           <div class="col">
-            <h1 class="gradient-text sponsor-category" style>Thank you to our Silver Sponsors! </h1>
+            <h1 class="gradient-text sponsor-category mb-3" style="">Thank you to our Silver Sponsors! </h1>
           </div>
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
-          <div class="col-sm-1 col-md-4 banner-margin">
-              <a href=""> <img id="sponsor-logo" src="/2023/img/sponsors/shopflix.png"></a>
+          <div class="col-sm-1 col-md-12">
+              <a href=""> <img id="partner-logo" src="/2023/img/sponsors/shopflix.png"></a>
           </div>
         </div>
        
@@ -218,7 +221,7 @@
         
         <div class="row white-bg justify-content-center">
           <div class="col">
-            <h1 class="gradient-text sponsor-category">Thank you to our Community, Design, &#38; Global Acadamic Partners! </h1>
+            <h1 class="gradient-text sponsor-category">Thank you to our Community, Design, &amp; Global Acadamic Partners! </h1>
           </div>
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
@@ -231,7 +234,7 @@
           <div class="col-sm-1 col-md-4">
             <a href=""><img id="sponsor-logo" class="scince-logo" src="/2023/img/sponsors/kathimerini.png"></a>
           </div>
-          <div class="col-sm-1 col-md-4">
+          <div class="col-sm-1 col-md-4 mb-3">
             <a href=""><img id="sponsor-logo" class="scince-logo" src="/2023/img/sponsors/ogilvy.png"></a>
           </div>
           <div class="col-sm-1 col-md-4">

@@ -25,7 +25,7 @@ include('markup.php');
 
          <section class="startup-pitch">
          <div class="row" style="
-            background-image: url(img/image.jpg);
+            background-image: url(img/bg-img.png);
             background-repeat: no-repeat;
             background-size: cover;height: 344px;
             ">
@@ -63,13 +63,118 @@ include('markup.php');
         <div class="keynote-section" id="keynote-section-expanded">
             <p class="section-header section-header-page">Keynotes</p>
 
-            <?= $keynotesHtml ?>
+           <?php
+           
+           $row = 0;
+        
+            $skip_row_number = array("1");
+            
+            $file = fopen("data/speakers.csv", "r");
+  
+       
+        while (($data = fgetcsv($file)) !== false) {
+            $row++;	
+            
+            if (in_array($row, $skip_row_number))	
+            {
+        		continue; 
+        	}
+        	
+            if($data[0]=="Y"){
+            
+            
+     ?>       
+      
+     <div class="row speaker-expanded-bio">
+        <span class="anchor" id="N/A"></span>
+        
+        <div class="speaker col-sm-6 col-md-4 col-lg-3">
+        
+        <img class="speaker-picture" src="img/speakers/<?php echo $data[4]; ?>">
+        </div>
+        
+        <div class="col-sm-6 col-md-8 col-lg-9 speaker-expanded-text speaker-expanded-text">
+        
+        <div class="speaker-expanded-name"><?php echo $data[1]." ".$data[2]; ?></div>
+        <div class="speaker-expanded-position"><?php echo $data[6]; ?></div>
+        <p class="para light-text light-bg-dark-text"><?php echo $data[7]; ?></p>
+        </div>
+     </div>
+      
+      <?php 
+            //  echo "<pre>";print_r();
+            // HTML tag for placing in row format
+            // echo "<tr>";
+            // foreach ($data as $i) {
+            //     echo htmlspecialchars($i);
+                
+            // }
+            // echo "</tr> \n";
+            
+                }
+            // }
+        }
+  
+           ?>
+           
         </div>
 
         <div class="section" id="speaker-section-expanded">
             <p class="section-header section-header-page">Speakers</p>
-
-            <?= $speakersHtml ?>
+            
+            <?php
+           
+           $row = 0;
+        
+            $skip_row_number = array("1");
+            
+            $file = fopen("data/speakers.csv", "r");
+  
+       
+        while (($data = fgetcsv($file)) !== false) {
+            $row++;	
+            
+            if (in_array($row, $skip_row_number))	
+            {
+        		continue; 
+        	}
+        	
+            if($data[0]=="N"){
+            
+            
+     ?>       
+      
+     <div class="row speaker-expanded-bio">
+        <span class="anchor" id="N/A"></span>
+        
+        <div class="speaker col-sm-6 col-md-4 col-lg-3">
+        
+        <img class="speaker-picture" src="img/speakers/<?php echo $data[4]; ?>">
+        </div>
+        
+        <div class="col-sm-6 col-md-8 col-lg-9 speaker-expanded-text speaker-expanded-text">
+        
+        <div class="speaker-expanded-name"><?php echo $data[1]." ".$data[2]; ?></div>
+        <div class="speaker-expanded-position"><?php echo $data[6]; ?></div>
+        <p class="para light-text light-bg-dark-text"><?php echo $data[7]; ?></p>
+        </div>
+     </div>
+      
+      <?php 
+            //  echo "<pre>";print_r();
+            // HTML tag for placing in row format
+            // echo "<tr>";
+            // foreach ($data as $i) {
+            //     echo htmlspecialchars($i);
+                
+            // }
+            // echo "</tr> \n";
+            
+                }
+            // }
+        }
+  
+           ?>   
         </div>
 
 <!--    </body>-->

@@ -33,7 +33,7 @@ function markup(Callable $filterFunction) {
             }
             
         }// Filter array with custom filter function
-       // $speakers = array_filter($speakers, $filterFunction);
+        // $speakers = array_filter($speakers, $filterFunction);
        
         // Sort array by key case-insensitively
         ksort($speakers, SORT_NATURAL | SORT_FLAG_CASE);

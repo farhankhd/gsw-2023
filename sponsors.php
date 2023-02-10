@@ -12,7 +12,10 @@
             margin: 0 auto;
             width:30%;
            
-        }
+        }img#partner-logo {
+    width: 100%;
+    max-width: 330px;
+}
         .team-hr{
             border-bottom: 2px solid rgba(100, 121, 162,0.3);
             border-top: unset;
@@ -20,7 +23,7 @@
             color: #0e1e58;
             width: 60%;
             margin: 0 auto;
-            margin-top: -12px;
+            /*margin-top: -12px;*/
         }
         .libra-logo, .scince-logo{
             margin-top: 30px !important;
@@ -74,12 +77,12 @@
       <section>
         <div class="row white-bg justify-content-center">
           <div class="col">
-            <h1 class="gradient-text sponsor-category">Thank you to our Diamond Sponsors! </h1>
+            <h1 class="gradient-text sponsor-category mb-3">Thank you to our Diamond Sponsors! </h1>
           </div>
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
-          <div class="col-sm-1 col-md-4 white-bg">
-            <a href=""> <img id="sponsor-logo" src="/2023/img/sponsors/capitalpartner-diamond.png"></a>
+          <div class="col-sm-1 col-md-12 ">
+            <a href=""> <img id="partner-logo" src="/2023/img/sponsors/capitalpartner-diamond.png"></a>
           </div>
         </div>
         
@@ -88,12 +91,12 @@
         
         <div class="row white-bg justify-content-center">
           <div class="col">
-            <h1 class="gradient-text sponsor-category" style>Thank you to our Silver Sponsors! </h1>
+            <h1 class="gradient-text sponsor-category mb-3" style>Thank you to our Silver Sponsors! </h1>
           </div>
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
-          <div class="col-sm-1 col-md-4 banner-margin">
-              <a href=""> <img id="sponsor-logo" src="/2023/img/sponsors/shopflix.png"></a>
+          <div class="col-sm-1 col-md-12">
+              <a href=""> <img id="partner-logo" src="/2023/img/sponsors/shopflix.png"></a>
           </div>
         </div>
        
@@ -115,7 +118,7 @@
           <div class="col-sm-1 col-md-4">
             <a href=""><img id="sponsor-logo" class="scince-logo" src="/2023/img/sponsors/kathimerini.png"></a>
           </div>
-          <div class="col-sm-1 col-md-4">
+          <div class="col-sm-1 col-md-4 mb-3">
             <a href=""><img id="sponsor-logo" class="scince-logo" src="/2023/img/sponsors/ogilvy.png"></a>
           </div>
           <div class="col-sm-1 col-md-4">
