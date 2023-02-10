@@ -613,6 +613,7 @@ etition {
     width: 250px;
     background-color: rgb(125, 66, 112);
     border-radius: 50px;
+    border-color: rgb(125, 66, 112);
 }
 .register-btn {
     text-align: center;
