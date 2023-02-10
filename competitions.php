@@ -102,7 +102,7 @@ ul.dark-bullet {
       <!--PAGE HEADER-->
       <section class="startup-pitch">
          <div class="row" style="
-            background-image: url(img/image.jpg);
+            background-image: url(img/sponsors.png);
             background-repeat: no-repeat;
             background-size: cover;height: 344px;
             ">
