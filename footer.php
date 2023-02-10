@@ -67,9 +67,8 @@
 
         <hr id="footer-hr">
 
-        <div class="row text-center footer-div" style="text-align: center; align-content: center;">
+        <div class="row text-center footer-div">
             <div class="col col-lg-2 col-md-3">
-                
                 <ul class="footer-menu-one">
                     <p class="footer-title">The Conference</p>
                     <li class="footer-link"><a href="index.php">Home</a></li>
@@ -79,11 +78,9 @@
                     <li class="footer-link"><a href="startup-pitch.php">Competitions</a></li>
                     <li class="footer-link"><a href="speakers.php">Speakers</a></li>
                 </ul>
-                
             </div>
             <div class="col col-md-4">
-               
-                <ul class="footer-menu-two" style="text-align: center;>
+                <ul class="footer-menu-two" style="text-align: center">
                      <p class="footer-title">Organization</p>
                     <li class="footer-link"><a href="get_involved.php">Get involved with MIT</a></li>
                     <li class="footer-link"><a href="history.php">History</a></li>
