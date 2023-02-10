@@ -1002,10 +1002,10 @@ footer a:hover, footer-title a:focus {
 }
 @media only screen and (max-width: 1180px) {
     #collab-logo {
-        width: 100%;
-        max-width: 250px;
+        width: 200px;
+        max-width: 200px;
         height: 100%;
-        max-height: 250px;
+        max-height: 200px;
         /*margin: auto;*/
     }
 }
