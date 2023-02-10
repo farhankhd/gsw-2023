@@ -179,7 +179,7 @@ gtag('config', 'G-Y5RBXMBDQ7');
                     <li class=""><a class="nav-link" target="_blank"  style="background-color: #7d4270; color: white; border-radius: 3.5px;" href="https://www.eventora.gr/mit-gsw/">Tickets</a></li>
                     <li class=""><a class="nav-link disabled" href="/2023/schedule.php">Agenda</a></li>
                     <li class=""><a class="nav-link" href="/2023/speakers.php">Speakers</a></li>
-                    <li class=""><a class="nav-link " href="/2023/competitions.php">Competitions</a></li>
+                    <li class=""><a class="nav-link " href="/2023/competitions.php">Startup Competitions</a></li>
                     <!--<li class="dropdown">-->
                     <!--    <a class="nav-link dropdown-toggle" href="/2023/competitions.php" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Startup Competitions</a>-->
                     <!--    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">-->
