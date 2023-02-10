@@ -36,7 +36,7 @@
         }
         @media only screen and (max-width: 600px) {
             .white-bg{
-                padding: 40px 0px !important;
+                padding: 30px 0px !important;
             }
             .gradient-text {
                 font-size: 25px !important;
@@ -61,7 +61,8 @@
          <div class="row" style="
             background-image: url(img/sponsors.png);
             background-repeat: no-repeat;
-            background-size: cover;height: 344px;
+            background-size: cover; height: 344px;
+                                 margin-bottom: 20px;
             ">
             <div class="col">
                <h1 class="section-header competition-text">OUR SPONSORS </h1>
