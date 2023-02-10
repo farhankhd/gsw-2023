@@ -214,16 +214,11 @@
                         <p style="text-align: left; padding-left: 10px;">In addition, the following funding sources do contribute towards the EUR 1,000,000 limit:</p>
                         <br>
                         <ul style="align-content: left; text-align: left; padding-left: 10px;">
-                            <li style="align-content: left; text-align: left; padding-left: 10px;">
-                            Contributions from friends, family, and mentors
-                            </li>
-                            <li>Research and funding grants
-                            </li>
-                            <li>Winnings from prior competitions
-                            </li>
-                            <li>Winnings from prior competitions
-                            </li>
-                            <li>Traditional debt instruments (does not include convertible notes towards equity)</li>
+                            <li style="align-content: left; text-align: left; padding-left: 20px;">Contributions from friends, family, and mentors</li>
+                            <li style="align-content: left; text-align: left; padding-left: 20px;">Research and funding grants</li>
+                            <li style="align-content: left; text-align: left; padding-left: 20px;">Winnings from prior competitions</li>
+                            <li style="align-content: left; text-align: left; padding-left: 20px;">Winnings from prior competitions</li>
+                            <li style="align-content: left; text-align: left; padding-left: 20px;">Traditional debt instruments (does not include convertible notes towards equity)</li>
                         </ul>
                     </div>
                 </div>
@@ -265,9 +260,9 @@
                    </div>
                    <div class="accordion-body">
                        <ul class="bullet-elig"  style="padding: 0px 50px 0px">
-                           <li class="bullet-elig light-text">All finalist teams will be required to attend an online pitch workshop organized by MIT in Feb 2023/early Mar 2023.
+                           <li style="align-content: left; text-align: left; padding-left: 20px;">All finalist teams will be required to attend an online pitch workshop organized by MIT in Feb 2023/early Mar 2023.
                            </li> 
-                           <li class="bullet-elig light-text">All finalist teams are required to meet virtually with their assigned mentor once before the conference.</li>
+                           <li style="align-content: left; text-align: left; padding-left: 20px;">All finalist teams are required to meet virtually with their assigned mentor once before the conference.</li>
                        </ul>    
                    </div> 
                 </div>
@@ -285,9 +280,9 @@
                     </div>
                     <div class="accordion-body">
                         <ul class="bullet-elig" style="padding: 0px 50px 0px">
-                            <li class="bullet-elig light-text">Disclaimer: The Global Startup Workshop competition committee reserves the right to include or exclude any teams for any reason.
+                            <li style="align-content: left; text-align: left; padding-left: 20px;">Disclaimer: The Global Startup Workshop competition committee reserves the right to include or exclude any teams for any reason.
                             </li>
-                            <li class="bullet-elig light-text">Disclosure: Teams agree that GSW can use materials shared with GSW in applications and for conference presentations in future years without limitation. This includes but is not limited to sharing publicly in photographs, example files for future years, and social media</li>
+                            <li style="align-content: left; text-align: left; padding-left: 20px;">Disclosure: Teams agree that GSW can use materials shared with GSW in applications and for conference presentations in future years without limitation. This includes but is not limited to sharing publicly in photographs, example files for future years, and social media</li>
                         </ul>
                     </div>
                 </div>
