@@ -83,7 +83,7 @@
             </div>
             <div class="col col-md-4">
                
-                <ul class="footer-menu-two">
+                <ul class="footer-menu-two" style="text-align: center;>
                      <p class="footer-title">Organization</p>
                     <li class="footer-link"><a href="get_involved.php">Get involved with MIT</a></li>
                     <li class="footer-link"><a href="history.php">History</a></li>
