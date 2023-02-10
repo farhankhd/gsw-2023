@@ -32,6 +32,13 @@
             // echo '</script>';  
         ?>  
 <style>
+    
+        .sponsor-category{
+          margin: 0;
+          padding: 0;
+          text-align: center;
+          
+        }
         .sponsor-hr{
             border-top: 1px solid#dd4f33 !important;
             margin: 0 auto;
@@ -53,10 +60,19 @@
         .banner-margin {
             margin-top: 50px;
         }
-@media only screen and (min-width: 480px) {
+    
+    
+    @media only screen and (min-width: 480px) {
         .logo{
-            paddin-right: 113px;
+            padding-right: 113px;
         }
+        
+        hr {
+              height: 20px; 
+              border: none;
+              background-size: 20px 20px;
+              width: 50%; 
+            }
 }
 @media only screen and (max-width: 600px) {
     div.main{
