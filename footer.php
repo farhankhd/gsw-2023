@@ -1,41 +1,40 @@
-   <style>
-       div#footer_section {
-    padding-bottom: 26px;
-}
-ul.footer-menu-one li ,ul.footer-menu-two li {
-    text-align: start;
-    list-style-type: none;
-}
-ul.footer-menu-one p , ul.footer-menu-two p {
-    text-align: start;
-}
-.footer-div{
-    justify-content:center;
-}
-.white-bg {
-    padding: 50px 150px 50px;
-}
-#footer_icons1{
-    justify-content: center;
-}
-@media only screen and (max-width: 667px) {
-  .footer-div{
-    padding-left: unset!important;
-}
-.white-bg {
-    padding: unset!important;
-}
-#footer_section {
-    max-height: 835px;
-}
-#footer-hr {
-    border-color: #eeeeee3d;
-    width: unset;
-    margin-left: 0px;
-}
-
-}
-   </style>
+<style>
+   div#footer_section {
+      padding-bottom: 26px;
+   }
+   ul.footer-menu-one li ,ul.footer-menu-two li {
+       text-align: start;
+       list-style-type: none;
+   }
+   ul.footer-menu-one p , ul.footer-menu-two p {
+       text-align: start;
+   }
+   .footer-div{
+       justify-content:center;
+   }
+   .white-bg {
+       padding: 50px 150px 50px;
+   }
+   #footer_icons1{
+       justify-content: center;
+   }
+   @media only screen and (max-width: 667px) {
+      .footer-div{
+         padding-left: unset!important;
+      }
+      .white-bg {
+         padding: unset!important;
+      }
+      #footer_section {
+         max-height: 835px;
+      }
+      #footer-hr {
+         border-color: #eeeeee3d;
+         width: unset;
+         margin-left: 0px;
+      }
+   }
+</style>
  
     <div class="section-div" id="footer_section">
         <div class="row text-center">
@@ -66,11 +65,9 @@ ul.footer-menu-one p , ul.footer-menu-two p {
         <hr id="footer-hr">
 
         <div class="row text-center footer-div" style="text-align: center; align-content: center;">
-           
-                
             <div class="col col-lg-2 col-md-3">
                 
-                <ul class="footer-menu-one">
+                <ul class="footer-menu-one" style="text-align: center">
                     <p class="footer-title">The Conference</p>
                     <li><a href="index.php">Home</a></li>
                     <li><a href="registration.php" onClick="fbq('trackCustom', 'Bottom_Register_to_attend_GSW');">Registration</a></li>
