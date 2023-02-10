@@ -99,6 +99,9 @@
             section.startup-pitch {
                 padding-top: 25px;
             }
+            .section-div {
+                padding-bottom: 30px;
+            }
         }
    </style>
    <body>
