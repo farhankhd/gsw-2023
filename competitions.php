@@ -154,11 +154,10 @@ ul.dark-bullet {
                </div>
             </div>
             <div class="col-lg" style="padding-bottom: 0">
-               <h4 style="background-color: #131d25">3rd Place*</h4>
+               <h4 style="background-color: #131d25">3rd Place</h4>
                <div class="p-5" style="background-color: #F5F5F5">
                   <ul class="dark-bullet" style="padding: 0px 20px 0px">
                      <li class="dark-bullet">$1,500 cash prize</li>
-                      *Audience Choice
                   </ul>
                </div>
             </div>
@@ -336,78 +335,7 @@ ul.dark-bullet {
                }
                toggleAccordian();
              </script>
-               <button class="collapsible-elig">Application Eligibility</button>
-               <div class="content-elig"><br>Anyone from any discipline and from any organization, including colleges and universities, government laboratories, research institutions, non-profit organizations, and for-profit companies.</div>
                
-               <button class="collapsible-elig">Stage Eligibility</button>
-               <div class="content-elig"><br>Anyone from any discipline and from any organization, including colleges and universities, government laboratories, research institutions, non-profit organizations, and for-profit companies.</div>
-               <div class="content-elig"><br>
-                   Startups should have a beta product/service/prototype. Ideation startups are not eligible to compete.
-               </div>
-               
-               <button class="collapsible-elig">Prior Funding Limitations</button>
-               <div class="content-elig"><br>Startups that have raised more than EUR 1,000,000 in equity capital are not eligible to compete. Teams can engage in discussions to raise equity before the conference, but shouldn’t have officially raised more than the maximum amount before the conference. The EUR 1,000,000 limit applies to all dilutive funding sources such as but not limited to direct equity investments, SAFE, angel investments, professional investment, or from FF.
-                   <br><br>
-                   In addition, the following funding sources do contribute towards the EUR 1,000,000 limit:
-                   <br>
-               
-                   <ul class="bullet-elig" style="padding: 0px 50px 0px">
-                       <li class="bullet-elig light-text">
-                           Contributions from friends, family, and mentors
-                       </li>
-                       <li class="bullet-elig light-text">Research and funding grants
-                       </li>
-                       <li class="bullet-elig light-text">Winnings from prior competitions
-                       </li>
-                       <li class="bullet-elig light-text">Winnings from prior competitions
-                       </li>
-                       <li class="bullet-elig light-text">Traditional debt instruments (does not include convertible notes towards equity)</li>
-                   </ul>
-               </div>
-               
-               <button class="collapsible-elig">Market Requirements</button>
-               <div class="content-elig"><br>
-                   The startup must be based in or have operations in Greece or Europe to be eligible to compete.
-               </div>
-               
-               <button class="collapsible-elig">Venture Limitations</button>
-               <div class="content-elig"><br>
-                   The Startup Pitch Competition is meant to provide an avenue for early-stage startups to receive funding and accelerate their venture. Generally, the following types of ventures will not be eligible to apply: ventures within existing corporations, spinouts from existing corporations, franchises, and licensing agreements for distribution in a different geographical area.
-               </div>
-               
-               <button class="collapsible-elig">Team Presentation</button>
-               <div class="content-elig"><br>
-                   At least two and up to three team members must attend the final pitch and be involved in the Q+A. All attending team members will need to complete the online conference registration process.
-               
-               </div>
-               
-               <button class="collapsible-elig">Pre-Conference Workshop and Mentorship</button>
-               <div class="content-elig"><br>
-                   <ul class="bullet-elig" >
-                       <li class="bullet-elig light-text">All finalist teams will be required to attend an online pitch workshop organized by MIT in Feb 2023/early Mar 2023.
-                       </li>
-                       <li class="bullet-elig light-text">All finalist teams are required to meet virtually with their assigned mentor once before the conference.</li>   
-                   </ul>
-               </div>
-               
-               <button class="collapsible-elig">At Conference Mentorship</button>
-               <div class="content-elig"><br>
-                   All finalist teams will meet in person for 30 minutes with their mentor during the first day of the conference to practice and finalize their decks and pitches.
-               </div>
-               
-               <button class="collapsible-elig">Full Availability</button>
-               <div class="content-elig"><br>
-                   All teams must be at the conference for registration on the morning of Thursday, March 30th, 2023.
-               </div>
-               
-               <button class="collapsible-elig">Additional Fineprint</button>
-               <div class="content-elig"><br>
-                   <ul class="bullet-elig" style="padding: 0px 50px 0px">
-                       <li class="bullet-elig light-text">Disclaimer: The Global Startup Workshop competition committee reserves the right to include or exclude any teams for any reason.
-                       </li>
-                       <li class="bullet-elig light-text">Disclosure: Teams agree that GSW can use materials shared with GSW in applications and for conference presentations in future years without limitation. This includes but is not limited to sharing publicly in photographs, example files for future years, and social media</li>  
-                   </ul>
-               </div> -->
          </div>
       </section>
       <?php include_once 'footer.php'; ?>
