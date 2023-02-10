@@ -65,7 +65,7 @@ ul.footer-menu-one p , ul.footer-menu-two p {
 
         <hr id="footer-hr">
 
-        <div class="row text-center footer-div" style="">
+        <div class="row text-center footer-div" style="text-align: center; align-content: center;">
            
                 
             <div class="col col-lg-2 col-md-3">
