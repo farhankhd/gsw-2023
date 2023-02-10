@@ -135,7 +135,7 @@ ul.dark-bullet {
       <section class="startup-pitch">
          <div class="row white-bg" style="padding-bottom: 0;">
             <div class="col-lg" style="padding-bottom: 0">
-               <h4 style="background-color: #131d25;margin-top: 10px; ">1st Place</h4>
+               <h4 style="background-color: #131d25">1st Place</h4>
                <div class="p-5" style="background-color: #F5F5F5">
                   <ul class="dark-bullet" style="">
                      <li class="dark-bullet">$5,000 cash prize</li>
