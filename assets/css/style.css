@@ -82,7 +82,7 @@ section {
     max-height: 300px; 
 }
 .section {
-    padding: 40px 15%;
+    /*padding: 40px 15%;*/
     font-size: 1em;
     background-color: white;
 }
@@ -793,11 +793,11 @@ background-color: #F5F5F5;
 *** SPONSORS ***
 ****************/
 #sponsor-logo,  #collab-logo {
-    width: auto;
-    max-width:  270px;
-    height: 100%;
-    max-height: 100px;
-    margin: auto;
+    width: 100%;
+    max-width:  221px;
+    /*height: 100%;*/
+    /*max-height: 100px;*/
+    /*margin: auto;*/
 }
 div.logo {
     padding-top: 0px;
@@ -1027,4 +1027,13 @@ footer a:hover, footer-title a:focus {
 }
 .white-bullet1 {
     padding: 0px 100px 50px 170px;
+}
+@media only screen and (max-width: 1180px) {
+  #sponsor-logo,  #collab-logo {
+    width: 100%;
+    max-width: unset!important;
+    height: 100%;
+    /*max-height: 100px;*/
+    /*margin: auto;*/
+}
 }
