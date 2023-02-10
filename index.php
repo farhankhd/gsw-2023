@@ -275,10 +275,20 @@
         <?php //include('collaborators.php'); ?>
         
         <!--ACADEMIC PARTNERS-->
-          
-        <div class="section-div mt-4">
-            <img class="banner" src="img/banner/collaborators.png"> 
-        </div>
+
+        <section class="mt-4">
+         <div class="row" style="
+            background-image: url(img/banner/banner-03.png);
+            background-repeat: no-repeat;
+            background-size: cover; height: 344px;
+                                 margin-bottom: 10px;
+            ">
+            <div class="col">
+               <h1 class="section-header competition-text">OUR COLLABORATORS </h1>
+            </div>
+         </div>
+      </section>
+  
         <section>
             <div class="row">
                 <div class="col white-bg">
