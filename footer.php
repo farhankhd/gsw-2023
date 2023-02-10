@@ -68,8 +68,8 @@
             <div class="col col-lg-2 col-md-3">
                 
                 <ul class="footer-menu-one" style="text-align: center">
-                    <p class="footer-title">The Conference</p>
-                    <li><a href="index.php">Home</a></li>
+                    <p class="footer-title" style="text-align: center">The Conference</p>
+                    <li style="text-align: center"><a href="index.php">Home</a></li>
                     <li><a href="registration.php" onClick="fbq('trackCustom', 'Bottom_Register_to_attend_GSW');">Registration</a></li>
                     <li><a href="schedule.php">Schedule</a></li>
                     <li><a href="content_overview.php">Content Overview</a></li>
