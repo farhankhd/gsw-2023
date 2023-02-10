@@ -51,6 +51,7 @@
             opacity: 0;
             transition: all .2s ease-in-out;
             visibility: hidden;
+            background-color: white;
         }
         .accordion-main .accordion-item.accordion-open .accordion-body {
             visibility: visible;
@@ -161,7 +162,7 @@
                </div>
             </div>
          </div>
-         <div class="row white-bg pitch-page" style="padding-top: 0">
+         <div class="row white-bg pitch-page" style="padding-top: 10px">
             <div class="col-lg">
                <h4 style="background-color: #131d25">General Qualifications</h4>
                <div class="" style="background-color: #F5F5F5">
@@ -173,122 +174,124 @@
             </div>
          </div>
       </section>
-      <!--ELIGIBILITY-->
-      <div class="section-div">
-         <h1>Eligibility</h1>
-      </div>
-      <section class="startup-pitch">
-         <div class="white-bg" style="padding: 34px 150px 14px">
-            <p class="light-text light-bg-dark-text"> 
-               Teams must meet all the following requirements to be eligible to compete in the <strong class="light-bg-dark-text" style="color: #00c0f2">Startup Pitch Competition</strong>.
-            </p>
-         </div>
+
+        <!--ELIGIBILITY-->
+        <div class="section-div">
+            <h1>Eligibility</h1>
+        </div>
+
+        <section class="startup-pitch">
+            <div class="white-bg" style="padding: 34px 150px 14px">
+                <p class="light-text light-bg-dark-text"> 
+                   Teams must meet all the following requirements to be eligible to compete in the <strong class="light-bg-dark-text" style="color: #00c0f2">Startup Pitch Competition</strong>.
+                </p>
+            </div>
          <div class="row white-bg" style="padding: 0px 150px 50px">
-         <div class="accordion-main">
-            <div class="accordion-item">
-               <div class="accordion-title">
-                  <h5 class="accordian-text">Application Eligibility<span class="accordion-span">+</span></h5>
+            <div class="accordion-main">
+                <div class="accordion-item">
+                    <div class="accordion-title">
+                        <h5 class="accordian-text">Application Eligibility<span class="accordion-span">+</span></h5>
+                    </div>
+                    <div class="accordion-body">
+                        Anyone from any discipline and from any organization, including colleges and universities, government laboratories, research institutions, non-profit organizations, and for-profit companies.
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <div class="accordion-title">
+                        <h5 class="accordian-text">Stage Eligibility <span class="accordion-span">+</span></h5>
+                    </div>
+                    <div class="accordion-body">
+                        Anyone from any discipline and from any organization, including colleges and universities, government laboratories, research institutions, non-profit organizations, and for-profit companies.
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <div class="accordion-title">
+                        <h5 class="accordian-text">Prior Funding Limitations<span class="accordion-span">+</span></h5>
+                    </div>
+                    <div class="accordion-body">
+                        Startups that have raised more than EUR 1,000,000 in equity capital are not eligible to compete. Teams can engage in discussions to raise equity before the conference, but shouldn’t have officially raised more than the maximum amount before the conference. The EUR 1,000,000 limit applies to all dilutive funding sources such as but not limited to direct equity investments, SAFE, angel investments, professional investment, or from FF.
+                        <br><br>
+                        <p style="text-align: left">In addition, the following funding sources do contribute towards the EUR 1,000,000 limit:</p>
+                        <br>
+                        <ul class="bullet-elig" style="padding: 0px 50px 0px">
+                            <li class="bullet-elig light-text">
+                            Contributions from friends, family, and mentors
+                            </li>
+                            <li class="bullet-elig light-text">Research and funding grants
+                            </li>
+                            <li class="bullet-elig light-text">Winnings from prior competitions
+                            </li>
+                            <li class="bullet-elig light-text">Winnings from prior competitions
+                            </li>
+                            <li class="bullet-elig light-text">Traditional debt instruments (does not include convertible notes towards equity)</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <div class="accordion-title">
+                        <h5 class="accordian-text">Market Requirements<span class="accordion-span">+</span></h5>
+                    </div>
+                    <div class="accordion-body">
+                        The startup must be based in or have operations in Greece or Europe to be eligible to compete.
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <div class="accordion-title">
+                        <h5 class="accordian-text">Venture Limitations <span class="accordion-span">+</span></h5>
+                    </div>
+                    <div class="accordion-body">
+                        The Startup Pitch Competition is meant to provide an avenue for early-stage startups to receive funding and accelerate their venture. Generally, the following types of ventures will not be eligible to apply: ventures within existing corporations, spinouts from existing corporations, franchises, and licensing agreements for distribution in a different geographical area.
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <div class="accordion-title">
+                        <h5 class="accordian-text">Team Presentation <span class="accordion-span">+</span></h5>
+                    </div>
+                    <div class="accordion-body">
+                        At least two and up to three team members must attend the final pitch and be involved in the Q+A. All attending team members will need to complete the online conference registration process.
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <div class="accordion-title">
+                        <h5 class="accordian-text">At Conference Mentorship<span class="accordion-span">+</span></h5>
+                    </div>
+                    <div class="accordion-body">
+                        All finalist teams will meet in person for 30 minutes with their mentor during the first day of the conference to practice and finalize their decks and pitches.
+                    </div>
                </div>
-               <div class="accordion-body">
-                  Anyone from any discipline and from any organization, including colleges and universities, government laboratories, research institutions, non-profit organizations, and for-profit companies.
-               </div>
-            </div>
-            <div class="accordion-item">
-               <div class="accordion-title">
-                  <h5 class="accordian-text">Stage Eligibility <span class="accordion-span">+</span></h5>
-               </div>
-               <div class="accordion-body">
-                  Anyone from any discipline and from any organization, including colleges and universities, government laboratories, research institutions, non-profit organizations, and for-profit companies.
-               </div>
-            </div>
-            <div class="accordion-item">
-               <div class="accordion-title">
-                  <h5 class="accordian-text">Prior Funding Limitations<span class="accordion-span">+</span></h5>
-               </div>
-               <div class="accordion-body">
-                  Startups that have raised more than EUR 1,000,000 in equity capital are not eligible to compete. Teams can engage in discussions to raise equity before the conference, but shouldn’t have officially raised more than the maximum amount before the conference. The EUR 1,000,000 limit applies to all dilutive funding sources such as but not limited to direct equity investments, SAFE, angel investments, professional investment, or from FF.
-                  <br><br>
-                  In addition, the following funding sources do contribute towards the EUR 1,000,000 limit:
-                  <br>
-                  <ul class="bullet-elig" style="padding: 0px 50px 0px">
-                     <li class="bullet-elig light-text">
-                        Contributions from friends, family, and mentors
-                     </li>
-                     <li class="bullet-elig light-text">Research and funding grants
-                     </li>
-                     <li class="bullet-elig light-text">Winnings from prior competitions
-                     </li>
-                     <li class="bullet-elig light-text">Winnings from prior competitions
-                     </li>
-                     <li class="bullet-elig light-text">Traditional debt instruments (does not include convertible notes towards equity)</li>
-                  </ul>
-               </div>
-            </div>
-            <div class="accordion-item">
-               <div class="accordion-title">
-                  <h5 class="accordian-text">Market Requirements<span class="accordion-span">+</span></h5>
-               </div>
-               <div class="accordion-body">
-                  The startup must be based in or have operations in Greece or Europe to be eligible to compete.
-               </div>
-            </div>
-            <div class="accordion-item">
-               <div class="accordion-title">
-                  <h5 class="accordian-text">Venture Limitations <span class="accordion-span">+</span></h5>
-               </div>
-               <div class="accordion-body">
-                  The Startup Pitch Competition is meant to provide an avenue for early-stage startups to receive funding and accelerate their venture. Generally, the following types of ventures will not be eligible to apply: ventures within existing corporations, spinouts from existing corporations, franchises, and licensing agreements for distribution in a different geographical area.
-               </div>
-            </div>
-            <div class="accordion-item">
-               <div class="accordion-title">
-                  <h5 class="accordian-text">Team Presentation <span class="accordion-span">+</span></h5>
-               </div>
-               <div class="accordion-body">
-                  At least two and up to three team members must attend the final pitch and be involved in the Q+A. All attending team members will need to complete the online conference registration process.
-               </div>
-            </div>
-          
-             <div class="accordion-item">
-                  <div class="accordion-title">
-                     <h5 class="accordian-text">Additional Fineprint<span class="accordion-span">+</span></h5>
-                  </div>
-                  <div class="accordion-body">
-                     <ul class="bullet-elig" style="padding: 0px 50px 0px">
-                        <li class="bullet-elig light-text">Disclaimer: The Global Startup Workshop competition committee reserves the right to include or exclude any teams for any reason.
-                        </li>
-                        <li class="bullet-elig light-text">Disclosure: Teams agree that GSW can use materials shared with GSW in applications and for conference presentations in future years without limitation. This includes but is not limited to sharing publicly in photographs, example files for future years, and social media</li>
-                     </ul>
-                  </div>
-               </div>
-            <div class="accordion-item">
-                  <div class="accordion-title">
-                     <h5 class="accordian-text">At Conference Mentorship<span class="accordion-span">+</span></h5>
-                  </div>
-                  <div class="accordion-body">
-                     All finalist teams will meet in person for 30 minutes with their mentor during the first day of the conference to practice and finalize their decks and pitches.
-                  </div>
-               </div>
-         <div class="accordion-item">
-               <div class="accordion-title">
-                  <h5 class="accordian-text">Pre-Conference Workshop and Mentorship <span class="accordion-span">+</span></h5>
-               </div>
-               <div class="accordion-body">
-                  <ul class="bullet-elig">
-                     <li class="bullet-elig light-text">All finalist teams will be required to attend an online pitch workshop organized by MIT in Feb 2023/early Mar 2023.
-                     </li>
-                     <li class="bullet-elig light-text">All finalist teams are required to meet virtually with their assigned mentor once before the conference.</li>
-                  </ul>
-               </div> 
-            </div>
-            <div class="accordion-item">
-                  <div class="accordion-title">
-                     <h5 class="accordian-text">Full Availability<span class="accordion-span">+</span></h5>
-                  </div>
-                  <div class="accordion-body">
-                     All teams must be at the conference for registration on the morning of Thursday, March 30th, 2023.
-                  </div>
-               </div>
+               <div class="accordion-item">
+                   <div class="accordion-title">
+                       <h5 class="accordian-text">Pre-Conference Workshop and Mentorship <span class="accordion-span">+</span></h5>
+                   </div>
+                   <div class="accordion-body">
+                       <ul class="bullet-elig"  style="padding: 0px 50px 0px">
+                           <li class="bullet-elig light-text">All finalist teams will be required to attend an online pitch workshop organized by MIT in Feb 2023/early Mar 2023.
+                           </li> 
+                           <li class="bullet-elig light-text">All finalist teams are required to meet virtually with their assigned mentor once before the conference.</li>
+                       </ul>    
+                   </div> 
+                </div>
+                <div class="accordion-item">
+                    <div class="accordion-title">
+                        <h5 class="accordian-text">Full Availability<span class="accordion-span">+</span></h5>
+                    </div>      
+                    <div class="accordion-body">
+                        All teams must be at the conference for registration on the morning of Thursday, March 30th, 2023.
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <div class="accordion-title">
+                        <h5 class="accordian-text">Additional Fineprint<span class="accordion-span">+</span></h5>
+                    </div>
+                    <div class="accordion-body">
+                        <ul class="bullet-elig" style="padding: 0px 50px 0px">
+                            <li class="bullet-elig light-text">Disclaimer: The Global Startup Workshop competition committee reserves the right to include or exclude any teams for any reason.
+                            </li>
+                            <li class="bullet-elig light-text">Disclosure: Teams agree that GSW can use materials shared with GSW in applications and for conference presentations in future years without limitation. This includes but is not limited to sharing publicly in photographs, example files for future years, and social media</li>
+                        </ul>
+                    </div>
+                </div>
+                
             <script type="text/javascript">
                function toggleAccordian() {
                
