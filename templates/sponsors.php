@@ -12,14 +12,25 @@
         <link rel='stylesheet' href='../2023/assets/css/style.css'>
     </head>
     <body>
-        <!--SPONSORS-->
-        <div class="section-div">
-            <img class="banner" src="/2023/img/banner/sponsors.png"> 
-        </div>
-       <section>
+          <!--SPONSORS-->
+        <section class="startup-pitch">
+         <div class="row" style="
+            background-image: url(img/sponsors.png);
+            background-repeat: no-repeat;
+            background-size: cover; height: 344px;
+                                 margin-bottom: 20px;
+            ">
+            <div class="col">
+               <h1 class="section-header competition-text">OUR SPONSORS </h1>
+            </div>
+         </div>
+      </section>
+    
+   
+      <section>
         <div class="row white-bg justify-content-center">
           <div class="col">
-            <h1 class="gradient-text">Thank you to our Diamond Sponsors! </h1>
+            <h1 class="gradient-text sponsor-category">Thank you to our Diamond Sponsors! </h1>
           </div>
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
@@ -29,10 +40,11 @@
         </div>
         
         <hr class="team-hr">
+        <br>
         
         <div class="row white-bg justify-content-center">
           <div class="col">
-            <h1 class="para text-center gradient-text" class="banner-margin">Thank you to our Silver Sponsors! </h1>
+            <h1 class="gradient-text sponsor-category" style>Thank you to our Silver Sponsors! </h1>
           </div>
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
@@ -42,10 +54,11 @@
         </div>
        
         <hr class="team-hr">
+        <br>
         
         <div class="row white-bg justify-content-center">
           <div class="col">
-            <h1 class="para text-center gradient-text" class="banner-margin">Thank you to our Community, Design, &#38; Global Acadamic Partners! </h1>
+            <h1 class="gradient-text sponsor-category">Thank you to our Community, Design, &#38; Global Acadamic Partners! </h1>
           </div>
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
