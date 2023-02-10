@@ -66,14 +66,10 @@
         .logo{
             padding-right: 113px;
         }
-        
-        hr {
-              height: 20px; 
-              border: none;
-              background-size: 20px 20px;
-              width: 50%; 
-            }
 }
+    
+ 
+    
 @media only screen and (max-width: 600px) {
     div.main{
         padding:unset!important;
@@ -86,6 +82,21 @@
     }
     section {
         padding: 62px 0px 20px;
+    }
+    .white-bg{
+                padding: 30px 0px !important;
+    }
+    .gradient-text {
+        font-size: 25px !important;
+    }
+    .banner-margin{
+        margin-top: 0px;
+    }
+    hr {
+      height: 20px; 
+      border: none;
+      background-size: 20px 20px;
+      width: 50%; 
     }
 }
 </style>
