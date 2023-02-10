@@ -93,7 +93,7 @@
         margin-top: 0px;
     }
     hr {
-      height: 20px; 
+      height: 40px; 
       border: none;
       background-size: 20px 20px;
       width: 50%; 
