@@ -211,9 +211,9 @@
                     <div class="accordion-body">
                         Startups that have raised more than EUR 1,000,000 in equity capital are not eligible to compete. Teams can engage in discussions to raise equity before the conference, but shouldn’t have officially raised more than the maximum amount before the conference. The EUR 1,000,000 limit applies to all dilutive funding sources such as but not limited to direct equity investments, SAFE, angel investments, professional investment, or from FF.
                         <br><br>
-                        <p style="text-align: left">In addition, the following funding sources do contribute towards the EUR 1,000,000 limit:</p>
+                        <p style="text-align: left; padding-left: 5px;">In addition, the following funding sources do contribute towards the EUR 1,000,000 limit:</p>
                         <br>
-                        <ul>
+                        <ul style="text-align: left; padding-left: 5px">
                             <li>
                             Contributions from friends, family, and mentors
                             </li>
