@@ -112,7 +112,7 @@ ul.dark-bullet {
          </div>
       </section>
       <section class="startup-pitch">
-         <div class="white-bg" style="">
+         <div class="white-bg" style="text-align: center">
             <p class="para light-text light-bg-dark-text"> 
                Are you an entrepreneur trying to take your startup to the next level? <br>The <strong class="light-bg-dark-text" style="color: #00c0f2">MIT GSW Startup Pitch Competition</strong> is an opportunity for you to pitch your company and compete for a chance to win seed money to scale your startup.
             </p>
