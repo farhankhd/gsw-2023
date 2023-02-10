@@ -46,6 +46,9 @@
             .logo{
                 
             }
+            hr {
+              width: 50%; 
+            }
         }
     </style>
     <body>
