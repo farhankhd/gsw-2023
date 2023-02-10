@@ -278,23 +278,22 @@
         <?php //include('collaborators.php'); ?>
         
         <!--ACADEMIC PARTNERS-->
-
         <section class="mt-4">
-         <div class="row" style="
+            <div class="row" style="
             background-image: url(img/banner/banner-03.png);
             background-repeat: no-repeat;
             background-size: cover; height: 344px;
                                  margin-bottom: 10px;
             ">
-            <div class="col">
-               <h1 class="section-header competition-text">OUR COLLABORATORS </h1>
+                <div class="col">
+                    <h1 class="section-header competition-text">OUR COLLABORATORS</h1>
+                </div>
             </div>
-         </div>
-      </section>
+        </section>
   
         <section>
             <div class="row">
-                <div class="col white-bg">
+                <div class="col white-bg" style="padding-top:0">
                     <h1 class="para gradient-text mt-5 text-center">We're proud to collaborate with these organizations!</h1>
                 </div>
             </div>
