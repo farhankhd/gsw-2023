@@ -99,7 +99,7 @@
       width: 50%; 
     }
     #gradient-text {
-        text-align: center; !important;
+        text-align: center !important;
     }
 }
 </style>
