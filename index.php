@@ -98,6 +98,9 @@
       background-size: 20px 20px;
       width: 50%; 
     }
+    #gradient-text {
+        text-align: center;
+    }
 }
 </style>
         <!--LANDING OWL VISUAL + COUNTDOWN-->
