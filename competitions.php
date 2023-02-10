@@ -154,11 +154,16 @@ ul.dark-bullet {
                </div>
             </div>
             <div class="col-lg" style="padding-bottom: 0">
-               <h4 style="background-color: #131d25">3rd Place<br>(Audience Choice)</h4>
+               <h4 style="background-color: #131d25">3rd Place*</h4>
                <div class="p-5" style="background-color: #F5F5F5">
                   <ul class="dark-bullet" style="padding: 0px 20px 0px">
                      <li class="dark-bullet">$1,500 cash prize</li>
                   </ul>
+                   <br><br><br>
+                   
+                   <ul>
+                       *Audience Choice
+                   </ul>
                </div>
             </div>
          </div>
