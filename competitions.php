@@ -29,74 +29,73 @@
 
   
    <style>
-      .accordion-span {
-      float: right;
-      }
-      .accordion-title h5 {
-      text-align: start;
-      }
-      .accordion-main .accordion-title {
-      padding: 10px 20px;
-      background-color: #131d25;
-      cursor: pointer;
-      }
-      .accordion-main .accordion-title h5 {
-      margin: 0
-      }
-      .accordion-main .accordion-body {
-      overflow: hidden;
-      border: 1px solid #ccc;
-      padding: 0 20px;
-      height: 0;
-      opacity: 0;
-      transition: all .2s ease-in-out;
-      visibility: hidden;
-      }
-      .accordion-main .accordion-item.accordion-open .accordion-body {
-      visibility: visible;
-      height: auto;
-      opacity: 1;
-      padding: 20px 20px;
-      }
-      h5.accordian-text {
-      font-size: 14px;
-      }
-      .competition-text {
-      font-weight: 700;
-      margin-top: 147px;
-      margin-bottom: 20px;
-      font-size: 40px;
-      }
-      section.startup-pitch {
-      padding: unset;
-      }
-      div.white-bg.pitch-page {
-    text-align: center;
-    width: 100%;
-    padding: 40px 60px 0px 60px;
-    margin: 0px;
-}
-.section-div {
-    background-color: #131d25;
-    height: 100%;
-    max-height: 300px;
-    padding: 1px;
-}
-.white-bg {
-    padding: 50px 150px 50px;
-}
-ul.dark-bullet {
-    padding: 0px 60px 0px;
-}
-@media only screen and (max-width: 667px) {
-.white-bg {
-    padding: unset!important;
-}
-ul.dark-bullet {
-    padding: 0px ;
-}
-
-}
+        .accordion-span {
+            float: right;
+        }
+        .accordion-title h5 {
+            text-align: start;
+        }
+        .accordion-main .accordion-title {
+            padding: 10px 20px;
+            background-color: #131d25;
+            cursor: pointer;
+        }
+        .accordion-main .accordion-title h5 {
+            margin: 0
+        }
+        .accordion-main .accordion-body {
+            overflow: hidden;
+            border: 1px solid #ccc;
+            padding: 0 20px;
+            height: 0;
+            opacity: 0;
+            transition: all .2s ease-in-out;
+            visibility: hidden;
+        }
+        .accordion-main .accordion-item.accordion-open .accordion-body {
+            visibility: visible;
+            height: auto;
+            opacity: 1;
+            padding: 20px 20px;
+        }
+        h5.accordian-text {
+            font-size: 14px;
+        }
+        .competition-text {
+            font-weight: 700;
+            margin-top: 147px;
+            margin-bottom: 20px;
+            font-size: 40px;
+        }
+        section.startup-pitch {
+            padding: unset;
+        }
+        div.white-bg.pitch-page {
+            text-align: center;
+            width: 100%;
+            padding: 40px 60px 0px 60px;
+            margin: 0px;
+        }
+        .section-div {
+            background-color: #131d25;
+            height: 100%;
+            max-height: 300px;
+            padding: 1px;
+        }
+        .white-bg {
+            padding: 50px 150px 50px;
+        }
+        ul.dark-bullet {
+            padding: 0px 60px 0px;
+        }
+        @media only screen and (max-width: 667px) {
+            .white-bg {
+                padding: unset!important;
+            }
+            ul.dark-bullet {
+                padding: 0px ;
+            }
+        }
    </style>
    <body>
       <!--PAGE HEADER-->
@@ -112,13 +111,13 @@ ul.dark-bullet {
          </div>
       </section>
       <section class="startup-pitch">
-         <div class="white-bg" style="text-align: center">
-            <p class="para light-text light-bg-dark-text"> 
+         <div class="white-bg">
+            <p class="para light-text light-bg-dark-text" style="text-align: center"> 
                Are you an entrepreneur trying to take your startup to the next level? <br>The <strong class="light-bg-dark-text" style="color: #00c0f2">MIT GSW Startup Pitch Competition</strong> is an opportunity for you to pitch your company and compete for a chance to win seed money to scale your startup.
             </p>
             <button class="comp-btn" onclick="window.location.href='https://docs.google.com/forms/d/e/1FAIpQLScGcvXe5ioa0kCA6X9UsN-wxMntEF_qolskXs7sgE_3z3AYnA/viewform?usp=sf_link';">Apply Now</button>
             <br><br><br>
-            <p class="para light-text light-bg-dark-text">
+            <p class="para light-text light-bg-dark-text" style="text-align: center">
                <strong class="light-bg-dark-text" >Submissions will be considered on a rolling basis until February 20th, 2023.</strong> Apply early before spots fill!
                <br>
                Semifinalists will be invited after their application has been reviewed. The final competition will be held on March 31st, 2023.
