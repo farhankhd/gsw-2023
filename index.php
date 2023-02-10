@@ -79,6 +79,7 @@
     }
     #workshop_section, #why-attend-section {
         padding: 50px 20px 10px;
+        text-align: center !important;
     }
     section {
         padding: 62px 0px 20px;
