@@ -151,7 +151,7 @@ include('markup.php');
         
         <div class="speaker col-sm-6 col-md-4 col-lg-3">
         
-        <img class="keynote-picture" src="img/speakers/<?php echo $data[4]; ?>">
+        <img class="speaker-picture" src="img/speakers/<?php echo $data[4]; ?>">
         </div>
         
         <div class="col-sm-6 col-md-8 col-lg-9 speaker-expanded-text speaker-expanded-text">
