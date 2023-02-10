@@ -10,7 +10,8 @@
        text-align: start;
    }
    .footer-link {
-       text-align: center;
+      text-align: center;
+      align-content: center;
    }
    .footer-div{
        justify-content:center;
