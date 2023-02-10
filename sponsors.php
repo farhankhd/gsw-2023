@@ -47,6 +47,9 @@
                 
             }
             hr {
+              height: 20px; 
+              border: none;
+              background-size: 20px 20px;
               width: 50%; 
             }
         }
