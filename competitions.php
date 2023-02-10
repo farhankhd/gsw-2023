@@ -213,17 +213,17 @@
                         <br><br>
                         <p style="text-align: left">In addition, the following funding sources do contribute towards the EUR 1,000,000 limit:</p>
                         <br>
-                        <ul class="bullet-elig" style="padding: 0px 50px 0px">
-                            <li class="bullet-elig light-text">
+                        <ul>
+                            <li>
                             Contributions from friends, family, and mentors
                             </li>
-                            <li class="bullet-elig light-text">Research and funding grants
+                            <li>Research and funding grants
                             </li>
-                            <li class="bullet-elig light-text">Winnings from prior competitions
+                            <li>Winnings from prior competitions
                             </li>
-                            <li class="bullet-elig light-text">Winnings from prior competitions
+                            <li>Winnings from prior competitions
                             </li>
-                            <li class="bullet-elig light-text">Traditional debt instruments (does not include convertible notes towards equity)</li>
+                            <li>Traditional debt instruments (does not include convertible notes towards equity)</li>
                         </ul>
                     </div>
                 </div>
