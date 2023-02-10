@@ -136,7 +136,7 @@
          <h1>Prizes</h1>
       </div>
       <section class="startup-pitch">
-         <div class="row white-bg" style="padding-bottom: 0;">
+         <div class="row white-bg" style="padding-bottom: 0; padding-top: 10px;">
             <div class="col-lg" style="padding-bottom: 0">
                <h4 style="background-color: #131d25">1st Place</h4>
                <div class="p-5" style="background-color: #F5F5F5">
