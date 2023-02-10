@@ -36,7 +36,7 @@
         }
         @media only screen and (max-width: 600px) {
             .white-bg{
-                padding: 30px 0px !important;
+                padding: 40px 0px !important;
             }
             .gradient-text {
                 font-size: 25px !important;
@@ -68,7 +68,7 @@
             </div>
          </div>
       </section>
-      <br>
+    
    
       <section>
         <div class="row white-bg justify-content-center">
