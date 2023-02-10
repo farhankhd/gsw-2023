@@ -9,7 +9,7 @@
    ul.footer-menu-one p , ul.footer-menu-two p {
        text-align: start;
    }
-   li.footer-link {
+   .footer-link {
        text-align: center;
    }
    .footer-div{
