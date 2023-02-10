@@ -96,6 +96,9 @@
             ul.dark-bullet {
                 padding: 0px ;
             }
+            .startup-pitch {
+                padding-top: 20px;
+            }
         }
    </style>
    <body>
