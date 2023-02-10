@@ -181,7 +181,7 @@ gtag('config', 'G-Y5RBXMBDQ7');
                     <li class=""><a class="nav-link" href="/2023/speakers.php">Speakers</a></li>
                     <li class=""><a class="nav-link " href="/2023/competitions.php">Competitions</a></li>
                     <!--<li class="dropdown">-->
-                    <!--    <a class="nav-link dropdown-toggle" href="/2023/competitions.php" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Competitions</a>-->
+                    <!--    <a class="nav-link dropdown-toggle" href="/2023/competitions.php" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Startup Competitions</a>-->
                     <!--    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">-->
                     <!--        <a class="nav-link dropdown-item" href="/2023/competitions.php">Startup Pitch</a>-->
                     <!--    </div>-->
