@@ -175,7 +175,7 @@
 
         <?php //include("sponsors.php"); ?>
 
-          <!--SPONSORS-->
+        <!--SPONSORS-->
         <section class="startup-pitch">
          <div class="row" style="
             background-image: url(img/sponsors.png);
@@ -188,8 +188,6 @@
             </div>
          </div>
       </section>
-    
-   
       <section>
         <div class="row white-bg justify-content-center">
           <div class="col">
@@ -292,12 +290,12 @@
         </section>
   
         <section>
-            <div class="row">
-                <div class="col white-bg" style="padding-top:0">
-                    <h1 class="para gradient-text mt-5 text-center">We're proud to collaborate with these organizations!</h1>
+            <div class="row white-bg justify-content-center">
+                <div class="col">
+                    <h1 class="gradient-text mt-5 text-center">We're proud to collaborate with these organizations!</h1>
                 </div>
             </div>
-            <div class="row white-bg logo">
+            <div class="row white-bg logo d-flex justify-content-center">
                 <div class="col-sm-6 col-lg-4 col-md-5">
                     <a href="https://entrepreneurship.mit.edu/"><img id="collab-logo" src="img/collaborators/mtc.png"></a>
                 </div>
