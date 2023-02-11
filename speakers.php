@@ -23,16 +23,14 @@ include('markup.php');
 <!--    </head>-->
 <!--    <body>-->
 
-        <!--SPEAKERS-->
-        <section class="startup-pitch">
+         <section class="startup-pitch">
          <div class="row" style="
-            background-image: url(img/banner/banner-01.png);
+            background-image: url(img/bg-img.png);
             background-repeat: no-repeat;
-            background-size: cover; height: 344px;
-                                 margin-bottom: 20px;
+            background-size: cover;height: 344px;
             ">
             <div class="col">
-               <h1 class="section-header competition-text">OUR SPEAKERS</h1>
+               <h1 class="section-header competition-text">OUR SPEAKERS </h1>
             </div>
          </div>
       </section>
@@ -91,7 +89,7 @@ include('markup.php');
         <span class="anchor" id="N/A"></span>
         
         <div class="speaker col-sm-6 col-md-4 col-lg-3">
-        
+        <img class="speaker-picture-association" src="img/mit.png">
         <img class="speaker-picture" src="img/speakers/<?php echo $data[4]; ?>">
         </div>
         
@@ -150,7 +148,7 @@ include('markup.php');
         <span class="anchor" id="N/A"></span>
         
         <div class="speaker col-sm-6 col-md-4 col-lg-3">
-        
+        <img class="speaker-picture-association" src="img/mit.png">
         <img class="speaker-picture" src="img/speakers/<?php echo $data[4]; ?>">
         </div>
         
