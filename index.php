@@ -32,80 +32,81 @@
             // echo '</script>';  
         ?>  
 <style>
-    
-        .sponsor-category{
-          margin: 0;
-          padding: 0;
-          text-align: center;
-          
-        }
-        .sponsor-hr{
-            border-top: 1px solid#dd4f33 !important;
-            margin: 0 auto;
-            width:30%;
-           
-        }
-        .team-hr{
-            border-bottom: 2px solid rgba(100, 121, 162,0.3);
-            border-top: unset;
-            padding-bottom: 5px;
-            color: #0e1e58;
-            width: 60%;
-            margin: 0 auto;
-            /*margin-bottom: 31px;*/
-        }
-        .libra-logo, .scince-logo{
-            margin-top: 30px !important;
-        }
-        .banner-margin {
-            margin-top: 50px;
-        }
-    
-    
+    /*SPONSOR SECTION*/
+    .sponsor-category{
+        margin: 0;
+        padding: 0;
+        text-align: center;
+    }
+    .sponsor-hr{
+        border-top: 1px solid#dd4f33 !important;
+        margin: 0 auto;
+        width:30%;
+    }
+    .libra-logo, .scince-logo{
+        margin-top: 30px !important;
+    }
+    img#diamond-logo {
+        width: 100%;
+        max-width: 319px;
+    }
+    img#silver-logo {
+        width: 100%;
+        max-width: 319px;
+    }
     @media only screen and (min-width: 480px) {
         .logo{
             padding-right: 113px;
         }
-}
+    }
     
- 
-    img#partner-logo {
-    width: 100%;
-    max-width: 319px;
-}
-@media only screen and (max-width: 600px) {
-    div.main{
-        padding:unset!important;
+    /*GENERAL*/
+    .team-hr{
+        border-bottom: 2px solid rgba(100, 121, 162,0.3);
+        border-top: unset;
+        padding-bottom: 5px;
+        color: #0e1e58;
+        width: 60%;
+        margin: 0 auto;
+        /*margin-bottom: 31px;*/
     }
-    ul.white-bullet{
-        padding: 0px 20px 0px;
+    .banner-margin {
+        margin-top: 50px;
     }
-    #workshop_section, #why-attend-section {
-        padding: 50px 20px 10px;
+    @media only screen and (max-width: 600px) {
+        div.main{
+            padding:unset!important;
+        }
+        ul.white-bullet{
+            padding: 0px 20px 0px;
+        }
+        #workshop_section, #why-attend-section {
+            padding: 50px 20px 10px;
+        }
+        section {
+            padding: 62px 0px 20px;
+        }
+        .white-bg{
+            padding: 30px 0px !important;
+        }
+        .gradient-text {
+            font-size: 25px !important;
+        }
+        .banner-margin{
+            margin-top: 0px;
+        }
+        hr {
+            height: 40px; 
+            border: none;
+            background-size: 20px 20px;
+            width: 50%; 
+        }
+        #gradient-text {
+            text-align: center !important;
+        }
     }
-    section {
-        padding: 62px 0px 20px;
-    }
-    .white-bg{
-                padding: 30px 0px !important;
-    }
-    .gradient-text {
-        font-size: 25px !important;
-    }
-    .banner-margin{
-        margin-top: 0px;
-    }
-    hr {
-      height: 40px; 
-      border: none;
-      background-size: 20px 20px;
-      width: 50%; 
-    }
-    #gradient-text {
-        text-align: center !important;
-    }
-}
 </style>
+
         <!--LANDING OWL VISUAL + COUNTDOWN-->
         <div class='main'>
             <div class="row">
@@ -196,7 +197,7 @@
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-12 ">
-            <a href=""> <img id="partner-logo" src="/2023/img/sponsors/capitalpartner-diamond.png"></a>
+            <a href=""> <img id="diamond-logo" src="/2023/img/sponsors/capitalpartner-diamond.png"></a>
           </div>
         </div>
         
@@ -210,7 +211,7 @@
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-12">
-              <a href=""> <img id="partner-logo" src="/2023/img/sponsors/shopflix.png"></a>
+              <a href=""> <img id="silver-logo" src="/2023/img/sponsors/shopflix.png"></a>
           </div>
         </div>
        
