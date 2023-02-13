@@ -54,6 +54,12 @@
         width: 100%;
         max-width: 319px;
     }
+    img#partner-logo {
+        width: 100%;
+        max-width: 100px;
+        height: 100%;
+        max-height: 100px;
+    }
     @media only screen and (min-width: 480px) {
         .logo{
             padding-right: 113px;
@@ -225,22 +231,22 @@
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-4">
-            <a href="https://www.libra.com/en/"><img id="sponsor-logo" class="libra-logo" src="/2023/img/sponsors/libragroup.png"></a>
+            <a href="https://www.libra.com/en/"><img id="partner-logo" class="libra-logo" src="/2023/img/sponsors/libragroup.png"></a>
           </div>
           <div class="col-sm-1 col-md-4">
-            <a href=""><img id="sponsor-logo" class="scince-logo" src="/2023/img/sponsors/scienceagora.png"></a>
+            <a href=""><img id="partner-logo" class="scince-logo" src="/2023/img/sponsors/scienceagora.png"></a>
           </div>
           <div class="col-sm-1 col-md-4">
-            <a href=""><img id="sponsor-logo" class="scince-logo" src="/2023/img/sponsors/kathimerini.png"></a>
+            <a href=""><img id="partner-logo" class="scince-logo" src="/2023/img/sponsors/kathimerini.png"></a>
           </div>
           <div class="col-sm-1 col-md-4 mb-3">
-            <a href=""><img id="sponsor-logo" class="scince-logo" src="/2023/img/sponsors/ogilvy.png"></a>
+            <a href=""><img id="partner-logo" class="scince-logo" src="/2023/img/sponsors/ogilvy.png"></a>
           </div>
           <div class="col-sm-1 col-md-4">
-            <a href=""><img id="sponsor-logo" class="scince-logo" src="/2023/img/sponsors/eventora.png"></a>
+            <a href=""><img id="partner-logo" class="scince-logo" src="/2023/img/sponsors/eventora.png"></a>
           </div>
           <div class="col-sm-1 col-md-4">
-            <a href=""><img id="sponsor-logo" class="scince-logo" src="/2023/img/sponsors/seeders.png"></a>
+            <a href=""><img id="partner-logo" class="scince-logo" src="/2023/img/sponsors/seeders.png"></a>
           </div>
         </div>
         
