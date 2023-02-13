@@ -11,7 +11,7 @@
         text-align: center;
       }
       .sponsor-hr{
-        border-top: 1px solid#dd4f33 !important;
+        border-top: 1px solid #dd4f33 !important;
         margin: 0 auto;
         width:30%;
       }
