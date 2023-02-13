@@ -114,6 +114,14 @@
         #gradient-text {
             text-align: center !important;
         }
+        
+        #collab-logo {
+            margin-bottom: 15px;
+            width: 100%;
+            max-width: 75px;
+            height: 100%;
+            max-height: 75px;
+        }
     }
 </style>
 
