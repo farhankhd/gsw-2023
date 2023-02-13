@@ -123,6 +123,7 @@
         min-height: 100px;
         max-height: 150px;
         display: block;
+        width: 50%;
     }
 </style>
 
