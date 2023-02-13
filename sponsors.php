@@ -4,60 +4,74 @@
 
 ?>
     <style>
-    .pt-1 {
-    padding-top: 1.25rem!important;
-}
-        .sponsor-hr{
-            border-top: 1px solid#dd4f33 !important;
-            margin: 0 auto;
-            width:30%;
-           
-        }img#partner-logo {
-    width: 100%;
-    max-width: 330px;
-}
-        .team-hr{
-            border-bottom: 2px solid rgba(100, 121, 162,0.3);
-            border-top: unset;
-            padding-bottom: 5px;
-            color: #0e1e58;
-            width: 60%;
-            margin: 0 auto;
-            /*margin-top: -12px;*/
+      /*SPONSOR LOGO & LAYOUT*/
+      .sponsor-category{
+        margin: 0;
+        padding: 0;
+        text-align: center;
+      }
+      .sponsor-hr{
+        border-top: 1px solid#dd4f33 !important;
+        margin: 0 auto;
+        width:30%;
+      }
+      #diamond-logo {
+        width: 100%;
+        max-width: 500px;
+        height: 100%;
+        max-height: 450px;
+      }
+      #silver-logo {
+        width: 100%;
+        max-width: 300px;
+        height: 100%;
+        max-height: 250px;
+      }
+      #partner-logo {
+        width: 100%;
+        max-width: 150px;
+        height: 100%;
+        max-height: 80px;
+      }
+      .libra-logo, .scince-logo{
+        margin-top: 30px !important;
+      }
+      
+      /*GENERAL*/
+      .pt-1 {
+        padding-top: 1.25rem!important;
+      }
+      .team-hr{
+        border-bottom: 2px solid rgba(100, 121, 162,0.3);
+        border-top: unset;
+        padding-bottom: 5px;
+        color: #0e1e58;
+        width: 60%;
+        margin: 0 auto;
+        /*margin-top: -12px;*/
+      }
+      .banner-margin{
+        margin-top: 50px;
+      }
+      @media only screen and (max-width: 600px) {
+        .white-bg{
+          padding: 30px 0px !important;
         }
-        .libra-logo, .scince-logo{
-            margin-top: 30px !important;
+        .gradient-text {
+          font-size: 25px !important;
         }
         .banner-margin{
-            margin-top: 50px;
+          margin-top: 0px;
         }
-        .sponsor-category{
-          margin: 0;
-          padding: 0;
-          text-align: center;
-          
+        hr {
+          height: 20px; 
+          border: none;
+          background-size: 20px 20px;
+          width: 50%; 
         }
-        @media only screen and (max-width: 600px) {
-            .white-bg{
-                padding: 30px 0px !important;
-            }
-            .gradient-text {
-                font-size: 25px !important;
-            }
-            .banner-margin{
-                margin-top: 0px;
-            }
-            .logo{
-                
-            }
-            hr {
-              height: 20px; 
-              border: none;
-              background-size: 20px 20px;
-              width: 50%; 
-            }
-        }
+      }
     </style>
+
     <body>
         <!--SPONSORS-->
         <section class="startup-pitch">
@@ -82,7 +96,7 @@
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-12 ">
-            <a href=""> <img id="partner-logo" src="/2023/img/sponsors/capitalpartner-diamond.png"></a>
+            <a href=""> <img id="diamond-logo" src="/2023/img/sponsors/capitalpartner-diamond.png"></a>
           </div>
         </div>
         
@@ -96,7 +110,7 @@
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-12">
-              <a href=""> <img id="partner-logo" src="/2023/img/sponsors/shopflix.png"></a>
+              <a href=""> <img id="silver-logo" src="/2023/img/sponsors/shopflix.png"></a>
           </div>
         </div>
        
@@ -110,22 +124,22 @@
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-4">
-            <a href="https://www.libra.com/en/"><img id="sponsor-logo" class="libra-logo" src="/2023/img/sponsors/libragroup.png"></a>
+            <a href="https://www.libra.com/en/"><img id="partner-logo" class="libra-logo" src="/2023/img/sponsors/libragroup.png"></a>
           </div>
           <div class="col-sm-1 col-md-4">
-            <a href=""><img id="sponsor-logo" class="scince-logo" src="/2023/img/sponsors/scienceagora.png"></a>
+            <a href=""><img id="partner-logo" class="scince-logo" src="/2023/img/sponsors/scienceagora.png"></a>
           </div>
           <div class="col-sm-1 col-md-4">
-            <a href=""><img id="sponsor-logo" class="scince-logo" src="/2023/img/sponsors/kathimerini.png"></a>
+            <a href=""><img id="partner-logo" class="scince-logo" src="/2023/img/sponsors/kathimerini.png"></a>
           </div>
           <div class="col-sm-1 col-md-4 mb-3">
-            <a href=""><img id="sponsor-logo" class="scince-logo" src="/2023/img/sponsors/ogilvy.png"></a>
+            <a href=""><img id="partner-logo" class="scince-logo" src="/2023/img/sponsors/ogilvy.png"></a>
           </div>
           <div class="col-sm-1 col-md-4">
-            <a href=""><img id="sponsor-logo" class="scince-logo" src="/2023/img/sponsors/eventora.png"></a>
+            <a href=""><img id="partner-logo" class="scince-logo" src="/2023/img/sponsors/eventora.png"></a>
           </div>
           <div class="col-sm-1 col-md-4">
-            <a href=""><img id="sponsor-logo" class="scince-logo" src="/2023/img/sponsors/seeders.png"></a>
+            <a href=""><img id="partner-logo" class="scince-logo" src="/2023/img/sponsors/seeders.png"></a>
           </div>
         </div>
         
