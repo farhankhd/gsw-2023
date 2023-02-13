@@ -48,11 +48,15 @@
     }
     #diamond-logo {
         width: 100%;
-        max-width: 319px;
+        max-width: 320px;
+        height: 100%;
+        max-height: 270px;
     }
     #silver-logo {
         width: 100%;
-        max-width: 319px;
+        max-width: 300px;
+        height: 100%;
+        max-height: 250px;
     }
     #partner-logo {
         width: 100%;
