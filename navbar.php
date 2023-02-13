@@ -34,101 +34,105 @@
         <link href="https://use.fontawesome.com/0b972b6cf8.css" media="all" rel="stylesheet">
         
         <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y5RBXMBDQ7"></script>
-<script>
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-gtag('config', 'G-Y5RBXMBDQ7');
-</script>
-        
-        <style>@media (min-width: 992px){
-.navbar-expand-lg .navbar-nav .nav-link {
-    padding-right: 1.5rem !important;
-    padding-left: 1.5rem !important;
-}
-}
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y5RBXMBDQ7"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-Y5RBXMBDQ7');
+        </script>
 
+        <style>
+            @media (min-width: 992px){
+                .navbar-expand-lg .navbar-nav .nav-link {
+                    padding-right: 1.5rem !important;
+                    padding-left: 1.5rem !important;
+                }
+            }
+            .copyright {
+                margin-top: 0px !important;
+            }
+            
+            #footer-hr{
+                border-color:#eeeeee3d;    
+                width: 64%;
+                margin-left: 179px;
+            }
 
-.copyright {
-    margin-top: 0px !important;
-}
+            .schedule_banner{
+                background-image: url(img/banner/schedule.png);
+            }
 
-#footer-hr{
-   border-color:#eeeeee3d;    
-   width: 64%;
-   margin-left: 179px;
-}
+            .register-btn {
+                height: 48px; 
+                border-radius: 4px;
+                font-weight:500;
+            }
 
-.schedule_banner{
-    background-image: url(img/banner/schedule.png);
-}
+            .event_heading{
+                padding:0px !important; 
+                text-align: left;
+            }
 
-.register-btn {
-    height: 48px; 
-    border-radius: 4px;
-    font-weight:500;
-}
+            .event_heading a{
+                font-weight: 600;   
+            }
 
-.event_heading{
-   padding:0px !important; 
-   text-align: left;
-}
+            #workshop_section,#why-attend-section{
+                padding: 0px 0px 0px;
+            }
 
-.event_heading a{
-   font-weight: 600;   
-}
+            #workshop_section div {
+                padding: 12px 25px 13px 25px;
 
-#workshop_section,#why-attend-section{
-    padding: 0px 0px 0px;
-}
+            }
 
-#workshop_section div {
-   padding: 12px 25px 13px 25px;
-    
-}
+            #sponsors_section{
+                padding: 70px 0px 12px;
+            }
 
-#sponsors_section{
-   padding: 70px 0px 12px;
-}
+            #sponsors_section div{
+                padding: 39px 60px 17px 60px;
+            }
 
-#sponsors_section div{
-   padding: 39px 60px 17px 60px;
-}
+            #registration-section div.white-bg{
+                padding: 0px 60px 15px 60px;
+            }
 
-#registration-section div.white-bg{
-    padding: 0px 60px 15px 60px;
-}
+            #footer_section{
+                max-height: 419px;
+            }
 
-#footer_section{
-   max-height: 419px;
-}
+            .twitter-icon,.facebook-icon,.instagram-icon,.linkedin-icon,.envelope-icon{
+                font-size: 2.5rem;
+            }
 
+            .hide{
+                display:none;
+            }
 
-.twitter-icon,.facebook-icon,.instagram-icon,.linkedin-icon,.envelope-icon{
-    font-size: 2.5rem;
-}
+            #Day1{
+                text-align: left;    
+            }
 
-.hide{
-    display:none;
-}
+            .active:after {
+                content: unset;
+            }
+            @media only screen and (max-width: 600px) {
+                div#navbarSupportedContent {
+                    background: #000;
+                    padding: 20px;
+                    z-index: 2;
+                }
+            }
+            #logo-left a:hover {
+                border-bottom: none; 
+            }
+            #logo-right a:hover {
+                border-bottom: none; 
+            }
 
-#Day1{
-  text-align: left;    
-}
-
-.active:after {
-    content: unset;
-}
- @media only screen and (max-width: 600px) {
-        div#navbarSupportedContent {
-            background: #000;
-            padding: 20px;
-            z-index: 2;
-        }
-}
-
-</style>
+        </style>
     </head>
 
 
