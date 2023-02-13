@@ -202,7 +202,7 @@ div#navbarSupportedContent {
     color: white;
 }
 
-.navbar a:hover {
+.nav-link a:hover {
     border-bottom: 1px solid white;
     color: white;
 }
