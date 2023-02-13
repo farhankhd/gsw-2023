@@ -46,15 +46,15 @@
     .libra-logo, .scince-logo{
         margin-top: 30px !important;
     }
-    img#diamond-logo {
+    #diamond-logo {
         width: 100%;
         max-width: 319px;
     }
-    img#silver-logo {
+    #silver-logo {
         width: 100%;
         max-width: 319px;
     }
-    img#partner-logo {
+    #partner-logo {
         width: 100%;
         max-width: 100px;
         height: 100%;
