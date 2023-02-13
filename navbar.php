@@ -165,7 +165,7 @@ gtag('config', 'G-Y5RBXMBDQ7');
         <!--        </ul>-->
         <!--    </div>-->
         <!--</nav> -->
-        <nav class="navbar-expand-lg navbar-fixed-top">
+        <nav class="navbar navbar-expand-lg navbar-fixed-top">
             <div class="container-fluid">
                 <div class="navbar-header">
                     <a class="navbar-brand" href="/2023/index.php"><img id="logo-left" src="img/GSW_logo_white.png"></a>
