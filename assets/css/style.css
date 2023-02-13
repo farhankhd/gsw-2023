@@ -793,7 +793,7 @@ background-color: #F5F5F5;
 /***************
 *** SPONSORS ***
 ****************/
-#sponsor-logo
+#sponsor-logo {
     width: 100%;
     max-width:  221px;
     /*height: 100%;*/
