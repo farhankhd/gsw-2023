@@ -315,7 +315,7 @@
                     <h1 class="gradient-text mt-5 text-center">We're proud to collaborate with these organizations!</h1>
                 </div>
             </div>
-            <div class="row d-flex justify-content-center">
+            <div class="row">
                 <div class="col-sm-6 col-md-5 col-lg-4" id="collab-logo">
                     <a href="https://entrepreneurship.mit.edu/"><img style="width: 300px; height: 150px;" src="img/collaborators/mtc.png"></a>
                 </div>
