@@ -245,7 +245,7 @@
         
         <div class="row white-bg justify-content-center">
           <div class="col">
-            <h1 class="gradient-text sponsor-category">Thank you to our Community, Design, &amp; Global Acadamic Partners! </h1>
+            <h1 class="gradient-text sponsor-category">Thank you to our Community, Design, &amp; Global Academic Partners! </h1>
           </div>
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
