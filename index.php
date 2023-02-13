@@ -146,19 +146,19 @@
                     <div class="countdown">
                         <div class="container-day light-text">
                             <h6 class="day light-text">Time</h6>
-                            <h6>Day</h6>
+                            <h6>Days</h6>
                         </div>
                         <div class='container-hour'>
                             <h6 class='hour'>Time</h6>
-                            <h6>Hour</h6>
+                            <h6>Hours</h6>
                         </div>
                         <div class='container-minute'>
                             <h6 class='minute'>Time</h6>
-                            <h6>Minute</h6>
+                            <h6>Minutes</h6>
                         </div>
                         <div class='container-second'>
                             <h6 class='second'>Time</h6>
-                            <h6>Second</h6>
+                            <h6>Seconds</h6>
                         </div>
                     </div>
                 </div>
