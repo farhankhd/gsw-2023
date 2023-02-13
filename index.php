@@ -118,12 +118,11 @@
     #collab-logo {
         margin-bottom: 15px;
         margin-top: 0;
-        width: 100%;
         min-width: 150px;
         max-width: 200px;
-        height: 100%;
         min-height: 100px;
         max-height: 150px;
+        display: block;
     }
 </style>
 
