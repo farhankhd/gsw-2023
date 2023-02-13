@@ -116,9 +116,9 @@
         }
     }
     #collab-logo {
-        margin-bottom: 15px;
+        margin-bottom: 30px;
         width: 100%;
-        min-width: 100px;
+        min-width: 150px;
         max-width: 200px;
         height: 100%;
         min-height: 100px;
