@@ -56,9 +56,9 @@
     }
     #partner-logo {
         width: 100%;
-        max-width: 250px;
+        max-width: 150px;
         height: 100%;
-        max-height: 200px;
+        max-height: 80px;
     }
     @media only screen and (min-width: 480px) {
         .logo{
