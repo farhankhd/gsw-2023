@@ -314,14 +314,14 @@
                     <h1 class="gradient-text mt-5 text-center">We're proud to collaborate with these organizations!</h1>
                 </div>
             </div>
-            <div class="row white-bg logo d-flex justify-content-center">
-                <div class="col-sm-6 col-lg-4 col-md-5">
+            <div class="row d-flex justify-content-center">
+                <div class="col-sm-6 col-md-5 col-lg-4 ">
                     <a href="https://entrepreneurship.mit.edu/"><img id="collab-logo" src="img/collaborators/mtc.png"></a>
                 </div>
-                <div class="col-sm-6 col-md-4 col-lg-4">
+                <div class="col-sm-6 col-md-5 col-lg-4">
                    <a href="https://legatum.mit.edu/"><img id="collab-logo" src="img/collaborators/legatum.png"></a>
                 </div>
-                <div class="col-sm-6 col-md-3 col-lg-4">
+                <div class="col-sm-6 col-md-5 col-lg-4">
                     <a href="https://reap.mit.edu/"><img id="collab-logo" src="img/collaborators/reap.png"></a>
                 </div>
             </div>
