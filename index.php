@@ -309,19 +309,19 @@
         </section>
   
         <section>
-            <div class="row white-bg justify-content-center">
+            <div class="row white-bg logo white-bg justify-content-center">
                 <div class="col">
                     <h1 class="gradient-text mt-5 text-center">We're proud to collaborate with these organizations!</h1>
                 </div>
             </div>
             <div class="row d-flex justify-content-center">
-                <div class="col-sm-6 col-md-5 col-lg-4 ">
+                <div class="col-sm-6 col-md-5 col-lg-4" id="collab-logo">
                     <a href="https://entrepreneurship.mit.edu/"><img id="collab-logo" src="img/collaborators/mtc.png"></a>
                 </div>
-                <div class="col-sm-6 col-md-5 col-lg-4">
+                <div class="col-sm-6 col-md-5 col-lg-4" id="collab-logo">
                    <a href="https://legatum.mit.edu/"><img id="collab-logo" src="img/collaborators/legatum.png"></a>
                 </div>
-                <div class="col-sm-6 col-md-5 col-lg-4">
+                <div class="col-sm-6 col-md-5 col-lg-4" id="collab-logo">
                     <a href="https://reap.mit.edu/"><img id="collab-logo" src="img/collaborators/reap.png"></a>
                 </div>
             </div>
