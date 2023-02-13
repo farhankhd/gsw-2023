@@ -323,7 +323,7 @@
             </div>
             <div class="row logo d-flex justify-content-center">
                 <div class="col-sm-6 col-md-4 col-lg-4" >
-                    <a href="https://entrepreneurship.mit.edu/"><img id="collab-logo" style="width: 350px" src="img/collaborators/mtc.png"></a>
+                    <a href="https://entrepreneurship.mit.edu/"><img id="collab-logo" style="width: 350px; text-align: center" src="img/collaborators/mtc.png"></a>
                 </div>
                 <div class="col-sm-6 col-md-4 col-lg-4">
                    <a href="https://legatum.mit.edu/"><img id="collab-logo" style="width: 150px" src="img/collaborators/legatum.png"></a>
