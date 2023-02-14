@@ -73,7 +73,7 @@
                 <ul class="footer-menu-one">
                     <p class="footer-title">The Conference</p>
                     <li class="footer-link"><a href="index.php">Home</a></li>
-                    <li class="footer-link"><a href="registration.php" onClick="fbq('trackCustom', 'Bottom_Register_to_attend_GSW');">Registration</a></li>
+                    <li class="footer-link"><a href="#registration-section" onClick="fbq('trackCustom', 'Bottom_Register_to_attend_GSW');">Registration</a></li>
                     <li class="footer-link"><a href="schedule.php">Schedule</a></li>
                     <!--<li class="footer-link"><a href="content_overview.php">Content Overview</a></li>-->
                     <li class="footer-link"><a href="competitions.php">Competitions</a></li>
