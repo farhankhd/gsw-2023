@@ -1,27 +1,41 @@
-<!DOCTYPE html>
-
-<html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name='viewport' content='width=device-width, initial-scale=1.0'>
-        <title>MIT GSW 2023</title>
-
-        <!--CSS: Adobe Font, Boostrap, style.css-->
-        <link rel="stylesheet" href="https://use.typekit.net/fww3ner.css">
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-        <link rel='stylesheet' href='assets/css/style.css'>
+<?php
+    // Require https
+    if ($_SERVER['HTTPS'] != "on") {
+        $url = "https://". $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
+        header("Location: $url");
+        exit;
         
-        <style>
-            #collab-logo {
-                display: block;
-                width: 50%;
-                position: relative;
-                margin: auto;
-            }
-        </style>
-        
-    </head>
+    }
+    $pageTitle = 'MIT Global Startup Workshop 2023 | Athens, Greece';
+    $metaDescription = 'MIT Global Startup Workshop is coming to Greece in March 2023! GSW is an annual conference that aims to accelerate entrepreneurial ecosystems around the world, through workshops, mentorship and skills training. Grab your tickets now for an experience you will never forget!';
+    $specificKeywords = 'entrepreneurial ecosystems';
+    $headerMainPageImageSrc = 'img/banner/main.png';
+    $headerTitle = 'MIT Global Startup Workshop 2023';
+    $headerSubTitle = 'Athens, Greece';
+    $classIndexMenu = 'active';
+    
+    //set headers to NOT cache a page
+    header("Cache-Control: no-cache, must-revalidate"); //HTTP 1.1
+    header("Pragma: no-cache"); //HTTP 1.0
+    header("Expires: Sat, 26 Jul 1997 05:00:00 GMT"); // Date in the past
+
+    $scripts = "<script src=\"2023/assets/js/scripts.js\"></script>";
+
+
+    include('navbar.php');
+    include('header.php'); ?>
+    
+    <style>
+        #collab-logo {
+            display: block;
+            width: 50%;
+            position: relative;
+            margin: auto;
+        }
+    </style>
+
+
+  
     <body>
         <!--ACADEMIC PARTNERS-->
         <section class="mt-4">
@@ -56,4 +70,6 @@
             </div>
         </section>
     </body>
-</html
+<?php include_once 'footer.php'; ?>
+
+
