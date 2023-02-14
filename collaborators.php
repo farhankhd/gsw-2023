@@ -14,25 +14,34 @@
     </head>
     <body>
         <!--ACADEMIC PARTNERS-->
-          
-        <div class="section-div">
-            <img class="banner" src="img/banner/collaborators.png"> 
-        </div>
-        <section>
-            <div class="row white-bg">
-                <div class="col white-bg">
-                    <h1 class="gradient-text">We're proud to collaborate with these organizations!</h1>
+        <section class="mt-4">
+            <div class="row" style="
+            background-image: url(img/banner/banner-03.png);
+            background-repeat: no-repeat;
+            background-size: cover; height: 344px;
+                                 margin-bottom: 10px;
+            ">
+                <div class="col">
+                    <h1 class="section-header competition-text">OUR COLLABORATORS</h1>
                 </div>
             </div>
-            <div class="row white-bg logo">
-                <div class="col-sm-6 col-md-3 col-lg white-bg">
-                    <a href="https://entrepreneurship.mit.edu/"><img id="collab-logo" src="img/collaborators/mtc.png"></a>
+        </section>
+  
+        <section>
+            <div class="row white-bg logo white-bg justify-content-center">
+                <div class="col">
+                    <h1 class="gradient-text mt-5 text-center">We're proud to collaborate with these organizations!</h1>
                 </div>
-                <div class="col-sm-6 col-md-3 col-lg white-bg">
-                   <a href="https://legatum.mit.edu/"><img id="collab-logo" src="img/collaborators/legatum.png"></a>
+            </div>
+            <div class="row logo d-flex justify-content-center">
+                <div class="col-sm-6 col-md-4 col-lg-4" >
+                    <a href="https://entrepreneurship.mit.edu/"><img id="collab-logo" style="width: 350px; text-align: center" src="img/collaborators/mtc.png"></a>
                 </div>
-                <div class="col-sm-6 col-md-3 col-lg white-bg">
-                    <a href="https://reap.mit.edu/"><img id="collab-logo" src="img/collaborators/reap.png"></a>
+                <div class="col-sm-6 col-md-4 col-lg-4">
+                   <a href="https://legatum.mit.edu/"><img id="collab-logo" style="width: 150px" src="img/collaborators/legatum.png"></a>
+                </div>
+                <div class="col-sm-6 col-md-4 col-lg-4">
+                    <a href="https://reap.mit.edu/"><img id="collab-logo" style="width: 350px" src="img/collaborators/reap.png"></a>
                 </div>
             </div>
         </section>
