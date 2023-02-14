@@ -75,20 +75,20 @@
                     <li class="footer-link"><a href="index.php">Home</a></li>
                     <li class="footer-link"><a href="registration.php" onClick="fbq('trackCustom', 'Bottom_Register_to_attend_GSW');">Registration</a></li>
                     <li class="footer-link"><a href="schedule.php">Schedule</a></li>
-                    <li class="footer-link"><a href="content_overview.php">Content Overview</a></li>
-                    <li class="footer-link"><a href="startup-pitch.php">Competitions</a></li>
+                    <!--<li class="footer-link"><a href="content_overview.php">Content Overview</a></li>-->
+                    <li class="footer-link"><a href="competitions.php">Competitions</a></li>
                     <li class="footer-link"><a href="speakers.php">Speakers</a></li>
                 </ul>
             </div>
             <div class="col col-md-4">
                 <ul class="footer-menu-two" style="text-align: center">
                      <p class="footer-title">Organization</p>
-                    <li class="footer-link"><a href="get_involved.php">Get involved with MIT</a></li>
-                    <li class="footer-link"><a href="history.php">History</a></li>
+                    <!--<li class="footer-link"><a href="get_involved.php">Get involved with MIT</a></li>-->
+                    <!--<li class="footer-link"><a href="history.php">History</a></li>-->
                     <li class="footer-link"><a href="team.php">Who we are</a></li>
                     <li class="footer-link"><a href="sponsors.php">Sponsors</a></li>
                     <li class="footer-link"><a href="collaborators.php">Collaborators</a></li>
-                    <li class="footer-link"><a href="index.php#location">Venue</a></li>
+                    <!--<li class="footer-link"><a href="index.php#location">Venue</a></li>-->
                 </ul>
                 
             </div>
