@@ -17,9 +17,9 @@
       }
       #diamond-logo {
         width: 100%;
-        max-width: 700px;
+        max-width: 500px;
         height: 100%;
-        max-height: 500px;
+        max-height: 300px;
       }
       #gold-logo {
         width: 100%;
@@ -188,7 +188,6 @@
           </div>
         </div>
         
-        <hr class="tier-hr">
         <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-4">
             <a href="https://scienceagora.eu/about/"><img id="strategic-acad-logo" class="scince-logo" src="/2023/img/sponsors/scienceagora.png"></a>
@@ -205,10 +204,10 @@
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-4">
-            <a href="https://www.kathimerini.gr/"><img id="comms-logo" class="scince-logo" src="/2023/img/sponsors/kathimerini.png"></a>
+            <a href="https://www.kathimerini.gr/"><img id="comms-logo" src="/2023/img/sponsors/kathimerini.png"></a>
           </div>
           <div class="col-sm-1 col-md-4 mb-3">
-            <a href="https://www.ogilvy.com/"><img id="comms-logo" class="scince-logo" src="/2023/img/sponsors/ogilvy.png"></a>
+            <a href="https://www.ogilvy.com/"><img id="comms-logo" src="/2023/img/sponsors/ogilvy.png"></a>
           </div>
         </div>
 
@@ -222,10 +221,10 @@
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-4">
-            <a href="https://www.eventora.com/"><img id="community-logo" class="scince-logo" src="/2023/img/sponsors/eventora.png"></a>
+            <a href="https://www.eventora.com/"><img id="community-logo" src="/2023/img/sponsors/eventora.png"></a>
           </div>
           <div class="col-sm-1 col-md-4">
-            <a href="https://seeders.gr/"><img id="partner-logo" class="community-logo" src="/2023/img/sponsors/seeders.png"></a>
+            <a href="https://seeders.gr/"><img id="commmunity-logo"src="/2023/img/sponsors/seeders.png"></a>
           </div>
         </div>
         
