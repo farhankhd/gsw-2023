@@ -17,9 +17,9 @@
       }
       #diamond-logo {
         width: 100%;
-        max-width: 700px;
+        max-width: 900px;
         height: 100%;
-        max-height: 650px;
+        max-height: 850px;
       }
       #gold-logo {
         width: 100%;
@@ -27,7 +27,13 @@
         height: 100%;
         max-height: 550px;
       }
-      #silver-logo, #strategic-acad-logo {
+      #silver-logo {
+        width: 100%;
+        max-width: 500px;
+        height: 100%;
+        max-height: 450px;
+      }
+      #strategic-acad-logo {
         width: 100%;
         max-width: 500px;
         height: 100%;
