@@ -204,7 +204,7 @@
       </section>
       
       
-       <!--ACADEMIC PARNTERS-->
+       <!--UNDER THE AUSPICES-->
       <section>
         <div class="row">
           <div class="col">
@@ -215,21 +215,21 @@
         
         <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-4">
-            <a href="https://scienceagora.eu/about/"><img id="auspices-logo" src="/2023/img/sponsors/MinDev.png"></a>
+            <a href="https://www.mindev.gov.gr/?lang=en"><img id="auspices-logo" src="/2023/img/sponsors/MinDev.png"></a>
           </div>
           <div class="col-sm-1 col-md-4">
-            <a href="https://scienceagora.eu/about/"><img id="auspices-logo" src="/2023/img/sponsors/MinEdu.png"></a>
+            <a href="https://www.minedu.gov.gr/"><img id="auspices-logo" src="/2023/img/sponsors/MinEdu.png"></a>
           </div>
           <div class="col-sm-1 col-md-4">
-            <a href="https://scienceagora.eu/about/"><img id="auspices-logo" src="/2023/img/sponsors/MinDigGov.png"></a>
+            <a href="https://mindigital.gr/"><img id="auspices-logo" src="/2023/img/sponsors/MinDigGov.png"></a>
           </div>
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-4">
-            <a href="https://scienceagora.eu/about/"><img id="auspices-logo" src="/2023/img/sponsors/MinLSA.png"></a>
+            <a href="https://ypergasias.gov.gr/"><img id="auspices-logo" src="/2023/img/sponsors/MinLSA.png"></a>
           </div>
           <div class="col-sm-1 col-md-4">
-            <a href="https://scienceagora.eu/about/"><img id="auspices-logo" src="/2023/img/sponsors/attica.png"></a>
+            <a href="https://www.patt.gov.gr/"><img id="auspices-logo" src="/2023/img/sponsors/attica.png"></a>
           </div>
         </div>
       </section>
