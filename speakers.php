@@ -26,10 +26,11 @@ include('markup.php');
                 .team-hr{
                         border-bottom: 2px solid rgba(100, 121, 162,0.3);
                         border-top: unset;
-                        padding-bottom: 10px;
+                        padding-bottom: 5px;
                         color: #0e1e58;
                         width: 90%;
                         margin: 0 auto;
+                        margin-bottom:  10px;
                 }
                 .gradient-text{
                         font-size: 35px !important;
