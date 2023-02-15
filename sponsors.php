@@ -37,7 +37,7 @@
         width: 100%;
         max-width: 300px;
         height: 100%;
-        max-height: 300px;
+        max-height: 200px;
       }
       #comms-logo {
         width: 100%;
