@@ -270,13 +270,7 @@
       </section>
       <!--CORPORATE-->
       <section>
-        <div class="row">
-          <div class="col">
-            <h1 class="para text-center gradient-text" id="team-section">Corporate Sponsors</h1>
-            <hr class="team-hr">
-          </div>
-        </div>
-        <br>
+      
         <div class="row white-bg logo white-bg justify-content-center">
             <div class="col">
                 <h1 class="gradient-text mt-5 text-center">Thank you to our following sponsors and partners!</h1>
@@ -287,9 +281,13 @@
             <div class="col-sm-1 col-md-4">
                 <a href="https://www.capitalship.gr/"> <img id="diamond-logo" src="/2023/img/sponsors/capital.png"></a>
             </div>
+        </div>
+        <div class="row white-bg logo d-flex justify-content-center">
             <div class="col-sm-1 col-md-4">
                 <a href="https://shopflix.gr/"> <img id="silver-logo" src="/2023/img/sponsors/shopflix.png"></a>
             </div>
+        </div>
+        <div>
             <div class="col-sm-1 col-md-4">
                 <a href="https://www.libra.com/en/"><img id="associate-logo" class="libra-logo" src="/2023/img/sponsors/libragroup.png"></a>
             </div>
