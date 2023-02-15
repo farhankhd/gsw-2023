@@ -29,6 +29,18 @@
 
   
    <style>
+       .team-hr{
+            border-bottom: 2px solid rgba(100, 121, 162,0.3);
+            border-top: unset;
+            padding-bottom: 5px;
+            color: #0e1e58;
+            width: 60%;
+            margin: 0 auto;
+        }
+        .gradient-text{
+            font-size: 35px !important;
+        }
+       
         .accordion-span {
             float: right;
         }
@@ -135,9 +147,18 @@
          </div>
       </section>
       <!--PRIZES-->
-      <div class="section-div">
-         <h1>Prizes</h1>
-      </div>
+       
+      <!--
+        <div class="section-div">
+            <h1>Prizes</h1>
+        </div>
+      -->
+        <div class="row">
+            <div class="col">
+                <h1 class="para text-center gradient-text" id="team-section">Prizes</h1>
+                <hr class="team-hr">
+            </div>
+        </div>
       <section class="startup-pitch">
          <div class="row white-bg" style="padding-bottom: 0; padding-top: 10px;">
             <div class="col-lg" style="padding-bottom: 0">
