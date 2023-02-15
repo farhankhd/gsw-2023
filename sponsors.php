@@ -55,7 +55,7 @@
         width: 100%;
         max-width: 250px;
         height: 100%;
-        max-height: 50px;
+        max-height: 100px;
       }
       #acad-assoc-logo {
         width: 100%;
