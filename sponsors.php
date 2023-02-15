@@ -38,6 +38,12 @@
       }
       
       /*GENERAL*/
+      .section-div {
+          background-color: #131d25;
+          height: 100%;
+          max-height: 300px;
+          padding: 1px;
+      }
       .pt-1 {
         padding-top: 1.25rem!important;
       }
@@ -90,8 +96,8 @@
       <section>
         <!--CORPORATE-->
         <div class="row white-bg justify-content-center">
-          <div class="col">
-            <h1 class="gradient-text sponsor-category mb-3">Corporate Sponsors </h1>
+          <div class="section-div">
+            <h1>Corporate Sponsors</h1>
           </div>
         </div>
         
