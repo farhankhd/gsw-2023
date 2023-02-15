@@ -210,7 +210,7 @@
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-4">
-            <a href="https://www.mindev.gov.gr/?lang=en"><img id="community-logo" class="scince-logo" src="/2023/img/sponsors/eventora.png"></a>
+            <a href="https://www.eventora.com/"><img id="community-logo" class="scince-logo" src="/2023/img/sponsors/eventora.png"></a>
           </div>
           <div class="col-sm-1 col-md-4">
             <a href="https://seeders.gr/"><img id="partner-logo" class="community-logo" src="/2023/img/sponsors/seeders.png"></a>
