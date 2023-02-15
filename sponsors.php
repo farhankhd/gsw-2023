@@ -130,9 +130,10 @@
         </div>
       
         <!--ACADEMIC PARNTERS-->
-        <div class="row white-bg justify-content-center">
+        <div class="row">
           <div class="col">
-            <h1 class="gradient-text sponsor-category">Academic Partners</h1>
+            <h1 class="para text-center gradient-text" id="team-section">Academic Partners</h1>
+            <hr class="team-hr">
           </div>
         </div>
         
@@ -147,9 +148,10 @@
  
         
         <!--COMMUNICATION PARTNERS-->
-        <div class="row white-bg justify-content-center">
+        <div class="row">
           <div class="col">
-            <h1 class="gradient-text sponsor-category">Communication Partners</h1>
+            <h1 class="para text-center gradient-text" id="team-section">Communication Partners</h1>
+            <hr class="team-hr">
           </div>
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
@@ -163,9 +165,10 @@
 
       
         <!--COMMUNITY PARTNERS-->
-        <div class="row white-bg justify-content-center">
+        <div class="row">
           <div class="col">
-            <h1 class="gradient-text sponsor-category">Community Partners</h1>
+            <h1 class="para text-center gradient-text" id="team-section">Community Partners</h1>
+            <hr class="team-hr">
           </div>
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
