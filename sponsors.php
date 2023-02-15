@@ -38,17 +38,18 @@
       }
       
       /*GENERAL*/
-       .team-hr{
-            border-bottom: 2px solid rgba(100, 121, 162,0.3);
-            border-top: unset;
-            padding-bottom: 5px;
-            color: #0e1e58;
-            width: 90%;
-            margin: 0 auto;
-        }
-        .gradient-text{
-            font-size: 35px !important;
-        }
+     .team-hr{
+          border-bottom: 2px solid rgba(100, 121, 162,0.3);
+          border-top: unset;
+          padding-bottom: 5px;
+          color: #0e1e58;
+          width: 90%;
+          margin: 0 auto;
+          margin-bottom: 20px;
+      }
+      .gradient-text{
+          font-size: 35px !important;
+      }
       .section-div {
           background-color: #131d25;
           height: 100%;
