@@ -35,15 +35,15 @@
       }
       #strategic-acad-logo {
         width: 100%;
-        max-width: 500px;
+        max-width: 300px;
         height: 100%;
-        max-height: 450px;
+        max-height: 300px;
       }
       #comms-logo {
         width: 100%;
-        max-width: 400px;
+        max-width: 200px;
         height: 100%;
-        max-height: 350px;
+        max-height: 150px;
       }
       #acad-accel-logo {
         width: 100%;
@@ -55,7 +55,7 @@
         width: 100%;
         max-width: 250px;
         height: 100%;
-        max-height: 100px;
+        max-height: 150px;
       }
       #acad-assoc-logo {
         width: 100%;
