@@ -139,9 +139,9 @@
         border-top: unset;
         padding-bottom: 5px;
         color: #0e1e58;
-        width: 50%;
+        width: 60%;
         margin: 0 auto;
-        /*margin-bottom: 31px;*/
+        margin-bottom: 30px;
     }
     .banner-margin {
         margin-top: 50px;
@@ -322,6 +322,7 @@
                 <a href="https://www.ogilvy.com/"><img id="comms-logo" src="/2023/img/sponsors/ogilvy.png"></a>
             </div>
         </div>
+          
         <hr class="tier-hr">
           
         <!--COMMUNITY PARTNERS-->
