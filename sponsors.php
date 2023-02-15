@@ -53,7 +53,7 @@
       }
       #community-logo {
         width: 100%;
-        max-width: 200px;
+        max-width: 250px;
         height: 100%;
         max-height: 50px;
       }
@@ -224,7 +224,7 @@
             <a href="https://www.eventora.com/"><img id="community-logo" src="/2023/img/sponsors/eventora.png"></a>
           </div>
           <div class="col-sm-1 col-md-4">
-            <a href="https://seeders.gr/"><img id="commmunity-logo"src="/2023/img/sponsors/seeders.png"></a>
+            <a href="https://seeders.gr/"><img id="community-logo" src="/2023/img/sponsors/seeders.png"></a>
           </div>
         </div>
         
