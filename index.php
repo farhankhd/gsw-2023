@@ -264,7 +264,7 @@
                                  margin-bottom: 10px;
             ">
             <div class="col">
-               <h1 class="section-header competition-text">OUR SPONSORS </h1>
+               <h1 class="section-header competition-text">OUR SUPPORTERS</h1>
             </div>
          </div>
       </section>
@@ -277,83 +277,57 @@
           </div>
         </div>
         <br>
+        <div class="row white-bg logo white-bg justify-content-center">
+            <div class="col">
+                <h1 class="gradient-text mt-5 text-center">Thank you to our following sponsors and partners!</h1>
+            </div>
+        </div>
         
         <div class="row white-bg logo d-flex justify-content-center">
-          <div class="col-sm-1 col-md-12 ">
-            <a href="https://www.capitalship.gr/"> <img id="diamond-logo" src="/2023/img/sponsors/capital.png"></a>
-          </div>
+            <div class="col-sm-1 col-md-4">
+                <a href="https://www.capitalship.gr/"> <img id="diamond-logo" src="/2023/img/sponsors/capital.png"></a>
+            </div>
+            <div class="col-sm-1 col-md-4">
+                <a href="https://shopflix.gr/"> <img id="silver-logo" src="/2023/img/sponsors/shopflix.png"></a>
+            </div>
+            <div class="col-sm-1 col-md-4">
+                <a href="https://www.libra.com/en/"><img id="associate-logo" class="libra-logo" src="/2023/img/sponsors/libragroup.png"></a>
+            </div>
         </div>
         
         <hr class="tier-hr">
-        <div class="row white-bg logo d-flex justify-content-center">
-          <div class="col-sm-1 col-md-12">
-              <a href="https://shopflix.gr/"> <img id="silver-logo" src="/2023/img/sponsors/shopflix.png"></a>
-          </div>
-        </div>
-        
-        <hr class="tier-hr">
-        <div class="row white-bg logo d-flex justify-content-center">
-          <div class="col-sm-1 col-md-4">
-            <a href="https://www.libra.com/en/"><img id="associate-logo" class="libra-logo" src="/2023/img/sponsors/libragroup.png"></a>
-          </div>
-        </div>
-      </section>
       
         <!--ACADEMIC PARNTERS-->
-      <section>
-        <div class="row">
-          <div class="col">
-            <h1 class="para text-center gradient-text" id="team-section">Academic Partners</h1>
-            <hr class="team-hr">
-          </div>
-        </div>
-        
         <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-4">
             <a href="https://scienceagora.eu/about/"><img id="strategic-acad-logo" class="scince-logo" src="/2023/img/sponsors/scienceagora.png"></a>
           </div>
         </div>
+          
+        <hr class="tier-hr">
+          
+        <!--COMMUNICATION PARTNERS-->
+        <div class="row white-bg logo d-flex justify-content-center">
+            <div class="col-sm-1 col-md-4">
+                <a href="https://www.kathimerini.gr/"><img id="comms-logo" src="/2023/img/sponsors/kathimerini.jpeg"></a>
+            </div>
+            <div class="col-sm-1 col-md-4 mb-3">
+                <a href="https://www.ogilvy.com/"><img id="comms-logo" src="/2023/img/sponsors/ogilvy.png"></a>
+            </div>
+        </div>
+        <hr class="tier-hr">
+          
+        <!--COMMUNITY PARTNERS-->
+        <div class="row white-bg logo d-flex justify-content-center">
+            <div class="col-sm-1 col-md-4">
+                <a href="https://www.eventora.com/"><img id="community-logo" src="/2023/img/sponsors/eventora.png"></a>
+            </div>
+            <div class="col-sm-1 col-md-4">
+                <a href="https://seeders.gr/"><img id="community-logo" src="/2023/img/sponsors/seeders.png"></a>
+            </div>
+        </div>      
       </section>
  
-        
-        <!--COMMUNICATION PARTNERS-->
-      <section>
-        <div class="row">
-          <div class="col">
-            <h1 class="para text-center gradient-text" id="team-section">Communication Partners</h1>
-            <hr class="team-hr">
-          </div>
-        </div>
-        <div class="row white-bg logo d-flex justify-content-center">
-          <div class="col-sm-1 col-md-4">
-            <a href="https://www.kathimerini.gr/"><img id="comms-logo" src="/2023/img/sponsors/kathimerini.jpeg"></a>
-          </div>
-          <div class="col-sm-1 col-md-4 mb-3">
-            <a href="https://www.ogilvy.com/"><img id="comms-logo" src="/2023/img/sponsors/ogilvy.png"></a>
-          </div>
-        </div>
-      </section>
-
-      
-        <!--COMMUNITY PARTNERS-->
-      <section>
-        <div class="row">
-          <div class="col">
-            <h1 class="para text-center gradient-text" id="team-section">Community Partners</h1>
-            <hr class="team-hr">
-          </div>
-        </div>
-        <div class="row white-bg logo d-flex justify-content-center">
-          <div class="col-sm-1 col-md-4">
-            <a href="https://www.eventora.com/"><img id="community-logo" src="/2023/img/sponsors/eventora.png"></a>
-          </div>
-          <div class="col-sm-1 col-md-4">
-            <a href="https://seeders.gr/"><img id="community-logo" src="/2023/img/sponsors/seeders.png"></a>
-          </div>
-        </div>
-      </section>
-     
-
         <!--WHY ATTEND-->
         <div class="section-div">
             <div></div>
