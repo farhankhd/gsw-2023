@@ -38,6 +38,17 @@
       }
       
       /*GENERAL*/
+       .team-hr{
+            border-bottom: 2px solid rgba(100, 121, 162,0.3);
+            border-top: unset;
+            padding-bottom: 5px;
+            color: #0e1e58;
+            width: 60%;
+            margin: 0 auto;
+        }
+        .gradient-text{
+            font-size: 35px !important;
+        }
       .section-div {
           background-color: #131d25;
           height: 100%;
@@ -46,15 +57,6 @@
       }
       .pt-1 {
         padding-top: 1.25rem!important;
-      }
-      .team-hr{
-        border-bottom: 2px solid rgba(100, 121, 162,0.3);
-        border-top: unset;
-        padding-bottom: 5px;
-        color: #0e1e58;
-        width: 60%;
-        margin: 0 auto;
-        /*margin-top: -12px;*/
       }
       .banner-margin{
         margin-top: 50px;
@@ -95,11 +97,13 @@
       
     
         <!--CORPORATE-->
-        <div class="section-div">
-          <h1>Corporate Sponsors</h1>
+      <section>
+        <div class="row">
+          <div class="col">
+            <h1 class="para text-center gradient-text" id="team-section">Corporate Sponsors</h1>
+            <hr class="team-hr">
+          </div>
         </div>
-       
-          <section>
         <div class="section" id="speaker-section-expanded">
           <p class="section-header section-header-page">Diamond</p>
         </div>
