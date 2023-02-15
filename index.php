@@ -134,6 +134,15 @@
         margin: 0 auto;
         /*margin-bottom: 31px;*/
     }
+    .tier-hr{
+        border-bottom: 2px solid rgba(100, 121, 162,0.3);
+        border-top: unset;
+        padding-bottom: 5px;
+        color: #0e1e58;
+        width: 50%;
+        margin: 0 auto;
+        /*margin-bottom: 31px;*/
+    }
     .banner-margin {
         margin-top: 50px;
     }
@@ -287,7 +296,7 @@
                 <a href="https://shopflix.gr/"> <img id="silver-logo" src="/2023/img/sponsors/shopflix.png"></a>
             </div>
         </div>
-        <div>
+        <div class="row white-bg logo d-flex justify-content-center">
             <div class="col-sm-1 col-md-4">
                 <a href="https://www.libra.com/en/"><img id="associate-logo" class="libra-logo" src="/2023/img/sponsors/libragroup.png"></a>
             </div>
