@@ -130,13 +130,14 @@
          </div>
       </section>
        
-       <div class="row">
+      
+      <section class="startup-pitch">
+          <div class="row">
             <div class="col">
                 <h1 class="para text-center gradient-text" id="team-section">Startup Pitch</h1>
                 <hr class="team-hr">
             </div>
         </div>
-      <section class="startup-pitch">
          <div class="white-bg">
             <p class="para light-text light-bg-dark-text" style="text-align: center"> 
                Are you an entrepreneur trying to take your startup to the next level? <br>The <strong class="light-bg-dark-text" style="color: #00c0f2">MIT GSW Startup Pitch Competition</strong> is an opportunity for you to pitch your company and compete for a chance to win seed money to scale your startup.
