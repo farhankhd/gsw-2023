@@ -39,7 +39,19 @@
         height: 100%;
         max-height: 450px;
       }
-      #comms-logo, #acad-accel-logo, #community-logo {
+      #comms-logo {
+        width: 100%;
+        max-width: 400px;
+        height: 100%;
+        max-height: 350px;
+      }
+      #acad-accel-logo {
+        width: 100%;
+        max-width: 400px;
+        height: 100%;
+        max-height: 350px;
+      }
+      #community-logo {
         width: 100%;
         max-width: 400px;
         height: 100%;
