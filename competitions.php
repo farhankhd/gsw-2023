@@ -129,6 +129,13 @@
             </div>
          </div>
       </section>
+       
+       <div class="row">
+            <div class="col">
+                <h1 class="para text-center gradient-text" id="team-section">Startup Pitch</h1>
+                <hr class="team-hr">
+            </div>
+        </div>
       <section class="startup-pitch">
          <div class="white-bg">
             <p class="para light-text light-bg-dark-text" style="text-align: center"> 
