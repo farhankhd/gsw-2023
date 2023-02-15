@@ -86,14 +86,17 @@
             </div>
          </div>
       </section>
+      
+      <!--CORPORATE-->
       <section>
         <div class="row white-bg justify-content-center">
           <div class="col">
             <h1 class="gradient-text sponsor-category mb-3">Corporate Sponsors </h1>
           </div>
         </div>
+        
         <div class="section" id="speaker-section-expanded">
-            <p class="section-header section-header-page">Diamond</p>
+          <p class="section-header section-header-page">Diamond</p>
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-12 ">
@@ -101,41 +104,68 @@
           </div>
         </div>
         
-        <hr class="team-hr">
-        <br>
-        
-        <div class="row white-bg justify-content-center">
-          <div class="col">
-            <h1 class="gradient-text sponsor-category mb-3" style="">Silver Sponsors</h1>
-          </div>
+        <div class="section" id="speaker-section-expanded">
+          <p class="section-header section-header-page">Silver</p>
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-12">
               <a href="https://shopflix.gr/"> <img id="silver-logo" src="/2023/img/sponsors/shopflix.png"></a>
           </div>
         </div>
-       
-        <hr class="team-hr">
-        <br>
         
-        <div class="row white-bg justify-content-center">
-          <div class="col">
-            <h1 class="gradient-text sponsor-category">Thank you to our Community, Design, &amp; Global Academic Partners! </h1>
-          </div>
+        <div class="section" id="speaker-section-expanded">
+          <p class="section-header section-header-page">Associates</p>
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-4">
             <a href="https://www.libra.com/en/"><img id="partner-logo" class="libra-logo" src="/2023/img/sponsors/libragroup.png"></a>
           </div>
+        </div>
+      </section>
+      
+      <!--ACADEMIC PARNTERS-->
+      <section>
+        <div class="row white-bg justify-content-center">
+          <div class="col">
+            <h1 class="gradient-text sponsor-category">Academic Partners</h1>
+          </div>
+        </div>
+        
+        <div class="section" id="speaker-section-expanded">
+          <p class="section-header section-header-page">Strategic Academic</p>
+        </div>
+        <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-4">
             <a href="https://scienceagora.eu/about/"><img id="partner-logo" class="scince-logo" src="/2023/img/sponsors/scienceagora.png"></a>
           </div>
+        </div>
+      </section>
+        
+      <!--COMMUNICATION PARTNERS-->
+      <section>
+        <div class="row white-bg justify-content-center">
+          <div class="col">
+            <h1 class="gradient-text sponsor-category">Communication Partners</h1>
+          </div>
+        </div>
+        <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-4">
             <a href="https://www.kathimerini.gr/"><img id="partner-logo" class="scince-logo" src="/2023/img/sponsors/kathimerini.png"></a>
           </div>
           <div class="col-sm-1 col-md-4 mb-3">
             <a href="https://www.ogilvy.com/"><img id="partner-logo" class="scince-logo" src="/2023/img/sponsors/ogilvy.png"></a>
           </div>
+        </div>
+      </section>
+      
+      <!--COMMUNITY PARTNERS-->
+      <section>
+        <div class="row white-bg justify-content-center">
+          <div class="col">
+            <h1 class="gradient-text sponsor-category">Community Partners</h1>
+          </div>
+        </div>
+        <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-4">
             <a href="https://www.mindev.gov.gr/?lang=en"><img id="partner-logo" class="scince-logo" src="/2023/img/sponsors/eventora.png"></a>
           </div>
@@ -143,8 +173,6 @@
             <a href="https://seeders.gr/"><img id="partner-logo" class="scince-logo" src="/2023/img/sponsors/seeders.png"></a>
           </div>
         </div>
-        
-        <hr class="team-hr">
       </section>
     </body>
 </html>
