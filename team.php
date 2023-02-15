@@ -24,6 +24,7 @@
             color: #0e1e58;
             width: 90%;
             margin: 0 auto;
+            margin-bottom: 20px;
         }
         .gradient-text{
             font-size: 35px !important;
