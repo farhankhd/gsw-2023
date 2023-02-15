@@ -17,9 +17,9 @@
       }
       #diamond-logo {
         width: 100%;
-        max-width: 900px;
+        max-width: 700px;
         height: 100%;
-        max-height: 850px;
+        max-height: 500px;
       }
       #gold-logo {
         width: 100%;
