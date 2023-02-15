@@ -95,11 +95,10 @@
       
       <section>
         <!--CORPORATE-->
-        <div class="row white-bg justify-content-center">
-          <div class="section-div">
-            <h1>Corporate Sponsors</h1>
-          </div>
+        <div class="section-div">
+          <h1>Corporate Sponsors</h1>
         </div>
+       
         
         <div class="section" id="speaker-section-expanded">
           <p class="section-header section-header-page">Diamond</p>
