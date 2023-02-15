@@ -29,9 +29,9 @@
       }
       #silver-logo {
         width: 100%;
-        max-width: 500px;
+        max-width: 450px;
         height: 100%;
-        max-height: 450px;
+        max-height: 250px;
       }
       #strategic-acad-logo {
         width: 100%;
