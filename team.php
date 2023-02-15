@@ -164,46 +164,6 @@
             </div>
             <div class="team-row text-center">
                 <div class="row">
-                
-                    <div class="team container col-sm-1 col-md-6"><a href="">
-                        <img class="team-picture" src="./img/team/vineet.jpg"></a>
-                        <div class="overlay">
-                            <div class="team-bio light-text">
-                                Vineet is a PhD candidate in the Computational Science &#38; Engineering program. 
-                                He conducts research in the Active-Adaptive Control Lab in the Mechanical Engineering department - applying tools from optimization, control theory, and machine learning to model smart grids &#38; transportation networks. 
-                                Prior to MIT, Vineet completed an MPhil in Energy Technologies at the University of Cambridge as a Gates Scholar and received his undergraduate degree in Mechanical Engineering &#38; Economics from UC Berkeley. 
-                                Outside GSW, he is currently a Co-President of the MIT Energy &#38; Climate Club and previously served as Co-Managing Director for the 2022 MIT Energy Conference. 
-                                In addition to research, he has industry experience through internships at Siemens, NREL, Avangrid and Applied Materials. 
-                                In his spare time, he enjoys hiking, tennis, working out and singing.
-                                <br>
-                                <br>
-                                <div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/nairvineet9/');" title="Team | MIT Global Startup Workshop 2023">in</div>
-                            </div>
-                        </div>
-                        <div class="team-name bold-text">Vineet Jagadesan Nair</div>
-                        <div class="team-role light-text">Operations Team - Internal Operations Lead</div>
-                        <div class="team-area light-text">MIT MechE</div>
-                    </div>
-                    <div class="team container col-sm-1 col-md-6"><a href="">
-                        <img class="team-picture" src="./img/team/katie.jpg"></a>
-                        <div class="overlay">
-                            <div class="team-bio light-text">
-                                Katie is a graduate student at the Integrated Design and Management program, working towards an Engineering Management degree. 
-                                Her focus is on human-centered product design and development. Prior to MIT, Katie worked as a hardware product manager at Microsoft. 
-                                Outside GSW, she is a Sloan Senator and is on the Graduate Student Council. 
-                                In her spare time, she enjoys going on photo walks, hiking and yoga. 
-
-                            </div>
-                        </div>
-                        <div class="team-name bold-text">Katie Chen</div>
-                        <div class="team-role light-text">Operations Team - External Operations Lead</div>
-                        <div class="team-area light-text">MIT IDM</div>
-                    </div>
-                </div>
-
-                <br>
-
-                <div class="row">
                     <div class="team container col-sm-6 col-md-4"><a href="">
                         <img class="team-picture" src="./img/team/maddie.jpg"></a>
                         <div class="overlay">
@@ -265,7 +225,7 @@
                 <br>
 
                 <div class="row">
-                    <div class="team container col-sm-1 col-md-6">
+                    <div class="team container col-sm-1 col-md-4">
                         <a href=""><img class="team-picture" src="./img/team/tiasa.jpg"></a>
                         <div class="overlay">
                             <div class="team-bio light-text">
@@ -283,7 +243,7 @@
                         <div class="team-role light-text">Marketing Team - Media Lead</div>
                         <div class="team-area light-text">Wellesley College, B.A. Computer Science '23</div>
                     </div>
-                    <div class="team container col-sm-1 col-md-6">
+                    <div class="team container col-sm-1 col-md-4">
                         <a href=""><img class="team-picture" src="./img/team/liv-j.jpg"></a>
                         <div class="overlay">
                             <div class="team-bio light-text">
@@ -302,6 +262,17 @@
                         <div class="team-role light-text">Marketing Team - Content Lead</div>
                         <div class="team-area light-text">MIT MBA '24</div>
                     </div>  
+                    <div class="team container col-sm-1 col-md-4"><a href="">
+                        <img class="team-picture" src="./img/team/prem.jpg"></a>
+                        <div class="overlay">
+                            <div class="team-bio light-text">
+                                Prem's Bio Coming Soon!
+                            </div>
+                        </div>
+                        <div class="team-name bold-text">Prem</div>
+                        <div class="team-role light-text">Community Impact Lead</div>
+                        <div class="team-area light-text">MIT</div>
+                    </div>
                 </div>
 
                 <br>
@@ -356,7 +327,45 @@
                 <br>
 
                 <div class="row">
-                    <div class="team container col-sm-1 col-md-6">
+                    <div class="team container col-sm-1 col-md-4"><a href="">
+                        <img class="team-picture" src="./img/team/vineet.jpg"></a>
+                        <div class="overlay">
+                            <div class="team-bio light-text">
+                                Vineet is a PhD candidate in the Computational Science &#38; Engineering program. 
+                                He conducts research in the Active-Adaptive Control Lab in the Mechanical Engineering department - applying tools from optimization, control theory, and machine learning to model smart grids &#38; transportation networks. 
+                                Prior to MIT, Vineet completed an MPhil in Energy Technologies at the University of Cambridge as a Gates Scholar and received his undergraduate degree in Mechanical Engineering &#38; Economics from UC Berkeley. 
+                                Outside GSW, he is currently a Co-President of the MIT Energy &#38; Climate Club and previously served as Co-Managing Director for the 2022 MIT Energy Conference. 
+                                In addition to research, he has industry experience through internships at Siemens, NREL, Avangrid and Applied Materials. 
+                                In his spare time, he enjoys hiking, tennis, working out and singing.
+                                <br>
+                                <br>
+                                <div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/nairvineet9/');" title="Team | MIT Global Startup Workshop 2023">in</div>
+                            </div>
+                        </div>
+                        <div class="team-name bold-text">Vineet Jagadesan Nair</div>
+                        <div class="team-role light-text">Operations Team - Internal Operations Lead</div>
+                        <div class="team-area light-text">MIT MechE</div>
+                    </div>
+                    <div class="team container col-sm-1 col-md-4"><a href="">
+                        <img class="team-picture" src="./img/team/katie.jpg"></a>
+                        <div class="overlay">
+                            <div class="team-bio light-text">
+                                Katie is a graduate student at the Integrated Design and Management program, working towards an Engineering Management degree. 
+                                Her focus is on human-centered product design and development. Prior to MIT, Katie worked as a hardware product manager at Microsoft. 
+                                Outside GSW, she is a Sloan Senator and is on the Graduate Student Council. 
+                                In her spare time, she enjoys going on photo walks, hiking and yoga. 
+
+                            </div>
+                        </div>
+                        <div class="team-name bold-text">Katie Chen</div>
+                        <div class="team-role light-text">Operations Team - External Operations Lead</div>
+                        <div class="team-area light-text">MIT IDM</div>
+                    </div>
+                </div>
+
+                <br>
+
+                    <div class="team container col-sm-1 col-md-4">
                         <a href=""><img class="team-picture" src="./img/team/layla.jpg"></a>
                         <div class="overlay">
                             <div class="team-bio light-text">
@@ -374,20 +383,10 @@
                         <div class="team-role light-text">Community Engagement Lead</div>
                         <div class="team-area light-text">MIT TPP</div>
                     </div>
-                    <div class="team container col-sm-1 col-md-6"><a href="">
-                        <img class="team-picture" src="./img/team/prem.jpg"></a>
-                        <div class="overlay">
-                            <div class="team-bio light-text">
-                                Prem's Bio Coming Soon!
-                            </div>
-                        </div>
-                        <div class="team-name bold-text">Prem</div>
-                        <div class="team-role light-text">Community Impact Lead</div>
-                        <div class="team-area light-text">MIT</div>
-                    </div>
                 </div>
             </div>
         </section>
+
         <section>
             <div class="row white-bg">
                 <div class="col">
