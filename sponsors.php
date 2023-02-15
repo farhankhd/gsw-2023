@@ -17,22 +17,48 @@
       }
       #diamond-logo {
         width: 100%;
+        max-width: 700px;
+        height: 100%;
+        max-height: 650px;
+      }
+      #gold-logo {
+        width: 100%;
+        max-width: 600px;
+        height: 100%;
+        max-height: 550px;
+      }
+      #silver-logo, #strategic-acad-logo {
+        width: 100%;
         max-width: 500px;
         height: 100%;
         max-height: 450px;
       }
-      #silver-logo {
+      #comms-logo, #acad-accel-logo, #community-logo {
+        width: 100%;
+        max-width: 400px;
+        height: 100%;
+        max-height: 350px;
+      }
+      #acad-assoc-logo {
         width: 100%;
         max-width: 300px;
         height: 100%;
         max-height: 250px;
       }
-      #partner-logo {
+      #associate-logo {
         width: 100%;
-        max-width: 150px;
+        max-width: 200px;
         height: 100%;
-        max-height: 80px;
+        max-height: 150px;
       }
+      #supporter-logo, #acad-supporter {
+        width: 100%;
+        max-width: 100px;
+        height: 100%;
+        max-height: 50px;
+      }
+      
+      
       .libra-logo, .scince-logo{
         margin-top: 30px !important;
       }
@@ -127,7 +153,7 @@
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-4">
-            <a href="https://www.libra.com/en/"><img id="partner-logo" class="libra-logo" src="/2023/img/sponsors/libragroup.png"></a>
+            <a href="https://www.libra.com/en/"><img id="associate-logo" class="libra-logo" src="/2023/img/sponsors/libragroup.png"></a>
           </div>
         </div>
       
@@ -144,7 +170,7 @@
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-4">
-            <a href="https://scienceagora.eu/about/"><img id="partner-logo" class="scince-logo" src="/2023/img/sponsors/scienceagora.png"></a>
+            <a href="https://scienceagora.eu/about/"><img id="strategic-acad-logo" class="scince-logo" src="/2023/img/sponsors/scienceagora.png"></a>
           </div>
         </div>
  
@@ -158,10 +184,10 @@
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-4">
-            <a href="https://www.kathimerini.gr/"><img id="partner-logo" class="scince-logo" src="/2023/img/sponsors/kathimerini.png"></a>
+            <a href="https://www.kathimerini.gr/"><img id="comms-logo" class="scince-logo" src="/2023/img/sponsors/kathimerini.png"></a>
           </div>
           <div class="col-sm-1 col-md-4 mb-3">
-            <a href="https://www.ogilvy.com/"><img id="partner-logo" class="scince-logo" src="/2023/img/sponsors/ogilvy.png"></a>
+            <a href="https://www.ogilvy.com/"><img id="comms-logo" class="scince-logo" src="/2023/img/sponsors/ogilvy.png"></a>
           </div>
         </div>
 
@@ -175,10 +201,10 @@
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-4">
-            <a href="https://www.mindev.gov.gr/?lang=en"><img id="partner-logo" class="scince-logo" src="/2023/img/sponsors/eventora.png"></a>
+            <a href="https://www.mindev.gov.gr/?lang=en"><img id="community-logo" class="scince-logo" src="/2023/img/sponsors/eventora.png"></a>
           </div>
           <div class="col-sm-1 col-md-4">
-            <a href="https://seeders.gr/"><img id="partner-logo" class="scince-logo" src="/2023/img/sponsors/seeders.png"></a>
+            <a href="https://seeders.gr/"><img id="partner-logo" class="community-logo" src="/2023/img/sponsors/seeders.png"></a>
           </div>
         </div>
         
