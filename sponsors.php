@@ -41,7 +41,7 @@
       }
       #auspices-logo {
         width: 100%;
-        max-width: 400px;
+        max-width: 200px;
         height: 100%;
         max-height: 150px;
       }
