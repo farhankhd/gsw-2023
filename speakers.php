@@ -22,6 +22,19 @@ include('markup.php');
 <!--        <link rel='stylesheet' href='/2023/assets/css/style.css'>-->
 <!--    </head>-->
 <!--    <body>-->
+        <style>
+                .team-hr{
+                        border-bottom: 2px solid rgba(100, 121, 162,0.3);
+                        border-top: unset;
+                        padding-bottom: 5px;
+                        color: #0e1e58;
+                        width: 90%;
+                        margin: 0 auto;
+                }
+                .gradient-text{
+                        font-size: 35px !important;
+                }
+        </style>        
 
          <section class="startup-pitch">
          <div class="row" style="
@@ -60,9 +73,15 @@ include('markup.php');
         $speakersHtml = markup($speakersFilterFunction);
         ?>
 
-        <div class="keynote-section" id="keynote-section-expanded">
+        <!--<div class="keynote-section" id="keynote-section-expanded">
             <p class="section-header section-header-page">Keynotes</p>
-
+        -->
+        <div class="row">
+                <div class="col">
+                        <h1 class="para text-center gradient-text" id="team-section">Keynotes</h1>
+                        <hr class="team-hr">
+                </div>
+        </div>
            <?php
            
            $row = 0;
@@ -119,9 +138,15 @@ include('markup.php');
            
         </div>
 
-        <div class="section" id="speaker-section-expanded">
+        <!--<div class="section" id="speaker-section-expanded">
             <p class="section-header section-header-page">Speakers</p>
-            
+        -->
+        <div class="row">
+                <div class="col">
+                        <h1 class="para text-center gradient-text" id="team-section">Speakers</h1>
+                        <hr class="team-hr">
+                </div>
+        </div>
             <?php
            
            $row = 0;
