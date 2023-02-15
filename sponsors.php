@@ -89,8 +89,11 @@
       <section>
         <div class="row white-bg justify-content-center">
           <div class="col">
-            <h1 class="gradient-text sponsor-category mb-3">Thank you to our Diamond Sponsors! </h1>
+            <h1 class="gradient-text sponsor-category mb-3">Corporate Sponsors </h1>
           </div>
+        </div>
+        <div class="section" id="speaker-section-expanded">
+            <p class="section-header section-header-page">Diamond</p>
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-12 ">
@@ -103,7 +106,7 @@
         
         <div class="row white-bg justify-content-center">
           <div class="col">
-            <h1 class="gradient-text sponsor-category mb-3" style="">Thank you to our Silver Sponsors! </h1>
+            <h1 class="gradient-text sponsor-category mb-3" style="">Silver Sponsors</h1>
           </div>
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
