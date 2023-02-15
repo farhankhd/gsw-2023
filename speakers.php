@@ -26,7 +26,7 @@ include('markup.php');
                 .team-hr{
                         border-bottom: 2px solid rgba(100, 121, 162,0.3);
                         border-top: unset;
-                        padding-bottom: 5px;
+                        padding-bottom: 10px;
                         color: #0e1e58;
                         width: 90%;
                         margin: 0 auto;
