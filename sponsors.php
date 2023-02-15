@@ -43,7 +43,7 @@
             border-top: unset;
             padding-bottom: 5px;
             color: #0e1e58;
-            width: 60%;
+            width: 90%;
             margin: 0 auto;
         }
         .gradient-text{
