@@ -73,23 +73,23 @@
     </style>
 
     <body>
-         <!--SPONSORS-->
-        <section class="startup-pitch">
-         <div class="row" style="
-            background-image: url(img/sponsors.png);
-            background-repeat: no-repeat;
-            background-size: cover; height: 344px;
-                                 margin-bottom: 10px;
-            ">
-            <div class="col">
-               <h1 class="section-header competition-text">OUR SUPPORTERS</h1>
-               <h6 style="color:white">Sponsors and Partners</h6>
-            </div>
-         </div>
+      <!--SPONSORS-->
+      <section class="startup-pitch">
+        <div class="row" style="
+          background-image: url(img/sponsors.png);
+          background-repeat: no-repeat;
+          background-size: cover; height: 344px;
+                               margin-bottom: 10px;
+          ">
+          <div class="col">
+             <h1 class="section-header competition-text">OUR SUPPORTERS</h1>
+             <h6 style="color:white">Sponsors and Partners</h6>
+          </div>
+        </div>
       </section>
       
-      <!--CORPORATE-->
       <section>
+        <!--CORPORATE-->
         <div class="row white-bg justify-content-center">
           <div class="col">
             <h1 class="gradient-text sponsor-category mb-3">Corporate Sponsors </h1>
@@ -122,10 +122,8 @@
             <a href="https://www.libra.com/en/"><img id="partner-logo" class="libra-logo" src="/2023/img/sponsors/libragroup.png"></a>
           </div>
         </div>
-
       
-      <!--ACADEMIC PARNTERS-->
-
+        <!--ACADEMIC PARNTERS-->
         <div class="row white-bg justify-content-center">
           <div class="col">
             <h1 class="gradient-text sponsor-category">Academic Partners</h1>
@@ -142,8 +140,7 @@
         </div>
  
         
-      <!--COMMUNICATION PARTNERS-->
-
+        <!--COMMUNICATION PARTNERS-->
         <div class="row white-bg justify-content-center">
           <div class="col">
             <h1 class="gradient-text sponsor-category">Communication Partners</h1>
@@ -159,8 +156,7 @@
         </div>
 
       
-      <!--COMMUNITY PARTNERS-->
-
+        <!--COMMUNITY PARTNERS-->
         <div class="row white-bg justify-content-center">
           <div class="col">
             <h1 class="gradient-text sponsor-category">Community Partners</h1>
@@ -174,6 +170,7 @@
             <a href="https://seeders.gr/"><img id="partner-logo" class="scince-logo" src="/2023/img/sponsors/seeders.png"></a>
           </div>
         </div>
+        
       </section>
     </body>
 </html>
