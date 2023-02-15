@@ -181,7 +181,7 @@
         </div>
       </section>
       
-        <!--ACADEMIC PARNTERS-->
+      <!--ACADEMIC PARNTERS-->
       <section>
         <div class="row">
           <div class="col">
@@ -196,9 +196,39 @@
           </div>
         </div>
       </section>
- 
+      
+      
+       <!--ACADEMIC PARNTERS-->
+      <section>
+        <div class="row">
+          <div class="col">
+            <h1 class="para text-center gradient-text" id="team-section">Under the Auspices</h1>
+            <hr class="team-hr">
+          </div>
+        </div>
         
-        <!--COMMUNICATION PARTNERS-->
+        <div class="row white-bg logo d-flex justify-content-center">
+          <div class="col-sm-1 col-md-4">
+            <a href="https://scienceagora.eu/about/"><img id="strategic-acad-logo" src="/2023/img/sponsors/MinDev.png"></a>
+          </div>
+          <div class="col-sm-1 col-md-4">
+            <a href="https://scienceagora.eu/about/"><img id="strategic-acad-logo" src="/2023/img/sponsors/MinEdu.png"></a>
+          </div>
+          <div class="col-sm-1 col-md-4">
+            <a href="https://scienceagora.eu/about/"><img id="strategic-acad-logo" src="/2023/img/sponsors/MinGov.png"></a>
+          </div>
+        </div>
+        <div class="row white-bg logo d-flex justify-content-center">
+          <div class="col-sm-1 col-md-4">
+            <a href="https://scienceagora.eu/about/"><img id="strategic-acad-logo" src="/2023/img/sponsors/MinLSA.png"></a>
+          </div>
+          <div class="col-sm-1 col-md-4">
+            <a href="https://scienceagora.eu/about/"><img id="strategic-acad-logo" src="/2023/img/sponsors/attica.png"></a>
+          </div>
+        </div>
+      </section>
+   
+      <!--COMMUNICATION PARTNERS-->
       <section>
         <div class="row">
           <div class="col">
@@ -217,7 +247,7 @@
       </section>
 
       
-        <!--COMMUNITY PARTNERS-->
+      <!--COMMUNITY PARTNERS-->
       <section>
         <div class="row">
           <div class="col">
