@@ -179,8 +179,10 @@
             <a href="https://www.libra.com/en/"><img id="associate-logo" class="libra-logo" src="/2023/img/sponsors/libragroup.png"></a>
           </div>
         </div>
+      </section>
       
         <!--ACADEMIC PARNTERS-->
+      <section>
         <div class="row">
           <div class="col">
             <h1 class="para text-center gradient-text" id="team-section">Academic Partners</h1>
@@ -193,9 +195,11 @@
             <a href="https://scienceagora.eu/about/"><img id="strategic-acad-logo" class="scince-logo" src="/2023/img/sponsors/scienceagora.png"></a>
           </div>
         </div>
+      </section>
  
         
         <!--COMMUNICATION PARTNERS-->
+      <section>
         <div class="row">
           <div class="col">
             <h1 class="para text-center gradient-text" id="team-section">Communication Partners</h1>
@@ -210,9 +214,11 @@
             <a href="https://www.ogilvy.com/"><img id="comms-logo" src="/2023/img/sponsors/ogilvy.png"></a>
           </div>
         </div>
+      </section>
 
       
         <!--COMMUNITY PARTNERS-->
+      <section>
         <div class="row">
           <div class="col">
             <h1 class="para text-center gradient-text" id="team-section">Community Partners</h1>
@@ -227,8 +233,8 @@
             <a href="https://seeders.gr/"><img id="community-logo" src="/2023/img/sponsors/seeders.png"></a>
           </div>
         </div>
-        
       </section>
+      
     </body>
 </html>
 <?php include('footer.php');
