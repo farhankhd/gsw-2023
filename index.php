@@ -46,24 +46,78 @@
     .libra-logo, .scince-logo{
         margin-top: 30px !important;
     }
-    #diamond-logo {
+    /*SPONSOR LOGO & LAYOUT*/
+      .sponsor-category{
+        margin: 0;
+        padding: 0;
+        text-align: center;
+      }
+      .sponsor-hr{
+        border-top: 1px solid #dd4f33 !important;
+        margin: 0 auto;
+        width:30%;
+      }
+      #diamond-logo {
         width: 100%;
         max-width: 500px;
         height: 100%;
-        max-height: 450px;
-    }
-    #silver-logo {
+        max-height: 300px;
+      }
+      #gold-logo {
+        width: 100%;
+        max-width: 600px;
+        height: 100%;
+        max-height: 550px;
+      }
+      #silver-logo {
+        width: 100%;
+        max-width: 450px;
+        height: 100%;
+        max-height: 250px;
+      }
+      #strategic-acad-logo {
+        width: 100%;
+        max-width: 300px;
+        height: 100%;
+        max-height: 200px;
+      }
+      #comms-logo {
+        width: 100%;
+        max-width: 200px;
+        height: 100%;
+        max-height: 150px;
+      }
+      #acad-accel-logo {
+        width: 100%;
+        max-width: 400px;
+        height: 100%;
+        max-height: 350px;
+      }
+      #community-logo {
+        width: 100%;
+        max-width: 250px;
+        height: 100%;
+        max-height: 200px;
+      }
+      #acad-assoc-logo {
         width: 100%;
         max-width: 300px;
         height: 100%;
         max-height: 250px;
-    }
-    #partner-logo {
+      }
+      #associate-logo {
         width: 100%;
-        max-width: 150px;
+        max-width: 200px;
         height: 100%;
-        max-height: 80px;
-    }
+        max-height: 150px;
+      }
+      #supporter-logo, #acad-supporter {
+        width: 100%;
+        max-width: 100px;
+        height: 100%;
+        max-height: 50px;
+      }
+      
     @media only screen and (min-width: 480px) {
         .logo{
             padding-right: 113px;
