@@ -79,6 +79,15 @@
           margin: 0 auto;
           margin-bottom: 20px;
       }
+      .tier-hr{
+          border-bottom: 2px solid rgba(100, 121, 162,0.3);
+          border-top: unset;
+          padding-bottom: 5px;
+          color: #0e1e58;
+          width: 50%;
+          margin: 0 auto;
+          margin-bottom: 20px;
+      }
       .gradient-text{
           font-size: 35px !important;
       }
@@ -171,9 +180,7 @@
           </div>
         </div>
         
-        <div class="section" id="speaker-section-expanded">
-          <p class="section-header section-header-page">Strategic Academic</p>
-        </div>
+        <hr class="tier-hr">
         <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-4">
             <a href="https://scienceagora.eu/about/"><img id="strategic-acad-logo" class="scince-logo" src="/2023/img/sponsors/scienceagora.png"></a>
