@@ -313,6 +313,29 @@
           
         <hr class="tier-hr">
           
+        <!--UNDER THE AUSPICES-->
+        <div class="row white-bg logo d-flex justify-content-center">
+          <div class="col-sm-1 col-md-4">
+            <a href="https://scienceagora.eu/about/"><img id="auspices-logo" src="/2023/img/sponsors/MinDev.png"></a>
+          </div>
+          <div class="col-sm-1 col-md-4">
+            <a href="https://scienceagora.eu/about/"><img id="auspices-logo" src="/2023/img/sponsors/MinEdu.png"></a>
+          </div>
+          <div class="col-sm-1 col-md-4">
+            <a href="https://scienceagora.eu/about/"><img id="auspices-logo" src="/2023/img/sponsors/MinDigGov.png"></a>
+          </div>
+        </div>
+        <div class="row white-bg logo d-flex justify-content-center">
+          <div class="col-sm-1 col-md-4">
+            <a href="https://scienceagora.eu/about/"><img id="auspices-logo" src="/2023/img/sponsors/MinLSA.png"></a>
+          </div>
+          <div class="col-sm-1 col-md-4">
+            <a href="https://scienceagora.eu/about/"><img id="auspices-logo" src="/2023/img/sponsors/attica.png"></a>
+          </div>
+        </div>
+          
+        <hr class="tier-hr">
+      
         <!--COMMUNICATION PARTNERS-->
         <div class="row white-bg logo d-flex justify-content-center">
             <div class="col-sm-1 col-md-4">
