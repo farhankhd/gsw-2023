@@ -154,14 +154,14 @@
           </div>
         </div>
         
-        <hr class="team-hr">
+        <hr class="tier-hr">
         <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-12">
               <a href="https://shopflix.gr/"> <img id="silver-logo" src="/2023/img/sponsors/shopflix.png"></a>
           </div>
         </div>
         
-        <hr class="team-hr">
+        <hr class="tier-hr">
         <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-4">
             <a href="https://www.libra.com/en/"><img id="associate-logo" class="libra-logo" src="/2023/img/sponsors/libragroup.png"></a>
