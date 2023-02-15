@@ -93,13 +93,13 @@
         </div>
       </section>
       
-      <section>
+    
         <!--CORPORATE-->
         <div class="section-div">
           <h1>Corporate Sponsors</h1>
         </div>
        
-        
+          <section>
         <div class="section" id="speaker-section-expanded">
           <p class="section-header section-header-page">Diamond</p>
         </div>
