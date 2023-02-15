@@ -208,7 +208,7 @@
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-4">
-            <a href="https://www.kathimerini.gr/"><img id="comms-logo" src="/2023/img/sponsors/kathimerini.png"></a>
+            <a href="https://www.kathimerini.gr/"><img id="comms-logo" src="/2023/img/sponsors/kathimerini.jpeg"></a>
           </div>
           <div class="col-sm-1 col-md-4 mb-3">
             <a href="https://www.ogilvy.com/"><img id="comms-logo" src="/2023/img/sponsors/ogilvy.png"></a>
