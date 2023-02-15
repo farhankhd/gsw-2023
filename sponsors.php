@@ -104,9 +104,7 @@
             <hr class="team-hr">
           </div>
         </div>
-        <div class="section" id="speaker-section-expanded">
-          <p class="section-header section-header-page">Diamond</p>
-        </div>
+        
         <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-12 ">
             <a href="https://capitalpartners.gr/"> <img id="diamond-logo" src="/2023/img/sponsors/capitalpartner-diamond.png"></a>
