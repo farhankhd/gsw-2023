@@ -159,6 +159,9 @@
                 <hr class="team-hr">
             </div>
         </div>
+       
+       <br>
+       
       <section class="startup-pitch">
          <div class="row white-bg" style="padding-bottom: 0; padding-top: 10px;">
             <div class="col-lg" style="padding-bottom: 0">
@@ -203,8 +206,11 @@
       </section>
 
         <!--ELIGIBILITY-->
-        <div class="section-div">
-            <h1>Eligibility</h1>
+         <div class="row">
+            <div class="col">
+                <h1 class="para text-center gradient-text" id="team-section">Eligibility</h1>
+                <hr class="team-hr">
+            </div>
         </div>
 
         <section class="startup-pitch">
