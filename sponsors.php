@@ -53,9 +53,9 @@
       }
       #community-logo {
         width: 100%;
-        max-width: 400px;
+        max-width: 200px;
         height: 100%;
-        max-height: 350px;
+        max-height: 50px;
       }
       #acad-assoc-logo {
         width: 100%;
