@@ -104,6 +104,7 @@
             <hr class="team-hr">
           </div>
         </div>
+        <br>
         
         <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-12 ">
@@ -112,7 +113,7 @@
         </div>
         
         <div class="section" id="speaker-section-expanded">
-          <p class="section-header section-header-page">Silver</p>
+          <p class="section-header section-header-page" style="text-align:left">Silver</p>
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-12">
