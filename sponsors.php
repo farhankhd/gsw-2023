@@ -82,7 +82,8 @@
                                  margin-bottom: 10px;
             ">
             <div class="col">
-               <h1 class="section-header competition-text">OUR SPONSORS </h1>
+               <h1 class="section-header competition-text">OUR SUPPORTERS</h1>
+               <h6 class="section-header competition-text">Sponsors and Partners</h1>
             </div>
          </div>
       </section>
