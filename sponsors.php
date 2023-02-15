@@ -121,10 +121,10 @@
             <a href="https://www.libra.com/en/"><img id="partner-logo" class="libra-logo" src="/2023/img/sponsors/libragroup.png"></a>
           </div>
         </div>
-      </section>
+
       
       <!--ACADEMIC PARNTERS-->
-      <section>
+
         <div class="row white-bg justify-content-center">
           <div class="col">
             <h1 class="gradient-text sponsor-category">Academic Partners</h1>
@@ -139,10 +139,10 @@
             <a href="https://scienceagora.eu/about/"><img id="partner-logo" class="scince-logo" src="/2023/img/sponsors/scienceagora.png"></a>
           </div>
         </div>
-      </section>
+ 
         
       <!--COMMUNICATION PARTNERS-->
-      <section>
+
         <div class="row white-bg justify-content-center">
           <div class="col">
             <h1 class="gradient-text sponsor-category">Communication Partners</h1>
@@ -156,10 +156,10 @@
             <a href="https://www.ogilvy.com/"><img id="partner-logo" class="scince-logo" src="/2023/img/sponsors/ogilvy.png"></a>
           </div>
         </div>
-      </section>
+
       
       <!--COMMUNITY PARTNERS-->
-      <section>
+
         <div class="row white-bg justify-content-center">
           <div class="col">
             <h1 class="gradient-text sponsor-category">Community Partners</h1>
