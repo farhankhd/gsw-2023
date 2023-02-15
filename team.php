@@ -361,10 +361,6 @@
                         <div class="team-role light-text">Operations Team - External Operations Lead</div>
                         <div class="team-area light-text">MIT IDM</div>
                     </div>
-                </div>
-
-                <br>
-
                     <div class="team container col-sm-1 col-md-4">
                         <a href=""><img class="team-picture" src="./img/team/layla.jpg"></a>
                         <div class="overlay">
