@@ -17,14 +17,14 @@ include('markup.php');
         <div class="row" style="
             background-image: url(img/banner/banner-01.png);
             background-repeat: no-repeat;
-            background-size: cover;height: 344px; 
-            padding-bottom: 50px;
-            ">
+            background-size: cover;height: 344px;">
             <div class="col">
                 <h1 class="section-header competition-text">CONFERENCE SCHEDULE</h1>
             </div>
         </div>
     </section>
+
+    <br><br><br>
 
     <section class="content-schedule container">
         <article class="content ">
