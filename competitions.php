@@ -118,17 +118,17 @@
    </style>
    <body>
       <!--PAGE HEADER-->
-      <section class="startup-pitch">
+        <section class="startup-pitch">
          <div class="row" style="
-            background-image: url(img/sponsors.png);
+            background-image: url(img/banner/banner-00.png);
             background-repeat: no-repeat;
             background-size: cover;height: 344px;
             ">
             <div class="col">
-               <h1 class="section-header competition-text">COMPETITIONS </h1>
+               <h1 class="section-header competition-text">COMPETITIONS</h1>
             </div>
          </div>
-      </section>
+        </section>
       
        
       <br><br><br>
