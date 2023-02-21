@@ -10,9 +10,7 @@
             text-align: center !important;
             font-size: 40px !important;
         }
-        .section-header{
-            margin-top : 0px !important;
-        }
+       
         section {
             padding: 0px 0px;
         }
