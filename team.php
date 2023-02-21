@@ -56,7 +56,7 @@
         
         <section class="startup-pitch">
             <div class="row" style="
-                background-image: url(img/team/team_01.jpg);
+                background-image: url(img/team/team_01-sm.jpg);
                 background-repeat: no-repeat;
                 background-size: cover;height: 344px;">
                 <div class="col">
