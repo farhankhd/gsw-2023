@@ -111,11 +111,16 @@ include('markup.php');
                                         echo "</div> <!-- end of #Day$lastEventDay -->";
                                     }
                     ?><div id="Day<?= $eventDay ?>" class="event-day col-xs-12 <?= ($lastEventDay != "") ? "hide" : "" ?>">
+                    
+                    <!--LOCATION
+
                     <div>
                         <?php if ($eventDay == 1){echo "<p class='locationSchedule' style='text-align: left;'>Location: TBD</p>";}
                                     else if ($eventDay == 2){echo "<p class='locationSchedule' style='text-align: left;'>Location: TBD</p>";}
                         ?>
                     </div>
+
+                    -->
                     <?php
                                 }
                     ?>
