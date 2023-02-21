@@ -58,7 +58,6 @@
 
     <body>
         <!--PAGE HEADER-->
-        
         <section class="startup-pitch">
             <div class="row" style="
                 background-image: url(img/team/team_01-v2.jpeg);
@@ -69,19 +68,6 @@
                 </div>
             </div>
         </section>
-    
-
-      <!--   <section class="startup-pitch">-->
-      <!--   <div class="row" style="-->
-      <!--      background-image: url(img/team/team_01-sm.jpg);-->
-      <!--      background-repeat: no-repeat;-->
-      <!--      background-size: cover;height: 344px;-->
-      <!--      ">-->
-      <!--      <div class="col">-->
-      <!--         <h1 class="section-header competition-text">OUR TEAM </h1>-->
-      <!--      </div>-->
-      <!--   </div>-->
-      <!--</section>-->
        
         <section>
             <div class="white-bg" class="back-padding">
