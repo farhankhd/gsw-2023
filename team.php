@@ -53,20 +53,25 @@
 
     <body>
         <!--PAGE HEADER-->
-        <!--<section>
-            <div class="row">
+        
+        <section class="startup-pitch">
+            <div class="row" style="
+                background-image: url(img/team/team_01.jpg);
+                background-repeat: no-repeat;
+                background-size: cover;height: 344px;">
                 <div class="col">
-                    <h1 class="section-header">WHO WE ARE</h1>
+                    <h1 class="section-header competition-text">OUR TEAM</h1>
                 </div>
             </div>
-
         </section>
-        -->
+        <br><br><br>
+        <!--
         <div class="section-div banner" data-parallax="scroll" style="background-image: url('./img/team/team_01-sm.jpg')">
             <div class="header-overlay">
                  <h1 class="section-header banner-text">OUR TEAM</h1>
             </div>
         </div>
+        -->
       <!--   <section class="startup-pitch">-->
       <!--   <div class="row" style="-->
       <!--      background-image: url(img/team/team_01-sm.jpg);-->
