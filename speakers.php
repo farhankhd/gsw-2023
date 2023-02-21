@@ -37,17 +37,18 @@ include('markup.php');
                 }
         </style>        
 
-         <section class="startup-pitch">
+        <!--PAGE HEADER-->
+        <section class="startup-pitch">
          <div class="row" style="
-            background-image: url(img/bg-img.png);
+            background-image: url(img/banner/banner-02.png);
             background-repeat: no-repeat;
             background-size: cover;height: 344px;
             ">
             <div class="col">
-               <h1 class="section-header competition-text">OUR SPEAKERS </h1>
+               <h1 class="section-header competition-text">SPEAKERS</h1>
             </div>
          </div>
-      </section>
+        </section>
 
         <?php
         // Valid speakers are the ones that have bio and photo
