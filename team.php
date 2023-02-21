@@ -16,7 +16,12 @@
         section {
             padding: 0px 0px;
         }
-
+        .competition-text {
+            font-weight: 700;
+            margin-top: 147px;
+            margin-bottom: 20px;
+            font-size: 40px;
+        }
         .team-hr{
             border-bottom: 2px solid rgba(100, 121, 162,0.3);
             border-top: unset;
@@ -68,7 +73,7 @@
         <!--
         <div class="section-div banner" data-parallax="scroll" style="background-image: url('./img/team/team_01-sm.jpg')">
             <div class="header-overlay">
-                 <h1 class="section-header banner-text">OUR TEAM</h1>
+                 <h1 class="section-header competition-text">OUR TEAM</h1>
             </div>
         </div>
         -->
