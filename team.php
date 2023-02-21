@@ -257,7 +257,7 @@
                             </div>
                         </div>
                         <div class="team-name bold-text">Prem</div>
-                        <div class="team-role light-text">Community Impact Lead</div>
+                        <div class="team-role light-text">Impact Assessment Lead</div>
                         <div class="team-area light-text">MIT</div>
                     </div>
                 </div>
@@ -280,7 +280,7 @@
                             </div>
                         </div>
                         <div class="team-name bold-text">Rishabh Goyal</div>
-                        <div class="team-role light-text">Co-Competitons Lead</div>
+                        <div class="team-role light-text">Co-Competitions Lead</div>
                         <div class="team-area light-text">MIT MBA '23</div>
                     </div>
                     <div class="team container col-sm-6 col-md-4"><a href="">
@@ -296,7 +296,7 @@
                             </div>
                         </div>
                         <div class="team-name bold-text">Olivia Gebhardt</div>
-                        <div class="team-role light-text">Co-Competitons Lead</div>
+                        <div class="team-role light-text">Co-Competitions Lead</div>
                         <div class="team-area light-text">MIT MBA '24</div>
                     </div>
                     <div class="team container col-sm-6 col-md-4"><a href="">
