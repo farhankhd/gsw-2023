@@ -34,6 +34,7 @@ include('markup.php');
                     Use the buttons below to view the conference schedule day by day.
                     <br />Schedule subject to change.</p>
             </div>
+            <br>
 
             <div class="col-xs-12 col-md-12 schedule-wrapper">
                 <div class="row toggle-group" id="toggle-group">
