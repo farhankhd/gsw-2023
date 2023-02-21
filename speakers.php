@@ -38,7 +38,7 @@ include('markup.php');
         </style>        
 
         <!--PAGE HEADER-->
-        <section class="startup-pitch">
+        <section class="startup-pitch" style="padding-bottom: 50px">
          <div class="row" style="
             background-image: url(img/banner/banner-02.png);
             background-repeat: no-repeat;
