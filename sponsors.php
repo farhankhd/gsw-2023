@@ -144,7 +144,7 @@
       <!--SPONSORS-->
       <section class="startup-pitch">
         <div class="row" style="
-          background-image: url(img/sponsors.png);
+          background-image: url(img/banner/banner-03.png);
           background-repeat: no-repeat;
           background-size: cover; height: 344px;
                                margin-bottom: 10px;
