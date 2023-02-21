@@ -227,7 +227,7 @@
                             <div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/tiasakim/');" title="Team | MIT Global Startup Workshop 2023">in</div>
                         </div>
                         <div class="team-name bold-text">Tiasa Kim</div>
-                        <div class="team-role light-text">Marketing Team - Media Lead</div>
+                        <div class="team-role light-text">Marketing Website/Media Lead</div>
                         <div class="team-area light-text">Wellesley College, B.A. Computer Science '23</div>
                     </div>
                     <div class="team container col-sm-1 col-md-4">
@@ -246,7 +246,7 @@
                             </div>
                         </div>
                         <div class="team-name bold-text">Olivia Jones</div>
-                        <div class="team-role light-text">Marketing Team - Content Lead</div>
+                        <div class="team-role light-text">Marketing Social Media/Content Lead</div>
                         <div class="team-area light-text">MIT MBA '24</div>
                     </div>  
                     <div class="team container col-sm-1 col-md-4"><a href="">
@@ -280,18 +280,23 @@
                             </div>
                         </div>
                         <div class="team-name bold-text">Rishabh Goyal</div>
-                        <div class="team-role light-text">Competitions Team - Design Lead</div>
+                        <div class="team-role light-text">Co-Competitons Lead</div>
                         <div class="team-area light-text">MIT MBA '23</div>
                     </div>
                     <div class="team container col-sm-6 col-md-4"><a href="">
                         <img class="team-picture" src="./img/team/olivia-g.jpg"></a>
                         <div class="overlay">
                             <div class="team-bio light-text">
-                                Olivia's Bio Coming Soon!
+                                Olivia is a Masters of Business Administration (MBA) candidate at MIT Sloan School of Management. 
+                                At Sloan, she is a VP of Entrepreneurship for the Sloan Women in Management Club and working on a generative NLP startup. 
+                                Prior to school, Olivia was a founding member and Director of Analytics for Bidscale, a startup focused on the government acquisition industry. 
+                                Previously she worked as a Data Scientist for Deloitte where she led both repatriation and resource allocation optimization projects for the State Department. 
+                                Olivia has two bachelor's degrees in Physics and Applied Mathematics & Statistics from Johns Hopkins University. 
+                                In her free time, she enjoys international travel, photography and painting, and exploring new restaurants.
                             </div>
                         </div>
                         <div class="team-name bold-text">Olivia Gebhardt</div>
-                        <div class="team-role light-text">Competitions Team - Prizes Lead</div>
+                        <div class="team-role light-text">Co-Competitons Lead</div>
                         <div class="team-area light-text">MIT MBA '24</div>
                     </div>
                     <div class="team container col-sm-6 col-md-4"><a href="">
@@ -330,7 +335,7 @@
                             </div>
                         </div>
                         <div class="team-name bold-text">Vineet Jagadesan Nair</div>
-                        <div class="team-role light-text">Operations Team - Internal Operations Lead</div>
+                        <div class="team-role light-text">Internal Operations Lead</div>
                         <div class="team-area light-text">MIT MechE</div>
                     </div>
                     <div class="team container col-sm-1 col-md-4"><a href="">
@@ -345,7 +350,7 @@
                             </div>
                         </div>
                         <div class="team-name bold-text">Katie Chen</div>
-                        <div class="team-role light-text">Operations Team - External Operations Lead</div>
+                        <div class="team-role light-text">External Operations Lead</div>
                         <div class="team-area light-text">MIT IDM</div>
                     </div>
                     <div class="team container col-sm-1 col-md-4">
