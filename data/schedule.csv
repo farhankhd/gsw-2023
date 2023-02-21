@@ -1,28 +1,33 @@
 Day,Time ,Title,Description,Type,Moderator/Mediator,Workshop lead,Speaker 1,Speaker 2,Speaker 3 ,Speaker 4
-1,8:30 - 9:30,Coffee/Breakfast + Registration,N/A,general,TBD,TBD,TBD,TBD,TBD,TBD
-1,9:30 AM,Opening Remarks,N/A,general,TBD,TBD,TBD,TBD,TBD,TBD
-1,10:00 - 10:30 ,Keynote - Entrepreneurship,N/A,keynote,TBD,TBD,TBD,TBD,TBD,TBD
-1,11:00 - 12:00,Identifying Opportunities,N/A,panel,TBD,TBD,TBD,TBD,TBD,TBD
-1,11:00 - 12:00,Emerging Trends,N/A,panel,TBD,TBD,TBD,TBD,TBD,TBD
-1,12:00 - 13:00,Fireside Chat - Reinventing Greece,N/A,keynote,TBD,TBD,TBD,TBD,TBD,TBD
-1,13:00 - 14:00,Lunch,N/A,general,TBD,TBD,TBD,TBD,TBD,TBD
-1,14:00 - 15:00,Deep Tech Entrepreneurship,,panel,TBD,TBD,TBD,TBD,TBD,TBD
-1,14:00 - 15:00 ,Entrepreneurship in Academia,N/A,panel,TBD,TBD,TBD,TBD,TBD,TBD
-1,15:00 - 16:30,Coffee + Networking,,general,TBD,TBD,TBD,TBD,TBD,TBD
-1,15:00 - 16:30,Workshop (TBD),N/A,workshop,TBD,TBD,TBD,TBD,TBD,TBD
-1,16:30 - 17:30,Keynote - AI or Digital Technology,N/A,keynote,TBD,TBD,TBD,TBD,TBD,TBD
-1,17:30 - 18:30,Panel - AI,N/A,panel,TBD,TBD,TBD,TBD,TBD,TBD
-1,18:30 - 20:00,Research Showcase,N/A,workshop,TBD,TBD,TBD,TBD,TBD,TBD
-1,18:30 - 20:00,Happy Hour + Networking,N/A,general,TBD,TBD,TBD,TBD,TBD,TBD
-2,8:30 - 9:30 ,Coffee/Breakfast + Registration,N/A,general,TBD,TBD,TBD,TBD,TBD,TBD
-2,9:30 - 10:30,Keynote - Biotech,N/A,keynote,TBD,TBD,TBD,TBD,TBD,TBD
-2,10:30 - 11:30,"Panel - Biotech: Frontiers at the intersection of business, biology, and medicine",N/A,panel,TBD,TBD,TBD,TBD,TBD,TBD
-2,11:30 - 12:30,Seaside Chat - Choosing Greece,N/A,keynote,TBD,TBD,TBD,TBD,TBD,TBD
-2,12:30 - 13:30,Lunch,N/A,general,TBD,TBD,TBD,TBD,TBD,TBD
-2,13:30 - 14:30,Panel - Changing Greece: Research and entrepreneurship as vehicles for change and development,N/A,panel,TBD,TBD,TBD,TBD,TBD,TBD
-,14:30 - 16:00,Coffee + Networking,N/A,general,TBD,TBD,TBD,TBD,TBD,TBD
-2,14:30 - 16:00,Workshop (TBD),N/A,workshop,TBD,TBD,TBD,TBD,TBD,TBD
-2,16:00 - 17:00,Competition Pitches,N/A,competiton,TBD,TBD,TBD,TBD,TBD,TBD
-2,17:00 - 18:00,Keynote - Sustainability,N/A,keynote,TBD,TBD,TBD,TBD,TBD,TBD
-2,18:00 - 19:00,Panel - Sustainability: The roles of tech and entrepreneurship in sustainability,N/A,panel,TBD,TBD,TBD,TBD,TBD,TBD
-2,7:00 PM,Closing + Competition Finale,N/A,competiton,TBD,TBD,TBD,TBD,TBD,TBD
+1,9:00-10:00,Coffee/Breakfast + Registration,N/A,general,TBD,TBD,TBD,TBD,TBD,TBD
+1,10:00-10:30,Opening Remarks,N/A,general,TBD,TBD,Kyriakos Pierrakakis,Bill Aulet,TBD,TBD
+1,10:30-11:30,Keynote - Entrepreneurship,N/A,keynote,TBD,TBD,Dulcie Madden,TBD,TBD,TBD
+1,11:30-12:30,Identifying Opportunities for Product Development,N/A,panel,TBD,TBD,Marina Hatsopoulos,Lars Rasmussen,Maria Zubeldia Diaz,TBD
+1,11:30-12:30,Identifying Opportunities for Investment,N/A,panel,TBD,TBD,Marco Veremis,Francois Robinet,Rob Genieser,TBD
+1,12:30-15:00,Lunch Break ,N/A,general,TBD,TBD,TBD,TBD,TBD,TBD
+1,12:30-13:30,Introduction to Disciplined Entrepreneurship (Group 1),N/A,workshop,TBD,TBD,Bill Aulet,TBD,TBD,TBD
+1,12:30-13:30,Growing your Startup (Group 1),N/A,workshop,TBD,TBD,Kosta Ligris,TBD,TBD,TBD
+1,12:30-13:30,VC Office Hours (Group 1),N/A,workshop,TBD,TBD,TBD,TBD,TBD,TBD
+1,14:00-15:00,Introduction to Disciplined Entrepreneurship (Group 2),N/A,workshop,TBD,TBD,Bill Aulet,TBD,TBD,TBD
+1,14:00-15:00,Growing your Startup (Group 2),N/A,workshop,TBD,TBD,Kosta Ligris,TBD,TBD,TBD
+1,14:00-15:00,VC Office Hours (Group 2),N/A,keynote,TBD,TBD,TBD,TBD,TBD,TBD
+1,15:00-16:00,Innovation in Academia,N/A,panel,TBD,TBD,George Nounesis,Luisa Alemany,Brian Anthony,TBD
+1,16:00-16:30,Coffee Break,N/A,general,TBD,TBD,TBD,TBD,TBD,TBD
+1,16:30-17:30,AI/Digital Technology,N/A,keynote,TBD,TBD,TBD,TBD,TBD,TBD
+1,17:30-18:30,Artificial Intelligence,N/A,panel,TBD,TBD,Theodoros Evgeniou,Anuradha Annaswamy,Tyler Spalding,Snejina Zacharia
+1,17:30-18:30,Digital Technology,N/A,panel,TBD,TBD,Kosta Ligris,Timos Selis,Chuck Kane,Michael Tzannes
+1,18:30-20:00,Happy Hour + Networking Reception,N/A,general,TBD,TBD,TBD,TBD,TBD,TBD
+2,9:00-10:00,Coffee/Breakfast + Registration,N/A,general,TBD,TBD,TBD,TBD,TBD,TBD
+2,10:00-11:00,Biotechnology,N/A,keynote,TBD,TBD,Andrey Zarur,TBD,TBD,TBD
+2,11:00-12:00,Health and Biotechnology,N/A,panel,TBD,TBD,Stelios Papadopoulos,Brian Anthony,Nektarios Tavernarakis,Sloane Phillips
+2,11:00-12:00,Deep Tech for Entrepreneurs and Investors,N/A,panel,TBD,TBD,William Sonneborn,Deeph Chana,Liron Azrielant,TBD
+2,12:00-12:30,Seaside Chat,N/A,keynote,TBD,TBD,William Sonneborn,TBD,TBD,TBD
+2,12:30-15:00,Lunch Break ,N/A,general,TBD,TBD,TBD,TBD,TBD,TBD
+2,12:30-13:30,Perfect Pitch (Group 1),N/A,workshop,TBD,TBD,Linda Plano,TBD,TBD,TBD
+2,14:00-15:00,Perfect Pitch (Group 2),N/A,workshop,TBD,TBD,Linda Plano,TBD,TBD,TBD
+2,15:00-16:00,Sustainability,N/A,keynote,TBD,TBD,Miles Barr,TBD,TBD,TBD
+2,16:00-17:00,Sustainablity ,N/A,panel,TBD,TBD,Anuradha Annaswamy,Oded Gour-Lavie,TBD,TBD
+2,17:00-17:30,Coffee Break,N/A,general,TBD,TBD,TBD,TBD,TBD,TBD
+2,17:30-18:30,Competition Finalist Pitch,N/A,competition,TBD,TBD,Kyriakos Pierrakakis,TBD,TBD,TBD
+2,18:30-19:30,Seaside Chat,N/A,keynote,TBD,TBD,TBD,TBD,TBD,TBD
+2,19:30-20:30,Competition Finale + Closing Remarks,N/A,general,TBD,TBD,TBD,TBD,TBD,TBD
