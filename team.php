@@ -60,11 +60,11 @@
                 background-repeat: no-repeat;
                 background-size: cover;height: 344px;">
                 <div class="col">
-                    <h1 class="section-header competition-text">OUR TEAM</h1>
+                    <h1 class="section-header banner-text">OUR TEAM</h1>
                 </div>
             </div>
         </section>
-        <br><br><br>
+    
         <!--
         <div class="section-div banner" data-parallax="scroll" style="background-image: url('./img/team/team_01-sm.jpg')">
             <div class="header-overlay">
@@ -89,8 +89,6 @@
                 <p class="light-text light-bg-dark-text"> 
                     Our team consists of individuals across all parts of the MIT campus, and is supported by an accomplished advisory board.
                 </p>
-               
-                
             </div>
         </section>
         <section>
