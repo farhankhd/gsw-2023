@@ -49,6 +49,8 @@ include('markup.php');
             </div>
          </div>
         </section>
+        
+        <br><br><br>
 
         <?php
         // Valid speakers are the ones that have bio and photo
