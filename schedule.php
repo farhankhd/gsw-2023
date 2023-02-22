@@ -137,19 +137,12 @@ include('markup.php');
                                     <div class="event-right event-type-<?= $eventType ?>">
                                         <h3 class="event_heading" style="color: #000;">
                         
-                        <!--
+                        
                         <?php
+                        echo $eventTitle;
                        
-                        if ($isKeynote) {
-                            echo "<a href='speakers.php#$keynoteSpeakerTag' style='color: #000;'>$eventTitle</a>";
-                        }
-                                else if ($isPanelOrWorkshop) {
-                                    echo "<a href='' style='color: #000;'>$eventTitle</a>";
-                                }
-                                else {
-                                    echo $eventTitle;
-                                }
-                        ?> -->
+                        
+                        ?>
                                             
                                         </h3>
                                     </div>
