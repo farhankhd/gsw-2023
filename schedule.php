@@ -136,7 +136,10 @@ include('markup.php');
                                     </div>
                                     <div class="event-right event-type-<?= $eventType ?>">
                                         <h3 class="event_heading" style="color: #000;">
-                                            <?php
+                        
+                        <!--
+                        <?php
+                       
                         if ($isKeynote) {
                             echo "<a href='speakers.php#$keynoteSpeakerTag' style='color: #000;'>$eventTitle</a>";
                         }
@@ -146,13 +149,15 @@ include('markup.php');
                                 else {
                                     echo $eventTitle;
                                 }
-                                            ?>
+                        ?> -->
+                                            
                                         </h3>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
+                    
                     <?php
                              }
                            // fclose($fileHandle);
