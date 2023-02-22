@@ -141,7 +141,7 @@ include('markup.php');
                             echo "<a href='speakers.php#$keynoteSpeakerTag' style='color: #000;'>$eventTitle</a>";
                         }
                                 else if ($isPanelOrWorkshop) {
-                                    echo "<a href='panels_workshops.php#$eventId' style='color: #000;'>$eventTitle</a>";
+                                    echo "<a href='' style='color: #000;'>$eventTitle</a>";
                                 }
                                 else {
                                     echo $eventTitle;
