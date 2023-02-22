@@ -38,10 +38,10 @@ include('markup.php');
 
             <div class="col-xs-12 col-md-12 schedule-wrapper">
                 <div class="row toggle-group" id="toggle-group">
-                    <div class="col-xs-12 col-sm-4 sqs-block button-block sqs-block-button">
+                    <div class="col-xs-12 col-sm-6 sqs-block button-block sqs-block-button">
                         <a href="/#" data-event-day="Day1" class="btn btn-schedule active">THURSDAY (March 30)</a>
                     </div>
-                    <div class="col-xs-12 col-sm-4 sqs-block button-block sqs-block-button">
+                    <div class="col-xs-12 col-sm-6 sqs-block button-block sqs-block-button">
                         <a href="/#" data-event-day="Day2" class="btn btn-schedule">FRIDAY (March 31)</a>
                     </div>
                 </div>
@@ -141,7 +141,7 @@ include('markup.php');
                             echo "<a href='speakers.php#$keynoteSpeakerTag' style='color: #000;'>$eventTitle</a>";
                         }
                                 else if ($isPanelOrWorkshop) {
-                                    echo "<a href='panels_workshops.php#$eventId' style='color: #000;'>$eventTitle</a>";
+                                    <!--echo "<a href='panels_workshops.php#$eventId' style='color: #000;'>$eventTitle</a>";-->
                                 }
                                 else {
                                     echo $eventTitle;
