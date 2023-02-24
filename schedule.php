@@ -8,8 +8,18 @@
     include('markup.php');
 ?>
 
-
-<style><?php include '\"2023/assets/css/style.css'; ?></style>
+<style>
+   .bold-text {
+        font-family: myriad-pro, sans-serif;
+        font-weight: 700;
+        font-style: normal;
+    }
+    .light-text{
+        font-family: myriad-pro, sans-serif;
+        font-style: normal;
+        font-weight: 300px;
+    }
+</style>
 
     <section class="startup-pitch">
         <div class="row" style="
@@ -135,10 +145,7 @@
                                     <div class="event-right event-type-<?= $eventType ?>">
                                         <h3 class="event_heading" style="color: #000;">
                         
-                        
-                        <?php
-                        echo <p class='light-text'>$eventTitle</p>  
-                        ?>
+                                            <?php echo '<p class='light-text'>$eventTitle</p>'; ?>
                                             
                                         </h3>
                                     </div>
