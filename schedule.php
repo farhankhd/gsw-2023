@@ -150,7 +150,10 @@
                                     </div>
                                 </div>
                                 <div class="event-right event-type-<?= $eventType ?>">
-                                    <h3 class="light-text"style="text-align:left"><?php echo $eventTitle; ?></h3>
+                                     
+                                    <h3 class="event_heading" style="font-family: myriad-pro, sans-serif; font-style: normal;font-weight: 300px;">
+                                        <?php echo $eventTitle; ?>
+                                    </h3>
                                    
                                 </div>
                             </div>
