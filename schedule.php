@@ -150,9 +150,8 @@
                                     </div>
                                 </div>
                                 <div class="event-right event-type-<?= $eventType ?>">
-                                    <h3 class="event_heading" style="color: #000;">
-                                        <p class="light-text" style="text-align:left"><?php echo $eventTitle; ?></p>
-                                    </h3>
+                                    <h3 class="light-text"style="text-align:left"><?php echo $eventTitle; ?></h3>
+                                   
                                 </div>
                             </div>
                         </div>
