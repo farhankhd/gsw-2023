@@ -1,16 +1,15 @@
-<style>
-    .banner {
-    background-image: url(img/banner/banner-01.png);
-}
-</style>
 <?php
-$pageTitle = 'MIT Global Startup Workshop 2023 | Athens, Greece';
-$metaDescription = 'MIT Global Startup Workshop is coming to Greece in March 2023! GSW is an annual conference that aims to accelerate entrepreneurial ecosystems around the world, through workshops, mentorship and skills training. Grab your tickets now for an experience you will never forget!';
-$specificKeywords = 'speakers, keynotes, Bill Aullet, Miles Barr, Ubiquitous Energy, Andrey Zarur, Kosta Ligris, Marina Hatsopolous, Willliam Sonneborn, MIT';
+    $pageTitle = 'MIT Global Startup Workshop 2023 | Athens, Greece';
+    $metaDescription = 'MIT Global Startup Workshop is coming to Greece in March 2023! GSW is an annual conference that aims to accelerate entrepreneurial ecosystems around the world, through workshops, mentorship and skills training. Grab your tickets now for an experience you will never forget!';
+    $specificKeywords = 'speakers, keynotes, Bill Aullet, Miles Barr, Ubiquitous Energy, Andrey Zarur, Kosta Ligris, Marina Hatsopolous, Willliam Sonneborn, MIT';
 
-include('navbar.php');
-include('markup.php');
+    <style><?php include '\"2023/assets/css/style.css'; ?></style>
+
+    include('navbar.php');
+    include('markup.php');
 ?>
+
+
 
 
     <section class="startup-pitch">
@@ -139,9 +138,7 @@ include('markup.php');
                         
                         
                         <?php
-                        echo $eventTitle;
-                       
-                        
+                        echo <p class='light-text'>$eventTitle</p>  
                         ?>
                                             
                                         </h3>
