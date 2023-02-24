@@ -9,9 +9,10 @@
 ?>
 
 <style>
+    /*
     .banner {
         background-image: url(img/banner/banner-01.png);
-    }
+    }*/
         
     .bold-text {
         font-family: myriad-pro, sans-serif;
@@ -150,7 +151,7 @@
                                 </div>
                                 <div class="event-right event-type-<?= $eventType ?>">
                                     <h3 class="event_heading" style="color: #000;">
-                                        <p class="light-text"><?php echo $eventTitle; ?></p>
+                                        <p class="light-text" style="text-align:left"><?php echo $eventTitle; ?></p>
                                     </h3>
                                 </div>
                             </div>
