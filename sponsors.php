@@ -16,10 +16,8 @@
         width:30%;
       }
       #diamond-logo {
-        width: 100%;
-        max-width: 400px;
-        height: 100%;
-        max-height: 250px;
+        width: 70%;
+        width: 70%;
       }
       #gold-logo {
         width: 100%;
@@ -28,9 +26,9 @@
         max-height: 550px;
       }
       #silver-logo {
-        width:25%;
-        height:25%;
-        align-content: center;
+        width: 40%;
+        height: 40%;
+
         /*width: 100%;
         max-width: 300px;
         height: 100%;
@@ -176,7 +174,7 @@
             <img src="/2023/svg/diamond.svg"/>
           </div>
           <div class="col-sm-1 col-md-12 col-lg-9">
-            <a href="https://www.capitalship.gr/"><img src="/2023/img/sponsors/capital.png"></a>
+            <a href="https://www.capitalship.gr/"><img id="diamond-logo" src="/2023/img/sponsors/capital.png"></a>
           </div>
         </div>
         
