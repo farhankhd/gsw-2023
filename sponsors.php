@@ -16,8 +16,8 @@
         width:30%;
       }
       #diamond-logo {
-        width: 70%;
-        width: 70%;
+        width: 55%;
+        width: 55%;
       }
       #gold-logo {
         width: 100%;
