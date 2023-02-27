@@ -28,8 +28,9 @@
         max-height: 550px;
       }
       #silver-logo {
-        width:80%;
-        height:80%;
+        width:50%;
+        height:50%;
+        text-align: center;
         /*width: 100%;
         max-width: 300px;
         height: 100%;
