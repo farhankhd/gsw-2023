@@ -169,7 +169,7 @@
         
         <div class="row">
           <div class="col-sm-1 col-md-12 col-lg-4">
-            <img src="/2023/svg/diamond.svg" height="87" width="100"/>
+            <img src="/2023/svg/diamond.svg"/>
           </div>
         </div>
         
