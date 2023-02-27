@@ -171,10 +171,7 @@
           <div class="col-sm-1 col-md-12 col-lg-4">
             <img src="/2023/svg/diamond.svg"/>
           </div>
-        </div>
-        
-        <div class="row white-bg logo d-flex justify-content-center">
-          <div class="col-sm-1 col-md-12 ">
+          <div class="col-sm-1 col-md-12 col-lg-8">
             <a href="https://www.capitalship.gr/"> <img id="diamond-logo" src="/2023/img/sponsors/capital.png"></a>
           </div>
         </div>
