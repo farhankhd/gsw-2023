@@ -168,10 +168,10 @@
         <br>
         
         <div class="row">
-          <div class="col-sm-1 col-md-12 col-lg-2">
+          <div class="col-sm-1 col-md-12 col-lg-4">
             <img src="/2023/svg/diamond.svg"/>
           </div>
-          <div class="col-sm-1 col-md-12 col-lg-10">
+          <div class="col-sm-1 col-md-12 col-lg-8">
             <a href="https://www.capitalship.gr/"><img id="diamond-logo" src="/2023/img/sponsors/capital.png"></a>
           </div>
         </div>
@@ -179,10 +179,10 @@
         <hr class="tier-hr">
         
         <div class="row">
-          <div class="col-sm-1 col-md-12 col-lg-2">
+          <div class="col-sm-1 col-md-12 col-lg-4">
             <img src="/2023/svg/silver.svg"/>
           </div>
-          <div class="col-sm-1 col-md-12 col-lg-10">
+          <div class="col-sm-1 col-md-12 col-lg-8">
               <a href="https://shopflix.gr/"> <img id="silver-logo" src="/2023/img/sponsors/shopflix.png"></a>
           </div>
         </div>
