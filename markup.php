@@ -47,8 +47,8 @@ function markup(Callable $filterFunction) {
             $title = $speaker['Title'];
 
             // Logo around picture
-            $associationMarkup = (strcasecmp($speaker['MIT association'], 'Y') == 1) ?
-                "<img class='speaker-picture-association' src='img/mit.png'/>" : "";
+            //$associationMarkup = (strcasecmp($speaker['MIT association'], 'Y') == 0) ?
+            //    "<img class='speaker-picture-association' src='img/mit.png'/>" : "";
 
             // Different tag for speakers and keynotes determines style and page section
             $isKeynote = (strcasecmp($speaker['Keynote'], 'Y') == 0);
