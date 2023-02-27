@@ -104,7 +104,7 @@
           border-top: unset;
           padding-bottom: 5px;
           color: #0e1e58;
-          width: 50%;
+          width: 75%;
           margin: 0 auto;
           margin-bottom: 20px;
       }
