@@ -28,10 +28,13 @@
         max-height: 550px;
       }
       #silver-logo {
-        width: 100%;
+        width:80%;
+        height:80%;
+        /*width: 100%;
         max-width: 300px;
         height: 100%;
         max-height: 150px;
+        */
       }
       #strategic-acad-logo {
         width: 100%;
