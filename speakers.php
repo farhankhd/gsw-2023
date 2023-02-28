@@ -116,11 +116,10 @@ include('markup.php');
         <img class="speaker-picture" src="img/speakers/<?php echo $data[4]; ?>">
         </div>
         
-        <div class="col-sm-6 col-md-8 col-lg-9 speaker-expanded-text speaker-expanded-text">
-        
-        <div class="name"><?php echo $data[1]." ".$data[2]; ?></div>
-        <div class="title"><?php echo $data[6]; ?></div>
-        <p class="bio"><?php echo $data[7]; ?></p>
+        <div class="col-sm-6 col-md-8 col-lg-9">
+                <div class="name"><?php echo $data[1]." ".$data[2]; ?></div>
+                <div class="title"><?php echo $data[6]; ?></div>
+                <p class="bio"><?php echo $data[7]; ?></p>
         </div>
      </div>
       
@@ -173,21 +172,18 @@ include('markup.php');
             
      ?>       
       
-     <div class="row speaker-expanded-bio">
-        <span class="anchor" id="N/A"></span>
-        
-        <div class="speaker col-sm-6 col-md-4 col-lg-3">
-        <!--<img class="speaker-picture-association" src="img/mit.png">-->
-        <img class="speaker-picture" src="img/speakers/<?php echo $data[4]; ?>">
+        <div class="row speaker-expanded-bio">
+                <span class="anchor" id="N/A"></span>
+                <div class="speaker col-sm-6 col-md-4 col-lg-3">
+                        <!--<img class="speaker-picture-association" src="img/mit.png">-->
+                        <img class="speaker-picture" src="img/speakers/<?php echo $data[4]; ?>">
+                </div>
+                <div class="col-sm-6 col-md-8 col-lg-9">
+                        <div class="name"><?php echo $data[1]." ".$data[2]; ?></div>
+                        <div class="title"><?php echo $data[6]; ?></div>
+                        <p class="bio"><?php echo $data[7]; ?></p>
+                </div>
         </div>
-        
-        <div class="col-sm-6 col-md-8 col-lg-9 speaker-expanded-text speaker-expanded-text">
-        
-        <div class="name"><?php echo $data[1]." ".$data[2]; ?></div>
-        <div class="title"><?php echo $data[6]; ?></div>
-        <p class="bio"><?php echo $data[7]; ?></p>
-        </div>
-     </div>
       
       <?php 
             //  echo "<pre>";print_r();
