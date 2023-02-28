@@ -19,6 +19,21 @@ a {
     justify-content: center;
 }
 /*FONT*/
+
+
+/*
+.speaker-expanded-name {
+    font-weight: 800;
+    margin-bottom: 5px;
+    font-size: 1.2em;
+    color: #515152;
+}
+
+.speaker-expanded-position{
+    margin-bottom: 20px;
+    color: #0e1e58;
+}
+*/
 .name {
     font-family: myriad-pro, sans-serif;
     font-weight: 700;
