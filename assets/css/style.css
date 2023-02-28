@@ -19,11 +19,26 @@ a {
     justify-content: center;
 }
 /*FONT*/
+.name {
+    font-family: myriad-pro, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+.title {
+    font-family: myriad-pro, sans-serif;
+    font-style: normal;
+    font-weight: 300px;
+    font-size: 16px;
+    margin-bottom: 20px;
+    color: #0e1e58;
+}
 .bio {
     font-family: myriad-pro, sans-serif;
     font-style: normal;
     font-weight: 300px;
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .bold-text {
