@@ -19,6 +19,12 @@ a {
     justify-content: center;
 }
 /*FONT*/
+.bio {
+    font-family: myriad-pro, sans-serif;
+    font-style: normal;
+    font-weight: 300px;
+    font-size: 12px;
+}
 
 .bold-text {
     font-family: myriad-pro, sans-serif;
