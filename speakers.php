@@ -118,8 +118,8 @@ include('markup.php');
         
         <div class="col-sm-6 col-md-8 col-lg-9 speaker-expanded-text speaker-expanded-text">
         
-        <div class="speaker-expanded-name"><?php echo $data[1]." ".$data[2]; ?></div>
-        <div class="speaker-expanded-position"><?php echo $data[6]; ?></div>
+        <div class="name"><?php echo $data[1]." ".$data[2]; ?></div>
+        <div class="title"><?php echo $data[6]; ?></div>
         <p class="bio"><?php echo $data[7]; ?></p>
         </div>
      </div>
@@ -183,8 +183,8 @@ include('markup.php');
         
         <div class="col-sm-6 col-md-8 col-lg-9 speaker-expanded-text speaker-expanded-text">
         
-        <div class="speaker-expanded-name"><?php echo $data[1]." ".$data[2]; ?></div>
-        <div class="speaker-expanded-position"><?php echo $data[6]; ?></div>
+        <div class="name"><?php echo $data[1]." ".$data[2]; ?></div>
+        <div class="title"><?php echo $data[6]; ?></div>
         <p class="bio"><?php echo $data[7]; ?></p>
         </div>
      </div>
