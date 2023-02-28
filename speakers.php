@@ -120,7 +120,7 @@ include('markup.php');
         
         <div class="speaker-expanded-name"><?php echo $data[1]." ".$data[2]; ?></div>
         <div class="speaker-expanded-position"><?php echo $data[6]; ?></div>
-        <p class="para light-text light-bg-dark-text"><?php echo $data[7]; ?></p>
+        <p class="bio"><?php echo $data[7]; ?></p>
         </div>
      </div>
       
@@ -185,7 +185,7 @@ include('markup.php');
         
         <div class="speaker-expanded-name"><?php echo $data[1]." ".$data[2]; ?></div>
         <div class="speaker-expanded-position"><?php echo $data[6]; ?></div>
-        <p class="para light-text light-bg-dark-text"><?php echo $data[7]; ?></p>
+        <p class="bio"><?php echo $data[7]; ?></p>
         </div>
      </div>
       
