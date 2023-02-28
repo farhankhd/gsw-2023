@@ -250,10 +250,16 @@
                         <div class="team-area light-text">MIT MBA '24</div>
                     </div>  
                     <div class="team container col-sm-1 col-md-4"><a href="">
-                        <img class="team-picture" src="./img/team/prem.jpg"></a>
+                        <img class="team-picture" src="./img/team/
+                                                       .jpg"></a>
                         <div class="overlay">
                             <div class="team-bio light-text">
-                                Prem's Bio Coming Soon!
+                                A tinkerer by passion, An engineer by qualification, and An entrepreneur at heart, Prem is  currently pursuing his Master's at MIT Integrated Design and Management (IDM) program. 
+                                As a maker and first-generation entrepreneur, Prem has founded & bootstrapped the first makerspace venture (in his demographic) before coming to MIT. 
+                                He also has professional experience working as a consultant with EY (India) and product manager with Amazon (USA). 
+                                With his experience as an educator and conducting international workshops, he continues to work at an intersection of Design, Technology and education. 
+                                A foodie at heart, his keen interest lies in democratizing access to hands-on technology. 
+                                He also holds the Asia and India Book of record for his creation.
                             </div>
                         </div>
                         <div class="team-name bold-text">Prem</div>
