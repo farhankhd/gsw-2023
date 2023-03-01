@@ -93,7 +93,7 @@
      .team-hr{
           border: none;
           border-top: unset;
-          height: 0.75px;
+          height: 0.5px;
           width: 90%;
           
           margin-bottom: 35px;
@@ -199,7 +199,20 @@
             <img src="/2023/svg/silver.svg"/>
           </div>
           <div class="col-sm-1 col-md-12 col-lg-9">
-              <a href="https://shopflix.gr/"> <img id="silver-logo" src="/2023/img/sponsors/shopflix.png"></a>
+            <div class="row align-items-center">
+              <div class="col-sm-1 col-md-12 col">
+                <a href="https://shopflix.gr/"> <img id="silver-logo" src="/2023/img/sponsors/shopflix.png"></a>
+              </div>
+              <div class="col-sm-1 col-md-12 col">
+                <a href="https://shopflix.gr/"> <img id="silver-logo" src="/2023/img/sponsors/signal.png"></a>
+              </div>
+              <div class="col-sm-1 col-md-12 col">
+                <a href="https://shopflix.gr/"> <img id="silver-logo" src="/2023/img/sponsors/motoroil.jpeg"></a>
+              </div>
+              <div class="col-sm-1 col-md-12 col">
+                <a href="https://shopflix.gr/"> <img id="silver-logo" src="/2023/img/sponsors/dixons.png"></a>
+              </div>
+            </div>
           </div>
         </div>
         
