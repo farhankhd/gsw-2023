@@ -191,8 +191,10 @@
             <a href="https://www.capitalship.gr/"><img id="diamond-logo" src="/2023/img/sponsors/capital.png"></a>
           </div>
         </div>
+        <div class="row align-items-center">
+          <hr class="tier-hr">
+        </div>
       
-        <hr class="tier-hr align-items-center">
         
         <div class="row align-items-center">
           <div class="col-sm-1 col-md-12 col-lg-3">
