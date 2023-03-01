@@ -169,7 +169,7 @@
         </div>
         <br>
         
-        <div class="row">
+        <div class="row align-items-center">
           <div class="col-sm-1 col-md-12 col-lg-3">
             <img src="/2023/svg/diamond.svg"/>
           </div>
