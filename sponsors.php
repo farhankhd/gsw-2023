@@ -101,6 +101,7 @@
       }
       .tier-hr{
           border: none;
+          border-top: unset;
           height: 1px;
           /*
           margin-top: 30px;
