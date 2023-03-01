@@ -200,16 +200,18 @@
           </div>
           <div class="col-sm-1 col-md-12 col-lg-9">
             <div class="row">
-              <div class="col-sm-1 col-md-12">
+              <div class="col-sm-1 col-md-6">
                 <a href="https://shopflix.gr/"> <img id="silver-logo" src="/2023/img/sponsors/shopflix.png"></a>
               </div>
-              <div class="col-sm-1 col-md-12">
+              <div class="col-sm-1 col-md-6 ">
                 <a href="https://shopflix.gr/"> <img id="silver-logo" src="/2023/img/sponsors/signal.png"></a>
               </div>
-              <div class="col-sm-1 col-md-12">
+            </div>
+            <div class="row">
+              <div class="col-sm-1 col-md-6">
                 <a href="https://shopflix.gr/"> <img id="silver-logo" src="/2023/img/sponsors/motoroil.jpeg"></a>
               </div>
-              <div class="col-sm-1 col-md-12">
+              <div class="col-sm-1 col-md-6">
                 <a href="https://shopflix.gr/"> <img id="silver-logo" src="/2023/img/sponsors/dixons.png"></a>
               </div>
             </div>
