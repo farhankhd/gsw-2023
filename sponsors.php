@@ -102,11 +102,16 @@
       .tier-hr{
           border: none;
           height: 1px;
+          /*
           margin-top: 30px;
           margin-bottom: 30px;
+          */
+          padding-top: 15px;
+          padding-bottom: 15px;
           /* Set the hr color */
           color: #131d25; /* old IE */
           background-color: #131d25; /* Modern Browsers */
+          width: 75%;
       }
           /*
           border-bottom: 2px solid rgba(100, 121, 162,0.3);
