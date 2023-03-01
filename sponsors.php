@@ -93,7 +93,8 @@
      .team-hr{
           border: none;
           border-top: unset;
-          height: 0.5px;
+          height: 1px;
+          width: 90%;
           
           margin-top: 35px;
           margin-bottom: 35px;
@@ -101,22 +102,20 @@
           /* Set the hr color */
           color: #131d25; /* old IE */
           background-color: #131d25; /* Modern Browsers */
- 
-          width: 90%;
-         
       }
+      
       .tier-hr{
           border: none;
           border-top: unset;
           height: 0.5px;
+          width: 75%;
           
           margin-top: 35px;
           margin-bottom: 35px;
        
           /* Set the hr color */
           color: #131d25; /* old IE */
-          background-color: #131d25; /* Modern Browsers */
-          width: 75%;
+          background-color: #131d25; /* Modern Browsers */ 
       }
           
       
@@ -176,7 +175,7 @@
         <div class="row">
           <div class="col">
             <h1 class="para text-center gradient-text" id="team-section">Corporate Sponsors</h1>
-            <hr class="team-hr">
+            <hr class="team-hr justify-content-center">
           </div>
         </div>
         <br>
