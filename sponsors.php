@@ -93,7 +93,7 @@
      .team-hr{
           border: none;
           border-top: unset;
-          height: 1px;
+          height: 0.75px;
           width: 90%;
           
           margin-top: 35px;
@@ -175,8 +175,10 @@
         <div class="row">
           <div class="col">
             <h1 class="para text-center gradient-text" id="team-section">Corporate Sponsors</h1>
-            <hr class="team-hr justify-content-center">
           </div>
+        </div>
+        <div class="row justify-content-center>
+          <hr class="team-hr justify-content-center">
         </div>
         <br>
         
@@ -221,9 +223,12 @@
         <div class="row">
           <div class="col">
             <h1 class="para text-center gradient-text" id="team-section">Academic Partners</h1>
-            <hr class="team-hr">
           </div>
         </div>
+        <div class="row justify-content-center>
+          <hr class="team-hr justify-content-center">
+        </div>
+        <br>
         
         <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-4">
@@ -238,9 +243,12 @@
         <div class="row">
           <div class="col">
             <h1 class="para text-center gradient-text" id="team-section">Under the Auspices</h1>
-            <hr class="team-hr">
           </div>
         </div>
+        <div class="row justify-content-center>
+          <hr class="team-hr justify-content-center">
+        </div>
+        <br>
         
         <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-4">
@@ -268,9 +276,13 @@
         <div class="row">
           <div class="col">
             <h1 class="para text-center gradient-text" id="team-section">Communication Partners</h1>
-            <hr class="team-hr">
           </div>
         </div>
+        <div class="row justify-content-center">
+          <hr class="team-hr justify-content-center">
+        </div>
+        <br>
+        
         <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-4">
             <a href="https://www.kathimerini.gr/"><img id="comms-logo" src="/2023/img/sponsors/kathimerini.jpeg"></a>
@@ -287,9 +299,13 @@
         <div class="row">
           <div class="col">
             <h1 class="para text-center gradient-text" id="team-section">Community Partners</h1>
-            <hr class="team-hr">
           </div>
         </div>
+        <div class="row justify-content-center">
+          <hr class="team-hr justify-content-center">
+        </div>
+        <br>
+                                                    
         <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-4">
             <a href="https://www.eventora.com/"><img id="community-logo" src="/2023/img/sponsors/eventora.png"></a>
