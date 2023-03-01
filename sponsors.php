@@ -100,6 +100,13 @@
           margin-bottom: 20px;
       }
       .tier-hr{
+          border: none;
+          height: 1px;
+          /* Set the hr color */
+          color: #131d25; /* old IE */
+          background-color: #131d25; /* Modern Browsers */
+      }
+          /*
           border-bottom: 2px solid rgba(100, 121, 162,0.3);
           border-top: unset;
           padding-bottom: 5px;
@@ -107,7 +114,8 @@
           width: 75%;
           margin: 0 auto;
           margin-bottom: 20px;
-      }
+          */
+      
       .gradient-text{
           font-size: 35px !important;
       }
@@ -177,10 +185,10 @@
             <a href="https://www.capitalship.gr/"><img id="diamond-logo" src="/2023/img/sponsors/capital.png"></a>
           </div>
         </div>
-        
+        <br><br>
         <hr class="tier-hr">
         
-        <div class="row">
+        <div class="row align-items-center">
           <div class="col-sm-1 col-md-12 col-lg-3">
             <img src="/2023/svg/silver.svg"/>
           </div>
