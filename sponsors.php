@@ -91,13 +91,19 @@
       
       /*GENERAL*/
      .team-hr{
-          border-bottom: 2px solid rgba(100, 121, 162,0.3);
+          border: none;
           border-top: unset;
-          padding-bottom: 5px;
-          color: #0e1e58;
+          height: 0.5px;
+          
+          margin-top: 35px;
+          margin-bottom: 35px;
+       
+          /* Set the hr color */
+          color: #131d25; /* old IE */
+          background-color: #131d25; /* Modern Browsers */
+ 
           width: 90%;
-          margin: 0 auto;
-          margin-bottom: 20px;
+         
       }
       .tier-hr{
           border: none;
@@ -112,15 +118,7 @@
           background-color: #131d25; /* Modern Browsers */
           width: 75%;
       }
-          /*
-          border-bottom: 2px solid rgba(100, 121, 162,0.3);
-          border-top: unset;
-          padding-bottom: 5px;
-          color: #0e1e58;
-          width: 75%;
-          margin: 0 auto;
-          margin-bottom: 20px;
-          */
+          
       
       .gradient-text{
           font-size: 35px !important;
