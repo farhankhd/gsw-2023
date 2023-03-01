@@ -200,18 +200,18 @@
           </div>
           <div class="col-sm-1 col-md-12 col-lg-9">
             <div class="row justify-content-center align-items-center">
-              <div class="col-sm-1 col">
+              <div class="col-sm-1 col-md-6">
                 <a href="https://shopflix.gr/"> <img id="silver-logo" src="/2023/img/sponsors/shopflix.png"></a>
               </div>
-              <div class="col-sm-1 col">
+              <div class="col-sm-1 col-md-6">
                 <a href="https://shopflix.gr/"> <img id="silver-logo" src="/2023/img/sponsors/signal.png"></a>
               </div>
             </div>
             <div class="row justify-content-center align-items-center">
-              <div class="col-sm-1 col">
+              <div class="col-sm-1 col-md-6">
                 <a href="https://shopflix.gr/"> <img id="silver-logo" src="/2023/img/sponsors/motoroil.jpeg"></a>
               </div>
-              <div class="col-sm-1 col">
+              <div class="col-sm-1 col-md-6">
                 <a href="https://shopflix.gr/"> <img id="silver-logo" src="/2023/img/sponsors/dixons.png"></a>
               </div>
             </div>
@@ -221,13 +221,28 @@
          <div class="row justify-content-center">
           <hr class="tier-hr">
         </div>
-       
-        <div class="row">
+        
+        <div class="row align-items-center">
           <div class="col-sm-1 col-md-12 col-lg-3">
             <img src="/2023/svg/associates.svg"/>
           </div>
           <div class="col-sm-1 col-md-12 col-lg-9">
-              <a href="https://www.libra.com/en/"><img id="associate-logo" class="libra-logo" src="/2023/img/sponsors/libragroup.png"></a>
+            <div class="row justify-content-center align-items-center">
+              <div class="col-sm-1 col-md-6">
+                <a href="https://www.libra.com/en/"><img id="associate-logo" class="libra-logo" src="/2023/img/sponsors/libragroup.png"></a>
+              </div>
+              <div class="col-sm-1 col-md-6">
+                <a href="https://shopflix.gr/"> <img id="silver-logo" src="/2023/img/sponsors/octane.jpeg"></a>
+              </div>
+            </div>
+            <div class="row justify-content-center align-items-center">
+              <div class="col-sm-1 col-md-6">
+                <a href="https://shopflix.gr/"> <img id="silver-logo" src="/2023/img/sponsors/bigpi.png"></a>
+              </div>
+              <div class="col-sm-1 col-md-6">
+                <a href="https://shopflix.gr/"> <img id="silver-logo" src="/2023/img/sponsors/tiresias.jpeg"></a>
+              </div>
+            </div>
           </div>
         </div>
       </section>
