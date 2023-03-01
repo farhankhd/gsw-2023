@@ -177,7 +177,7 @@
           </div>
         </div>
         <div class="row justify-content-center">
-          <hr class="team-hr justify-content-center">
+          <hr class="team-hr">
         </div>
         <br>
         
@@ -225,7 +225,7 @@
           </div>
         </div>
         <div class="row justify-content-center">
-          <hr class="team-hr justify-content-center">
+          <hr class="team-hr">
         </div>
         <br>
         
@@ -245,7 +245,7 @@
           </div>
         </div>
         <div class="row justify-content-center">
-          <hr class="team-hr justify-content-center">
+          <hr class="team-hr">
         </div>
         <br>
         
@@ -278,7 +278,7 @@
           </div>
         </div>
         <div class="row justify-content-center">
-          <hr class="team-hr justify-content-center">
+          <hr class="team-hr">
         </div>
         <br>
         
@@ -301,7 +301,7 @@
           </div>
         </div>
         <div class="row justify-content-center">
-          <hr class="team-hr justify-content-center">
+          <hr class="team-hr">
         </div>
         <br>
                                                     
