@@ -96,7 +96,6 @@
           height: 0.75px;
           width: 90%;
           
-          margin-top: 35px;
           margin-bottom: 35px;
        
           /* Set the hr color */
@@ -177,7 +176,7 @@
             <h1 class="para text-center gradient-text" id="team-section">Corporate Sponsors</h1>
           </div>
         </div>
-        <div class="row justify-content-center>
+        <div class="row justify-content-center">
           <hr class="team-hr justify-content-center">
         </div>
         <br>
@@ -225,7 +224,7 @@
             <h1 class="para text-center gradient-text" id="team-section">Academic Partners</h1>
           </div>
         </div>
-        <div class="row justify-content-center>
+        <div class="row justify-content-center">
           <hr class="team-hr justify-content-center">
         </div>
         <br>
@@ -245,7 +244,7 @@
             <h1 class="para text-center gradient-text" id="team-section">Under the Auspices</h1>
           </div>
         </div>
-        <div class="row justify-content-center>
+        <div class="row justify-content-center">
           <hr class="team-hr justify-content-center">
         </div>
         <br>
