@@ -102,10 +102,10 @@
       .tier-hr{
           border: none;
           border-top: unset;
-          height: 1px;
+          height: 0.5px;
           
-          margin-top: 30px;
-          margin-bottom: 30px;
+          margin-top: 35px;
+          margin-bottom: 35px;
        
           /* Set the hr color */
           color: #131d25; /* old IE */
