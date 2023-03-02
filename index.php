@@ -283,86 +283,36 @@
             </div>
          </div>
       </section>
-      <!--CORPORATE-->
       <section>
-      
         <div class="row white-bg logo white-bg justify-content-center">
             <div class="col">
                 <h1 class="gradient-text mt-5 text-center">Thank you to our following sponsors and partners!</h1>
             </div>
         </div>
         
-        <div class="row white-bg logo d-flex justify-content-center">
-            <div class="col-sm-1 col-md-4">
-                <a href="https://www.capitalship.gr/"> <img id="diamond-logo" src="/2023/img/sponsors/capital.png"></a>
-            </div>
+         <div class="row align-items-center">
+          <div class="col-sm-1 col-md-12 col">
+            <a href="https://www.capitalship.gr/"><img style="max-width: 60%; height: auto;"src="/2023/img/sponsors/capital.png"></a>
+          </div>
         </div>
-        <div class="row white-bg logo d-flex justify-content-center">
-            <div class="col-sm-1 col-md-4">
-                <a href="https://shopflix.gr/"> <img id="silver-logo" src="/2023/img/sponsors/shopflix.png"></a>
-            </div>
+        <div class="row justify-content-center">
+          <hr class="tier-hr">
         </div>
-        <div class="row white-bg logo d-flex justify-content-center">
-            <div class="col-sm-1 col-md-4">
-                <a href="https://www.libra.com/en/"><img id="associate-logo" class="libra-logo" src="/2023/img/sponsors/libragroup.png"></a>
-            </div>
-        </div>
-        
-        <hr class="tier-hr">
       
-        <!--ACADEMIC PARNTERS-->
-        <div class="row white-bg logo d-flex justify-content-center">
-          <div class="col-sm-1 col-md-4">
-            <a href="https://scienceagora.eu/about/"><img id="strategic-acad-logo" class="scince-logo" src="/2023/img/sponsors/scienceagora.png"></a>
-          </div>
-        </div>
-          
-        <hr class="tier-hr">
-          
-        <!--UNDER THE AUSPICES-->
-        <div class="row white-bg logo d-flex justify-content-center">
-          <div class="col-sm-1 col-md-4">
-            <a href="https://www.mindev.gov.gr/?lang=en"><img id="auspices-logo" src="/2023/img/sponsors/MinDev.png"></a>
-          </div>
-          <div class="col-sm-1 col-md-4">
-            <a href="https://www.minedu.gov.gr/"><img id="auspices-logo" src="/2023/img/sponsors/MinEdu.png"></a>
-          </div>
-          <div class="col-sm-1 col-md-4">
-            <a href="https://mindigital.gr/"><img id="auspices-logo" src="/2023/img/sponsors/MinDigGov.png"></a>
-          </div>
-        </div>
-        <div class="row white-bg logo d-flex justify-content-center">
-          <div class="col-sm-1 col-md-4">
-            <a href="https://ypergasias.gov.gr/"><img id="auspices-logo" src="/2023/img/sponsors/MinLSA.png"></a>
-          </div>
-          <div class="col-sm-1 col-md-4">
-            <a href="https://www.patt.gov.gr/"><img id="auspices-logo" src="/2023/img/sponsors/attica.png"></a>
-          </div>
-        </div>
-          
-        <hr class="tier-hr">
-      
-        <!--COMMUNICATION PARTNERS-->
-        <div class="row white-bg logo d-flex justify-content-center">
+        <div class="row align-items-center">
             <div class="col-sm-1 col-md-4">
-                <a href="https://www.kathimerini.gr/"><img id="comms-logo" src="/2023/img/sponsors/kathimerini.jpeg"></a>
-            </div>
-            <div class="col-sm-1 col-md-4 mb-3">
-                <a href="https://www.ogilvy.com/"><img id="comms-logo" src="/2023/img/sponsors/ogilvy.png"></a>
-            </div>
-        </div>
-          
-        <hr class="tier-hr">
-          
-        <!--COMMUNITY PARTNERS-->
-        <div class="row white-bg logo d-flex justify-content-center">
-            <div class="col-sm-1 col-md-4">
-                <a href="https://www.eventora.com/"><img id="community-logo" src="/2023/img/sponsors/eventora.png"></a>
+                <a href="https://shopflix.gr/"> <img style="max-width: 80%; height: auto;"src="/2023/img/sponsors/shopflix.png"></a>
             </div>
             <div class="col-sm-1 col-md-4">
-                <a href="https://seeders.gr/"><img id="community-logo" src="/2023/img/sponsors/seeders.png"></a>
+                <a href="https://www.thesignalgroup.com/"> <img style="max-width: 80%; height: auto;"src="/2023/img/sponsors/signal.png"></a>
             </div>
-        </div>      
+            <div class="col-sm-1 col-md-4">
+                <a href="https://www.moh.gr/en/"> <img style="max-width: 80%; height: auto;" src="/2023/img/sponsors/motoroil.jpeg"></a>
+            </div>
+            <div class="col-sm-1 col-md-4">
+                <a href="https://www.kotsovolos.gr/"> <img style="max-width: 50%; height: 40%;" src="/2023/img/sponsors/dixons.png"></a>
+            </div>
+        </div>    
       </section>
  
         <!--WHY ATTEND-->
