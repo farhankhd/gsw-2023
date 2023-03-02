@@ -192,8 +192,6 @@
         <div class="row justify-content-center">
           <hr class="tier-hr">
         </div>
-        
-     
       
         <div class="row align-items-center">
           <div class="col-sm-1 col-md-12 col-lg-3">
@@ -274,6 +272,25 @@
                 <a href="https://www.thesarmproject.com/"> <img style="max-width: 30%; height: auto;" src="/2023/img/sponsors/sarm.jpeg"></a>
               </div>
             </div>
+          </div>
+        </div>
+      </section>
+      
+        <!--DONORS-->
+      <section>
+        <div class="row">
+          <div class="col">
+            <h1 class="para text-center gradient-text" id="team-section">Donors</h1>
+          </div>
+        </div>
+        <div class="row justify-content-center">
+          <hr class="team-hr">
+        </div>
+        <br>
+        
+         <div class="row white-bg logo d-flex justify-content-center">
+          <div class="col-sm-1 col-md-4">
+            <a href=https://www.thepeoplestrust.org/"><img style="max-width: 60%; height: auto;" src="/2023/img/sponsors/tpt.png"></a>
           </div>
         </div>
       </section>
