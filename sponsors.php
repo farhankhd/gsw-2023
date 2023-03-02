@@ -229,15 +229,15 @@
           <div class="col-sm-1 col-md-12 col-lg-9">
             <div class="row justify-content-center align-items-center">
               <div class="col-sm-1 col-md-6">
-                <a href="https://www.libra.com/en/"><img id="associate-logo" src="/2023/img/sponsors/libragroup.png"></a>
+                <a href="https://www.libra.com/en/"><img style="max-width: 50%; height: auto;" src="/2023/img/sponsors/libragroup.png"></a>
               </div>
               <div class="col-sm-1 col-md-6">
-                <a href="https://www.octaneconsultants.com/"> <img id="associate-logo" src="/2023/img/sponsors/octane.jpeg"></a>
+                <a href="https://www.octaneconsultants.com/"> <img style="max-width: 50%; height: auto;"src="/2023/img/sponsors/octane.jpeg"></a>
               </div>
             </div>
             <div class="row justify-content-center align-items-center">
               <div class="col-sm-1 col-md-6">
-                <a href="https://bigpi.vc/"> <img id="associate-logo" src="/2023/img/sponsors/bigpi.png"></a>
+                <a href="https://bigpi.vc/"> <img style="max-width: 50%; height: auto;" src="/2023/img/sponsors/bigpi.png"></a>
               </div> 
             </div>
           </div>
@@ -252,7 +252,7 @@
             <img src="/2023/svg/supporters.svg"/>
           </div>
           <div class="col-sm-1 col-md-12 col-lg-9">
-            <a href="http://www.tiresias.gr/"><img style="max-width: 40%; height: auto;"src="/2023/img/sponsors/tiresias.jpeg"></a>
+            <a href="http://www.tiresias.gr/"><img style="max-width: 40%; height: auto;" src="/2023/img/sponsors/tiresias.jpeg"></a>
           </div>
         </div>
         
