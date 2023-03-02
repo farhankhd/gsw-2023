@@ -289,7 +289,7 @@
         <br>
          <div class="row justify-content-center align-items-center">
           <div class="col">
-            <a href=https://www.thepeoplestrust.org/"><img style="max-width: 80%; height: auto;" src="/2023/img/sponsors/tpt.png"></a>
+            <a href=https://www.thepeoplestrust.org/"><img style="max-width: 50%; height: auto;" src="/2023/img/sponsors/tpt.png"></a>
           </div>
         </div>
       </section>
