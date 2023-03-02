@@ -200,18 +200,18 @@
           <div class="col-sm-1 col-md-12 col-lg-9">
             <div class="row justify-content-center align-items-center">
               <div class="col-sm-1 col-md-6">
-                <a href="https://shopflix.gr/"> <img style="max-width: 70%; height: auto;"src="/2023/img/sponsors/shopflix.png"></a>
+                <a href="https://shopflix.gr/"> <img style="max-width: 80%; height: auto;"src="/2023/img/sponsors/shopflix.png"></a>
               </div>
               <div class="col-sm-1 col-md-6">
-                <a href="https://www.thesignalgroup.com/"> <img style="max-width: 70%; height: auto;"src="/2023/img/sponsors/signal.png"></a>
+                <a href="https://www.thesignalgroup.com/"> <img style="max-width: 80%; height: auto;"src="/2023/img/sponsors/signal.png"></a>
               </div>
             </div>
             <div class="row justify-content-center align-items-center">
               <div class="col-sm-1 col-md-6">
-                <a href="https://www.moh.gr/en/"> <img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/motoroil.jpeg"></a>
+                <a href="https://www.moh.gr/en/"> <img style="max-width: 80%; height: auto;" src="/2023/img/sponsors/motoroil.jpeg"></a>
               </div>
               <div class="col-sm-1 col-md-6">
-                <a href="https://www.kotsovolos.gr/"> <img style="max-width: 40%; height: 50%;"" src="/2023/img/sponsors/dixons.png"></a>
+                <a href="https://www.kotsovolos.gr/"> <img style="max-width: 50%; height: 60%;"" src="/2023/img/sponsors/dixons.png"></a>
               </div>
             </div>
           </div>
@@ -289,7 +289,7 @@
         <br>
          <div class="row justify-content-center align-items-center">
           <div class="col">
-            <a href=https://www.thepeoplestrust.org/"><img style="max-width: 40%; height: auto;" src="/2023/img/sponsors/tpt.png"></a>
+            <a href=https://www.thepeoplestrust.org/"><img style="max-width: 30%; height: auto;" src="/2023/img/sponsors/tpt.png"></a>
           </div>
         </div>
       </section>
