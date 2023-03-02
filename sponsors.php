@@ -325,7 +325,7 @@
             <a href="https://ypergasias.gov.gr/"><img style="max-width: 50%; height: auto;"src="/2023/img/sponsors/MinLSA.png"></a>
           </div>
           <div class="col-sm-1 col-md-4">
-            <a href="https://www.patt.gov.gr/"><img style="max-height: 50%; width: auto;"src="/2023/img/sponsors/attica.png"></a>
+            <a href="https://www.patt.gov.gr/"><img style="width: 60%; height: 60%;"src="/2023/img/sponsors/attica.png"></a>
           </div>
         </div>
       </section>
