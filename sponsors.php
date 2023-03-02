@@ -228,15 +228,15 @@
           <div class="col-sm-1 col-md-12 col-lg-9">
             <div class="row justify-content-center align-items-center">
               <div class="col-sm-1 col-md-6">
-                <a href="https://www.libra.com/en/"><img style="max-width: 50%; height: auto;" src="/2023/img/sponsors/libragroup.png"></a>
+                <a href="https://www.libra.com/en/"><img style="max-width: 60%; height: auto;" src="/2023/img/sponsors/libragroup.png"></a>
               </div>
               <div class="col-sm-1 col-md-6">
-                <a href="https://www.octaneconsultants.com/"> <img style="max-width: 50%; height: auto;" src="/2023/img/sponsors/octane.jpeg"></a>
+                <a href="https://www.octaneconsultants.com/"> <img style="max-width: 60%; height: auto;" src="/2023/img/sponsors/octane.jpeg"></a>
               </div>
             </div>
             <div class="row justify-content-center align-items-center">
               <div class="col-sm-1 col-md-6">
-                <a href="https://bigpi.vc/"> <img style="max-width: 30%; height: 30%;" src="/2023/img/sponsors/bigpi.png"></a>
+                <a href="https://bigpi.vc/"> <img style="max-width: 40%; height: 40%;" src="/2023/img/sponsors/bigpi.png"></a>
               </div> 
             </div>
           </div>
@@ -358,32 +358,17 @@
           <hr class="team-hr">
         </div>
         <br>
-        
-        <div class="row white-bg logo d-flex justify-content-center">
-          <div class="col-sm-1 col-md-4">
+                             
+        <div class="row align-items-center">
+          <div class="col-sm-1 col-md-6">
             <a href="https://www.kathimerini.gr/"><img id="comms-logo" src="/2023/img/sponsors/kathimerini.jpeg"></a>
+          </div>
+          <div class="col-sm-1 col-md-6">
+            <a href="https://www.ogilvy.com/"><img id="comms-logo" src="/2023/img/sponsors/ogilvy.png"></a>
           </div>
         </div>
       </section>
       
-       <!--DESIGN PARTNERS-->
-      <section>
-        <div class="row">
-          <div class="col">
-            <h1 class="para text-center gradient-text" id="team-section">Design Partners</h1>
-          </div>
-        </div>
-        <div class="row justify-content-center">
-          <hr class="team-hr">
-        </div>
-        <br>
-        
-        <div class="row white-bg logo d-flex align-items-center justify-content-center">
-          <div class="col-sm-1 col-md-4">
-            <a href="https://www.kathimerini.gr/"><img id="comms-logo" src="/2023/img/sponsors/ogilvy.png"></a>
-          </div>
-        </div>
-      </section>
       
       <!--COMMUNITY PARTNERS-->
       <section>
