@@ -211,7 +211,7 @@
                 <a href="https://www.moh.gr/en/"> <img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/motoroil.jpeg"></a>
               </div>
               <div class="col-sm-1 col-md-6">
-                <a href="https://www.kotsovolos.gr/"> <img style="max-width: 30%; height: 50%;"" src="/2023/img/sponsors/dixons.png"></a>
+                <a href="https://www.kotsovolos.gr/"> <img style="max-width: 50%; height: 50%;"" src="/2023/img/sponsors/dixons.png"></a>
               </div>
             </div>
           </div>
