@@ -361,7 +361,7 @@
                              
         <div class="row justify-content-center align-items-center">
           <div class="col-sm-1 col-md-5">
-            <a href="https://www.kathimerini.gr/"><img style="max-width: 60%; height: auto;" src="/2023/img/sponsors/kathimerini.png"></a>
+            <a href="https://www.kathimerini.gr/"><img style="max-width: 80%; height: auto;" src="/2023/img/sponsors/kathimerini.png"></a>
           </div>
           <div class="col-sm-1 col-md-5">
             <a href="https://www.ogilvy.com/"><img style="max-width: 40%; height: auto;" src="/2023/img/sponsors/ogilvy.png"></a>
