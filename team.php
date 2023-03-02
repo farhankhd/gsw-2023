@@ -120,8 +120,9 @@
                         </div>
                     </div>
                     <div class="name">Anna Eckhoff</div>
-                    <div class="title">Co-Director</div>
-                    <div class="title">MIT Sloan School of Management</div>
+                    <div class="title">
+                        <p>Co-Director<br>MIT Sloan School of Management</p>
+                    </div>
                 </div>
                 <div class="team container col-md-4">
                     <a href="#teamDanielaGorza">
@@ -139,8 +140,9 @@
                         </div>
                     </div>
                     <div class="name">Daniela Gorza</div>
-                    <div class="title">Co-Director</div>
-                    <div class="title">MIT Sloan School of Management</div>
+                    <div class="title">
+                        <p>Co-Director<br>MIT Sloan School of Management</p>
+                    </div>
                 </div>
             </div>
         </section>
@@ -168,8 +170,9 @@
                             </div>
                         </div>
                         <div class="name">Madison Reddie</div>
-                        <div class="title">Content Team - Agenda Design Lead</div>
-                        <div class="title">MIT MechE</div>
+                        <div class="title">
+                            <p>Content Team - Agenda Design Lead<br>MIT MechE</p>
+                        </div>
                     </div>
                     <div class="team container col-sm-6 col-md-4"><a href="">
                         <img class="team-picture" src="./img/team/jenny.jpg"></a>
@@ -187,8 +190,9 @@
                             </div>
                         </div>
                         <div class="name">Jenny Cang</div>
-                        <div class="title">Content Team - Co-Speakers Lead</div>
-                        <div class="title">MIT MBA '24</div>
+                        <div class="title">
+                            <p>Content Team - Co-Speakers Lead<br>MIT MBA '24</p>
+                        </div>
                     </div>
                     <div class="team container col-sm-6 col-md-4"><a href="">
                         <img class="team-picture" src="./img/team/pooja.jpeg"></a>
@@ -206,8 +210,9 @@
                             </div>	
                         </div>
                         <div class="name">Pooja Malhotra</div>
-                        <div class="title">Content Team - Co-Speakers Lead</div>
-                        <div class="title">MIT MBA '23</div>
+                        <div class="title">
+                            <p>Content Team - Co-Speakers Lead<br>MIT MBA '23</p>
+                        </div>
                     </div>
                 </div>
 
@@ -229,8 +234,9 @@
                             <div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/tiasakim/');" title="Team | MIT Global Startup Workshop 2023">in</div>
                         </div>
                         <div class="name">Tiasa Kim</div>
-                        <div class="title">Marketing Website/Media Lead</div>
-                        <div class="title">Wellesley College, B.A. Computer Science '23</div>
+                        <div class="title">
+                            <p>Marketing Media/Website Lead<br>Wellesley College Computer Science (B.A.) '23</p>
+                        </div>
                     </div>
                     <div class="team container col-sm-1 col-md-4">
                         <a href=""><img class="team-picture" src="./img/team/liv-j.jpg"></a>
@@ -248,12 +254,12 @@
                             </div>
                         </div>
                         <div class="name">Olivia Jones</div>
-                        <div class="title">Marketing Social Media/Content Lead</div>
-                        <div class="title">MIT MBA '24</div>
+                        <div class="title">
+                            <p>Marketing Social Media/Content Lead<br>MIT MBA '24</p>
+                        </div>
                     </div>  
                     <div class="team container col-sm-1 col-md-4"><a href="">
-                        <img class="team-picture" src="./img/team/
-                                                       .jpg"></a>
+                        <img class="team-picture" src="./img/team/prem.jpg"></a>
                         <div class="overlay">
                             <div class="team-bio light-text">
                                 A tinkerer by passion, An engineer by qualification, and An entrepreneur at heart, Prem is  currently pursuing his Master's at MIT Integrated Design and Management (IDM) program. 
@@ -265,8 +271,9 @@
                             </div>
                         </div>
                         <div class="name">Prem Sagar</div>
-                        <div class="title">Impact Assessment Lead</div>
-                        <div class="title">MIT</div>
+                        <div class="title">
+                            <p>Impact Assessment Lead<br>MIT IDM '23</p>
+                        </div>
                     </div>
                 </div>
 
@@ -288,8 +295,9 @@
                             </div>
                         </div>
                         <div class="name">Rishabh Goyal</div>
-                        <div class="title">Co-Competitions Lead</div>
-                        <div class="title">MIT MBA '23</div>
+                        <div class="title">
+                            <p>Co-Competitions Lead<br>MIT MBA '23</p>
+                        </div>
                     </div>
                     <div class="team container col-sm-6 col-md-4"><a href="">
                         <img class="team-picture" src="./img/team/olivia-g.jpg"></a>
@@ -304,8 +312,9 @@
                             </div>
                         </div>
                         <div class="name">Olivia Gebhardt</div>
-                        <div class="title">Co-Competitions Lead</div>
-                        <div class="title">MIT MBA '24</div>
+                        <div class="title">
+                            <p>Co-Competitions Lead<br>MIT MBA '24</p>
+                        </div>
                     </div>
                     <div class="team container col-sm-6 col-md-4"><a href="">
                         <img class="team-picture" src="./img/team/noah.jpg"></a>
@@ -319,8 +328,9 @@
                             </div>
                         </div>
                         <div class="name">Noah Roberts</div>
-                        <div class="title">Finance Lead</div>
-                        <div class="title">MIT MBA '24</div>
+                        <div class="title">
+                            <p>Finance Lead<br>MIT MBA '24</p>
+                        </div>
                     </div>
                 </div>
 
@@ -343,8 +353,9 @@
                             </div>
                         </div>
                         <div class="name">Vineet Jagadesan Nair</div>
-                        <div class="title">Internal Operations Lead</div>
-                        <div class="title">MIT MechE</div>
+                        <div class="title">
+                            <p>Internal Operations Lead<br>MIT MechE PhD '24</p>
+                        </div>
                     </div>
                     <div class="team container col-sm-1 col-md-4"><a href="">
                         <img class="team-picture" src="./img/team/katie.jpg"></a>
@@ -358,8 +369,9 @@
                             </div>
                         </div>
                         <div class="name">Katie Chen</div>
-                        <div class="title">External Operations Lead</div>
-                        <div class="title">MIT IDM</div>
+                        <div class="title">
+                            <p>External Operations Lead<br>MIT IDM '24</p>
+                        </div>
                     </div>
                     <div class="team container col-sm-1 col-md-4">
                         <a href=""><img class="team-picture" src="./img/team/layla.jpg"></a>
@@ -376,8 +388,9 @@
                             </div>
                         </div>
                         <div class="name">Layla Araiinejad</div>
-                        <div class="title">Community Engagement Lead</div>
-                        <div class="title">MIT TPP</div>
+                        <div class="title">
+                            <p>Community Engagement Lead<br>MIT TPP (S.M.) '24</p>
+                        </div>
                     </div>
                 </div>
             </div>
