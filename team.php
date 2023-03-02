@@ -99,8 +99,10 @@
                         </div>
                     </div>
                     <div class="name">Farhan Khodaee</div>
-                    <div class="title">Co-Director</div>
-                    <div class="title">MIT School of Engineering</div>
+                    <div class="title">
+                        <p>Co-Director<br>MIT School of Engineering</p>
+                    </div>
+             
                 </div>
                 <div class="team container col-md-4">
                     <a href="">
