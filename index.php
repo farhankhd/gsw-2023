@@ -420,7 +420,7 @@
                 <a href="https://entrepreneurship.mit.edu/"><img style="max-width: 70%; height: auto;" src="img/collaborators/mtc.png"></a>
               </div>
               <div class="col-sm-1 col-md-4">
-                <a href="https://legatum.mit.edu/"><img style="max-width: 70%; height: auto;"  src="img/collaborators/legatum.png"></a>
+                <a href="https://legatum.mit.edu/"><img style="max-width: 70%; height: 70%;"  src="img/collaborators/legatum.png"></a>
               </div>
               <div class="col-sm-1 col-md-4">
                 <a href="https://reap.mit.edu/"><img style="max-width: 70%; height: auto;" src="img/collaborators/reap.png"></a>
