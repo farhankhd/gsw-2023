@@ -186,7 +186,7 @@
             <img src="/2023/svg/diamond.svg"/>
           </div>
           <div class="col-sm-1 col-md-12 col-lg-9">
-            <a href="https://www.capitalship.gr/"><img style="max-width: 80%; height: auto;"src="/2023/img/sponsors/capital.png"></a>
+            <a href="https://www.capitalship.gr/"><img style="max-width: 60%; height: auto;"src="/2023/img/sponsors/capital.png"></a>
           </div>
         </div>
         
