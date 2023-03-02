@@ -98,8 +98,8 @@
                             <div id="idLinkedInIcon" onclick="https://www.linkedin.com/in/farhan-khodaee-62212242/');" title="Team | MIT Global Startup Workshop 2023">in</div>
                         </div>
                     </div>
-                    <div class="team-name bold-text">Farhan Khodaee</div>
-                    <div class="team-role light-text">Co-Director</div>
+                    <div class="name">Farhan Khodaee</div>
+                    <div class="title">Co-Director</div>
                     <div class="team-area light-text">MIT School of Engineering</div>
                 </div>
                 <div class="team container col-md-4">
