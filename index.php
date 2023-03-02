@@ -348,18 +348,18 @@
         <?php //include('collaborators.php'); ?>
         
         <!--ACADEMIC PARTNERS-->
-        <section class="mt-4">
-            <div class="row" style="
-            background-image: url(img/banner/banner-03.png);
+        <section class="startup-pitch">
+         <div class="row" style="
+            background-image: url(img/banner-03.png);
             background-repeat: no-repeat;
             background-size: cover; height: 344px;
                                  margin-bottom: 10px;
             ">
-                <div class="col">
-                    <h1 class="section-header competition-text">OUR COLLABORATORS</h1>
-                </div>
+            <div class="col">
+               <h1 class="section-header competition-text">OUR COLLABORATORS</h1>
             </div>
-        </section>
+         </div>
+      </section>
   
         <section>
             <div class="row white-bg logo white-bg justify-content-center">
