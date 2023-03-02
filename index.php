@@ -417,13 +417,13 @@
             
             <div class="row justify-content-center align-items-center">
               <div class="col-sm-1 col-md-4">
-                <a href="https://entrepreneurship.mit.edu/"><img id="collab-logo" style="max-width: 40%; height: auto;" src="img/collaborators/mtc.png"></a>
+                <a href="https://entrepreneurship.mit.edu/"><img style="max-width: 70%; height: auto;" src="img/collaborators/mtc.png"></a>
               </div>
               <div class="col-sm-1 col-md-4">
-                <a href="https://legatum.mit.edu/"><img id="collab-logo" style="width: 150px" src="img/collaborators/legatum.png"></a>
+                <a href="https://legatum.mit.edu/"><img style="max-width: 70%; height: auto;"  src="img/collaborators/legatum.png"></a>
               </div>
               <div class="col-sm-1 col-md-4">
-                <a href="https://reap.mit.edu/"><img id="collab-logo" style="width: 350px" src="img/collaborators/reap.png"></a>
+                <a href="https://reap.mit.edu/"><img style="max-width: 70%; height: auto;" src="img/collaborators/reap.png"></a>
               </div>
             </div>
         </section>
