@@ -100,7 +100,7 @@
                     </div>
                     <div class="name">Farhan Khodaee</div>
                     <div class="title">Co-Director</div>
-                    <div class="team-area light-text">MIT School of Engineering</div>
+                    <div class="title">MIT School of Engineering</div>
                 </div>
                 <div class="team container col-md-4">
                     <a href="">
@@ -117,9 +117,9 @@
                             <div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/annaeckhoff');" title="Team | MIT Global Startup Workshop 2023">in</div>
                         </div>
                     </div>
-                    <div class="team-name bold-text">Anna Eckhoff</div>
-                    <div class="team-role light-text">Co-Director</div>
-                    <div class="team-area light-text">MIT Sloan School of Management</div>
+                    <div class="name">Anna Eckhoff</div>
+                    <div class="title">Co-Director</div>
+                    <div class="title">MIT Sloan School of Management</div>
                 </div>
                 <div class="team container col-md-4">
                     <a href="#teamDanielaGorza">
@@ -136,9 +136,9 @@
                             <div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/danielagorza/');" title="Team | MIT Global Startup Workshop 2023">in</div>
                         </div>
                     </div>
-                    <div class="team-name bold-text">Daniela Gorza</div>
-                    <div class="team-role light-text">Co-Director</div>
-                    <div class="team-area light-text">MIT Sloan School of Management</div>
+                    <div class="name">Daniela Gorza</div>
+                    <div class="title">Co-Director</div>
+                    <div class="title">MIT Sloan School of Management</div>
                 </div>
             </div>
         </section>
@@ -165,9 +165,9 @@
                                 <a href='https://mareddie.weebly.com/'><i class="fa-brands fa-weebly"></i></a>
                             </div>
                         </div>
-                        <div class="team-name bold-text">Madison Reddie</div>
-                        <div class="team-role light-text">Content Team - Agenda Design Lead</div>
-                        <div class="team-area light-text">MIT MechE</div>
+                        <div class="name">Madison Reddie</div>
+                        <div class="title">Content Team - Agenda Design Lead</div>
+                        <div class="title">MIT MechE</div>
                     </div>
                     <div class="team container col-sm-6 col-md-4"><a href="">
                         <img class="team-picture" src="./img/team/jenny.jpg"></a>
@@ -184,9 +184,9 @@
                                 <div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/jennycang/');" title="Team | MIT Global Startup Workshop 2023">in</div>
                             </div>
                         </div>
-                        <div class="team-name bold-text">Jenny Cang</div>
-                        <div class="team-role light-text">Content Team - Co-Speakers Lead</div>
-                        <div class="team-area light-text">MIT MBA '24</div>
+                        <div class="name">Jenny Cang</div>
+                        <div class="title">Content Team - Co-Speakers Lead</div>
+                        <div class="title">MIT MBA '24</div>
                     </div>
                     <div class="team container col-sm-6 col-md-4"><a href="">
                         <img class="team-picture" src="./img/team/pooja.jpeg"></a>
@@ -203,9 +203,9 @@
                                 <div id="idLinkedInIcon" onclick="window.open('http://www.linkedin.com/in/poojamalhotra320');" title="Team | MIT Global Startup Workshop 2023">in</div>
                             </div>	
                         </div>
-                        <div class="team-name bold-text">Pooja Malhotra</div>
-                        <div class="team-role light-text">Content Team - Co-Speakers Lead</div>
-                        <div class="team-area light-text">MIT MBA '23</div>
+                        <div class="name">Pooja Malhotra</div>
+                        <div class="title">Content Team - Co-Speakers Lead</div>
+                        <div class="title">MIT MBA '23</div>
                     </div>
                 </div>
 
@@ -220,15 +220,15 @@
                                 Beyond her time at Wellesley, she has been extensively involved in the MIT community working for MIT Energy Initiative 
                                 and as a cross-registered student in the Departments of Electrical Engineering &#38; Computer Science, Urban Studies &#38; Planning, Integrated Design &#38; Management, and Gordon-Engineering Leadership program. 
                                 Her professional interest lies in the urban mobility / sustainable transportation and entrepreneurship space. 
-                                Aside from school, Tiasa enjoys solo traveling, dancing, fitness, and visiting local cafes. 
+                                Aside from school, Tiasa enjoys solo traveling, biking, dancing, fitness, and visiting local cafes. 
                             </div>
                             <br>
                             <br>
                             <div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/tiasakim/');" title="Team | MIT Global Startup Workshop 2023">in</div>
                         </div>
-                        <div class="team-name bold-text">Tiasa Kim</div>
-                        <div class="team-role light-text">Marketing Website/Media Lead</div>
-                        <div class="team-area light-text">Wellesley College, B.A. Computer Science '23</div>
+                        <div class="name">Tiasa Kim</div>
+                        <div class="title">Marketing Website/Media Lead</div>
+                        <div class="title">Wellesley College, B.A. Computer Science '23</div>
                     </div>
                     <div class="team container col-sm-1 col-md-4">
                         <a href=""><img class="team-picture" src="./img/team/liv-j.jpg"></a>
@@ -245,9 +245,9 @@
                                 <div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/oliviajjones/');" title="Team | MIT Global Startup Workshop 2023">in</div>
                             </div>
                         </div>
-                        <div class="team-name bold-text">Olivia Jones</div>
-                        <div class="team-role light-text">Marketing Social Media/Content Lead</div>
-                        <div class="team-area light-text">MIT MBA '24</div>
+                        <div class="name">Olivia Jones</div>
+                        <div class="title">Marketing Social Media/Content Lead</div>
+                        <div class="title">MIT MBA '24</div>
                     </div>  
                     <div class="team container col-sm-1 col-md-4"><a href="">
                         <img class="team-picture" src="./img/team/
@@ -262,9 +262,9 @@
                                 He also holds the Asia and India Book of record for his creation.
                             </div>
                         </div>
-                        <div class="team-name bold-text">Prem</div>
-                        <div class="team-role light-text">Impact Assessment Lead</div>
-                        <div class="team-area light-text">MIT</div>
+                        <div class="name">Prem Sagar</div>
+                        <div class="title">Impact Assessment Lead</div>
+                        <div class="title">MIT</div>
                     </div>
                 </div>
 
@@ -285,9 +285,9 @@
                                 <div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/rishabhgoyal95');" title="Team | MIT Global Startup Workshop 2023">in</div>
                             </div>
                         </div>
-                        <div class="team-name bold-text">Rishabh Goyal</div>
-                        <div class="team-role light-text">Co-Competitions Lead</div>
-                        <div class="team-area light-text">MIT MBA '23</div>
+                        <div class="name">Rishabh Goyal</div>
+                        <div class="title">Co-Competitions Lead</div>
+                        <div class="title">MIT MBA '23</div>
                     </div>
                     <div class="team container col-sm-6 col-md-4"><a href="">
                         <img class="team-picture" src="./img/team/olivia-g.jpg"></a>
@@ -301,9 +301,9 @@
                                 In her free time, she enjoys international travel, photography and painting, and exploring new restaurants.
                             </div>
                         </div>
-                        <div class="team-name bold-text">Olivia Gebhardt</div>
-                        <div class="team-role light-text">Co-Competitions Lead</div>
-                        <div class="team-area light-text">MIT MBA '24</div>
+                        <div class="name">Olivia Gebhardt</div>
+                        <div class="title">Co-Competitions Lead</div>
+                        <div class="title">MIT MBA '24</div>
                     </div>
                     <div class="team container col-sm-6 col-md-4"><a href="">
                         <img class="team-picture" src="./img/team/noah.jpg"></a>
@@ -316,9 +316,9 @@
                                 In his spare time, Noah enjoys hiking, reading, and poker.
                             </div>
                         </div>
-                        <div class="team-name bold-text">Noah Roberts</div>
-                        <div class="team-role light-text">Finance Lead</div>
-                        <div class="team-area light-text">MIT MBA '24</div>
+                        <div class="name">Noah Roberts</div>
+                        <div class="title">Finance Lead</div>
+                        <div class="title">MIT MBA '24</div>
                     </div>
                 </div>
 
@@ -340,9 +340,9 @@
                                 <div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/nairvineet9/');" title="Team | MIT Global Startup Workshop 2023">in</div>
                             </div>
                         </div>
-                        <div class="team-name bold-text">Vineet Jagadesan Nair</div>
-                        <div class="team-role light-text">Internal Operations Lead</div>
-                        <div class="team-area light-text">MIT MechE</div>
+                        <div class="name">Vineet Jagadesan Nair</div>
+                        <div class="title">Internal Operations Lead</div>
+                        <div class="title">MIT MechE</div>
                     </div>
                     <div class="team container col-sm-1 col-md-4"><a href="">
                         <img class="team-picture" src="./img/team/katie.jpg"></a>
@@ -355,9 +355,9 @@
 
                             </div>
                         </div>
-                        <div class="team-name bold-text">Katie Chen</div>
-                        <div class="team-role light-text">External Operations Lead</div>
-                        <div class="team-area light-text">MIT IDM</div>
+                        <div class="name">Katie Chen</div>
+                        <div class="title">External Operations Lead</div>
+                        <div class="title">MIT IDM</div>
                     </div>
                     <div class="team container col-sm-1 col-md-4">
                         <a href=""><img class="team-picture" src="./img/team/layla.jpg"></a>
@@ -373,9 +373,9 @@
                                 <div id="idLinkedInIcon" onclick="window.open('https://www.linkedin.com/in/layla-arai');" title="Team | MIT Global Startup Workshop 2023">in</div>
                             </div>
                         </div>
-                        <div class="team-name bold-text">Layla Araiinejad</div>
-                        <div class="team-role light-text">Community Engagement Lead</div>
-                        <div class="team-area light-text">MIT TPP</div>
+                        <div class="name">Layla Araiinejad</div>
+                        <div class="title">Community Engagement Lead</div>
+                        <div class="title">MIT TPP</div>
                     </div>
                 </div>
             </div>
@@ -391,41 +391,41 @@
             <div class="row text-center team-row">
                 <div class="team container col-sm-6 col-md-4">
                     <a><img src="./img/board/BillAulet.jpg" class="team-picture" alt=""></a>
-                    <div class="team-name bold-text">Bill Aulet</div>
-                    <div class="team-role light-text">Faculty Advisor</div>
-                    <div class="team-area light-text">MIT Sloan School of Management</div>
+                    <div class="name">Bill Aulet</div>
+                    <div class="title">Faculty Advisor</div>
+                    <div class="title">MIT Sloan School of Management</div>
                 </div>
                 <div class="team container col-sm-6 col-md-4">
                     <a><img src="./img/board/GitaRao.jpg" class="team-picture" alt=""></a>
-                    <div class="team-name bold-text">Gita Rao</div>
-                    <div class="team-role light-text">Faculty Advisor</div>
-                    <div class="team-area light-text">MIT Sloan School of Management</div>
+                    <div class="name">Gita Rao</div>
+                    <div class="title">Faculty Advisor</div>
+                    <div class="title">MIT Sloan School of Management</div>
                 </div>
                 <div class="team container col-sm-6 col-md-4">
                     <a><img src="./img/board/SimonJohnson.jpg" class="team-picture" alt=""></a>
-                    <div class="team-name bold-text">Simon Johnson</div>
-                    <div class="team-role light-text">Faculty Advisor</div>
-                    <div class="team-area light-text">MIT Sloan School of Management</div>
+                    <div class="name">Simon Johnson</div>
+                    <div class="title">Faculty Advisor</div>
+                    <div class="title">MIT Sloan School of Management</div>
                 </div>
             </div>
             <div class="row text-center team-row">
                 <div class="team container col-sm-6 col-md-4">
                     <a><img src="./img/board/MeganMitchell.jpg" class="team-picture" alt=""></a>
-                    <div class="team-name bold-text">Megan Mitchell</div>
-                    <div class="team-role light-text">Acting Director</div>
-                    <div class="team-area light-text">MIT Legatum Center</div>
+                    <div class="name">Megan Mitchell</div>
+                    <div class="title">Acting Director</div>
+                    <div class="title">MIT Legatum Center</div>
                 </div>
                 <div class="team container col-sm-6 col-md-4">
                     <a><img src="./img/board/LeeUllman.jpg" class="team-picture" alt=""></a>
-                    <div class="team-name bold-text">Lee Ullmann</div>
-                    <div class="team-role light-text">Executive Director</div>
-                    <div class="team-area light-text">MIT Sloan Latin America Office</div>
+                    <div class="name">Lee Ullmann</div>
+                    <div class="title">Executive Director</div>
+                    <div class="title">MIT Sloan Latin America Office</div>
                 </div>
                 <div class="team container col-sm-6 col-md-4">
                     <a><img src="./img/board/TravisHunter.jpg" class="team-picture" alt=""></a>
-                    <div class="team-name bold-text">Travis Hunter</div>
-                    <div class="team-role light-text">Director</div>
-                    <div class="team-area light-text">MIT Regional Entrepreneurship &#38; Acceleration Program</div>
+                    <div class="name">Travis Hunter</div>
+                    <div class="title">Director</div>
+                    <div class="title">MIT Regional Entrepreneurship &#38; Acceleration Program</div>
                 </div>
             </div>
         </section>
