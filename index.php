@@ -388,7 +388,7 @@
             </div>
             <div class="row justify-content-center align-items-center" style="padding-bottom: 30px">
                 <div class="col-sm-1 col-md-12">
-                    <a href=""><img style="max-width: 20%; height: auto;" src="img/host/mitef.png"></a>
+                    <a href=""><img style="max-width: 25%; height: auto;" src="img/host/mitef.png"></a>
                 </div>
             </div>
             <div class="row justify-content-center align-items-center" style="padding-bottom: 30px">
