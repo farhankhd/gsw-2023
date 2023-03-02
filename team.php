@@ -354,7 +354,7 @@
                         </div>
                         <div class="name">Vineet Jagadesan Nair</div>
                         <div class="title">
-                            <p>Internal Operations Lead<br>MIT MechE PhD '24</p>
+                            <p>Internal Operations Lead<br>MIT MechE (PhD) '24</p>
                         </div>
                     </div>
                     <div class="team container col-sm-1 col-md-4"><a href="">
