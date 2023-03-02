@@ -290,16 +290,13 @@
             </div>
         </div>
         
-         <div class="row align-items-center">
+         <div class="row justify-content-center align-items-center">
           <div class="col-sm-1 col-md-12 col">
             <a href="https://www.capitalship.gr/"><img style="max-width: 40%; height: auto;"src="/2023/img/sponsors/capital.png"></a>
           </div>
         </div>
-        <div class="row justify-content-center">
-          <hr class="tier-hr">
-        </div>
       
-        <div class="row align-items-center">
+        <div class="row justify-content-center align-items-center">
             <div class="col-sm-1 col-md-5">
                 <a href="https://shopflix.gr/"> <img style="max-width: 80%; height: auto;"src="/2023/img/sponsors/shopflix.png"></a>
             </div>
@@ -307,7 +304,7 @@
                 <a href="https://www.thesignalgroup.com/"> <img style="max-width: 80%; height: auto;"src="/2023/img/sponsors/signal.png"></a>
             </div>
         </div>  
-        <div class="row align-items-center">
+        <div class="row justify-content-center align-items-center">
             <div class="col-sm-1 col-md-5">
                 <a href="https://www.moh.gr/en/"> <img style="max-width: 80%; height: auto;" src="/2023/img/sponsors/motoroil.jpeg"></a>
             </div>
@@ -315,8 +312,8 @@
                 <a href="https://www.kotsovolos.gr/"> <img style="max-width: 50%; height: 40%;" src="/2023/img/sponsors/dixons.png"></a>
             </div>
         </div>
-        <div class="row align-items-center">
-          <a class="btn btn-default register-btn" href="/2023/sponsors.php" role="button">And More</a>
+        <div class="row justify-content-center align-items-center">
+          <a class="btn btn-default register-btn" href="/2023/sponsors.php" role="button">See More</a>
           <br />
         </div>    
       </section>
