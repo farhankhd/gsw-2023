@@ -298,22 +298,25 @@
       
         <div class="row justify-content-center align-items-center">
             <div class="col-sm-1 col-md-5">
-                <a href="https://shopflix.gr/"> <img style="max-width: 80%; height: auto;"src="/2023/img/sponsors/shopflix.png"></a>
+                <a href="https://shopflix.gr/"> <img style="max-width: 65%; height: auto;"src="/2023/img/sponsors/shopflix.png"></a>
             </div>
             <div class="col-sm-1 col-md-5">
-                <a href="https://www.thesignalgroup.com/"> <img style="max-width: 80%; height: auto;"src="/2023/img/sponsors/signal.png"></a>
+                <a href="https://www.thesignalgroup.com/"> <img style="max-width: 65%; height: auto;"src="/2023/img/sponsors/signal.png"></a>
             </div>
         </div>  
+          <br />
         <div class="row justify-content-center align-items-center">
             <div class="col-sm-1 col-md-5">
-                <a href="https://www.moh.gr/en/"> <img style="max-width: 80%; height: auto;" src="/2023/img/sponsors/motoroil.jpeg"></a>
+                <a href="https://www.moh.gr/en/"> <img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/motoroil.jpeg"></a>
             </div>
+            <br />
             <div class="col-sm-1 col-md-5">
-                <a href="https://www.kotsovolos.gr/"> <img style="max-width: 50%; height: 40%;" src="/2023/img/sponsors/dixons.png"></a>
+                <a href="https://www.kotsovolos.gr/"> <img style="max-width: 35%; height: 25%;" src="/2023/img/sponsors/dixons.png"></a>
             </div>
         </div>
+          <br />
         <div class="row justify-content-center align-items-center">
-          <a class="btn btn-default register-btn" href="/2023/sponsors.php" role="button">See More</a>
+          <a class="btn btn-default register-btn" href="/2023/sponsors.php" role="button">FULL LIST OF SUPPORTERS</a>
           <br />
         </div>    
       </section>
