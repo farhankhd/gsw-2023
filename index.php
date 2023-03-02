@@ -414,16 +414,17 @@
                     <h1 class="gradient-text mt-5 text-center">We're proud to collaborate with these organizations!</h1>
                 </div>
             </div>
-            <div class="row logo d-flex justify-content-center">
-                <div class="col-sm-6 col-md-4 col-lg-4" >
-                    <a href="https://entrepreneurship.mit.edu/"><img id="collab-logo" style="width: 350px; text-align: center" src="img/collaborators/mtc.png"></a>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-4">
-                   <a href="https://legatum.mit.edu/"><img id="collab-logo" style="width: 150px" src="img/collaborators/legatum.png"></a>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-4">
-                    <a href="https://reap.mit.edu/"><img id="collab-logo" style="width: 350px" src="img/collaborators/reap.png"></a>
-                </div>
+            
+            <div class="row justify-content-center align-items-center">
+              <div class="col-sm-1 col-md-4">
+                <a href="https://entrepreneurship.mit.edu/"><img id="collab-logo" style="max-width: 40%; height: auto;" src="img/collaborators/mtc.png"></a>
+              </div>
+              <div class="col-sm-1 col-md-4">
+                <a href="https://legatum.mit.edu/"><img id="collab-logo" style="width: 150px" src="img/collaborators/legatum.png"></a>
+              </div>
+              <div class="col-sm-1 col-md-4">
+                <a href="https://reap.mit.edu/"><img id="collab-logo" style="width: 350px" src="img/collaborators/reap.png"></a>
+              </div>
             </div>
         </section>
 
