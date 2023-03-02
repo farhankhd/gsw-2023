@@ -290,13 +290,13 @@
             </div>
         </div>
         
-         <div class="row justify-content-center align-items-center" style="margin-bottom:20px">
+         <div class="row justify-content-center align-items-center" style="padding-bottom:20px">
           <div class="col-sm-1 col-md-12 col">
             <a href="https://www.capitalship.gr/"><img style="max-width: 40%; height: auto;"src="/2023/img/sponsors/capital.png"></a>
           </div>
         </div>
       
-        <div class="row justify-content-center align-items-center" style="margin-bottom:20px">
+        <div class="row justify-content-center align-items-center" style="padding-bottom:20px">
             <div class="col-sm-1 col-md-5">
                 <a href="https://shopflix.gr/"> <img style="max-width: 65%; height: auto;"src="/2023/img/sponsors/shopflix.png"></a>
             </div>
@@ -304,7 +304,7 @@
                 <a href="https://www.thesignalgroup.com/"> <img style="max-width: 65%; height: auto;"src="/2023/img/sponsors/signal.png"></a>
             </div>
         </div>  
-        <div class="row justify-content-center align-items-center" style="margin-bottom:20px">
+        <div class="row justify-content-center align-items-center" style="padding-bottom:20px">
             <div class="col-sm-1 col-md-5">
                 <a href="https://www.moh.gr/en/"> <img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/motoroil.jpeg"></a>
             </div>
