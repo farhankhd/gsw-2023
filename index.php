@@ -380,6 +380,25 @@
               </div>
             </div>
         </section>
+        <section>
+            <div class="row white-bg logo white-bg justify-content-center">
+                <div class="col">
+                    <h1 class="gradient-text mt-5 text-center">GSW 2023 is Hosted by:</h1>
+                </div>
+            </div>
+            
+            <div class="row justify-content-center align-items-center">
+                <div class="col-sm-1 col-md-12">
+                    <a href=""><img style="max-width: 40%; height: auto;" src="img/host/mitef.png"></a>
+                </div>
+                <div class="col-sm-1 col-md-6">
+                    <a href=""><img style="max-width: 40%; height: auto;" src="img/host/cogreece.png"></a>
+                </div>
+                <div class="col-sm-1 col-md-6">
+                    <a href=""><img style="max-width: 40%; height: auto;" src="img/host/hin.png"></a>
+                </div>
+            </div>
+        </section>
 
     
     <?php include('footer.php');
