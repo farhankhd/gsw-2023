@@ -359,7 +359,7 @@
         </div>
         <br>
                              
-        <div class="row align-items-center">
+        <div class="row justify-content-center align-items-center">
           <div class="col-sm-1 col-md-5">
             <a href="https://www.kathimerini.gr/"><img id="community-logo" src="/2023/img/sponsors/kathimerini.png"></a>
           </div>
@@ -381,7 +381,7 @@
         </div>
         <br>
                              
-        <div class="row align-items-center">
+        <div class="row justify-content-center align-items-center">
           <div class="col-sm-1 col-md-5">
             <a href="https://www.eventora.com/"><img id="community-logo" src="/2023/img/sponsors/eventora.png"></a>
           </div>
