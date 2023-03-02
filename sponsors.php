@@ -188,9 +188,9 @@
           <div class="col-sm-1 col-md-12 col-lg-9">
             <a href="https://www.capitalship.gr/"><img style="max-width: 60%; height: auto;"src="/2023/img/sponsors/capital.png"></a>
           </div>
-          <div class="row justify-content-center">
-            <hr class="tier-hr">
-          </div>
+        </div>
+        <div class="row justify-content-center">
+          <hr class="tier-hr">
         </div>
         
      
@@ -199,7 +199,7 @@
           <div class="col-sm-1 col-md-12 col-lg-3">
             <img src="/2023/svg/silver.svg"/>
           </div>
-          <div class="col-sm-1 col-md-12 col-lg-9">
+          <div class="col-sm-1 col-md-12 col-lg-8">
             <div class="row justify-content-center align-items-center">
               <div class="col-sm-1 col-md-6">
                 <a href="https://shopflix.gr/"> <img style="max-width: 70%; height: auto;"src="/2023/img/sponsors/shopflix.png"></a>
