@@ -266,10 +266,10 @@
           </div>
           <div class="col-sm-1 col-md-12 col-lg-9">
              <div class="row justify-content-center align-items-center">
-              <div class="col-sm-1 col-6">
+              <div class="col-sm-1 col-lg-6">
                 <a href="https://alumnireach.com/"> <img style="max-width: 40%; height: auto;" src="/2023/img/sponsors/ar.png"></a>
               </div>
-              <div class="col-sm-1 col-6">
+              <div class="col-sm-1 col-lg-6">
                 <a href="https://www.thesarmproject.com/"> <img style="max-width: 40%; height: auto;" src="/2023/img/sponsors/sarm.jpeg"></a>
               </div>
             </div>
