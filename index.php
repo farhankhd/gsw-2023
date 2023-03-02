@@ -386,14 +386,14 @@
                     <h1 class="gradient-text mt-5 text-center">GSW 2023 is hosted by:</h1>
                 </div>
             </div>
-            <div class="row justify-content-center align-items-center">
+            <div class="row justify-content-center align-items-center" style="padding-bottom: 30px">
                 <div class="col-sm-1 col-md-12">
                     <a href=""><img style="max-width: 30%; height: auto;" src="img/host/mitef.png"></a>
                 </div>
             </div>
-            <div class="row justify-content-center align-items-center">
+            <div class="row justify-content-center align-items-center" style="padding-bottom: 30px">
                 <div class="col-sm-1 col-md-4">
-                    <a href=""><img style="max-width: 50%; height: auto;" src="img/host/cogreece.png"></a>
+                    <a href=""><img style="max-width: 70%; height: auto;" src="img/host/cogreece.png"></a>
                 </div>
                 <div class="col-sm-1 col-md-4">
                     <a href=""><img style="max-width: 50%; height: auto;" src="img/host/hin.png"></a>
