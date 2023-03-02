@@ -199,7 +199,7 @@
           <div class="col-sm-1 col-md-2">
             <img src="/2023/svg/silver.svg"/>
           </div>
-          <div class="col-sm-1 col-md-auto">
+          <div class="col-sm-1 col-md-10">
             <div class="row justify-content-center align-items-center">
               <div class="col-sm-1 col-md-6">
                 <a href="https://shopflix.gr/"> <img style="max-width: 70%; height: auto;"src="/2023/img/sponsors/shopflix.png"></a>
