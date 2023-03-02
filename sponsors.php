@@ -237,7 +237,7 @@
             </div>
             <div class="row justify-content-center align-items-center">
               <div class="col-sm-1 col-md-6">
-                <a href="https://bigpi.vc/"> <img style="max-width: 50%; max-height: 80%; height: auto;" src="/2023/img/sponsors/bigpi.png"></a>
+                <a href="https://bigpi.vc/"> <img style="max-width: 50%; max-height: 80%;" src="/2023/img/sponsors/bigpi.png"></a>
               </div> 
             </div>
           </div>
