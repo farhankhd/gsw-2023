@@ -346,7 +346,29 @@
           </div>
         </div>
       </section>
-   
+                                                                                                                            
+      <!--COMMUNICATION PARTNERS-->
+      <section>
+        <div class="row">
+          <div class="col">
+            <h1 class="para text-center gradient-text" id="team-section">Communication Partners</h1>
+          </div>
+        </div>
+        <div class="row justify-content-center">
+          <hr class="team-hr">
+        </div>
+        <br>
+                             
+        <div class="row align-items-center">
+          <div class="col-sm-1 col-md-5">
+            <a href="https://www.kathimerini.gr/"><img id="community-logo" src="/2023/img/sponsors/kathimerini.png"></a>
+          </div>
+          <div class="col-sm-1 col-md-5">
+            <a href="https://www.ogilvy.com/"><img id="community-logo" src="/2023/img/sponsors/ogilvy.png"></a>
+          </div>
+        </div>
+      </section>
+                                                                                                          
       <!--COMMUNITY PARTNERS-->
       <section>
         <div class="row">
