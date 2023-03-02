@@ -195,7 +195,7 @@
         
      
       
-        <div class="row align-items-center justify-content-md-center">
+        <div class="row align-items-center">
           <div class="col-sm-1 col-md-3">
             <img src="/2023/svg/silver.svg"/>
           </div>
