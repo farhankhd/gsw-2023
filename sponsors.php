@@ -308,7 +308,7 @@
         
         <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-4">
-            <a href="https://scienceagora.eu/about/"><img style="max-width: 50%; height: auto;" src="/2023/img/sponsors/scienceagora.png"></a>
+            <a href="https://scienceagora.eu/about/"><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/scienceagora.png"></a>
           </div>
         </div>
       </section>
