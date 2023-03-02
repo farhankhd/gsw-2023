@@ -328,21 +328,21 @@
         
         <div class="row justify-content-center align-items-center">
           <div class="col-sm-1 col-md-4">
-            <a href="https://www.mindev.gov.gr/?lang=en"><img style="max-width: 60%; height: auto;" src="/2023/img/sponsors/MinDev.png"></a>
+            <a href="https://www.mindev.gov.gr/?lang=en"><img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/MinDev.png"></a>
           </div>
           <div class="col-sm-1 col-md-4">
-            <a href="https://www.minedu.gov.gr/"><img style="max-width: 60%; height: auto;"src="/2023/img/sponsors/MinEdu.png"></a>
+            <a href="https://www.minedu.gov.gr/"><img style="max-width: 70%; height: auto;"src="/2023/img/sponsors/MinEdu.png"></a>
           </div>
           <div class="col-sm-1 col-md-4">
-            <a href="https://mindigital.gr/"><img style="max-width: 60%; height: auto;" src="/2023/img/sponsors/MinDigGov.png"></a>
+            <a href="https://mindigital.gr/"><img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/MinDigGov.png"></a>
           </div>
         </div>
         <div class="row justify-content-center align-items-center">
           <div class="col-sm-1 col-md-4">
-            <a href="https://ypergasias.gov.gr/"><img style="max-width: 60%; height: auto;" src="/2023/img/sponsors/MinLSA.png"></a>
+            <a href="https://ypergasias.gov.gr/"><img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/MinLSA.png"></a>
           </div>
           <div class="col-sm-1 col-md-4">
-            <a href="https://www.patt.gov.gr/"><img style="max-width: 40%; height: 40%;" src="/2023/img/sponsors/attica.png"></a>
+            <a href="https://www.patt.gov.gr/"><img style="max-width: 50%; height: 50%;" src="/2023/img/sponsors/attica.png"></a>
           </div>
         </div>
       </section>
@@ -364,7 +364,7 @@
             <a href="https://www.kathimerini.gr/"><img style="max-width: 60%; height: auto;" src="/2023/img/sponsors/kathimerini.png"></a>
           </div>
           <div class="col-sm-1 col-md-5">
-            <a href="https://www.ogilvy.com/"><img style="max-width: 60%; height: auto;" src="/2023/img/sponsors/ogilvy.png"></a>
+            <a href="https://www.ogilvy.com/"><img style="max-width: 40%; height: auto;" src="/2023/img/sponsors/ogilvy.png"></a>
           </div>
         </div>
       </section>
@@ -383,10 +383,10 @@
                              
         <div class="row justify-content-center align-items-center">
           <div class="col-sm-1 col-md-5">
-            <a href="https://www.eventora.com/"><img style="max-width: 60%; height: auto;"  src="/2023/img/sponsors/eventora.png"></a>
+            <a href="https://www.eventora.com/"><img style="max-width: 30%; height: auto;" src="/2023/img/sponsors/eventora.png"></a>
           </div>
           <div class="col-sm-1 col-md-5">
-            <a href="https://seeders.gr/"><img style="max-width: 60%; height: auto;" src="/2023/img/sponsors/seeders.png"></a>
+            <a href="https://seeders.gr/"><img style="max-width: 30%; height: auto;" src="/2023/img/sponsors/seeders.png"></a>
           </div>
         </div>
       </section>
