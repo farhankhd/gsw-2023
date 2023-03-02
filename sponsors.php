@@ -218,7 +218,7 @@
           </div>
         </div>
         
-         <div class="row justify-content-center">
+        <div class="row justify-content-center">
           <hr class="tier-hr">
         </div>
         
@@ -238,10 +238,13 @@
             <div class="row justify-content-center align-items-center">
               <div class="col-sm-1 col-md-6">
                 <a href="https://bigpi.vc/"> <img id="silver-logo" src="/2023/img/sponsors/bigpi.png"></a>
-              </div>
-             
+              </div> 
             </div>
           </div>
+        </div>
+        
+        <div class="row justify-content-center">
+          <hr class="tier-hr">
         </div>
         
         <div class="row align-items-center">
