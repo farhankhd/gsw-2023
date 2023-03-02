@@ -201,18 +201,18 @@
           <div class="col-sm-1 col-md-12 col-lg-9">
             <div class="row justify-content-center align-items-center">
               <div class="col-sm-1 col-md-6">
-                <a href="https://shopflix.gr/"> <img src="/2023/img/sponsors/shopflix.png"></a>
+                <a href="https://shopflix.gr/"> <img id="silver-logo" src="/2023/img/sponsors/shopflix.png"></a>
               </div>
               <div class="col-sm-1 col-md-6">
-                <a href="https://www.thesignalgroup.com/"> <img src="/2023/img/sponsors/signal.png"></a>
+                <a href="https://www.thesignalgroup.com/"> <img id="silver-logo" src="/2023/img/sponsors/signal.png"></a>
               </div>
             </div>
             <div class="row justify-content-center align-items-center">
               <div class="col-sm-1 col-md-6">
-                <a href="https://www.moh.gr/en/"> <img src="/2023/img/sponsors/motoroil.jpeg"></a>
+                <a href="https://www.moh.gr/en/"> <img id="silver-logo" src="/2023/img/sponsors/motoroil.jpeg"></a>
               </div>
               <div class="col-sm-1 col-md-6">
-                <a href="https://www.kotsovolos.gr/"> <img src="/2023/img/sponsors/dixons.png"></a>
+                <a href="https://www.kotsovolos.gr/"> <img id="silver-logo" src="/2023/img/sponsors/dixons.png"></a>
               </div>
             </div>
           </div>
@@ -229,15 +229,15 @@
           <div class="col-sm-1 col-md-12 col-lg-9">
             <div class="row justify-content-center align-items-center">
               <div class="col-sm-1 col-md-6">
-                <a href="https://www.libra.com/en/"><img src="/2023/img/sponsors/libragroup.png"></a>
+                <a href="https://www.libra.com/en/"><img id="associate-logo" src="/2023/img/sponsors/libragroup.png"></a>
               </div>
               <div class="col-sm-1 col-md-6">
-                <a href="https://www.octaneconsultants.com/"> <img src="/2023/img/sponsors/octane.jpeg"></a>
+                <a href="https://www.octaneconsultants.com/"> <img id="associate-logo" src="/2023/img/sponsors/octane.jpeg"></a>
               </div>
             </div>
             <div class="row justify-content-center align-items-center">
               <div class="col-sm-1 col-md-6">
-                <a href="https://bigpi.vc/"> <img src="/2023/img/sponsors/bigpi.png"></a>
+                <a href="https://bigpi.vc/"> <img id="associate-logo" src="/2023/img/sponsors/bigpi.png"></a>
               </div> 
             </div>
           </div>
@@ -252,7 +252,7 @@
             <img src="/2023/svg/supporters.svg"/>
           </div>
           <div class="col-sm-1 col-md-12 col-lg-9">
-            <a href="http://www.tiresias.gr/"><img src="/2023/img/sponsors/tiresias.jpeg"></a>
+            <a href="http://www.tiresias.gr/"><img id="supporter-logo" src="/2023/img/sponsors/tiresias.jpeg"></a>
           </div>
         </div>
         
@@ -267,10 +267,10 @@
           <div class="col-sm-1 col-md-12 col-lg-9">
              <div class="row justify-content-center align-items-center">
               <div class="col-sm-1 col-md-6">
-                <a href="https://bigpi.vc/"> <img src="/2023/img/sponsors/ar.png"></a>
+                <a href="https://bigpi.vc/"> <img id="supporter-logo" src="/2023/img/sponsors/ar.png"></a>
               </div>
               <div class="col-sm-1 col-md-6">
-                <a href="https://bigpi.vc/"> <img src="/2023/img/sponsors/sarm.jpeg"></a>
+                <a href="https://bigpi.vc/"> <img id="supporter-logo" src="/2023/img/sponsors/sarm.jpeg"></a>
               </div>
             </div>
           </div>
