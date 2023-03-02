@@ -288,7 +288,7 @@
         </div>
         <br>
          <div class="row justify-content-center align-items-center">
-          <div class="col-sm-1">
+          <div class="col">
             <a href=https://www.thepeoplestrust.org/"><img style="width: 120%; height: auto;" src="/2023/img/sponsors/tpt.png"></a>
           </div>
         </div>
