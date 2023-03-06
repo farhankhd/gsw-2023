@@ -150,7 +150,7 @@
                <br>
                <br>
    
-                If you have any questions, please email <a class="light-bg-dark-text" href="gsw_competitions@mit.edu">gsw_competitions@mit.edu</a>
+                If you have any questions, please email <a href="gsw_competitions@mit.edu">gsw_competitions@mit.edu</a>
     
              </p>
              
