@@ -144,6 +144,14 @@
             <p class="para light-text light-bg-dark-text" style="text-align: center"> 
                Are you an entrepreneur trying to take your startup to the next level? <br>The <strong class="light-bg-dark-text" style="color: #00c0f2">MIT GSW Startup Pitch Competition</strong> is an opportunity for you to pitch your company and compete for a chance to win seed money to scale your startup.
             </p>
+            <p class="para light-text light-bg-dark-text" style="text-align: center">
+               <strong class="light-bg-dark-text">Applications are now closed.</strong>
+               <br>
+             </p>
+             
+             
+             
+            <!--
             <button class="comp-btn" onclick="window.location.href='https://docs.google.com/forms/d/e/1FAIpQLScGcvXe5ioa0kCA6X9UsN-wxMntEF_qolskXs7sgE_3z3AYnA/viewform?usp=sf_link';">Apply Now</button>
             <br><br><br>
             <p class="para light-text light-bg-dark-text" style="text-align: center">
@@ -152,6 +160,8 @@
                Semifinalists will be invited after their application has been reviewed. The final competition will be held on March 31st, 2023.
                Full details on Eligibility Criteria can be found <a style="color: blue" href="doc/startup-pitch-flyer.pdf">here</a> and below. 
                <br><br>
+             -->
+            <p>
                If you have any questions, please email <a class="light-bg-dark-text" href="gsw_competitions@mit.edu">gsw_competitions@mit.edu</a>
             </p>
          </div>
