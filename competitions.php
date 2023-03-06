@@ -147,6 +147,9 @@
             <p class="para light-text light-bg-dark-text" style="text-align: center">
                <strong class="light-bg-dark-text">Applications are now closed.</strong>
                <br>
+   
+                If you have any questions, please email <a class="light-bg-dark-text" href="gsw_competitions@mit.edu">gsw_competitions@mit.edu</a>
+    
              </p>
              
              
@@ -161,9 +164,7 @@
                Full details on Eligibility Criteria can be found <a style="color: blue" href="doc/startup-pitch-flyer.pdf">here</a> and below. 
                <br><br>
              -->
-            <p>
-               If you have any questions, please email <a class="light-bg-dark-text" href="gsw_competitions@mit.edu">gsw_competitions@mit.edu</a>
-            </p>
+          
          </div>
       </section>
       <!--PRIZES-->
