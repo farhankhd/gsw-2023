@@ -442,7 +442,7 @@
                    width="500" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
                 <div class="col-sm-1 col-md-5">
-                    <a href="https://www.megaron.gr/"><img style="max-width: 100%; height: auto;" src="img/venue/megaron_exterior.jpg"></a>
+                    <a href="https://www.megaron.gr/"><img style="max-width: 85%; height: auto;" src="img/venue/megaron_exterior.jpg"></a>
                 </div>
             </div>
         </section>
