@@ -201,7 +201,7 @@
     }
     
     /*VENUE MAP*/
-    @media only screen and (min-width: 480px) {
+    @media only screen and (max-width: 680px) {
         .venue {
             width: 60%;
         }
@@ -255,7 +255,6 @@
                     <a class="btn btn-default register-btn"onClick="fbq('trackCustom', 'Home_Register Now_GSW’);" href="http://eventora.gr/mit-gsw" role="button">REGISTER TO ATTEND</a>
                     <br />
                 </div>
-               
             </div>
         </div>
         
