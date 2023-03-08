@@ -203,7 +203,7 @@
     /*VENUE MAP*/
     @media only screen and (min-width: 480px) {
         .venue {
-            width: 80%;
+            width: 60%;
         }
     }
     
