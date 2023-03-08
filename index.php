@@ -416,20 +416,14 @@
                 </div>
             </div>
             <div class="row justify-content-center align-items-center" style="padding-bottom: 30px">
-                <div class="col-sm-1 col-md-6 map">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3144.844761769237!2d23.752118217443847!3d37.980752!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14a1bd51a8e481f1%3A0x14055f355612b38!2sMegaron%20Athens%20International%20Conference%20Centre!5e0!3m2!1sen!2sus!4v1678242877759!5m2!1sen!2sus" 
-                    width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <div class="col-sm-1 col-md-5 map">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3144.844761769237!2d23.752118217443847!3d37.980752!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14a1bd51a8e481f1%3A0x14055f355612b38!2sMegaron%20Athens%20International%20Conference%20Centre!5e0!3m2!1sen!2sus!4v1678245722633!5m2!1sen!2sus" 
+                    width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
-                <div class="col-sm-1 col-md-6">
-                    <a href="https://www.megaron.gr/"><img style="max-width: 30%; height: auto;" src="img/venue/megaron_exterior.jpg"></a>
+                <div class="col-sm-1 col-md-5">
+                    <a href="https://www.megaron.gr/"><img style="max-width: 80%; height: auto;" src="img/venue/megaron_exterior.jpg"></a>
                 </div>
             </div>
-            
-            <div class="map">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3144.844761769237!2d23.752118217443847!3d37.980752!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14a1bd51a8e481f1%3A0x14055f355612b38!2sMegaron%20Athens%20International%20Conference%20Centre!5e0!3m2!1sen!2sus!4v1678242877759!5m2!1sen!2sus" 
-                width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-            </div>
-            
         </section>
    
         <!--HOST-->
