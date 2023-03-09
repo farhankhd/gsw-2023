@@ -214,6 +214,16 @@
                 <a href="https://www.kotsovolos.gr/"> <img style="max-width: 50%; height: 40%;" src="/2023/img/sponsors/dixons.png"></a>
               </div>
             </div>
+            <div class="row justify-content-center align-items-center">
+              <!--
+              <div class="col-sm-1 col-md-6">
+                <a href="https://www.ey.com/en_gr"> <img style="max-width: 50%; height: 40%;" src="/2023/img/sponsors/eygreece.png"></a>
+              </div>
+              -->
+              <div class="col-sm-1 col-md-6">
+                <a href="https://deddie.gr/en/"> <img style="max-width: 80%; height: auto;" src="/2023/img/sponsors/hedno.png"></a>
+              </div>
+            </div>
           </div>
         </div>
         
@@ -276,7 +286,7 @@
         </div>
       </section>
       
-        <!--DONORS-->
+      <!--DONORS-->
       <section>
         <div class="row">
           <div class="col">
@@ -288,9 +298,12 @@
         </div>
         <br>
          <div class="row justify-content-center align-items-center">
-          <div class="col">
-            <a href=https://www.thepeoplestrust.org/"><img style="max-width: 35%; height: auto;" src="/2023/img/sponsors/tpt.png"></a>
+          <div class="col-sm-1 col-lg-6">
+            <a href="https://www.thepeoplestrust.org/"><img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/tpt.png"></a>
           </div>
+          <div class="col-sm-1 col-lg-6">
+            <a href="https://www.latsis-foundation.org/eng"><img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/latsis.jpeg"></a>
+          </div>                                                                                                                     
         </div>
       </section>
       
