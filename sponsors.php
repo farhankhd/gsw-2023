@@ -251,7 +251,7 @@
             <img src="/2023/svg/supporters.svg"/>
           </div>
           <div class="col-sm-1 col-md-12 col-lg-9">
-            <a href="http://www.tiresias.gr/"><img style="max-width: 40%; height: auto;" src="/2023/img/sponsors/tiresias.jpeg"></a>
+            <a href="https://tsek.teiresias.gr/el/Home"><img style="max-width: 40%; height: auto;" src="/2023/img/sponsors/tiresias.jpeg"></a>
           </div>
         </div>
         
