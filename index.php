@@ -456,7 +456,7 @@
                 </div>
             </div>
             <div class="row justify-content-center align-items-center">
-                <a class="btn btn-default register-btn" href="https://www.megaron.gr/en/visitor-information/" role="button">DIRECTIONS TO MEGARON</a>
+                <a class="btn btn-default register-btn" href="https://www.megaron.gr/en/visitor-information/" role="button">DIRECTIONS</a>
             </div> 
         </section>
         
