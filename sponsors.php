@@ -254,10 +254,10 @@
             </div>
             <div class="row justify-content-center align-items-center">
               <div class="col-sm-1 col-md-6">
-                <a href="https://bigpi.vc/"> <img style="max-width: 60%; max-height: 60%;" src="/2023/img/sponsors/bigpi.png"></a>
+                <a href="https://bigpi.vc/"> <img style="max-width: 45%; max-height: 45%;" src="/2023/img/sponsors/bigpi.png"></a>
               </div> 
               <div class="col-sm-1 col-md-6">
-                <a href="https://www.quest.gr/en/the-group"> <img style="max-width: 60%; height: auto;" src="/2023/img/sponsors/iQ-QG.jpeg"></a>
+                <a href="https://www.quest.gr/en/the-group"> <img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/iQ-QG.jpeg"></a>
               </div> 
             </div>
           </div>
