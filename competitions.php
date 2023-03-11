@@ -174,7 +174,7 @@
                 <a href="https://www.linkedin.com/company/ratepunk/"><img style="max-width: 70%; height: auto;" src="/2023/img/finalists/ratepunk.png"></a>
               </div>
               <div class="col-sm-1 col-md-3">
-                <a href="https://www.linkedin.com/company/resq-biotech/"><img style="max-width: 50%; height: auto;" src="/2023/img/finalists/resq.png"></a>
+                <a href="https://www.linkedin.com/company/resq-biotech/"><img style="max-width: 35%; height: auto;" src="/2023/img/finalists/resq.png"></a>
               </div>
             </div>
             <!--
