@@ -141,12 +141,10 @@
             </div>
         </div>
          <div class="white-bg">
-             <p class="para light-text light-bg-dark-text" style="text-align: center"> 
+            <p class="para light-text light-bg-dark-text" style="text-align: center"> 
                <strong class="light-bg-dark-text" style="color: #00c0f2">CONGRATULATIONS</strong> to the following 8 finalists who have been selected to compete at this year's <strong class="light-bg-dark-text" style="color: #00c0f2">MIT GSW Startup Pitch Competitition</strong>.
                <br>These teams have been chosen out of a pool of 65 startups and after two rounds of review by MIT entrepreneurship judges.
-               <br><a style="text-decoration-line: underline;  color: #0e1e58;" href="https://www.eventora.gr/mit-gsw/">Register now</a> to see these teams pitch their company for a chance to win seed money to scale their startup.
-            </p>
-            <br>
+            </P>
             <br>
             <br>
             <div class="row justify-content-center align-items-center">
@@ -177,6 +175,11 @@
                 <a href="https://www.linkedin.com/company/resq-biotech/"><img style="max-width: 35%; height: auto;" src="/2023/img/finalists/resq.png"></a>
               </div>
             </div>
+            <br>
+            <br>
+            <p>
+                <a style="text-decoration-line: underline;  color: #0e1e58;" href="https://www.eventora.gr/mit-gsw/">Register now</a> to see these teams pitch their company for a chance to win seed money to scale their startup.
+            </p>
             <!--
             <p class="para light-text light-bg-dark-text" style="text-align: center"> 
                Are you an entrepreneur trying to take your startup to the next level? <br>The <strong class="light-bg-dark-text" style="color: #00c0f2">MIT GSW Startup Pitch Competition</strong> is an opportunity for you to pitch your company and compete for a chance to win seed money to scale your startup.
