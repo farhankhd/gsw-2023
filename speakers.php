@@ -178,12 +178,12 @@ include('markup.php');
                         if (in_array($row, $skip_row_number))	
                         {
         		continue; 
-        	}
-        	<?php
-                if($data[5]=="Y"){
-                        echo<img class="speaker-picture-association" src="img/mit.png">
-                }
-                ?>
+        	        }
+        
+                        if($data[5]=="Y"){
+                        echo "<img class='speaker-picture-association' src='img/mit.png'>";
+                        }
+          
                         <img class="speaker-picture" src="img/speakers/<?php echo $data[4]; ?>">
                 </div>
                 <div class="col-sm-6 col-md-8 col-lg-9">
