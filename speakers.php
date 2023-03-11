@@ -175,7 +175,15 @@ include('markup.php');
         <div class="row speaker-expanded-bio">
                 <span class="anchor" id="N/A"></span>
                 <div class="speaker col-sm-6 col-md-4 col-lg-3">
-                        <!--<img class="speaker-picture-association" src="img/mit.png">-->
+                        if (in_array($row, $skip_row_number))	
+                        {
+        		continue; 
+        	}
+        	<?php
+                if($data[5]=="Y"){
+                        echo<img class="speaker-picture-association" src="img/mit.png">
+                }
+                ?>
                         <img class="speaker-picture" src="img/speakers/<?php echo $data[4]; ?>">
                 </div>
                 <div class="col-sm-6 col-md-8 col-lg-9">
