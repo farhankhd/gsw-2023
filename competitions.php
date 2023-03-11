@@ -151,30 +151,30 @@
             <br>
             <div class="row justify-content-center align-items-center">
               <div class="col-sm-1 col-md-3">
-                <a href="https://www.linkedin.com/company/alongroute/"><img style="max-width: 50%; height: auto;" src="/2023/img/finalists/alongroute.png"></a>
+                <a href="https://www.linkedin.com/company/alongroute/"><img style="max-width: 70%; height: auto;" src="/2023/img/finalists/alongroute.png"></a>
               </div>
               <div class="col-sm-1 col-md-3">
-                <a href="https://www.linkedin.com/company/digital-biteseu/"><img style="max-width: 50%; height: auto;"src="/2023/img/sponsors/digital bites.png"></a>
+                <a href="https://www.linkedin.com/company/digital-biteseu/"><img style="max-width: 70%; height: auto;"src="/2023/img/finalists/digital bites.png"></a>
               </div>
               <div class="col-sm-1 col-md-3">
-                <a href="https://www.linkedin.com/company/kryptoniowallet/"><img style="max-width: 50%; height: auto;" src="/2023/img/sponsors/kryptonio.png"></a>
+                <a href="https://www.linkedin.com/company/kryptoniowallet/"><img style="max-width: 70%; height: auto;" src="/2023/img/finalists/kryptonio.png"></a>
               </div>
               <div class="col-sm-1 col-md-3">
-                <a href="https://www.linkedin.com/company/spin-analytics/"><img style="max-width: 50%; height: auto;" src="/2023/img/sponsors/spinanalytics.png"></a>
+                <a href="https://www.linkedin.com/company/spin-analytics/"><img style="max-width: 70%; height: auto;" src="/2023/img/finalists/spinanalytics.png"></a>
               </div>
             </div>
             <div class="row justify-content-center align-items-center">
               <div class="col-sm-1 col-md-4">
-                <a href="https://www.linkedin.com/company/music-of-our-desire/"><img style="max-width: 50%; height: auto;" src="/2023/img/sponsors/mood.svg"></a>
+                <a href="https://www.linkedin.com/company/music-of-our-desire/"><img style="max-width: 70%; height: auto;" src="/2023/img/finalists/mood.svg"></a>
               </div>
               <div class="col-sm-1 col-md-4">
-                <a href="https://www.linkedin.com/company/orbito-travel-p-c/"><img style="max-width: 50%; height: auto;" src="/2023/img/sponsors/orbito.png"></a>
+                <a href="https://www.linkedin.com/company/orbito-travel-p-c/"><img style="max-width: 70%; height: auto;" src="/2023/img/finalists/orbito.png"></a>
               </div>
               <div class="col-sm-1 col-md-4">
-                <a href="https://www.linkedin.com/company/ratepunk/"><img style="max-width: 50%; height: auto;" src="/2023/img/sponsors/ratepunk.svg"></a>
+                <a href="https://www.linkedin.com/company/ratepunk/"><img style="max-width: 70%; height: auto;" src="/2023/img/finalists/ratepunk.svg"></a>
               </div>
               <div class="col-sm-1 col-md-4">
-                <a href="https://www.linkedin.com/company/resq-biotech/"><img style="max-width: 50%; height: auto;" src="/2023/img/sponsors/resq.png"></a>
+                <a href="https://www.linkedin.com/company/resq-biotech/"><img style="max-width: 70%; height: auto;" src="/2023/img/finalists/resq.png"></a>
               </div>
             </div>
             <!--
