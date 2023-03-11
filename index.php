@@ -323,15 +323,15 @@
         </div>
         <div class="row justify-content-center align-items-center" style="padding-bottom:40px">
             <div class="col-sm-1 col-md-5">
-                <a href="https://www.ey.com/en_gr"> <img style="max-width: 50%; height: auto;" src="/2023/img/sponsors/ey.png"></a>
+                <a href="https://www.ey.com/en_gr"> <img style="max-width: 30%; height: 30%;" src="/2023/img/sponsors/ey.png"></a>
               </div>
               <div class="col-sm-1 col-md-5">
-                <a href="https://www.kotsovolos.gr/"> <img style="max-width: 40%; height: 30%;" src="/2023/img/sponsors/dixons.png"></a>
+                <a href="https://www.kotsovolos.gr/"> <img style="max-width: 30%; height: 30%;" src="/2023/img/sponsors/dixons.png"></a>
               </div>
         </div>
         <div class="row justify-content-center align-items-center" style="padding-bottom:40px">
             <div class="col-sm-1 col-md-6">
-                <a href="https://deddie.gr/en/"> <img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/hedno.png"></a>
+                <a href="https://deddie.gr/en/"> <img style="max-width: 50%; height: auto;" src="/2023/img/sponsors/hedno.png"></a>
              </div>
         </div>
 
