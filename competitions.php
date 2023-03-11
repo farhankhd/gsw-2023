@@ -146,7 +146,6 @@
                <br>These teams have been chosen out of a pool of 65 startups and after two rounds of review by MIT entrepreneurship judges.
             </P>
             <br>
-            <br>
             <div class="row justify-content-center align-items-center">
               <div class="col-sm-1 col-md-3">
                 <a href="https://www.linkedin.com/company/alongroute/"><img style="max-width: 70%; height: auto;" src="/2023/img/finalists/alongroute.png"></a>
