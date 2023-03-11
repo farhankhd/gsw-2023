@@ -146,6 +146,37 @@
                <br>These teams have been chosen out of a pool of 65 startups and after two rounds of review by MIT entrepreneurship judges.
                <br><a style="text-decoration-line: underline;  color: #0e1e58;" href="https://www.eventora.gr/mit-gsw/">Register now</a> to see these teams pitch their company for a chance to win seed money to scale their startup.
             </p>
+            <br>
+            <br>
+            <br>
+            <div class="row justify-content-center align-items-center">
+              <div class="col-sm-1 col-md-3">
+                <a href="https://www.linkedin.com/company/alongroute/"><img style="max-width: 50%; height: auto;" src="/2023/img/finalists/alongroute.png"></a>
+              </div>
+              <div class="col-sm-1 col-md-3">
+                <a href="https://www.linkedin.com/company/digital-biteseu/"><img style="max-width: 50%; height: auto;"src="/2023/img/sponsors/digital bites.png"></a>
+              </div>
+              <div class="col-sm-1 col-md-3">
+                <a href="https://www.linkedin.com/company/kryptoniowallet/"><img style="max-width: 50%; height: auto;" src="/2023/img/sponsors/kryptonio.png"></a>
+              </div>
+              <div class="col-sm-1 col-md-3">
+                <a href="https://www.linkedin.com/company/spin-analytics/"><img style="max-width: 50%; height: auto;" src="/2023/img/sponsors/spinanalytics.png"></a>
+              </div>
+            </div>
+            <div class="row justify-content-center align-items-center">
+              <div class="col-sm-1 col-md-4">
+                <a href="https://www.linkedin.com/company/music-of-our-desire/"><img style="max-width: 50%; height: auto;" src="/2023/img/sponsors/mood.svg"></a>
+              </div>
+              <div class="col-sm-1 col-md-4">
+                <a href="https://www.linkedin.com/company/orbito-travel-p-c/"><img style="max-width: 50%; height: auto;" src="/2023/img/sponsors/orbito.png"></a>
+              </div>
+              <div class="col-sm-1 col-md-4">
+                <a href="https://www.linkedin.com/company/ratepunk/"><img style="max-width: 50%; height: auto;" src="/2023/img/sponsors/ratepunk.svg"></a>
+              </div>
+              <div class="col-sm-1 col-md-4">
+                <a href="https://www.linkedin.com/company/resq-biotech/"><img style="max-width: 50%; height: auto;" src="/2023/img/sponsors/resq.png"></a>
+              </div>
+            </div>
             <!--
             <p class="para light-text light-bg-dark-text" style="text-align: center"> 
                Are you an entrepreneur trying to take your startup to the next level? <br>The <strong class="light-bg-dark-text" style="color: #00c0f2">MIT GSW Startup Pitch Competition</strong> is an opportunity for you to pitch your company and compete for a chance to win seed money to scale your startup.
