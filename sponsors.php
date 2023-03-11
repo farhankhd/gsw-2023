@@ -203,7 +203,7 @@
                 <a href="https://shopflix.gr/"> <img style="max-width: 80%; height: auto;"src="/2023/img/sponsors/shopflix.png"></a>
               </div>
               <div class="col-sm-1 col-md-6">
-                <a href="https://www.thesignalgroup.com/"> <img style="max-width: 80%; height: auto;"src="/2023/img/sponsors/signal.png"></a>
+                <a href="https://www.thesignalgroup.com/"> <img style="max-width: 70%; height: auto;"src="/2023/img/sponsors/signal.png"></a>
               </div>
             </div>
             <div class="row justify-content-center align-items-center">
@@ -216,7 +216,7 @@
             </div>
             <div class="row justify-content-center align-items-center">
               <div class="col-sm-1 col-md-6">
-                <a href="https://www.ey.com/en_gr"> <img style="max-width:80%; height: auuto" src="/2023/img/sponsors/ey.png"></a>
+                <a href="https://www.ey.com/en_gr"> <img style="max-width:70%; height: auuto" src="/2023/img/sponsors/ey.png"></a>
               </div>
               <div class="col-sm-1 col-md-6">
                 <a href="https://deddie.gr/en/"> <img style="max-width: 80%; height: auto;" src="/2023/img/sponsors/hedno.png"></a>
@@ -229,7 +229,7 @@
               </div>
               -->
               <div class="col-sm-1 col-md-6">
-                <a href="https://www.advent.energy/"> <img style="max-width: 80%; height: auto" src="/2023/img/sponsors/advent.png"></a>
+                <a href="https://www.advent.energy/"> <img style="max-width: 100%; height: auto" src="/2023/img/sponsors/advent.png"></a>
               </div>
             </div>
           </div>
@@ -257,7 +257,7 @@
                 <a href="https://bigpi.vc/"> <img style="max-width: 60%; height: auto;" src="/2023/img/sponsors/bigpi.png"></a>
               </div> 
               <div class="col-sm-1 col-md-6">
-                <a href="https://www.quest.gr/en/the-group"> <img style="max-width: 60%; height: auto;" src="/2023/img/sponsors/iQ-GC.jpeg"></a>
+                <a href="https://www.quest.gr/en/the-group"> <img style="max-width: 60%; height: auto;" src="/2023/img/sponsors/iQ-QG.jpeg"></a>
               </div> 
             </div>
           </div>
@@ -331,14 +331,16 @@
         <br>
         
         <div class="row white-bg logo d-flex justify-content-center">
-          <div class="col-sm-1 col-md-4">
+          <div class="col-sm-1 col-md-6">
             <a href="https://scienceagora.eu/about/"><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/scienceagora.png"></a>
           </div>
-          <div class="col-sm-1 col-md-4">
+        </div>
+        <div class="row white-bg logo d-flex justify-content-center">
+          <div class="col-sm-1 col-md-6">
             <a href=" https://www.mindev.gov.gr/?lang=en"><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/acci-01.png"></a>
           </div>
-          <div class="col-sm-1 col-md-4">
-            <a href=" https://www.mindev.gov.gr/?lang=en"><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/acci-02.png"></a>
+          <div class="col-sm-1 col-md-6">
+            <a href=" https://www.mindev.gov.gr/?lang=en"><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/acci-02.jpeg"></a>
           </div>
         </div>
       </section>
