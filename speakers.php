@@ -111,7 +111,7 @@ include('markup.php');
                                         <p class="bio"><?php echo $data[7]; ?></p>
                                 </div>
                                         
-             <!--</div-->
+             </div
                               
                                 <?php 
                                     //  echo "<pre>";print_r();
@@ -131,7 +131,7 @@ include('markup.php');
                 
                   ?>
            
-        <!--</div>-->
+        </div>
 
 
                                
