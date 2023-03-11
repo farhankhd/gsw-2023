@@ -165,13 +165,13 @@
             </div>
             <div class="row justify-content-center align-items-center">
               <div class="col-sm-1 col-md-3">
-                <a href="https://www.linkedin.com/company/music-of-our-desire/"><img style="max-width: 50%; height: auto;" src="/2023/img/finalists/mood.svg"></a>
+                <a href="https://www.linkedin.com/company/music-of-our-desire/"><img style="max-width: 50%; height: auto;" src="/2023/img/finalists/mood.png"></a>
               </div>
               <div class="col-sm-1 col-md-3">
                 <a href="https://www.linkedin.com/company/orbito-travel-p-c/"><img style="max-width: 70%; height: auto;" src="/2023/img/finalists/orbito.png"></a>
               </div>
               <div class="col-sm-1 col-md-3">
-                <a href="https://www.linkedin.com/company/ratepunk/"><img style="max-width: 70%; height: auto;" src="/2023/img/finalists/ratepunk.svg"></a>
+                <a href="https://www.linkedin.com/company/ratepunk/"><img style="max-width: 70%; height: auto;" src="/2023/img/finalists/ratepunk.png"></a>
               </div>
               <div class="col-sm-1 col-md-3">
                 <a href="https://www.linkedin.com/company/resq-biotech/"><img style="max-width: 35%; height: auto;" src="/2023/img/finalists/resq.png"></a>
