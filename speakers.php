@@ -110,29 +110,9 @@ include('markup.php');
                                         <div class="title"><?php echo $data[6]; ?></div>
                                         <p class="bio"><?php echo $data[7]; ?></p>
                                 </div>
-                                <!--</div-->
-                                <!--
-                                <?php 
-                                    //  echo "<pre>";print_r();
-                                    // HTML tag for placing in row format
-                                    // echo "<tr>";
-                                    // foreach ($data as $i) {
-                                    //     echo htmlspecialchars($i);
-
-                                    // }
-                                    // echo "</tr> \n";
-
-                                        }
-                                    // }
-                        
-                                -->
+                               
                         }
-                        
-                             //   ?>
-           
-        <!--</div>-->
-
-
+        
         <!--<div class="section" id="speaker-section-expanded">
             <p class="section-header section-header-page">Speakers</p>
         -->
