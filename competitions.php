@@ -141,6 +141,10 @@
             </div>
         </div>
          <div class="white-bg">
+             <p class="para light-text light-bg-dark-text" style="text-align: center"> 
+               <strong class="light-bg-dark-text" style="color: #00c0f2">CONGRATULATIONS</strong> to the following teams who have been selected to compete at this year's <strong class="light-bg-dark-text" style="color: #00c0f2">CONGRATULATIONS</strong>MIT GSW Startup Pitch Competitition</strong>. These 8 finalists have been chosen out of a pool of 65 startups and after two rounds of review by MIT entrepreneurship judges. <strong class="light-bg-dark-text" href="https://www.eventora.gr/mit-gsw/">Register now</strong> to see these teams pitch their company and compete for a chance to win seed money.
+            </p>
+            <!--
             <p class="para light-text light-bg-dark-text" style="text-align: center"> 
                Are you an entrepreneur trying to take your startup to the next level? <br>The <strong class="light-bg-dark-text" style="color: #00c0f2">MIT GSW Startup Pitch Competition</strong> is an opportunity for you to pitch your company and compete for a chance to win seed money to scale your startup.
             </p>
@@ -149,11 +153,9 @@
                <br>
                <br>
                <br>
-   
                 If you have any questions, please email <a class="light-bg-dark-text" href="gsw_competitions@mit.edu">gsw_competitions@mit.edu</a>
-    
              </p>
-             
+            -->  
              
              
             <!--
