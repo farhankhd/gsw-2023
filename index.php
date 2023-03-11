@@ -455,7 +455,12 @@
                     <a href="https://www.megaron.gr/"><img style="max-width: 85%; height: auto;" src="img/venue/megaron_exterior.jpg"></a>
                 </div>
             </div>
+            <div class="row justify-content-center align-items-center">
+                <a class="btn btn-default register-btn" href="https://www.megaron.gr/en/visitor-information/" role="button">DIRECTIONS TO MEGARON</a>
+            </div> 
         </section>
+        
+
    
         
       
