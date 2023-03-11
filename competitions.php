@@ -144,7 +144,7 @@
              <p class="para light-text light-bg-dark-text" style="text-align: center"> 
                <strong class="light-bg-dark-text" style="color: #00c0f2">CONGRATULATIONS</strong> to the following 8 finalists who have been selected to compete at this year's <strong class="light-bg-dark-text" style="color: #00c0f2">MIT GSW Startup Pitch Competitition</strong>.
                <br>These teams have been chosen out of a pool of 65 startups and after two rounds of review by MIT entrepreneurship judges.
-               <br><a style="text-decoration-line: underline" href="https://www.eventora.gr/mit-gsw/">Register now</a> to see these teams pitch their company for a chance to win seed money to scale their startup.
+               <br><a style="text-decoration-line: underline; color: #00c0f2;" href="https://www.eventora.gr/mit-gsw/">Register now</a> to see these teams pitch their company for a chance to win seed money to scale their startup.
             </p>
             <!--
             <p class="para light-text light-bg-dark-text" style="text-align: center"> 
