@@ -111,27 +111,27 @@ include('markup.php');
                                         <p class="bio"><?php echo $data[7]; ?></p>
                                 </div>
                                         
-             </div
-                              
+                                             <!--</div-->
+                                <!--
                                 <?php 
                                     //  echo "<pre>";print_r();
                                     // HTML tag for placing in row format
                                     // echo "<tr>";
                                     // foreach ($data as $i) {
                                     //     echo htmlspecialchars($i);
-
                                     // }
                                     // echo "</tr> \n";
-
                                         }
                                     // }
                         
-                    
+                                -->
 
-                
-                  ?>
+                        }
+                        
+                             //   ?>
            
-        </div>
+        <!--</div>-->
+
 
 
                                
