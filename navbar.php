@@ -181,7 +181,16 @@
                 <ul class="nav navbar-nav mr-auto">
                     <li class="active"><a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a></li>
                     <li class=""><a class="nav-link" target="_blank"  style="background-color: #7d4270; color: white; border-radius: 3.5px;" href="https://www.eventora.gr/mit-gsw/">Tickets</a></li>
-                    <li class=""><a class="nav-link" href="/2023/schedule.php">Agenda</a></li>
+                    <li class="dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Agenda
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="nav-link dropdown-item" href="/2023/schedule.php">Schedule</a>
+                            <div class="dropdown-divider"></div>
+                            <a class="nav-link dropdown-item" href="/2023/events.php">Event Overview</a>
+                        </div>
+                    </li> 
                     <li class=""><a class="nav-link" href="/2023/speakers.php">Speakers</a></li>
                     <li class=""><a class="nav-link " href="/2023/competitions.php">Startup Competitions</a></li>
                     <!--<li class="dropdown">-->
