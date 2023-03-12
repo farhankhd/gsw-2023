@@ -48,11 +48,13 @@
   </article>
 </section>
 
+<!--
 <div class="row">
   <div class="col">
           <h1 class="para text-center gradient-text" id="team-section">Keynotes</h1>
           <hr class="team-hr">
   </div>
+
   <div class="row" id='keynote-kane'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
@@ -81,7 +83,7 @@
         </div>
   </div> 
 </div>
-
+-->
 
 <div class="row">
   <div class="col">
@@ -127,14 +129,9 @@
   </div>
 
 
-<div class="blob-box">
-    <img style="position: absolute; margin-bottom: 20px; left: -300px;" class= "blob-mobile" src="images/register/blob-4.png">
-</div>
-
-<script src="assets/js/papaparse.min.js"></script>
-<script src="assets/js/main.js"></script>
-<script src="assets/js/jquery.min.js"></script>
+<script src="../assets/js/scripts.js"></script>
 
 <?php
 include("templates/footer.php");
+?>
 
