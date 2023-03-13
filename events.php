@@ -117,19 +117,19 @@
 <div class="container">
     <div class="row justify-content-center">
         <!--Moderator: Macaulay Kenney, MIT-->
-        <div class="col col-lg-3"><a href="speakers.php">
+        <div class="col col-lg-2"><a href="speakers.php">
             <img class="panel-picture" src="img/speakers/MarinaHatsopoulos.jpg"></a>
             <div class="name">Marina Hatsopoulos</div>
             <div class="title">Entrepreneur & Writer</div>
             <div class="title">Board Chair, Levitronix Technologies</div>
         </div>
-        <div class="col col-lg-3"><a href="speakers.php">
+        <div class="col col-lg-2"><a href="speakers.php">
             <img class="panel-picture" src="img/speakers/LarsRasmussen.jpg"></a>
             <div class="name">Lars Rasmussen</div>
             <div class="title">Angel Investor</div>
             <div class="title">Co-founder of Google Maps</div>
         </div>
-        <div class="col col-lg-3"><a href="speakers.php">
+        <div class="col col-lg-2"><a href="speakers.php">
             <img class="panel-picture" src="img/speakers/MariaZubeldia.jpg"></a>
             <div class="name">Maria Zubeldia Diaz</div>
             <div class="title">Director of Entrepreneurship Centre</div>
@@ -137,8 +137,8 @@
         </div>
     </div>
     <div class="row justify-content-center">
-        <div class="col col-lg-3"><a href="speakers.php">
-            <img class="panel-picture" src="img/speakers/MacaulayKenney.jpg"></a>
+        <div class="col col-lg-2"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/MacauleyKenney.jpg"></a>
             <div class="name">Moderator: Macaulay Kenney</div>
             <div class="title">MIT</div>    
         </div>
