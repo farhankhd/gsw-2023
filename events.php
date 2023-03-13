@@ -105,8 +105,9 @@
                  de-risk ideas, and then build successful startups. 
             </h4>
         </div>
-
-        <div class="col-md-12 text-center">
+    </div>
+    <div class="row text-center">
+ 
             <!--Moderator: Macaulay Kenney, MIT-->
             <div class="team container col-md-2"><a href="speakers.php">
                 <img class="panel-picture" src="img/speakers/MarinaHatsopoulos.jpg"></a>
@@ -125,8 +126,7 @@
                 <div class="name">Maria Zubeldia Diaz</div>
                 <div class="title">Director of Entrepreneurship Centre, Said Business School, University of Oxford</div>
             </div>
-        </div>
-  </div>
+    </div>
 
 
 <script src="../assets/js/scripts.js"></script>
