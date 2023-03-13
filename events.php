@@ -103,10 +103,11 @@
     <div class="row justify-content-center">
         <div class="col-md-9">
             <p class="bold-text" style="color: #131d25">March 30, 11:35-12:25 in Trianti Hall, Athens Concert Hall</p>
-            <p class="light-text" style="color: #131d25">How do you know if your idea will make a successful business? 
-                 This panel will explain how to identify promising opportunities for new tech ventures. 
-                 Experienced investors, founders, and startup coaches will share how to understand markets, 
-                 de-risk ideas, and then build successful startups. 
+            <p class="light-text" style="color: #131d25">
+                How do you know if your idea will make a successful business? 
+                This panel will explain how to identify promising opportunities for new tech ventures. 
+                Experienced investors, founders, and startup coaches will share how to understand markets, 
+                de-risk ideas, and then build successful startups. 
             </p>
         </div>
     </div>
@@ -136,37 +137,67 @@
         </div>
     </div>
     <div class="row justify-content-center">
-        <!---->
         <div class="col col-lg-3"><a href="speakers.php">
-            <img class="panel-picture" src="img/moderators/MacaulayKenney.jpg"></a>
+            <img class="panel-picture" src="img/speakers/MacaulayKenney.jpg"></a>
             <div class="name">Moderator: Macaulay Kenney</div>
             <div class="title">MIT</div>    
         </div>
     </div>
 </div>
-<!--
-<div class="row">
-  <div class="col">
-          <h1 class="para text-center gradient-text" id="team-section">Panels</h1>
-          <hr class="team-hr">
-  </div>
-  <div class="row" id='panel-askme'>
-        <div class="col-sm-12 panel-top text-center">
-            <div class="col-sm-12 panel-header">
-                <h5 style="font-weight: 900" class="agenda-black">Building Tech Ventures</h5>
-            </div>
-        </div>
-        <br>
-        <div class="col-md-12 panel-content">
-            <h2> March 30, 11:35-12:25 in Trianti Hall, Athens Concert Hall</h2>
-            <h4> How do you know if your idea will make a successful business? 
-                 This panel will explain how to identify promising opportunities for new tech ventures. 
-                 Experienced investors, founders, and startup coaches will share how to understand markets, 
-                 de-risk ideas, and then build successful startups. 
-            </h4>
+<br><br>
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col">
+            <img style="max-width: 80%; height: auto;" src="/2023/svg/events/fundingtech.svg"/>
         </div>
     </div>
--->
+    <br>
+    <div class="row justify-content-center">
+        <div class="col-md-9">
+            <p class="bold-text" style="color: #131d25">March 30, 11:35-12:25 in Trianti Hall, Athens Concert Hall</p>
+            <p class="light-text" style="color: #131d25">
+                Join a panel of funding experts as they delve into the complexities of funding tech ventures. 
+                Explore the factors that make a venture more fundable as well as those that indicate high risk. 
+                Don't miss this opportunity to hear from seasoned investors and finance experts.
+            </p>
+        </div>
+    </div>
+</div>
+<br>
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col col-lg-2"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/LironAzrielant.jpg"></a>
+            <div class="name">Liron Azrielant</div>
+            <div class="title">Managing Partner at Meron Capital</div>
+        </div>
+        <div class="col col-lg-2"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/FrancoisRobinet.jpg"></a>
+            <div class="name">François Robinet</div>
+            <div class="title">Managing Director of AXA Strategic Ventures</div>
+        </div>
+        <div class="col col-lg-2"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/AlexEleftheriadis.jpg"></a>
+            <div class="name">Alex Eleftheriadis</div>
+            <div class="title">Entrepreneur and Partner at Big Pi Ventures</div>
+        </div>
+        <div class="col col-lg-2"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/RobGenieser.jpg"></a>
+            <div class="name">Rob Genieser</div>
+            <div class="title">Managing Partner at ETF Partners</div>
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col col-lg-3"><a href="speakers.php">
+            <img class="panel-picture" src="img/moderators/"></a>
+            <div class="name">Moderator: TBD</div>
+            <div class="title"></div>    
+        </div>
+    </div>
+</div>
+
     
 
 
