@@ -175,7 +175,7 @@
     <div class="row justify-content-center">
         <div class="col col-lg-2"><a href="speakers.php">
             <img class="panel-picture" src="img/speakers/MacauleyKenney.jpg"></a>
-            <div class="name">Macaulay Kenney</div>
+            <div class="name">Macauley Kenney</div>
             <div class="title">MIT</div>    
         </div>
     </div>
