@@ -86,6 +86,22 @@
 -->
 
 <div class="row">
+    <div class="col">
+            <h1 class="para text-center gradient-text" id="team-section">Panels</h1>
+            <hr class="team-hr">
+    </div>
+</div>
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col">
+            <img src="/2023/svg/events/buildingtech.svg"/>
+        </div>
+    </div>
+</div>
+
+<!--
+<div class="row">
   <div class="col">
           <h1 class="para text-center gradient-text" id="team-section">Panels</h1>
           <hr class="team-hr">
@@ -106,6 +122,7 @@
             </h4>
         </div>
     </div>
+-->
     <div class="container">
         <div class="row justify-content-center">
             <!--Moderator: Macaulay Kenney, MIT-->
