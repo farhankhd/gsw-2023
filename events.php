@@ -106,7 +106,7 @@
             </h4>
         </div>
     </div>
-    <div class="row justify-content-center text-center">
+    <div class="row justify-content-md-center text-center">
  
             <!--Moderator: Macaulay Kenney, MIT-->
             <div class="team container col-md-2"><a href="speakers.php">
