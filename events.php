@@ -308,7 +308,7 @@
 <div class="container">
     <div class="row justify-content-center">
         <div class="col">
-            <img style="max-width: 80%; height: auto;" src="/2023/svg/events/digitandisruption.svg"/>
+            <img style="max-width: 80%; height: auto;" src="/2023/svg/events/digitanddisruption.svg"/>
         </div>
     </div>
     <br>
@@ -336,8 +336,8 @@
             <div class="title">Entrepreneur, EIR, & Lecturer</div>
         </div>
         <div class="col col-lg-2"><a href="speakers.php">
-            <img class="panel-picture" src="img/speakers/TimosSelis.jpg"></a>
-            <div class="name">Timos Selis</div>
+            <img class="panel-picture" src="img/speakers/TimosSellis.jpg"></a>
+            <div class="name">Timos Sellis</div>
             <div class="title">Scientific Director</div>
             <div class="title">Archimedes Research Unit, Research Center "Athena"</div>
         </div>
