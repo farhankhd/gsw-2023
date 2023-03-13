@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1282.32 124.61">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        font-family: MyriadPro-Semibold, 'Myriad Pro';
+        font-size: 30px;
+        font-weight: 600;
+      }
+
+      .cls-4 {
+        fill: #e1b3d3;
+      }
+
+      .cls-5 {
+        fill: none;
+        stroke: #e1b3d3;
+        stroke-width: 10px;
+      }
+
+      .cls-6 {
+        letter-spacing: .02em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        letter-spacing: -.01em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <rect class="cls-5" x="5" y="5" width="1245.3" height="93.48"/>
+    <rect class="cls-4" x="37.02" y="31.13" width="1245.3" height="93.48"/>
+    <text class="cls-3" transform="translate(510.17 89.38)"><tspan x="0" y="0">PRODU</tspan><tspan class="cls-6" x="95.43" y="0">C</tspan><tspan x="113.67" y="0">T D</tspan><tspan class="cls-2" x="156.12" y="0">E</tspan><tspan class="cls-7" x="171.81" y="0">V</tspan><tspan class="cls-1" x="189.84" y="0">L</tspan><tspan class="cls-7" x="203.46" y="0">O</tspan><tspan class="cls-8" x="224.58" y="0">P</tspan><tspan x="240.96" y="0">MENT</tspan></text>
+  </g>
+</svg>

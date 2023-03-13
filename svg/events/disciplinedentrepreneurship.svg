@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1282.32 124.61">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: MyriadPro-Semibold, 'Myriad Pro';
+        font-size: 30px;
+        font-weight: 600;
+      }
+
+      .cls-3 {
+        fill: #e1b3d3;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #e1b3d3;
+        stroke-width: 10px;
+      }
+
+      .cls-5 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-6 {
+        letter-spacing: .02em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <rect class="cls-4" x="5" y="5" width="1245.3" height="93.48"/>
+    <rect class="cls-3" x="37.02" y="31.13" width="1245.3" height="93.48"/>
+    <text class="cls-2" transform="translate(328.17 89.38)"><tspan x="0" y="0">INTRODU</tspan><tspan class="cls-6" x="122.61" y="0">C</tspan><tspan x="140.85" y="0">TION</tspan><tspan class="cls-1" x="205.92" y="0"> </tspan><tspan class="cls-5" x="210.93" y="0">T</tspan><tspan x="225.84" y="0">O DISCIPLINED ENTREPRENEURSHIP</tspan></text>
+  </g>
+</svg>
