@@ -91,6 +91,7 @@
             <hr class="team-hr">
     </div>
 </div>
+<br>
 
 <div class="container">
     <div class="row justify-content-center">
@@ -98,8 +99,41 @@
             <img style="max-width: 80%; height: auto;" src="/2023/svg/events/buildingtech.svg"/>
         </div>
     </div>
+    <br>
+    <div class="col-md-12">
+        <h2 style="color: #131d25">March 30, 11:35-12:25 in Trianti Hall, Athens Concert Hall</h2>
+        <h4 style="color: #131d25">How do you know if your idea will make a successful business? 
+             This panel will explain how to identify promising opportunities for new tech ventures. 
+             Experienced investors, founders, and startup coaches will share how to understand markets, 
+             de-risk ideas, and then build successful startups. 
+        </h4>
+    </div>
 </div>
+<br>
 
+<div class="container">
+    <div class="row justify-content-center">
+        <!--Moderator: Macaulay Kenney, MIT-->
+        <div class="col col-lg-4"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/MarinaHatsopoulos.jpg"></a>
+            <div class="name">Marina Hatsopoulos</div>
+            <div class="title">Entrepreneur & Writer</div>
+            <div class="title">Board Chair, Levitronix Technologies</div>
+        </div>
+        <div class="col col-lg-4"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/LarsRasmussen.jpg"></a>
+            <div class="name">Lars Rasmussen</div>
+            <div class="title">Angel Investor</div>
+            <div class="title">Co-founder of Google Maps</div>
+        </div>
+        <div class="col col-lg-4"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/MariaZubeldia.jpg"></a>
+            <div class="name">Maria Zubeldia Diaz</div>
+            <div class="title">Director of Entrepreneurship Centre</div>
+            <div class="title">Said Business School, University of Oxford</div>
+        </div>
+    </div>
+</div>
 <!--
 <div class="row">
   <div class="col">
@@ -123,28 +157,7 @@
         </div>
     </div>
 -->
-    <div class="container">
-        <div class="row justify-content-center">
-            <!--Moderator: Macaulay Kenney, MIT-->
-            <div class="col col-lg-4"><a href="speakers.php">
-                <img class="panel-picture" src="img/speakers/MarinaHatsopoulos.jpg"></a>
-                <div class="name">Marina Hatsopoulos</div>
-                <div class="title">Entrepreneur & Writer</div>
-                <div class="title">Board Chair, Levitronix Technologies</div>
-            </div>
-            <div class="col col-lg-4"><a href="speakers.php">
-                <img class="panel-picture" src="img/speakers/LarsRasmussen.jpg"></a>
-                <div class="name">Lars Rasmussen</div>
-                <div class="title">Angel Investor</div>
-                <div class="title">Co-founder of Google Maps</div>
-            </div>
-            <div class="col col-lg-4"><a href="speakers.php">
-                <img class="panel-picture" src="img/speakers/MariaZubeldia.jpg"></a>
-                <div class="name">Maria Zubeldia Diaz</div>
-                <div class="title">Director of Entrepreneurship Centre, Said Business School, University of Oxford</div>
-            </div>
-        </div>
-    </div>
+    
 
 
 <script src="../assets/js/scripts.js"></script>
