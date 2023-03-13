@@ -360,7 +360,57 @@
         </div>
     </div>
 </div>
+<br><br>
 
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col">
+            <img style="max-width: 80%; height: auto;" src="/2023/svg/events/deeptech.svg"/>
+        </div>
+    </div>
+    <br>
+    <div class="row justify-content-center">
+        <div class="col-md-9">
+            <p class="bold-text" style="color: #131d25">March 31, 11:05-11:55 in Trianti Hall, Athens Concert Hall</p>
+            <p class="light-text" style="color: #131d25">
+                Join deep tech entrepreneurs and investors as they delve into the complex and rapidly evolving world of deep tech. 
+                They will explore what makes a promising deep tech venture and strategies for de-risking deep tech, 
+                including leveraging different global markets. 
+                Additionally, the panel will address the important question of whether deep tech can be 
+                developed with a “lean” model or if deep tech is only for those with significant resources. 
+            </p>
+        </div>
+    </div>
+</div>
+<br>
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col col-lg-2"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/WilliamSonneborn.jpg"></a>
+            <div class="name">William Sonneborn</div>
+            <div class="title">Global Director of Disruptive Tech at IFC</div>
+        </div>
+        <div class="col col-lg-2"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/AlexEleftheriadis.jpg"></a>
+            <div class="name">Alex Eleftheriadis</div>
+            <div class="title">Entrepreneur and Partner at Big Pi Ventures</div>
+        </div>
+        <div class="col col-lg-2"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/DeephChana.jpg"></a>
+            <div class="name">Deeph Chana</div>
+            <div class="title">Director, Institute for Security Science and Technology</div>
+            <div class="title">Co-Director, Centre for Financial Technology at Imperial College London</div>
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col col-lg-3"><a href="speakers.php">
+            <img class="panel-picture" src="img/moderators/"></a>
+            <div class="name">Moderator: TBD</div>
+            <div class="title"></div>    
+        </div>
+    </div>
+</div>
 
     
 
