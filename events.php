@@ -95,7 +95,7 @@
 <div class="container">
     <div class="row justify-content-center">
         <div class="col">
-            <img src="/2023/svg/events/buildingtech.svg"/>
+            <img style="max-width: 80%; height: auto;" src="/2023/svg/events/buildingtech.svg"/>
         </div>
     </div>
 </div>
