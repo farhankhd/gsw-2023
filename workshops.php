@@ -4,6 +4,7 @@
     $specificKeywords = 'speakers, keynotes, Bill Aullet, Miles Barr, Ubiquitous Energy, Andrey Zarur, Kosta Ligris, Marina Hatsopolous, Willliam Sonneborn, MIT';
 
     include('navbar.php');
+    include('header.php'); 
 ?>
 
 <style>
