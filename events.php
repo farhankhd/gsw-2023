@@ -411,6 +411,62 @@
         </div>
     </div>
 </div>
+<br><br>
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col">
+            <img style="max-width: 80%; height: auto;" src="/2023/svg/events/frontiersinhealth.svg"/>
+        </div>
+    </div>
+    <br>
+    <div class="row justify-content-center">
+        <div class="col-md-9">
+            <p class="bold-text" style="color: #131d25">March 31, 11:05-11:55 in Trianti Hall, Athens Concert Hall</p>
+            <p class="light-text" style="color: #131d25">
+                Hear our biotechnology experts discuss frontiers at the intersection of biology, health, medicine, and technology in sectors from global health to academia. 
+                Panelists will share the challenges faced by biotech ventures and the roles that other emerging technologies play in biotech. 
+                This panel will provide a comprehensive overview of the current state of biotechnology and offer valuable insights into the future of this rapidly evolving field.
+            </p>
+        </div>
+    </div>
+</div>
+<br>
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col col-lg-2"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/SteliosPapadopoulos.jpg"></a>
+            <div class="name">Stelios Papadopoulos</div>
+            <div class="title">Chairman, Biogen Inc.</div>
+        </div>
+         <div class="col col-lg-2"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/BrianAnthony.jpg"></a>
+            <div class="name">Brian Anthony</div>
+            <div class="title">Associate Director of MIT.nano</div>
+            <div class="title">Faculty Lead of MechE Alliance Industry Collaborations</div>
+            <div class="title">Director of Device Realization Lab</div>
+        </div>
+        <div class="col col-lg-2"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/NektariosTavernarakis.jpg"></a>
+            <div class="name">Nektarios Tavernarakis</div>
+            <div class="title">Greek Bioscientist, Professor</div>
+            <div class="title">Chairman of the Board at the Foundation for Research and Technology in Greece</div>
+        </div>
+         <div class="col col-lg-2"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/SloanePhillips.jpg"></a>
+            <div class="name">Sloane Allebes Phillips</div>
+            <div class="title">VP Data Operations</div>
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col col-lg-3"><a href="speakers.php">
+            <img class="panel-picture" src="img/moderators/"></a>
+            <div class="name">Moderator: TBD</div>
+            <div class="title"></div>    
+        </div>
+    </div>
+</div>
 
     
 
