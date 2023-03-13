@@ -135,6 +135,14 @@
             <div class="title">Said Business School, University of Oxford</div>
         </div>
     </div>
+    <div class="row justify-content-center">
+        <!---->
+        <div class="col col-lg-3"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/MarinaHatsopoulos.jpg"></a>
+            <div class="name">Moderator: Macaulay Kenney</div>
+            <div class="title">MIT</div>    
+        </div>
+    </div>
 </div>
 <!--
 <div class="row">
