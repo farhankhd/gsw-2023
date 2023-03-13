@@ -249,6 +249,60 @@
         </div>
     </div>
 </div>
+<br><br>
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col">
+            <img style="max-width: 80%; height: auto;" src="/2023/svg/events/ethicsandimpact.svg"/>
+        </div>
+    </div>
+    <br>
+    <div class="row justify-content-center">
+        <div class="col-md-9">
+            <p class="bold-text" style="color: #131d25">March 30, 17:05-17:55 in Trianti Hall, Athens Concert Hall</p>
+            <p class="light-text" style="color: #131d25">
+                An impressive lineup of AI and machine learning experts convenes to explore the trajectory of AI in a wide array of sectors. 
+                From the supersonic speed of change to ethical dilemmas, this panel will dive into the real challenges, and opportunities, ahead in AI. 
+            </p>
+        </div>
+    </div>
+</div>
+<br>
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col col-lg-2"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/TheodorosEvgeniou.jpg"></a>
+            <div class="name">Theodoros Evgeniou</div>
+            <div class="title">INSEAD Professor</div>
+            <div class="title">Co-founder Tremau</div>
+        </div>
+        <div class="col col-lg-2"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/AnuAnnaswamy.jpg"></a>
+            <div class="name">Anu Annaswamy</div>
+            <div class="title">Associate Director of MIT.nano</div>
+            <div class="title">Senior Research Scientist</div>
+        </div>
+        <div class="col col-lg-2"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/TylerSpalding.jpg"></a>
+            <div class="name">Tyler Spalding</div>
+            <div class="title">Co-founder at Flexa</div>
+        </div>
+         <div class="col col-lg-2"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/SnejinaZacharia.jpg"></a>
+            <div class="name">Snejina Zacharia</div>
+            <div class="title">Founder & CEO of Insurify</div>
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col col-lg-3"><a href="speakers.php">
+            <img class="panel-picture" src="img/moderators/"></a>
+            <div class="name">Moderator: Lazaros Polymenakos</div>
+            <div class="title">EY Greece</div>    
+        </div>
+    </div>
+</div>
 
 
     
