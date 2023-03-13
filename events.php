@@ -100,9 +100,9 @@
         </div>
     </div>
     <br>
-    <div class="col-md-12">
-        <h2 style="color: #131d25">March 30, 11:35-12:25 in Trianti Hall, Athens Concert Hall</h2>
-        <h4 style="color: #131d25">How do you know if your idea will make a successful business? 
+    <div class="col-md-9">
+        <h2 class="bold-text" style="color: #131d25">March 30, 11:35-12:25 in Trianti Hall, Athens Concert Hall</h2>
+        <h4 class="light-text" style="color: #131d25">How do you know if your idea will make a successful business? 
              This panel will explain how to identify promising opportunities for new tech ventures. 
              Experienced investors, founders, and startup coaches will share how to understand markets, 
              de-risk ideas, and then build successful startups. 
