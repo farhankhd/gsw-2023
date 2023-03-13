@@ -165,7 +165,9 @@
         <div class="col-md-9">
             <p class="bold-text" style="color: #131d25">March 31, 12:30-13:30 (Session 1) // 13:30-14:30 (Session 2) in Athens Concert Hall (Exact Location: TBD)</p>
             <p class="light-text" style="color: #131d25">
-              Details coming soon!
+                Join us for a hands-on introduction to product design for entrepreneurs! This 1-hr workshop focuses on product design principles, with a strong emphasis on human-centered design. 
+                You'll learn how to identify your target audience's needs, preferences, and pain points and translate those insights into innovative product ideas. We'll explore the value and mechanisms of rapid prototyping, so you can quickly bring your product ideas to life and test them with your customers. 
+                You'll learn how to test your product's functionality, usability, and desirability, and develop an MVP that will effectively meet your customers' needs.  
             </p>
         </div>
     </div>
