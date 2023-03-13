@@ -303,6 +303,63 @@
         </div>
     </div>
 </div>
+<br><br>
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col">
+            <img style="max-width: 80%; height: auto;" src="/2023/svg/events/digitandisruption.svg"/>
+        </div>
+    </div>
+    <br>
+    <div class="row justify-content-center">
+        <div class="col-md-9">
+            <p class="bold-text" style="color: #131d25">March 30, 17:05-17:55 in Trianti Hall, Athens Concert Hall</p>
+            <p class="light-text" style="color: #131d25">
+                Digital technology experts discuss the ways that digital technologies are changing and changing other industries, 
+                with an eye toward future trends. 
+                The panel will dig into identifying merit-worthy opportunities and business models for digitalization, 
+                as well as share about the challenges involved in competing in a crowded digital space. 
+                Gain valuable insights into the niches that remain open in this ever-evolving field and 
+                learn how to navigate the risks and rewards of digital-first startups. 
+            </p>
+        </div>
+    </div>
+</div>
+<br>
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col col-lg-2"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/KostaLigris.jpg"></a>
+            <div class="name">Kosta Ligris</div>
+            <div class="title">Entrepreneur, EIR, & Lecturer</div>
+        </div>
+        <div class="col col-lg-2"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/TimosSelis.jpg"></a>
+            <div class="name">Timos Selis</div>
+            <div class="title">Scientific Director</div>
+            <div class="title">Archimedes Research Unit, Research Center "Athena"</div>
+        </div>
+        <div class="col col-lg-2"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/ChuckKane.jpg"></a>
+            <div class="name">Chuck Kane</div>
+            <div class="title">Entrepreneurship Professor at MIT</div>
+        </div>
+         <div class="col col-lg-2"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/MichaelTzannes.jpg"></a>
+            <div class="name">Michael Tzannes</div>
+            <div class="title">Technology Entrepreneur</div>
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col col-lg-3"><a href="speakers.php">
+            <img class="panel-picture" src="img/moderators/"></a>
+            <div class="name">Moderator: Myladie Stoumbou</div>
+            <div class="title">Microsoft</div>    
+        </div>
+    </div>
+</div>
 
 
     
