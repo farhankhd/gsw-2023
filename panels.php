@@ -43,7 +43,9 @@
         <div class="col-xs-12 col-md-12">
             <span class="anchor" id="schedule-navigation"></span>
             <p class="text-center">
-                Subject to change.</p>
+                Subject to change.
+            </p>
+            <br>
         </div>
   </article>
 </section>
