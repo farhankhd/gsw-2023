@@ -138,7 +138,7 @@
     <div class="row justify-content-center">
         <!---->
         <div class="col col-lg-3"><a href="speakers.php">
-            <img class="panel-picture" src="img/speakers/MarinaHatsopoulos.jpg"></a>
+            <img class="panel-picture" src="img/moderators/MacaulayKenney.jpg"></a>
             <div class="name">Moderator: Macaulay Kenney</div>
             <div class="title">MIT</div>    
         </div>
