@@ -186,9 +186,11 @@
                             Agenda
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <a class="nav-link dropdown-item" href="/2023/schedule.php">Schedule</a>
+                            <a class="nav-link dropdown-item" href="/2023/schedule.php">Full Schedule</a>
                             <div class="dropdown-divider"></div>
-                            <a class="nav-link dropdown-item" href="/2023/events.php">Event Overview</a>
+                            <a class="nav-link dropdown-item" href="/2023/panels.php">Panels</a>
+                            <div class="dropdown-divider"></div>
+                            <a class="nav-link dropdown-item" href="/2023/workshops.php">Workshops</a>
                         </div>
                     </li> 
                     <li class=""><a class="nav-link" href="/2023/speakers.php">Speakers</a></li>
