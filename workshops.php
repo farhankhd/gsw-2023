@@ -195,8 +195,9 @@
             <p class="light-text" style="color: #131d25">
               Introducing OpenAI on Azure, a ChatGPT Talk. Chat GPT, the powerful language model developed by OpenAI, has been generating a lot of excitement in the media and we have received multiple requests to learn more about its capabilities. We are excited to have this opportunity to have a conversation with Startups about the potential use cases for Chat GPT and the Azure OpenAI service. 
               <br>
-              In this Workshop, we will be discussing
+              
               <ul style="align-content: left; text-align: left;">
+                In this Workshop, we will be discussing
                 <li style="align-content: left; text-align: left;">A demonstration of Chat GPT in action</li>
                 <li style="align-content: left; text-align: left;">A demonstration on Azure OpenAI Services and how to infuse them in your apps.</li>
               </ul>
