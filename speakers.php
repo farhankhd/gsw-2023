@@ -1,7 +1,7 @@
 <?php
 $pageTitle = 'MIT Global Startup Workshop 2023 | Athens, Greece';
 $metaDescription = 'MIT Global Startup Workshop is coming to Greece in March 2023! GSW is an annual conference that aims to accelerate entrepreneurial ecosystems around the world, through workshops, mentorship and skills training. Grab your tickets now for an experience you will never forget!';
-$specificKeywords = 'speakers, keynotes, Bill Aullet, Miles Barr, Ubiquitous Energy, Andrey Zarur, Kosta Ligris, Marina Hatsopolous, Willliam Sonneborn, MIT';
+$specificKeywords = 'speakers, keynotes, plenary, Kyriakos Pierrakakis, Minister of Digital Governance, Bill Aullet, Miles Barr, Ubiquitous Energy, Andrey Zarur, Kosta Ligris, Marina Hatsopolous, Willliam Sonneborn, MIT';
 include('navbar.php');
 include('markup.php');
 ?>
@@ -46,6 +46,31 @@ include('markup.php');
         </section>
         
         <br><br><br>
+
+        <div class="row">
+                <div class="col">
+                        <h1 class="para text-center gradient-text" id="team-section">Plenary</h1>
+                        <hr class="team-hr">
+                </div>
+        </div>
+        <div class="row speaker-expanded-bio">
+                <span class="anchor" id="N/A"></span>
+                <div class="speaker col-sm-6 col-md-4 col-lg-3">
+                        <img class="speaker-picture" src="img/speakers/KyriakosPierrakakis.jpeg">
+                </div>
+                <div class="col-sm-6 col-md-8 col-lg-9">
+                        <div class="name">Kyriakos Pierrakakis</div>
+                        <div class="title">Minister of Digital Governance</div>
+                        <p class="bio">Kyriakos Pierrakakis is the Minister of Digital Governance in the Cabinet of Kyriakos Mitsotakis. 
+                                       He is a Greek computer and political scientist and politician. 
+                                       In 2007 he earned a Master in Public Policy from John F. Kennedy School of Government, Harvard University and in 2009 he earned a Master of Science in Technology and Policy from MIT. 
+                                       He also holds a Bachelor’s degree in computer science from Athens University of Economics and Business. 
+                                       He served as Director of Research at Dianeosis, an independent non-profit think tank. He produced an array of research papers with a strong focus on economic growth and 
+                                       understanding the prevailing perceptions and beliefs among Greeks. He has also worked on technology policy for various research institutes in Greece and abroad and headed Youth Foundation as president.</p>
+                </div>
+        </div>
+        
+
         <?php
         // Valid speakers are the ones that have bio and photo
         function allValidSpeakersFunction($speakerData) {
@@ -53,6 +78,8 @@ include('markup.php');
                 && (strlen($speakerData['Bio']) > 0)
                 && (strlen($speakerData['Filename']) > 0);
         }
+
+
         // Only keynotes
         $keynotesFilterFunction = function($speakerData) {
             return allValidSpeakersFunction($speakerData)
