@@ -254,6 +254,65 @@
 <div class="container">
     <div class="row justify-content-center">
         <div class="col">
+            <img style="max-width: 80%; height: auto;" src="/2023/svg/events/fosteringentrepreneurship.svg"/>
+        </div>
+    </div>
+    <br>
+    <div class="row justify-content-center">
+        <div class="col-md-9">
+            <p class="bold-text" style="color: #131d25">March 30, 13:35-14:25 in Athens Concert Hall (Exact Location: TBD)</p>
+            <p class="light-text" style="color: #131d25">
+               Leaders in sustainability explore the evolving marketplace for sustainable tech and discuss critical determinants of success, such as funding and cost-competitiveness, in the sector over the coming years. 
+               Learn what roles research and entrepreneurship play in forging a sustainable future, with a focus on energy. 
+               <br>
+               Join top academic leaders from leading universities in Greece as they discuss the challenges and opportunities of fostering entrepreneurship within the academic community. 
+               The panelists will delve into the role universities can play in supporting entrepreneurial ventures and bridge the gap between academia and the business world. 
+               Topics will include the importance of technology transfer, encouraging cross-disciplinary collaboration, and promoting a culture of innovation. 
+               Gain insight into what it takes to build a thriving entrepreneurial ecosystem within the academic community and learn from the experiences of those who are leading the way.
+            </p>
+        </div>
+    </div>
+</div>
+<br>
+<!--
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col col-lg-2"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/GerassimosKalogiratos.jpg"></a>
+            <div class="name">Gerassimos Kalogiratos</div>
+            <div class="title">CEO, Capital Product Partners</div>
+        </div>
+        <div class="col col-lg-2"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/StamatisTsantanis.jpg"></a>
+            <div class="name">Stamatis Tsantanis</div>
+            <div class="title">CEO, Seanergy Maritime</div>
+        </div>
+        <div class="col col-lg-2"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/PanosDimitracopoulos.jpg"></a>
+            <div class="name">Panos Dimitracopoulos</div>
+            <div class="title">CEO, Signal Maritime Services</div>
+            <div class="title">Chairman of the Board at the Foundation for Research and Technology in Greece</div>
+        </div>
+         <div class="col col-lg-2"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/GeorgiosTriantafyllou.jpg"></a>
+            <div class="name">Georgios Triantafyllou</div>
+            <div class="title">CSO, Motor Oil Group</div>
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col col-lg-3"><a href="speakers.php">
+            <img class="panel-picture" src="img/moderators/GerassimosSpyridakis.jpg"></a>
+            <div class="name">Moderator: Gerassimos Spyridakis</div>
+            <div class="title">Chairman MITEF Greece</div>    
+        </div>
+    </div>
+</div>    
+-->
+<br><br>
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col">
             <img style="max-width: 80%; height: auto;" src="/2023/svg/events/ethicsandimpact.svg"/>
         </div>
     </div>
@@ -467,9 +526,175 @@
         </div>
     </div>
 </div>
+<br><br>
 
-    
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col">
+            <img style="max-width: 80%; height: auto;" src="/2023/svg/events/sustainablefuture.svg"/>
+        </div>
+    </div>
+    <br>
+    <div class="row justify-content-center">
+        <div class="col-md-9">
+            <p class="bold-text" style="color: #131d25">March 31, 15:35-16:25 in Trianti Hall, Athens Concert Hall</p>
+            <p class="light-text" style="color: #131d25">
+                Leaders in sustainability explore the evolving marketplace for sustainable tech and discuss critical determinants of success, 
+                such as funding and cost-competitiveness, in the sector over the coming years. 
+                Learn what roles research and entrepreneurship play in forging a sustainable future, with a focus on energy. 
+            </p>
+        </div>
+    </div>
+</div>
+<br>
 
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col col-lg-2"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/MilesBarr.jpg"></a>
+            <div class="name">Miles Barr</div>
+            <div class="title">Co-Founder and Chief Technology Officer</div>
+        </div>
+        <div class="col col-lg-2"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/AnuAnnaswamy.jpg"></a>
+            <div class="name">Anu Annaswamy</div>
+            <div class="title">Associate Director of MIT.nano</div>
+            <div class="title">Senior Research Scientist</div>
+        </div>
+        <div class="col col-lg-2"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/OdedGour-Lavie.jpg"></a>
+            <div class="name">Oded Gour-Lavies</div>
+            <div class="title">Greek Bioscientist, Professor</div>
+            <div class="title">Chairman of the Board at the Foundation for Research and Technology in Greece</div>
+        </div>
+         <div class="col col-lg-2"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/AliseeDeTonnac.jpg"></a>
+            <div class="name">Alisée de Tonnac</div>
+            <div class="title">CEO & Co-founder</div>
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col col-lg-3"><a href="speakers.php">
+            <img class="panel-picture" src="img/moderators/"></a>
+            <div class="name">Moderator: TBD</div>
+            <div class="title"></div>    
+        </div>
+    </div>
+</div>
+<br><br>
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col">
+            <img style="max-width: 80%; height: auto;" src="/2023/svg/events/globalgreek.svg"/>
+        </div>
+    </div>
+    <br>
+    <div class="row justify-content-center">
+        <div class="col-md-9">
+            <p class="bold-text" style="color: #131d25">March 31, 11:05-11:55 in Trianti Hall, Athens Concert Hall</p>
+            <p class="light-text" style="color: #131d25">
+               Representatives from top Greek companies with global presence in shipping and energy convene to 
+               discuss how technology is changing their business and how they invest in new startups and emerging 
+               opportunities across different technology verticals.
+            </p>
+        </div>
+    </div>
+</div>
+<br>
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col col-lg-2"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/GerassimosKalogiratos.jpg"></a>
+            <div class="name">Gerassimos Kalogiratos</div>
+            <div class="title">CEO, Capital Product Partners</div>
+        </div>
+        <div class="col col-lg-2"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/StamatisTsantanis.jpg"></a>
+            <div class="name">Stamatis Tsantanis</div>
+            <div class="title">CEO, Seanergy Maritime</div>
+        </div>
+        <div class="col col-lg-2"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/PanosDimitracopoulos.jpg"></a>
+            <div class="name">Panos Dimitracopoulos</div>
+            <div class="title">CEO, Signal Maritime Services</div>
+            <div class="title">Chairman of the Board at the Foundation for Research and Technology in Greece</div>
+        </div>
+         <div class="col col-lg-2"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/GeorgiosTriantafyllou.jpg"></a>
+            <div class="name">Georgios Triantafyllou</div>
+            <div class="title">CSO, Motor Oil Group</div>
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col col-lg-3"><a href="speakers.php">
+            <img class="panel-picture" src="img/moderators/GerassimosSpyridakis.jpg"></a>
+            <div class="name">Moderator: Gerassimos Spyridakis</div>
+            <div class="title">Chairman MITEF Greece</div>    
+        </div>
+    </div>
+</div>
+<br><br>
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col">
+            <img style="max-width: 80%; height: auto;" src="/2023/svg/events/greekstartup.svg"/>
+        </div>
+    </div>
+    <br>
+    <div class="row justify-content-center">
+        <div class="col-md-9">
+            <p class="bold-text" style="color: #131d25">March 31, 14:35-15:25 in Athens Concert Hall (Exact Location: TBD)</p>
+            <p class="light-text" style="color: #131d25">
+                Leaders in sustainability explore the evolving marketplace for sustainable tech and discuss critical determinants of success, 
+                such as funding and cost-competitiveness, in the sector over the coming years. 
+                Learn what roles research and entrepreneurship play in forging a sustainable future, with a focus on energy. 
+                Join us as we hear from some of Greece's most successful startups as they share their experiences in building and growing their businesses. 
+                From overcoming challenges to finding opportunities, these experts will delve into what it takes to thrive in Greece's startup ecosystem. 
+                We will explore topics such as navigating the local market, attracting investment, and staying ahead of the competition. 
+                Join us as we learn from the journey of Sport A Wheel, Augmenta, Workable, Shaphetor, and Shopflix and gain insights into the future of Greek startups.
+            </p>
+        </div>
+    </div>
+</div>
+<br>
+<!--
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col col-lg-2"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/GerassimosKalogiratos.jpg"></a>
+            <div class="name">Gerassimos Kalogiratos</div>
+            <div class="title">CEO, Capital Product Partners</div>
+        </div>
+        <div class="col col-lg-2"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/StamatisTsantanis.jpg"></a>
+            <div class="name">Stamatis Tsantanis</div>
+            <div class="title">CEO, Seanergy Maritime</div>
+        </div>
+        <div class="col col-lg-2"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/PanosDimitracopoulos.jpg"></a>
+            <div class="name">Panos Dimitracopoulos</div>
+            <div class="title">CEO, Signal Maritime Services</div>
+            <div class="title">Chairman of the Board at the Foundation for Research and Technology in Greece</div>
+        </div>
+         <div class="col col-lg-2"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/GeorgiosTriantafyllou.jpg"></a>
+            <div class="name">Georgios Triantafyllou</div>
+            <div class="title">CSO, Motor Oil Group</div>
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col col-lg-3"><a href="speakers.php">
+            <img class="panel-picture" src="img/moderators/GerassimosSpyridakis.jpg"></a>
+            <div class="name">Moderator: Gerassimos Spyridakis</div>
+            <div class="title">Chairman MITEF Greece</div>    
+        </div>
+    </div>
+</div>
+-->
+<br><br>
 
 <script src="../assets/js/scripts.js"></script>
 
