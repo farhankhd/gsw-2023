@@ -106,8 +106,8 @@
             </h4>
         </div>
     </div>
-    <div class="row justify-content-md-center">
- 
+    <div class="container">
+        <div class="row justify-content-center">
             <!--Moderator: Macaulay Kenney, MIT-->
             <div class="col col-lg-3"><a href="speakers.php">
                 <img class="panel-picture" src="img/speakers/MarinaHatsopoulos.jpg"></a>
@@ -126,6 +126,7 @@
                 <div class="name">Maria Zubeldia Diaz</div>
                 <div class="title">Director of Entrepreneurship Centre, Said Business School, University of Oxford</div>
             </div>
+        </div>
     </div>
 
 
