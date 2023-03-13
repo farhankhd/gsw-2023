@@ -197,6 +197,59 @@
         </div>
     </div>
 </div>
+<br><br>
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col">
+            <img style="max-width: 80%; height: auto;" src="/2023/svg/events/innovationinacad.svg"/>
+        </div>
+    </div>
+    <br>
+    <div class="row justify-content-center">
+        <div class="col-md-9">
+            <p class="bold-text" style="color: #131d25">March 30, 13:35-14:25 in Trianti Hall, Athens Concert Hall</p>
+            <p class="light-text" style="color: #131d25">
+                Join a dynamic panel of academic founders as they share the impacts of academia on industry and the economy 
+                and how they maximize the impacts of their own work. The panel will also address the challenges of getting 
+                research out of the lab and how they manage entrepreneurial ventures in parallel with academic work. 
+                Learn how to set up your research for commercialization with these ambitious researcher-entrepreneurs. 
+            </p>
+        </div>
+    </div>
+</div>
+<br>
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col col-lg-2"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/GeorgeNounesis.jpg"></a>
+            <div class="name">George Nounesis</div>
+            <div class="title">President & Chairman of the Board</div>
+        </div>
+        <div class="col col-lg-2"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/BrianAnthony.jpg"></a>
+            <div class="name">Brian Anthony</div>
+            <div class="title">Associate Director of MIT.nano</div>
+            <div class="title">Faculty Lead of MechE Alliance Industry Collaborations</div>
+            <div class="title">Director of Device Realization Lab</div>
+        </div>
+        <div class="col col-lg-2"><a href="speakers.php">
+            <img class="panel-picture" src="img/speakers/LuisaAlemany.jpg"></a>
+            <div class="name">Luisa Alemany</div>
+            <div class="title">Academic Director Inst. Entrepreneurship and Private Capital</div>
+            <div class="title">London Business School</div>
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col col-lg-3"><a href="speakers.php">
+            <img class="panel-picture" src="img/moderators/"></a>
+            <div class="name">Moderator: Kelly Becker</div>
+            <div class="title">MIT REAP</div>    
+        </div>
+    </div>
+</div>
+
 
     
 
