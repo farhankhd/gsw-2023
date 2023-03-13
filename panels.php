@@ -31,7 +31,7 @@
         background-repeat: no-repeat;
         background-size: cover;height: 344px;">
         <div class="col">
-            <h1 class="section-header competition-text">EVENT OVERVIEW</h1>
+            <h1 class="section-header competition-text">PANEL OVERVIEW</h1>
         </div>
     </div>
 </section>
@@ -50,48 +50,13 @@
 
 <!--
 <div class="row">
-  <div class="col">
-          <h1 class="para text-center gradient-text" id="team-section">Keynotes</h1>
-          <hr class="team-hr">
-  </div>
-
-  <div class="row" id='keynote-kane'>
-        <div class="col-sm-12 panel-top text-center">
-            <div class="col-sm-12 panel-header">
-                <h5 style="font-weight: 900" class="agenda-black"> Learning to Change the World-The story of One Laptop per Child</h5>
-            </div>
-        </div>
-        <br>
-        <div class="col-md-12 panel-content">
-            <div class="col-md-8">
-                <h2> May 27, 08:45-09:30 in Great Hall Full</h2>
-                <h4> The One Laptop per Child (OLPC) initiative was born in MIT’s Media Lab and 
-                was the first major technology initiative in the education space. Its mission was 
-                to target the bottom-of-the-pyramid countries, providing laptops that brought the 
-                world “library” to the poorest and most remote parts of the Earth. As President, 
-                Chuck provided the business direction to a project that delivered over 3 million 
-                computers worldwide as well as the educational software and services to make the
-                 deployments successful. In this keynote, he will highlight the challenges of the 
-                 nonprofit world.</h4>
-            </div>
-            <div class="team col-md-4 text-center"><a href="speakers.php#charles">
-                <img class="keynote-picture" src="images/speaker-img/charles.png"></a>
-                <div class="team-name">Charles Kane</div>
-                <div class="team-role">Senior Lecturer</div>
-                <div class="team-area">MIT</div>
-            </div>
-        </div>
-  </div> 
-</div>
--->
-
-<div class="row">
     <div class="col">
             <h1 class="para text-center gradient-text" id="team-section">Panels</h1>
             <hr class="team-hr">
     </div>
 </div>
 <br>
+-->
 
 <div class="container">
     <div class="row justify-content-center">
