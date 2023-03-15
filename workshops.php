@@ -157,7 +157,7 @@
 <div class="container">
     <div class="row justify-content-center">
         <div class="col">
-            <img style="max-width: 80%; height: auto;" src="/2023/img/worrkshop/productdesign.png"/>
+            <img style="max-width: 80%; height: auto;" src="/2023/img/workshop/productdesign.png"/>
         </div>
     </div>
     <br>
