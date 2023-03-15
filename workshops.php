@@ -124,7 +124,7 @@
 <div class="container">
     <div class="row justify-content-center">
         <div class="col">
-            <img style="max-width: 80%; height: auto;" src="/2023/img/panel/perfectpitch.png"/>
+            <img style="max-width: 80%; height: auto;" src="/2023/img/workshop/perfectpitch.png"/>
         </div>
     </div>
     <br>
