@@ -64,7 +64,7 @@
 <div class="container">
     <div class="row justify-content-center">
         <div class="col">
-            <img style="max-width: 80%; height: auto;" src="/2023/svg/events/buildingtech.svg"/>
+            <img style="max-width: 80%; height: auto;" src="/2023/img/panel/buildingtech.png"/>
         </div>
     </div>
     <br>
@@ -117,7 +117,7 @@
 <div class="container">
     <div class="row justify-content-center">
         <div class="col">
-            <img style="max-width: 80%; height: auto;" src="/2023/svg/events/fundingtech.svg"/>
+            <img style="max-width: 80%; height: auto;" src="/2023/img/panel/fundingtech.png"/>
         </div>
     </div>
     <br>
@@ -138,25 +138,30 @@
     <div class="row justify-content-center">
         <div class="col col-lg-2"><a href="speakers.php">
             <img class="panel-picture" src="img/speakers/LironAzrielant.jpg"></a>
-            <div class="name">Liron Azrielant</div>
+            <div class="name">Liron</div>
+            <div class="name">Azrielant</div>
             <div class="title">Managing Partner at Meron Capital</div>
         </div>
         <div class="col col-lg-2"><a href="speakers.php">
             <img class="panel-picture" src="img/speakers/FrancoisRobinet.jpg"></a>
-            <div class="name">François Robinet</div>
+            <div class="name">François</div>
+            <div class="name">Robinet</div>
             <div class="title">Managing Director of AXA Strategic Ventures</div>
         </div>
         <div class="col col-lg-2"><a href="speakers.php">
             <img class="panel-picture" src="img/speakers/AlexEleftheriadis.jpg"></a>
-            <div class="name">Alex Eleftheriadis</div>
+            <div class="name">Alex</div>
+            <div class="name">Eleftheriadis</div>
             <div class="title">Entrepreneur and Partner at Big Pi Ventures</div>
         </div>
         <div class="col col-lg-2"><a href="speakers.php">
             <img class="panel-picture" src="img/speakers/RobGenieser.jpg"></a>
-            <div class="name">Rob Genieser</div>
+            <div class="name">Rob</div>
+            <div class="name">Genieser</div>
             <div class="title">Managing Partner at ETF Partners</div>
         </div>
     </div>
+    <!--
     <div class="row justify-content-center">
         <div class="col col-lg-3"><a href="speakers.php">
             <img class="panel-picture" src="img/moderators/"></a>
@@ -164,13 +169,14 @@
             <div class="title"></div>    
         </div>
     </div>
+    -->
 </div>
 <br><br>
 
 <div class="container">
     <div class="row justify-content-center">
         <div class="col">
-            <img style="max-width: 80%; height: auto;" src="/2023/svg/events/innovationinacad.svg"/>
+            <img style="max-width: 80%; height: auto;" src="/2023/img/panel/innovationinacademia.png"/>
         </div>
     </div>
     <br>
@@ -192,19 +198,22 @@
     <div class="row justify-content-center">
         <div class="col col-lg-2"><a href="speakers.php">
             <img class="panel-picture" src="img/speakers/GeorgeNounesis.jpg"></a>
-            <div class="name">George Nounesis</div>
+            <div class="name">George</div>
+            <div class="name">Nounesis</div>
             <div class="title">President & Chairman of the Board</div>
         </div>
         <div class="col col-lg-2"><a href="speakers.php">
             <img class="panel-picture" src="img/speakers/BrianAnthony.jpg"></a>
-            <div class="name">Brian Anthony</div>
+            <div class="name">Brian</div>
+            <div class="name">Anthony</div>
             <div class="title">Associate Director of MIT.nano</div>
             <div class="title">Faculty Lead of MechE Alliance Industry Collaborations</div>
             <div class="title">Director of Device Realization Lab</div>
         </div>
         <div class="col col-lg-2"><a href="speakers.php">
             <img class="panel-picture" src="img/speakers/LuisaAlemany.jpg"></a>
-            <div class="name">Luisa Alemany</div>
+            <div class="name">Luisa</div>
+            <div class="name">Alemany</div>
             <div class="title">Academic Director Inst. Entrepreneurship and Private Capital</div>
             <div class="title">London Business School</div>
         </div>
@@ -222,7 +231,7 @@
 <div class="container">
     <div class="row justify-content-center">
         <div class="col">
-            <img style="max-width: 80%; height: auto;" src="/2023/svg/events/fosteringentrepreneurship.svg"/>
+            <img style="max-width: 80%; height: auto;" src="/2023/img/panel/fosteringentrepreneurship.png"/>
         </div>
     </div>
     <br>
@@ -281,7 +290,7 @@
 <div class="container">
     <div class="row justify-content-center">
         <div class="col">
-            <img style="max-width: 80%; height: auto;" src="/2023/svg/events/ethicsandimpact.svg"/>
+            <img style="max-width: 80%; height: auto;" src="/2023/img/panel/ethicsandimpact.png"/>
         </div>
     </div>
     <br>
@@ -301,24 +310,28 @@
     <div class="row justify-content-center">
         <div class="col col-lg-2"><a href="speakers.php">
             <img class="panel-picture" src="img/speakers/TheodorosEvgeniou.jpg"></a>
-            <div class="name">Theodoros Evgeniou</div>
+            <div class="name">Theodoros</div>
+            <div class="name">Evgeniou</div>
             <div class="title">INSEAD Professor</div>
             <div class="title">Co-founder Tremau</div>
         </div>
         <div class="col col-lg-2"><a href="speakers.php">
             <img class="panel-picture" src="img/speakers/AnuAnnaswamy.jpg"></a>
-            <div class="name">Anu Annaswamy</div>
+            <div class="name">Anu</div>
+            <div class="name">Annaswamy</div>
             <div class="title">Associate Director of MIT.nano</div>
             <div class="title">Senior Research Scientist</div>
         </div>
         <div class="col col-lg-2"><a href="speakers.php">
             <img class="panel-picture" src="img/speakers/TylerSpalding.jpg"></a>
-            <div class="name">Tyler Spalding</div>
+            <div class="name">Tyler</div>
+            <div class="name">Spalding</div>
             <div class="title">Co-founder at Flexa</div>
         </div>
          <div class="col col-lg-2"><a href="speakers.php">
             <img class="panel-picture" src="img/speakers/SnejinaZacharia.jpg"></a>
-            <div class="name">Snejina Zacharia</div>
+            <div class="name">Snejina</div>
+            <div class="name">Zacharia</div>
             <div class="title">Founder & CEO of Insurify</div>
         </div>
     </div>
@@ -335,7 +348,7 @@
 <div class="container">
     <div class="row justify-content-center">
         <div class="col">
-            <img style="max-width: 80%; height: auto;" src="/2023/svg/events/digitanddisruption.svg"/>
+            <img style="max-width: 80%; height: auto;" src="/2023/img/panel/digitanddisruption.png"/>
         </div>
     </div>
     <br>
@@ -359,23 +372,27 @@
     <div class="row justify-content-center">
         <div class="col col-lg-2"><a href="speakers.php">
             <img class="panel-picture" src="img/speakers/KostaLigris.jpg"></a>
-            <div class="name">Kosta Ligris</div>
+            <div class="name">Kosta</div>
+            <div class="name">Ligris</div>
             <div class="title">Entrepreneur, EIR, & Lecturer</div>
         </div>
         <div class="col col-lg-2"><a href="speakers.php">
             <img class="panel-picture" src="img/speakers/TimosSellis.jpg"></a>
-            <div class="name">Timos Sellis</div>
+            <div class="name">Timos</div>
+            <div class="name">Sellis</div>
             <div class="title">Scientific Director</div>
             <div class="title">Archimedes Research Unit, Research Center "Athena"</div>
         </div>
         <div class="col col-lg-2"><a href="speakers.php">
             <img class="panel-picture" src="img/speakers/ChuckKane.jpg"></a>
-            <div class="name">Chuck Kane</div>
+            <div class="name">Chuck</div>
+            <div class="name">Kane</div>
             <div class="title">Entrepreneurship Professor at MIT</div>
         </div>
          <div class="col col-lg-2"><a href="speakers.php">
             <img class="panel-picture" src="img/speakers/MichaelTzannes.jpg"></a>
-            <div class="name">Michael Tzannes</div>
+            <div class="name">Michael</div>
+            <div class="name">Tzannes</div>
             <div class="title">Technology Entrepreneur</div>
         </div>
     </div>
@@ -392,7 +409,7 @@
 <div class="container">
     <div class="row justify-content-center">
         <div class="col">
-            <img style="max-width: 80%; height: auto;" src="/2023/svg/events/deeptech.svg"/>
+            <img style="max-width: 80%; height: auto;" src="/2023/img/panel/deeptech.png"/>
         </div>
     </div>
     <br>
@@ -415,21 +432,25 @@
     <div class="row justify-content-center">
         <div class="col col-lg-2"><a href="speakers.php">
             <img class="panel-picture" src="img/speakers/WilliamSonneborn.jpg"></a>
-            <div class="name">William Sonneborn</div>
+            <div class="name">William</div>
+            <div class="name">Sonneborn</div>
             <div class="title">Global Director of Disruptive Tech at IFC</div>
         </div>
         <div class="col col-lg-2"><a href="speakers.php">
             <img class="panel-picture" src="img/speakers/AlexEleftheriadis.jpg"></a>
-            <div class="name">Alex Eleftheriadis</div>
+            <div class="name">Alex</div>
+            <div class="name">Eleftheriadis</div>
             <div class="title">Entrepreneur and Partner at Big Pi Ventures</div>
         </div>
         <div class="col col-lg-2"><a href="speakers.php">
             <img class="panel-picture" src="img/speakers/DeephChana.jpg"></a>
-            <div class="name">Deeph Chana</div>
+            <div class="name">Deeph</div>
+            <div class="name">Chana</div>
             <div class="title">Director, Institute for Security Science and Technology</div>
             <div class="title">Co-Director, Centre for Financial Technology at Imperial College London</div>
         </div>
     </div>
+    <!--
     <div class="row justify-content-center">
         <div class="col col-lg-3"><a href="speakers.php">
             <img class="panel-picture" src="img/moderators/"></a>
@@ -437,13 +458,14 @@
             <div class="title"></div>    
         </div>
     </div>
+    -->
 </div>
 <br><br>
 
 <div class="container">
     <div class="row justify-content-center">
         <div class="col">
-            <img style="max-width: 80%; height: auto;" src="/2023/svg/events/frontiersinhealth.svg"/>
+            <img style="max-width: 80%; height: auto;" src="/2023/img/panel/healthandbiotech.png"/>
         </div>
     </div>
     <br>
@@ -464,28 +486,33 @@
     <div class="row justify-content-center">
         <div class="col col-lg-2"><a href="speakers.php">
             <img class="panel-picture" src="img/speakers/SteliosPapadopoulos.jpg"></a>
-            <div class="name">Stelios Papadopoulos</div>
+            <div class="name">Stelios</div>
+            <div class="name">Papadopoulos</div>
             <div class="title">Chairman, Biogen Inc.</div>
         </div>
          <div class="col col-lg-2"><a href="speakers.php">
             <img class="panel-picture" src="img/speakers/BrianAnthony.jpg"></a>
-            <div class="name">Brian Anthony</div>
+            <div class="name">Brian</div>
+            <div class="name">Anthony</div>
             <div class="title">Associate Director of MIT.nano</div>
             <div class="title">Faculty Lead of MechE Alliance Industry Collaborations</div>
             <div class="title">Director of Device Realization Lab</div>
         </div>
         <div class="col col-lg-2"><a href="speakers.php">
             <img class="panel-picture" src="img/speakers/NektariosTavernarakis.jpg"></a>
-            <div class="name">Nektarios Tavernarakis</div>
+            <div class="name">Nektarios</div>
+            <div class="name">Tavernarakis</div>
             <div class="title">Greek Bioscientist, Professor</div>
             <div class="title">Chairman of the Board at the Foundation for Research and Technology in Greece</div>
         </div>
          <div class="col col-lg-2"><a href="speakers.php">
             <img class="panel-picture" src="img/speakers/SloanePhillips.jpg"></a>
-            <div class="name">Sloane Allebes Phillips</div>
+            <div class="name">Sloane</div>
+            <div class="name">Allebes Phillips</div>
             <div class="title">VP Data Operations</div>
         </div>
     </div>
+    <!--
     <div class="row justify-content-center">
         <div class="col col-lg-3"><a href="speakers.php">
             <img class="panel-picture" src="img/moderators/"></a>
@@ -493,13 +520,14 @@
             <div class="title"></div>    
         </div>
     </div>
+    -->
 </div>
 <br><br>
 
 <div class="container">
     <div class="row justify-content-center">
         <div class="col">
-            <img style="max-width: 80%; height: auto;" src="/2023/svg/events/sustainablefuture.svg"/>
+            <img style="max-width: 80%; height: auto;" src="/2023/img/panel/sustainablefuture.png"/>
         </div>
     </div>
     <br>
@@ -520,27 +548,32 @@
     <div class="row justify-content-center">
         <div class="col col-lg-2"><a href="speakers.php">
             <img class="panel-picture" src="img/speakers/MilesBarr.jpg"></a>
-            <div class="name">Miles Barr</div>
+            <div class="name">Miles</div>
+            <div class="name">Barr</div>
             <div class="title">Co-Founder and Chief Technology Officer</div>
         </div>
         <div class="col col-lg-2"><a href="speakers.php">
             <img class="panel-picture" src="img/speakers/AnuAnnaswamy.jpg"></a>
-            <div class="name">Anu Annaswamy</div>
+            <div class="name">Anu</div>
+            <div class="name">Annaswamy</div>
             <div class="title">Associate Director of MIT.nano</div>
             <div class="title">Senior Research Scientist</div>
         </div>
         <div class="col col-lg-2"><a href="speakers.php">
             <img class="panel-picture" src="img/speakers/OdedGour-Lavie.jpg"></a>
-            <div class="name">Oded Gour-Lavies</div>
+            <div class="name">Oded</div>
+            <div class="name">Gour-Lavies</div>
             <div class="title">Greek Bioscientist, Professor</div>
             <div class="title">Chairman of the Board at the Foundation for Research and Technology in Greece</div>
         </div>
          <div class="col col-lg-2"><a href="speakers.php">
             <img class="panel-picture" src="img/speakers/AliseeDeTonnac.jpg"></a>
-            <div class="name">Alisée de Tonnac</div>
+            <div class="name">Alisée</div>
+            <div class="name">de Tonnac</div>
             <div class="title">CEO & Co-founder</div>
         </div>
     </div>
+    <!--
     <div class="row justify-content-center">
         <div class="col col-lg-3"><a href="speakers.php">
             <img class="panel-picture" src="img/moderators/"></a>
@@ -548,13 +581,14 @@
             <div class="title"></div>    
         </div>
     </div>
+    -->
 </div>
 <br><br>
 
 <div class="container">
     <div class="row justify-content-center">
         <div class="col">
-            <img style="max-width: 80%; height: auto;" src="/2023/svg/events/globalgreek.svg"/>
+            <img style="max-width: 80%; height: auto;" src="/2023/img/panel/globalgreek.png"/>
         </div>
     </div>
     <br>
@@ -575,23 +609,27 @@
     <div class="row justify-content-center">
         <div class="col col-lg-2"><a href="speakers.php">
             <img class="panel-picture" src="img/speakers/GerassimosKalogiratos.jpg"></a>
-            <div class="name">Gerassimos Kalogiratos</div>
+            <div class="name">Gerassimos</div>
+            <div class="name">Kalogiratos</div>
             <div class="title">CEO, Capital Product Partners</div>
         </div>
         <div class="col col-lg-2"><a href="speakers.php">
             <img class="panel-picture" src="img/speakers/StamatisTsantanis.jpg"></a>
-            <div class="name">Stamatis Tsantanis</div>
+            <div class="name">Stamatis</div>
+            <div class="name">Tsantanis</div>
             <div class="title">CEO, Seanergy Maritime</div>
         </div>
         <div class="col col-lg-2"><a href="speakers.php">
             <img class="panel-picture" src="img/speakers/PanosDimitracopoulos.jpg"></a>
-            <div class="name">Panos Dimitracopoulos</div>
+            <div class="name">Panos</div>
+            <div class="name">Dimitracopoulos</div>
             <div class="title">CEO, Signal Maritime Services</div>
             <div class="title">Chairman of the Board at the Foundation for Research and Technology in Greece</div>
         </div>
          <div class="col col-lg-2"><a href="speakers.php">
             <img class="panel-picture" src="img/speakers/GeorgiosTriantafyllou.jpg"></a>
-            <div class="name">Georgios Triantafyllou</div>
+            <div class="name">Georgios</div>
+            <div class="name">Triantafyllou</div>
             <div class="title">CSO, Motor Oil Group</div>
         </div>
     </div>
@@ -608,7 +646,7 @@
 <div class="container">
     <div class="row justify-content-center">
         <div class="col">
-            <img style="max-width: 80%; height: auto;" src="/2023/svg/events/greekstartup.svg"/>
+            <img style="max-width: 80%; height: auto;" src="/2023/img/panel/greekstartup.png"/>
         </div>
     </div>
     <br>
