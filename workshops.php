@@ -157,7 +157,7 @@
 <div class="container">
     <div class="row justify-content-center">
         <div class="col">
-            <img style="max-width: 80%; height: auto;" src="/2023/svg/events/productdev.svg"/>
+            <img style="max-width: 80%; height: auto;" src="/2023/img/worrkshop/productdesign.png"/>
         </div>
     </div>
     <br>
@@ -201,7 +201,7 @@
               <br>
               
               <ul style="align-content: left; text-align: left;">
-                In this Workshop, we will be discussing
+                In this workshop, we will be discussing
                 <li style="align-content: left; text-align: left;">A demonstration of Chat GPT in action</li>
                 <li style="align-content: left; text-align: left;">A demonstration on Azure OpenAI Services and how to infuse them in your apps.</li>
               </ul>
