@@ -164,7 +164,7 @@
     <!--
     <div class="row justify-content-center">
         <div class="col col-lg-3"><a href="speakers.php">
-            <img class="panel-picture" src="img/moderators/"></a>
+            <img class="panel-picture" src="img/moderators/">
             <div class="name">Moderator: TBD</div>
             <div class="title"></div>    
         </div>
@@ -221,7 +221,7 @@
     <!--
     <div class="row justify-content-center">
         <div class="col col-lg-3"><a href="speakers.php">
-            <img class="panel-picture" src="img/moderators/"></a>
+            <img class="panel-picture" src="img/moderators/">
             <div class="name">Moderator: Kelly Becker</div>
             <div class="title">MIT REAP</div>    
         </div>
