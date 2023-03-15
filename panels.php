@@ -211,20 +211,22 @@
             <div class="title">Director of Device Realization Lab</div>
         </div>
         <div class="col col-lg-2"><a href="speakers.php">
-            <img class="panel-picture" src="img/speakers/LuisaAlemany.jpg"></a>
+            <img class="panel-picture" src="img/speakers/LuisaAlemany.jpg">
             <div class="name">Luisa</div>
             <div class="name">Alemany</div>
             <div class="title">Academic Director Inst. Entrepreneurship and Private Capital</div>
             <div class="title">London Business School</div>
         </div>
     </div>
+    <!--
     <div class="row justify-content-center">
         <div class="col col-lg-3"><a href="speakers.php">
-            <!--<img class="panel-picture" src="img/moderators/"></a>-->
+            <img class="panel-picture" src="img/moderators/"></a>
             <div class="name">Moderator: Kelly Becker</div>
             <div class="title">MIT REAP</div>    
         </div>
     </div>
+    -->
 </div>
 <br><br>
 
@@ -335,13 +337,15 @@
             <div class="title">Founder & CEO of Insurify</div>
         </div>
     </div>
+    <!--
     <div class="row justify-content-center">
         <div class="col col-lg-3"><a href="speakers.php">
-            <!--<img class="panel-picture" src="img/moderators/"></a>-->
+            <img class="panel-picture" src="img/moderators/"></a>
             <div class="name">Moderator: Lazaros Polymenakos</div>
             <div class="title">EY Greece</div>    
         </div>
     </div>
+    -->
 </div>
 <br><br>
 
@@ -396,13 +400,15 @@
             <div class="title">Technology Entrepreneur</div>
         </div>
     </div>
+    <!--
     <div class="row justify-content-center">
         <div class="col col-lg-3"><a href="speakers.php">
-            <!--<img class="panel-picture" src="img/moderators/"></a>-->
+            <img class="panel-picture" src="img/moderators/"></a>
             <div class="name">Moderator: Myladie Stoumbou</div>
             <div class="title">Microsoft</div>    
         </div>
     </div>
+    -->
 </div>
 <br><br>
 
@@ -633,13 +639,15 @@
             <div class="title">CSO, Motor Oil Group</div>
         </div>
     </div>
+    <!--
     <div class="row justify-content-center">
         <div class="col col-lg-3"><a href="speakers.php">
-            <!--<img class="panel-picture" src="img/moderators/GerassimosSpyridakis.jpg"></a>-->
+            <img class="panel-picture" src="img/moderators/GerassimosSpyridakis.jpg"></a>
             <div class="name">Moderator: Gerassimos Spyridakis</div>
             <div class="title">Chairman MITEF Greece</div>    
         </div>
     </div>
+    -->
 </div>
 <br><br>
 
