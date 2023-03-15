@@ -59,7 +59,7 @@
 <div class="container">
     <div class="row justify-content-center">
         <div class="col">
-            <img style="max-width: 80%; height: auto;" src="/2023/svg/events/disciplinedentrepreneurship.svg"/>
+            <img style="max-width: 80%; height: auto;" src="/2023/img/workshop/disciplinedentrepreneurship.png"/>
         </div>
     </div>
     <br>
@@ -79,7 +79,8 @@
     <div class="row justify-content-center">
         <div class="col col-lg-2"><a href="speakers.php">
             <img class="panel-picture" src="img/speakers/BillAulet.jpg"></a>
-            <div class="name">Bill Aulet</div>
+            <div class="name">Bill</div>
+            <div class="name">Aulet</div>
             <div class="title">Professor of the Practice</div>
             <div class="title">MIT Sloan School of Management</div>
         </div>
@@ -90,7 +91,7 @@
 <div class="container">
     <div class="row justify-content-center">
         <div class="col">
-            <img style="max-width: 80%; height: auto;" src="/2023/svg/events/scalingup.svg"/>
+            <img style="max-width: 80%; height: auto;" src="/2023/img/workshop/scalingup.png"/>
         </div>
     </div>
     <br>
@@ -112,7 +113,8 @@
     <div class="row justify-content-center">
         <div class="col col-lg-2"><a href="speakers.php">
             <img class="panel-picture" src="img/speakers/KostaLigris.jpg"></a>
-            <div class="name">Kosta Ligris</div>
+            <div class="name">Kosta</div>
+            <div class="name">Ligris</div>
             <div class="title">Entrepreneur, EIR, & Lecturer</div>
         </div>
     </div>
@@ -122,7 +124,7 @@
 <div class="container">
     <div class="row justify-content-center">
         <div class="col">
-            <img style="max-width: 80%; height: auto;" src="/2023/svg/events/perfectpitch.svg"/>
+            <img style="max-width: 80%; height: auto;" src="/2023/img/panel/perfectpitch.png"/>
         </div>
     </div>
     <br>
@@ -147,7 +149,8 @@
     <div class="row justify-content-center">
         <div class="col col-lg-2"><a href="speakers.php">
             <img class="panel-picture" src="img/speakers/LindaPlano.jpeg"></a>
-            <div class="name">Linda Plano</div>
+            <div class="name">Linda</div>
+            <div class="name">Plano</div>
             <div class="title">Principal Investor, Plano and Simple</div>
         </div>
     </div>
@@ -179,7 +182,8 @@
     <div class="row justify-content-center">
         <div class="col col-lg-2"><a href="speakers.php">
             <img class="panel-picture" src="img/speakers/MacauleyKenney.jpg"></a>
-            <div class="name">Macauley Kenney</div>
+            <div class="name">Macauley</div>
+            <div class="name">Kenney</div>
             <div class="title">MIT</div>    
         </div>
     </div>
@@ -189,7 +193,7 @@
 <div class="container">
     <div class="row justify-content-center">
         <div class="col">
-            <img style="max-width: 80%; height: auto;" src="/2023/svg/events/openai.svg"/>
+            <img style="max-width: 80%; height: auto;" src="/2023/img/panel/openai.png"/>
         </div>
     </div>
     <br>
