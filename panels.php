@@ -449,13 +449,6 @@
                     <div class="name">Eleftheriadis</div>
                     <div class="title">Entrepreneur and Partner at Big Pi Ventures</div>
                 </div>
-                <div class="col col-lg-2"><a href="speakers.php">
-                    <img class="panel-picture" src="img/speakers/DeephChana.jpg"></a>
-                    <div class="name">Deeph</div>
-                    <div class="name">Chana</div>
-                    <div class="title">Director, Institute for Security Science and Technology</div>
-                    <div class="title">Co-Director, Centre for Financial Technology at Imperial College London</div>
-                </div>
             </div>
             <!--
             <div class="row justify-content-center">
