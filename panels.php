@@ -86,7 +86,7 @@
         <div class="container">
             <div class="row justify-content-center">
                 <!--Moderator: Macaulay Kenney, MIT-->
-                <div class="col col-lg-2>
+                <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/MarinaHatsopoulos.jpg"></a>
                     <div class="name">Marina Hatsopoulos</div>
                     <div class="title">Entrepreneur & Writer</div>
