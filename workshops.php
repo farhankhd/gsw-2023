@@ -197,6 +197,7 @@
             <div class="row justify-content-center">
                 <div class="col-md-9">
                     <p class="bold-text" style="color: #131d25">Date/Time/Location: TBD</p>
+                    <p class="text-center" style="color: #131d25; font-style: italic;">Note: OpenAI workshop is *invite only*</p>
                     <p class="light-text" style="color: #131d25">
                       Introducing OpenAI on Azure, a ChatGPT Talk. Chat GPT, the powerful language model developed by OpenAI, has been generating a lot of excitement in the media and we have received multiple requests to learn more about its capabilities. We are excited to have this opportunity to have a conversation with Startups about the potential use cases for Chat GPT and the Azure OpenAI service. 
                       <br>
