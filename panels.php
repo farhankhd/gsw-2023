@@ -449,16 +449,22 @@
                     <div class="name">Eleftheriadis</div>
                     <div class="title">Entrepreneur and Partner at Big Pi Ventures</div>
                 </div>
+                <div class="col col-lg-2">
+                    <img class="panel-picture" src="img/speakers/OdedGour-Lavie.jpg"></a>
+                    <div class="name">Oded</div>
+                    <div class="name">Gour-Lavie</div>
+                    <div class="title">Greek Bioscientist, Professor</div>
+                    <div class="title">Chairman of the Board at the Foundation for Research and Technology in Greece</div>
+                </div>
             </div>
-            <!--
             <div class="row justify-content-center">
                 <div class="col col-lg-3">
-                    <img class="panel-picture" src="img/moderators/"></a>
-                    <div class="name">Moderator: TBD</div>
+                    <img class="panel-picture" src="img/speakers/MarinaHatsopoulos.jpg"></a>
+                    <div class="name">Moderator: Marina Hatsopoulos</div>
                     <div class="title"></div>    
                 </div>
             </div>
-            -->
+
         </div>
         <br><br>
 
@@ -562,7 +568,7 @@
                 <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/OdedGour-Lavie.jpg"></a>
                     <div class="name">Oded</div>
-                    <div class="name">Gour-Lavies</div>
+                    <div class="name">Gour-Lavie</div>
                     <div class="title">Greek Bioscientist, Professor</div>
                     <div class="title">Chairman of the Board at the Foundation for Research and Technology in Greece</div>
                 </div>
