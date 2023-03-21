@@ -404,7 +404,7 @@
             <a href="https://scienceagora.eu/about/"><img style="max-width: 40%; height: auto;" src="/2023/img/sponsors/scienceagora.png"></a>
           </div>
           <div class="col-sm-1 col-md-6">
-            <a href="https://www.acg.edu/"><img style="max-width: 40%; height: auto;" src="/2023/img/sponsors/ACG.png"></a>
+            <a href="https://www.acg.edu/"><img style="max-width: 35%; height: auto;" src="/2023/img/sponsors/ACG.png"></a>
           </div>
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
@@ -482,7 +482,7 @@
         </div>
         <div class="row justify-content-center align-items-center">
           <div class="col-sm-1 col-md-5">
-            <a href="http://eestec.ntua.gr/"><img style="max-width: 30%; height: auto;" src="/2023/img/sponsors/eestec.png"></a>
+            <a href="http://eestec.ntua.gr/"><img style="max-width: 20%; height: auto;" src="/2023/img/sponsors/eestec.png"></a>
           </div>
         </div>
       </section>
