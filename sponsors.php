@@ -188,12 +188,13 @@
           <div class="col-sm-1 col-md-12 col-lg-9">
             <div class="row justify-content-center align-items-center">
               <div class="col-sm-1 col-md-6">
-                <a href="https://www.onassis.org/"> <img style="max-width: 70%; height: auto;"src="/2023/img/sponsors/onassis.png"></a>
+                <a href="https://www.onassis.org/"> <img style="max-width: 100%; height: auto;"src="/2023/img/sponsors/onassis.png"></a>
               </div>
             </div>
+            <br><br>
             <div class="row justify-content-center align-items-center">
               <div class="col-sm-1 col-md-6">
-                <a href="https://www.capitalship.gr/"><img style="max-width: 70%; height: auto;"src="/2023/img/sponsors/capital.png"></a>
+                <a href="https://www.capitalship.gr/"><img style="max-width: 100%; height: auto;"src="/2023/img/sponsors/capital.png"></a>
               </div>
             </div>
           </div>
