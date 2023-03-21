@@ -200,7 +200,7 @@
           <div class="col-sm-1 col-md-12 col-lg-9">
             <div class="row justify-content-center align-items-center">
               <div class="col-sm-1 col-md-6">
-                <a href=""> <img style="max-width: 80%; height: auto;"src="/2023/img/sponsors/onassis.png"></a>
+                <a href="https://www.onassis.org/"> <img style="max-width: 80%; height: auto;"src="/2023/img/sponsors/onassis.png"></a>
               </div>
               <div class="col-sm-1 col-md-6">
                 <a href="http://foley.com/"> <img style="max-width: 70%; height: auto;"src="/2023/img/sponsors/foleylardner.png"></a>
@@ -208,7 +208,7 @@
             </div>
             <div class="row justify-content-center align-items-center">
               <div class="col-sm-1 col-md-6">
-                <a href="https://www.seanergymaritime.com/en"> <img style="max-width: 80%; height: auto;"src="/2023/img/sponsors/seanergy.jpeg"></a>
+                <a href="https://www.seanergymaritime.com/en"> <img style="max-width: 70%; height: auto;"src="/2023/img/sponsors/seanergy.jpeg"></a>
               </div>
               <div class="col-sm-1 col-md-6">
                 <a href="https://www.unitedmaritime.gr/en"> <img style="max-width: 70%; height: auto;"src="/2023/img/sponsors/unitedmaritime.jpeg"></a>
@@ -259,15 +259,15 @@
             </div>
             <div class="row justify-content-center align-items-center">
               <div class="col-sm-1 col-md-6">
-                <a href="https://www.microsoft.com/el-gr/"> <img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/Microsoft.png"></a>
+                <a href="https://www.microsoft.com/el-gr/"> <img style="max-width: 75%; height: auto;" src="/2023/img/sponsors/Microsoft.png"></a>
               </div>
               <div class="col-sm-1 col-md-6">
-                <a href="https://www.microsoft.com/el-gr/"> <img style="max-width: 80%; height: auto;" src="/2023/img/sponsors/MicrosoftTeams.png"></a>
+                <a href="https://www.microsoft.com/el-gr/"> <img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/MicrosoftTeams.png"></a>
               </div>
             </div>
             <div class="row justify-content-center align-items-center">
               <div class="col-sm-1 col-md-6">
-                <a href="https://www.hillintl.com/"> <img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/HIL.png"></a>
+                <a href="https://www.hillintl.com/"> <img style="max-width: 40%; height: auto;" src="/2023/img/sponsors/HIL.png"></a>
               </div>
             </div>
           </div>
@@ -292,7 +292,7 @@
             </div>
             <div class="row justify-content-center align-items-center">
               <div class="col-sm-1 col-md-6">
-                <a href="https://bigpi.vc/"> <img style="max-width: 45%; max-height: 45%;" src="/2023/img/sponsors/bigpi.png"></a>
+                <a href="https://kglawfirm.gr/"> <img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/kg.png"></a>
               </div> 
               <div class="col-sm-1 col-md-6">
                 <a href="https://www.quest.gr/en/the-group"> <img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/iQ-QG.jpeg"></a>
@@ -300,7 +300,7 @@
             </div>
             <div class="row justify-content-center align-items-center">
               <div class="col-sm-1 col-md-6">
-                <a href="https://kglawfirm.gr/"> <img style="max-width: 45%; max-height: 45%;" src="/2023/img/sponsors/kg.png"></a>
+                <a href="https://bigpi.vc/"> <img style="max-width: 45%; max-height: 45%;" src="/2023/img/sponsors/bigpi.png"></a>
               </div> 
             </div>
           </div>
@@ -325,7 +325,7 @@
             </div>
             <div class="row justify-content-center align-items-center">
               <div class="col-sm-1 col-md-6">
-                <a href="https://www.qualco.eu/"> <img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/qualco.png"></a>
+                <a href="https://www.qualco.eu/"> <img style="max-width: 50%; height: auto;" src="/2023/img/sponsors/qualco.png"></a>
               </div> 
               <div class="col-sm-1 col-md-6">
                 <a href="https://hdbi.gr/en/"> <img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/hdbi.png"></a>
@@ -333,7 +333,7 @@
             </div>
             <div class="row justify-content-center align-items-center">
               <div class="col-sm-1 col-md-6">
-                <a href="https://tsek.teiresias.gr/el/Home"><img style="max-width: 40%; height: auto;" src="/2023/img/sponsors/tiresias.jpeg"></a>
+                <a href="https://tsek.teiresias.gr/el/Home"><img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/tiresias.jpeg"></a>
               </div>
             </div>
           </div>
@@ -396,15 +396,15 @@
         
         <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-6">
-            <a href="https://scienceagora.eu/about/"><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/scienceagora.png"></a>
+            <a href="https://scienceagora.eu/about/"><img style="max-width: 40%; height: auto;" src="/2023/img/sponsors/scienceagora.png"></a>
           </div>
           <div class="col-sm-1 col-md-6">
-            <a href="https://www.acg.edu/"><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/ACG.png"></a>
+            <a href="https://www.acg.edu/"><img style="max-width: 40%; height: auto;" src="/2023/img/sponsors/ACG.png"></a>
           </div>
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-6">
-            <a href="https://www.mindev.gov.gr/?lang=en"><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/acci-01.png"></a>
+            <a href="https://www.mindev.gov.gr/?lang=en"><img style="max-width: 55%; height: auto;" src="/2023/img/sponsors/acci-01.png"></a>
           </div>
           <div class="col-sm-1 col-md-6">
             <a href="https://www.mindev.gov.gr/?lang=en"><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/acci-02.jpeg"></a>
