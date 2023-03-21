@@ -208,20 +208,20 @@
                     <div class="name">George</div>
                     <div class="name">Nounesis</div>
                     <div class="title">President & Chairman of the Board</div>
+                    <div class="title">Demokritos</div>
                 </div>
                 <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/BrianAnthony.jpg"></a>
                     <div class="name">Brian</div>
                     <div class="name">Anthony</div>
                     <div class="title">Associate Director of MIT.nano</div>
-                    <div class="title">Faculty Lead of MechE Alliance Industry Collaborations</div>
-                    <div class="title">Director of Device Realization Lab</div>
+                    <div class="title">Faculty Lead of MechE at MIT</div>
                 </div>
                 <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/LuisaAlemany.jpg">
                     <div class="name">Luisa</div>
                     <div class="name">Alemany</div>
-                    <div class="title">Academic Director Inst. Entrepreneurship and Private Capital</div>
+                    <div class="title">Director Inst. Entrepreneurship & Private Capital</div>
                     <div class="title">London Business School</div>
                 </div>
             </div>
