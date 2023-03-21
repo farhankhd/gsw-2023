@@ -192,6 +192,33 @@
         <div class="row justify-content-center">
           <hr class="tier-hr">
         </div>
+        
+        <div class="row align-items-center">
+          <div class="col-sm-1 col-md-12 col-lg-3">
+            <img src="/2023/svg/gold.svg"/>
+          </div>
+          <div class="col-sm-1 col-md-12 col-lg-9">
+            <div class="row justify-content-center align-items-center">
+              <div class="col-sm-1 col-md-6">
+                <a href=""> <img style="max-width: 80%; height: auto;"src="/2023/img/sponsors/onassis.png"></a>
+              </div>
+              <div class="col-sm-1 col-md-6">
+                <a href="http://foley.com/"> <img style="max-width: 70%; height: auto;"src="/2023/img/sponsors/foleylardner.png"></a>
+              </div>
+            </div>
+            <div class="row justify-content-center align-items-center">
+              <div class="col-sm-1 col-md-6">
+                <a href="https://www.seanergymaritime.com/en"> <img style="max-width: 80%; height: auto;"src="/2023/img/sponsors/seanergy.jpeg"></a>
+              </div>
+              <div class="col-sm-1 col-md-6">
+                <a href="https://www.unitedmaritime.gr/en"> <img style="max-width: 70%; height: auto;"src="/2023/img/sponsors/unitedmaritime.jpeg"></a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row justify-content-center">
+          <hr class="tier-hr">
+        </div>
       
         <div class="row align-items-center">
           <div class="col-sm-1 col-md-12 col-lg-3">
@@ -223,14 +250,24 @@
               </div>
             </div>
             <div class="row justify-content-center align-items-center">
-            
-              <!--
-              <div class="col-sm-1 col-md-6">
-                <a href="https://deddie.gr/en/"> <img style="max-width: 80%; height: auto;" src="/2023/img/sponsors/hedno.png"></a>
-              </div>
-              -->
               <div class="col-sm-1 col-md-6">
                 <a href="https://deddie.gr/en/"> <img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/hedno.png"></a>
+              </div>
+              <div class="col-sm-1 col-md-6">
+                <a href="https://www.titan-cement.com/"> <img style="max-width: 80%; height: auto;" src="/2023/img/sponsors/titan.jpeg"></a>
+              </div>
+            </div>
+            <div class="row justify-content-center align-items-center">
+              <div class="col-sm-1 col-md-6">
+                <a href="https://www.microsoft.com/el-gr/"> <img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/Microsoft.png"></a>
+              </div>
+              <div class="col-sm-1 col-md-6">
+                <a href="https://www.microsoft.com/el-gr/"> <img style="max-width: 80%; height: auto;" src="/2023/img/sponsors/MicrosoftTeams.png"></a>
+              </div>
+            </div>
+            <div class="row justify-content-center align-items-center">
+              <div class="col-sm-1 col-md-6">
+                <a href="https://www.hillintl.com/"> <img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/HIL.png"></a>
               </div>
             </div>
           </div>
@@ -261,6 +298,11 @@
                 <a href="https://www.quest.gr/en/the-group"> <img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/iQ-QG.jpeg"></a>
               </div> 
             </div>
+            <div class="row justify-content-center align-items-center">
+              <div class="col-sm-1 col-md-6">
+                <a href="https://kglawfirm.gr/"> <img style="max-width: 45%; max-height: 45%;" src="/2023/img/sponsors/kg.png"></a>
+              </div> 
+            </div>
           </div>
         </div>
         
@@ -273,9 +315,30 @@
             <img src="/2023/svg/supporters.svg"/>
           </div>
           <div class="col-sm-1 col-md-12 col-lg-9">
-            <a href="https://tsek.teiresias.gr/el/Home"><img style="max-width: 40%; height: auto;" src="/2023/img/sponsors/tiresias.jpeg"></a>
+           <div class="row justify-content-center align-items-center">
+              <div class="col-sm-1 col-md-6">
+                <a href="https://mellongroup.com/"> <img style="max-width: 45%; max-height: 45%;" src="/2023/img/sponsors/mellon.jpeg"></a>
+              </div> 
+              <div class="col-sm-1 col-md-6">
+                <a href="https://www.infobip.com/"> <img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/infobip.png"></a>
+              </div> 
+            </div>
+            <div class="row justify-content-center align-items-center">
+              <div class="col-sm-1 col-md-6">
+                <a href="https://www.qualco.eu/"> <img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/qualco.png"></a>
+              </div> 
+              <div class="col-sm-1 col-md-6">
+                <a href="https://hdbi.gr/en/"> <img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/hdbi.png"></a>
+              </div> 
+            </div>
+            <div class="row justify-content-center align-items-center">
+              <div class="col-sm-1 col-md-6">
+                <a href="https://tsek.teiresias.gr/el/Home"><img style="max-width: 40%; height: auto;" src="/2023/img/sponsors/tiresias.jpeg"></a>
+              </div>
+            </div>
           </div>
         </div>
+        
         
         <div class="row justify-content-center">
           <hr class="tier-hr">
@@ -335,51 +398,25 @@
           <div class="col-sm-1 col-md-6">
             <a href="https://scienceagora.eu/about/"><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/scienceagora.png"></a>
           </div>
+          <div class="col-sm-1 col-md-6">
+            <a href="https://www.acg.edu/"><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/ACG.png"></a>
+          </div>
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-6">
-            <a href=" https://www.mindev.gov.gr/?lang=en"><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/acci-01.png"></a>
+            <a href="https://www.mindev.gov.gr/?lang=en"><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/acci-01.png"></a>
           </div>
           <div class="col-sm-1 col-md-6">
-            <a href=" https://www.mindev.gov.gr/?lang=en"><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/acci-02.jpeg"></a>
+            <a href="https://www.mindev.gov.gr/?lang=en"><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/acci-02.jpeg"></a>
+          </div>
+        </div>
+        <div class="row white-bg logo d-flex justify-content-center">
+          <div class="col-sm-1 col-md-6">
+            <a href="https://www.dmrid.gov.cy/dmrid/research.nsf/home_en/home_en?openform"><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/dmrid.jpeg"></a>
           </div>
         </div>
       </section>
-      
-      
-       <!--UNDER THE AUSPICES-->
-      <section>
-        <div class="row">
-          <div class="col">
-            <h1 class="para text-center gradient-text" id="team-section">Under the Auspices</h1>
-          </div>
-        </div>
-        <div class="row justify-content-center">
-          <hr class="team-hr">
-        </div>
-        <br>
-        
-        <div class="row justify-content-center align-items-center">
-          <div class="col-sm-1 col-md-4">
-            <a href="https://www.mindev.gov.gr/?lang=en"><img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/MinDev.png"></a>
-          </div>
-          <div class="col-sm-1 col-md-4">
-            <a href="https://www.minedu.gov.gr/"><img style="max-width: 70%; height: auto;"src="/2023/img/sponsors/MinEdu.png"></a>
-          </div>
-          <div class="col-sm-1 col-md-4">
-            <a href="https://mindigital.gr/"><img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/MinDigGov.png"></a>
-          </div>
-        </div>
-        <div class="row justify-content-center align-items-center">
-          <div class="col-sm-1 col-md-4">
-            <a href="https://ypergasias.gov.gr/"><img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/MinLSA.png"></a>
-          </div>
-          <div class="col-sm-1 col-md-4">
-            <a href="https://www.patt.gov.gr/"><img style="max-width: 50%; height: 50%;" src="/2023/img/sponsors/attica.png"></a>
-          </div>
-        </div>
-      </section>
-                                                                                                                            
+                                                                                                                    
       <!--COMMUNICATION PARTNERS-->
       <section>
         <div class="row">
@@ -422,7 +459,62 @@
             <a href="https://seeders.gr/"><img style="max-width: 30%; height: auto;" src="/2023/img/sponsors/seeders.png"></a>
           </div>
         </div>
+        <div class="row justify-content-center align-items-center">
+          <div class="col-sm-1 col-md-5">
+            <a href="http://best.ntua.gr/index.php/en/home_eng/"><img style="max-width: 30%; height: auto;" src="/2023/img/sponsors/best.png"></a>
+          </div>
+          <div class="col-sm-1 col-md-5">
+            <a href="https://unistudents.gr/"><img style="max-width: 30%; height: auto;" src="/2023/img/sponsors/UniStudents.jpeg"></a>
+          </div>
+        </div>
+        <div class="row justify-content-center align-items-center">
+          <div class="col-sm-1 col-md-5">
+            <a href="https://businesseventscalendar.gr/?lang=en"><img style="max-width: 30%; height: auto;" src="/2023/img/sponsors/EC.jpg"></a>
+          </div>
+          <div class="col-sm-1 col-md-5">
+            <a href="https://www.innovativegreeks.gr/"><img style="max-width: 30%; height: auto;" src="/2023/img/sponsors/ig-sev.png"></a>
+          </div>
+        </div>
+        <div class="row justify-content-center align-items-center">
+          <div class="col-sm-1 col-md-5">
+            <a href="http://eestec.ntua.gr/"><img style="max-width: 30%; height: auto;" src="/2023/img/sponsors/eestec.png"></a>
+          </div>
+        </div>
       </section>
+      
+      <!--UNDER THE AUSPICES-->
+      <section>
+        <div class="row">
+          <div class="col">
+            <h1 class="para text-center gradient-text" id="team-section">Under the Auspices</h1>
+          </div>
+        </div>
+        <div class="row justify-content-center">
+          <hr class="team-hr">
+        </div>
+        <br>
+        
+        <div class="row justify-content-center align-items-center">
+          <div class="col-sm-1 col-md-4">
+            <a href="https://www.mindev.gov.gr/?lang=en"><img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/MinDev.png"></a>
+          </div>
+          <div class="col-sm-1 col-md-4">
+            <a href="https://www.minedu.gov.gr/"><img style="max-width: 70%; height: auto;"src="/2023/img/sponsors/MinEdu.png"></a>
+          </div>
+          <div class="col-sm-1 col-md-4">
+            <a href="https://mindigital.gr/"><img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/MinDigGov.png"></a>
+          </div>
+        </div>
+        <div class="row justify-content-center align-items-center">
+          <div class="col-sm-1 col-md-4">
+            <a href="https://ypergasias.gov.gr/"><img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/MinLSA.png"></a>
+          </div>
+          <div class="col-sm-1 col-md-4">
+            <a href="https://www.patt.gov.gr/"><img style="max-width: 50%; height: 50%;" src="/2023/img/sponsors/attica.png"></a>
+          </div>
+        </div>
+      </section>
+              
       
                                                                                            
       
