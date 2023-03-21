@@ -322,7 +322,7 @@
                     <img class="panel-picture" src="img/speakers/AnuAnnaswamy.jpg"></a>
                     <div class="name">Anu</div>
                     <div class="name">Annaswamy</div>
-                    <div class="title">Associate Director of MIT.nano</div>
+                    <div class="title">Director of the Active-Adaptive Lab at MIT</div>
                     <div class="title">Senior Research Scientist</div>
                 </div>
                 <div class="col col-lg-2">
@@ -557,26 +557,28 @@
                     <div class="name">Miles</div>
                     <div class="name">Barr</div>
                     <div class="title">Co-Founder and Chief Technology Officer</div>
+                    <div class="title">Ubiquitous Energy</div>
                 </div>
                 <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/AnuAnnaswamy.jpg"></a>
                     <div class="name">Anu</div>
                     <div class="name">Annaswamy</div>
-                    <div class="title">Associate Director of MIT.nano</div>
-                    <div class="title">Senior Research Scientist</div>
+                    <div class="title">Director of the Active-Adaptive Lab</div>
+                    <div class="title">MIT Mech. Eng</div>
                 </div>
                 <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/OdedGour-Lavie.jpg"></a>
                     <div class="name">Oded</div>
                     <div class="name">Gour-Lavie</div>
-                    <div class="title">Greek Bioscientist, Professor</div>
-                    <div class="title">Chairman of the Board at the Foundation for Research and Technology in Greece</div>
+                    <div class="title">CEO and Co-founder</div>
+                    <div class="title">NT-TAO</div>
                 </div>
                  <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/AliseeDeTonnac.jpg"></a>
                     <div class="name">Alisée</div>
                     <div class="name">de Tonnac</div>
                     <div class="title">CEO & Co-founder</div>
+                    <div class="title">Seedstars</div>
                 </div>
             </div>
             <!--
