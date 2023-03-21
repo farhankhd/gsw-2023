@@ -300,7 +300,7 @@
             </div>
         </div>
         
-        <div class="row justify-content-center align-items-center" style="padding-bottom:30px">
+        <div class="row justify-content-center align-items-center" style="padding-bottom:50px">
             <div class="col-sm-1 col-md-6">
                 <a href="https://www.capitalship.gr/"><img style="max-width: 70%; height: auto;"src="/2023/img/sponsors/capital.png"></a>
             </div>
@@ -310,7 +310,7 @@
         </div>
         <div class="row justify-content-center align-items-center" style="padding-bottom:30px">
             <div class="col-sm-1 col-md-6">
-                <a href="http://foley.com/"> <img style="max-width: 50%; height: auto;"src="/2023/img/sponsors/foleylardner.png"></a>
+                <a href="http://foley.com/"> <img style="max-width: 40%; height: auto;"src="/2023/img/sponsors/foleylardner.png"></a>
             </div>
         </div>    
         <div class="row justify-content-center align-items-center">
