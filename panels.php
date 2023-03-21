@@ -88,7 +88,8 @@
                 <!--Moderator: Macaulay Kenney, MIT-->
                 <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/MarinaHatsopoulos.jpg"></a>
-                    <div class="name">Marina Hatsopoulos</div>
+                    <div class="name">Marina</div>
+                    <div class="name">Hatsopoulos</div>
                     <div class="title">Entrepreneur & Writer</div>
                     <br>
                     <div class="title">Board Chair, Levitronix Technologies</div>
@@ -105,9 +106,7 @@
                     <img class="panel-picture" src="img/speakers/MariaZubeldia.jpg"></a>
                     <div class="name">Maria Zubeldia</div>
                     <div class="name">Diaz</div>
-                    <div class="title">Director of Entrepreneurship Centre</div>
-                    
-                    <div class="title">University of Oxford</div>
+                    <div class="title">Director of Entrepreneurship Centre University of Oxford</div>
                 </div>
             </div>
             <div class="row justify-content-center">
