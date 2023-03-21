@@ -233,27 +233,25 @@
           </div>
           <div class="col-sm-1 col-md-12 col-lg-9">
             <div class="row justify-content-center align-items-center">
-              <div class="col-sm-1 col-md-6">
-                <a href="https://shopflix.gr/"> <img style="max-width: 80%; height: auto;"src="/2023/img/sponsors/shopflix.png"></a>
+              <div class="col-sm-1 col-md-4">
+                <a href="https://shopflix.gr/"> <img style="max-width: 100%; height: auto;"src="/2023/img/sponsors/shopflix.png"></a>
               </div>
-              <div class="col-sm-1 col-md-6">
-                <a href="https://www.thesignalgroup.com/"> <img style="max-width: 70%; height: auto;"src="/2023/img/sponsors/signal.png"></a>
+              <div class="col-sm-1 col-md-4">
+                <a href="https://www.thesignalgroup.com/"> <img style="max-width: 100%; height: auto;"src="/2023/img/sponsors/signal.png"></a>
               </div>
-            </div>
-            <div class="row justify-content-center align-items-center">
-              <div class="col-sm-1 col-md-6">
-                <a href="https://www.moh.gr/en/"> <img style="max-width: 80%; height: auto;" src="/2023/img/sponsors/motoroil.jpeg"></a>
-              </div>
-              <div class="col-sm-1 col-md-6">
-                <a href="https://www.advent.energy/"><img style="max-width: 80%; height: auto" src="/2023/img/sponsors/advent.png"></a>
+              <div class="col-sm-1 col-md-4">
+                <a href="https://www.moh.gr/en/"> <img style="max-width: 100%; height: auto;" src="/2023/img/sponsors/motoroil.jpeg"></a>
               </div>
             </div>
             <div class="row justify-content-center align-items-center">
-              <div class="col-sm-1 col-md-6">
-                <a href="https://deddie.gr/en/"> <img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/hedno.png"></a>
+              <div class="col-sm-1 col-md-4">
+                <a href="https://www.advent.energy/"><img style="max-width: 100%; height: auto" src="/2023/img/sponsors/advent.png"></a>
+              </div>
+              <div class="col-sm-1 col-md-4">
+                <a href="https://deddie.gr/en/"> <img style="max-width: 100%; height: auto;" src="/2023/img/sponsors/hedno.png"></a>
               </div>
               <div class="col-sm-1 col-md-6">
-                <a href="https://www.titan-cement.com/"> <img style="max-width: 80%; height: auto;" src="/2023/img/sponsors/titan.jpeg"></a>
+                <a href="https://www.titan-cement.com/"> <img style="max-width: 100%; height: auto;" src="/2023/img/sponsors/titan.jpeg"></a>
               </div>
             </div>
             <div class="row justify-content-center align-items-center">
@@ -265,13 +263,13 @@
               </div>
             </div>
             <div class="row justify-content-center align-items-center">
-              <div class="col-sm-1 col-md-3">
+              <div class="col-sm-1 col-md-4">
                 <a href="https://www.ey.com/en_gr"> <img style="max-width: 80%; height: auto;" src="/2023/img/sponsors/ey.png"></a>
               </div>
-              <div class="col-sm-1 col-md-3">
+              <div class="col-sm-1 col-md-4">
                 <a href="https://www.hillintl.com/"> <img style="max-width: 80%; height: auto;" src="/2023/img/sponsors/HIL.png"></a>
               </div>
-              <div class="col-sm-1 col-md-3">
+              <div class="col-sm-1 col-md-4">
                 <a href="https://www.kotsovolos.gr/"> <img style="max-width: 80%; height: 30%;" src="/2023/img/sponsors/dixons.png"></a>
               </div>
             </div>
