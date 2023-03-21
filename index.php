@@ -301,42 +301,27 @@
         </div>
         
         <div class="row justify-content-center align-items-center" style="padding-bottom:30px">
-            <div class="col-sm-1 col-md-12 col">
-                <a href="https://www.capitalship.gr/"><img style="max-width: 40%; height: auto;"src="/2023/img/sponsors/capital.png"></a>
+            <div class="col-sm-1 col-md-12 col-6">
+                <a href="https://www.capitalship.gr/"><img style="max-width: 100%; height: auto;"src="/2023/img/sponsors/capital.png"></a>
             </div>
+            <div class="col-sm-1 col-md-6">
+                <a href="https://www.onassis.org/"> <img style="max-width: 100%; height: auto;"src="/2023/img/sponsors/onassis.png"></a>
+          </div>
         </div>
         <div class="row justify-content-center align-items-center" style="padding-bottom:30px">
-            <div class="col-sm-1 col-md-5">
-                <a href="https://shopflix.gr/"> <img style="max-width: 65%; height: auto;"src="/2023/img/sponsors/shopflix.png"></a>
-            </div>
-            <div class="col-sm-1 col-md-5">
-                <a href="https://www.thesignalgroup.com/"> <img style="max-width: 65%; height: auto;"src="/2023/img/sponsors/signal.png"></a>
-            </div>
-        </div>
-        <div class="row justify-content-center align-items-center" style="padding-bottom:40px">
-            <div class="col-sm-1 col-md-5">
-                <a href="https://www.moh.gr/en/"> <img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/motoroil.jpeg"></a>
-            </div>
-            <div class="col-sm-1 col-md-5">
-                <a href="https://www.advent.energy/"><img style="max-width: 80%; height: auto" src="/2023/img/sponsors/advent.png"></a>
-            </div>
-        </div>
-        <div class="row justify-content-center align-items-center" style="padding-bottom:40px">
-            <div class="col-sm-1 col-md-5">
-                <a href="https://www.ey.com/en_gr"> <img style="max-width: 30%; height: 30%;" src="/2023/img/sponsors/ey.png"></a>
-              </div>
-              <div class="col-sm-1 col-md-5">
-                <a href="https://www.kotsovolos.gr/"> <img style="max-width: 30%; height: 30%;" src="/2023/img/sponsors/dixons.png"></a>
-              </div>
-        </div>
-        <div class="row justify-content-center align-items-center" style="padding-bottom:40px">
             <div class="col-sm-1 col-md-6">
-                <a href="https://deddie.gr/en/"> <img style="max-width: 50%; height: auto;" src="/2023/img/sponsors/hedno.png"></a>
-             </div>
+                <a href="http://foley.com/"> <img style="max-width: 70%; height: auto;"src="/2023/img/sponsors/foleylardner.png"></a>
+            </div>
+        </div>    
+        <div class="row justify-content-center align-items-center">
+          <div class="col-sm-1 col-md-6">
+            <a href="https://www.seanergymaritime.com/en"> <img style="max-width: 70%; height: auto;"src="/2023/img/sponsors/seanergy.jpeg"></a>
+          </div>
+          <div class="col-sm-1 col-md-6">
+            <a href="https://www.unitedmaritime.gr/en"> <img style="max-width: 70%; height: auto;"src="/2023/img/sponsors/unitedmaritime.jpeg"></a>
+          </div>
         </div>
-
-        </div>
-        
+       
         <div class="row justify-content-center align-items-center">
           <a class="btn btn-default register-btn" href="/2023/sponsors.php" role="button">SEE MORE</a>
         </div>    
