@@ -215,7 +215,7 @@
                     <div class="name">Brian</div>
                     <div class="name">Anthony</div>
                     <div class="title">Associate Director of MIT.nano</div>
-                    <div class="title">Faculty Lead of MechE at MIT</div>
+                    <div class="title">Faculty of Mech.Eng at MIT</div>
                 </div>
                 <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/LuisaAlemany.jpg">
@@ -328,20 +328,22 @@
                     <img class="panel-picture" src="img/speakers/AnuAnnaswamy.jpg"></a>
                     <div class="name">Anu</div>
                     <div class="name">Annaswamy</div>
-                    <div class="title">Director of the Active-Adaptive Lab at MIT</div>
-                    <div class="title">Senior Research Scientist</div>
+                    <div class="title">Director of the Active-Adaptive Lab</div>
+                    <div class="title">MIT Mech. Eng</div>
                 </div>
                 <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/TylerSpalding.jpg"></a>
                     <div class="name">Tyler</div>
                     <div class="name">Spalding</div>
-                    <div class="title">Co-founder at Flexa</div>
+                    <div class="title">Co-founder</div>
+                    <div class="title">Flexa</div>
                 </div>
                  <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/SnejinaZacharia.jpg"></a>
                     <div class="name">Snejina</div>
                     <div class="name">Zacharia</div>
-                    <div class="title">Founder & CEO of Insurify</div>
+                    <div class="title">Founder & CEO</div>
+                    <div class="title">Insurify</div>
                 </div>
             </div>
             <!--
@@ -386,6 +388,7 @@
                     <div class="name">Kosta</div>
                     <div class="name">Ligris</div>
                     <div class="title">Entrepreneur, EIR, & Lecturer</div>
+                    <div class="title">MIT</div>
                 </div>
                 <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/TimosSellis.jpg"></a>
@@ -398,7 +401,8 @@
                     <img class="panel-picture" src="img/speakers/ChuckKane.jpg"></a>
                     <div class="name">Chuck</div>
                     <div class="name">Kane</div>
-                    <div class="title">Entrepreneurship Professor at MIT</div>
+                    <div class="title">Entrepreneurship Professor</div>
+                    <div class="title">MIT</div>
                 </div>
                  <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/MichaelTzannes.jpg"></a>
@@ -447,27 +451,29 @@
                     <img class="panel-picture" src="img/speakers/WilliamSonneborn.jpg"></a>
                     <div class="name">William</div>
                     <div class="name">Sonneborn</div>
-                    <div class="title">Global Director of Disruptive Tech at IFC</div>
+                    <div class="title">Global Director of Disruptive Tech</div>
+                    <div class="title">International Finance Corporation (IFC)</div>
                 </div>
                 <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/AlexEleftheriadis.jpg"></a>
                     <div class="name">Alex</div>
                     <div class="name">Eleftheriadis</div>
-                    <div class="title">Entrepreneur and Partner at Big Pi Ventures</div>
+                    <div class="title">Entrepreneur and Partner</div>
+                    <div class="title">Big Pi Ventures</div>
                 </div>
                 <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/OdedGour-Lavie.jpg"></a>
                     <div class="name">Oded</div>
                     <div class="name">Gour-Lavie</div>
-                    <div class="title">Greek Bioscientist, Professor</div>
-                    <div class="title">Chairman of the Board at the Foundation for Research and Technology in Greece</div>
+                    <div class="title">CEO and Co-founder</div>
+                    <div class="title">NT-TAO</div>
                 </div>
             </div>
             <div class="row justify-content-center">
                 <div class="col col-lg-3">
                     <img class="panel-picture" src="img/speakers/MarinaHatsopoulos.jpg"></a>
-                    <div class="name">Moderator: Marina Hatsopoulos</div>
-                    <div class="title"></div>    
+                    <div class="name">Marina Hatsopoulos</div>
+                    <div class="title">Moderator</div>    
                 </div>
             </div>
 
@@ -500,28 +506,29 @@
                     <img class="panel-picture" src="img/speakers/SteliosPapadopoulos.jpg"></a>
                     <div class="name">Stelios</div>
                     <div class="name">Papadopoulos</div>
-                    <div class="title">Chairman, Biogen Inc.</div>
+                    <div class="title">Chairman of Board of Directors</div>
+                    <div class="title">Biogen Inc.</div>
                 </div>
                  <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/BrianAnthony.jpg"></a>
                     <div class="name">Brian</div>
                     <div class="name">Anthony</div>
                     <div class="title">Associate Director of MIT.nano</div>
-                    <div class="title">Faculty Lead of MechE Alliance Industry Collaborations</div>
-                    <div class="title">Director of Device Realization Lab</div>
+                    <div class="title">Faculty of Mech.Eng at MIT</div>
                 </div>
                 <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/NektariosTavernarakis.jpg"></a>
                     <div class="name">Nektarios</div>
                     <div class="name">Tavernarakis</div>
-                    <div class="title">Greek Bioscientist, Professor</div>
-                    <div class="title">Chairman of the Board at the Foundation for Research and Technology in Greece</div>
+                    <div class="title">Chairman of the Board Of Directors, Professor</div>
+                    <div class="title">FORTH & University of Crete</div>
                 </div>
                  <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/SloanePhillips.jpg"></a>
                     <div class="name">Sloane</div>
                     <div class="name">Allebes Phillips</div>
-                    <div class="title">VP Data Operations</div>
+                    <div class="title">VP of Data Operations</div>
+                    <div class="title">Iterative Health</div>
                 </div>
             </div>
             <!--
