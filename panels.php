@@ -95,8 +95,9 @@
                 </div>
                 <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/LarsRasmussen.jpg"></a>
-                    <div class="name">Lars Rasmussen</div>
-                    <br>
+                    <div class="name">Lars</div>
+                    <div class="name">Rasmussen</div>
+                    
                     <div class="title">Angel Investor</div>
                     <div class="title">Co-founder of Google Maps</div>
                 </div>
