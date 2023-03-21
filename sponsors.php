@@ -200,7 +200,7 @@
           <div class="col-sm-1 col-md-12 col-lg-9">
             <div class="row justify-content-center align-items-center">
               <div class="col-sm-1 col-md-6">
-                <a href="https://www.onassis.org/"> <img style="max-width: 80%; height: auto;"src="/2023/img/sponsors/onassis.png"></a>
+                <a href="https://www.onassis.org/"> <img style="max-width: 70%; height: auto;"src="/2023/img/sponsors/onassis.png"></a>
               </div>
               <div class="col-sm-1 col-md-6">
                 <a href="http://foley.com/"> <img style="max-width: 70%; height: auto;"src="/2023/img/sponsors/foleylardner.png"></a>
