@@ -89,15 +89,14 @@
                 <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/MarinaHatsopoulos.jpg"></a>
                     <div class="name">Marina Hatsopoulos</div>
-                    
                     <div class="title">Entrepreneur & Writer</div>
+                    <br>
                     <div class="title">Board Chair, Levitronix Technologies</div>
                 </div>
                 <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/LarsRasmussen.jpg"></a>
                     <div class="name">Lars</div>
                     <div class="name">Rasmussen</div>
-                    
                     <div class="title">Angel Investor</div>
                     <br>
                     <div class="title">Co-founder of Google Maps</div>
@@ -107,15 +106,15 @@
                     <div class="name">Maria Zubeldia</div>
                     <div class="name">Diaz</div>
                     <div class="title">Director of Entrepreneurship Centre</div>
-                    <br>
+                    
                     <div class="title">University of Oxford</div>
                 </div>
             </div>
             <div class="row justify-content-center">
                 <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/MacauleyKenney.jpg"></a>
-                    <div class="title">Moderator:</div>
                     <div class="name">Macaulay Kenney</div>
+                    <div class="title">Moderator</div>
                     <div class="title">MIT</div>    
                 </div>
             </div>
