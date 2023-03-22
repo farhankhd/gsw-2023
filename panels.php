@@ -661,7 +661,7 @@
             </div>
             <div class="row justify-content-center">
                 <div class="col col-lg-3">
-                    <img class="panel-picture" src="img/moderators/GerassimosSpyridakis.jpg"></a>
+                    <img class="panel-picture" src="img/speakers/GerassimosSpyridakis.jpg"></a>
                     <div class="name">Gerassimos<div>
                     <div class="name">Spyridakis</div>
                     <div style="color: #7d4270" class="title">Moderator</div>
@@ -722,7 +722,7 @@
             </div>
             <div class="row justify-content-center">
                 <div class="col col-lg-3">
-                    <img class="panel-picture" src="img/moderators/GerassimosSpyridakis.jpg"></a>
+                    <img class="panel-picture" src="img/speakers/GerassimosSpyridakis.jpg"></a>
                     <div class="name">Moderator: Gerassimos Spyridakis</div>
                     <div class="title">Chairman MITEF Greece</div>    
                 </div>
