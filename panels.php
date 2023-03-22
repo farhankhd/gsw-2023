@@ -85,7 +85,6 @@
 
         <div class="container">
             <div class="row justify-content-center">
-                <!--Moderator: Macaulay Kenney, MIT-->
                 <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/MarinaHatsopoulos.jpg"></a>
                     <div class="name">Marina</div>
@@ -174,7 +173,7 @@
                     <!--<img class="panel-picture" src="img/moderators/">-->
                     <div class="name">Kathleen</div>
                     <div class="name">Kennedy</div>
-                    <div style="font-size: 12px; color: #d5bec2" class="title">Moderator</div>   
+                    <div style="color: #7d4270" class="title">Moderator</div>
                 </div>
             </div>
         </div>
@@ -237,7 +236,7 @@
                     <!--<img class="panel-picture" src="img/moderators/">-->
                     <div class="name">Kelly</div>
                     <div class="name">Becker</div>
-                    <div style="font-size: 12px; color: #d5bec2" class="title">Moderator</div>    
+                    <div style="color: #7d4270" class="title">Moderator</div>
                 </div>
             </div>
         </div>
@@ -295,6 +294,7 @@
                 <div class="col col-lg-3"><a href="speakers.php">
                     <img class="panel-picture" src="img/moderators/GerassimosSpyridakis.jpg"></a>
                     <div class="name">Moderator: Gerassimos Spyridakis</div>
+                     <div style="color: #7d4270" class="title">Moderator</div>
                     <div class="title">Chairman MITEF Greece</div>    
                 </div>
             </div>
@@ -357,7 +357,7 @@
                     <!--<img class="panel-picture" src="img/speakers/"></a>-->
                     <div class="name">Lazaros Polymenakos</div>
                     <div class="title">EY Greece</div> 
-                    <div style="font-size: 12px; color: #d5bec2" class="title">Moderator</div>
+                    <div style="color: #7d4270" class="title">Moderator</div>
                 </div>
             </div>
         </div>
@@ -420,8 +420,8 @@
                 <div class="col col-lg-3">
                     <img class="panel-picture" src="img/speakers/myladieStoumbou.jpeg"></a>
                     <div class="name">Myladie Stoumbou</div>
+                    <div style="color: #7d4270" class="title">Moderator</div>
                     <div class="title">Microsoft</div>  
-                    <div style="font-size: 12px; color: #d5bec2" class="title">Moderator</div>
                 </div>
             </div>
         </div>
@@ -476,8 +476,9 @@
             <div class="row justify-content-center">
                 <div class="col col-lg-3">
                     <img class="panel-picture" src="img/speakers/MarinaHatsopoulos.jpg"></a>
-                    <div class="name">Marina Hatsopoulos</div>
-                    <div style="font-size: 12px; color: #d5bec2" class="title">Moderator</div>   
+                    <div class="name">Marina<div>
+                    <div class="name">Hatsopoulos</div>
+                    <div style="color: #7d4270" class="title">Moderator</div>
                 </div>
             </div>
 
@@ -539,9 +540,9 @@
                 <div class="col col-lg-3">
                     <img class="panel-picture" src="img/speakers/DimitriosFotiadis.jpeg"></a>
                     <div class="name">Dimitrios I. Fotiadis</div>
+                    <div style="color: #7d4270" class="title">Moderator</div>
                     <div class="title">Prof. of Biomedical Engineering
                     <div class="title">University of Ioannina</div>
-                    <div style="font-size: 12px; color: #d5bec2" class="title">Moderator</div>
                 </div>
             </div>
         </div>
@@ -603,7 +604,7 @@
                     <!--<img class="panel-picture" src="img/speakers/"></a>-->
                     <div class="name">Kelly</div>
                     <div class="name">Becker</div>
-                    <div style="font-size: 12px; color: #d5bec2" class="title">Moderator</div>
+                    <div style="color: #7d4270" class="title">Moderator</div>
                 </div>
             </div>
         </div>
@@ -658,7 +659,7 @@
                     <div class="name">Gerassimos Spyridakis</div>
                     <div class="title">Chairman</div>
                     <div class="title">MITEF Greece</div>
-                    <div style="font-size: 12px; color: #d5bec2" class="title">Moderator</div>
+                    <div style="color: #7d4270" class="title">Moderator</div>
                 </div>
             </div>
         </div>
