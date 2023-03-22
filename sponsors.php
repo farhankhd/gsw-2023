@@ -415,10 +415,9 @@
           <div class="col-sm-1 col-md-6">
             <a href="https://www.dmrid.gov.cy/dmrid/research.nsf/home_en/home_en?openform"><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/dmrid.jpeg"></a>
           </div>
-        </div>
-        <div class="row white-bg logo d-flex justify-content-center">
+          <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-6">
-            <a href="https://praxinetwork.gr/"><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/PRAXILogoEN.png"></a>
+            <a href="https://praxinetwork.gr/"><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/PRAXILogoEN.PNG"></a>
           </div>
         </div>
       </section>
