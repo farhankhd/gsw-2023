@@ -112,7 +112,8 @@
             <div class="row justify-content-center">
                 <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/MacauleyKenney.jpg"></a>
-                    <div class="name">Macauley Kenney</div>
+                    <div class="name">Macauley<div>
+                    <div class="name">Kenney</div>
                     <div style="color: #7d4270" class="title">Moderator</div>
                     <div class="title">Entrepreneur-in-Residence & Lecturer</div>
                     <div class="title">MIT Sloan</div>
@@ -355,9 +356,10 @@
             <div class="row justify-content-center">
                 <div class="col col-lg-3">
                     <!--<img class="panel-picture" src="img/speakers/"></a>-->
-                    <div class="name">Lazaros Polymenakos</div>
-                    <div class="title">EY Greece</div> 
+                    <div class="name">Lazaros</div>
+                    <div class="name">Polymenakos</div>
                     <div style="color: #7d4270" class="title">Moderator</div>
+                    <div class="title">EY Greece</div> 
                 </div>
             </div>
         </div>
@@ -419,7 +421,8 @@
             <div class="row justify-content-center">
                 <div class="col col-lg-3">
                     <img class="panel-picture" src="img/speakers/myladieStoumbou.jpeg"></a>
-                    <div class="name">Myladie Stoumbou</div>
+                    <div class="name">Myladie</div>
+                    <div class="name">Stoumbou</div>
                     <div style="color: #7d4270" class="title">Moderator</div>
                     <div class="title">Microsoft</div>  
                 </div>
@@ -479,6 +482,8 @@
                     <div class="name">Marina<div>
                     <div class="name">Hatsopoulos</div>
                     <div style="color: #7d4270" class="title">Moderator</div>
+                    <div class="title">Entrepreneur & Writer</div>
+                    <div class="title">Board Chair, Levitronix Technologies</div>
                 </div>
             </div>
 
@@ -539,7 +544,8 @@
             <div class="row justify-content-center">
                 <div class="col col-lg-3">
                     <img class="panel-picture" src="img/speakers/DimitriosFotiadis.jpeg"></a>
-                    <div class="name">Dimitrios I. Fotiadis</div>
+                    <div class="name">Dimitrios I.</div>
+                    <div class="name">Fotiadis</div>
                     <div style="color: #7d4270" class="title">Moderator</div>
                     <div class="title">Prof. of Biomedical Engineering
                     <div class="title">University of Ioannina</div>
@@ -656,10 +662,11 @@
             <div class="row justify-content-center">
                 <div class="col col-lg-3">
                     <img class="panel-picture" src="img/moderators/GerassimosSpyridakis.jpg"></a>
-                    <div class="name">Gerassimos Spyridakis</div>
+                    <div class="name">Gerassimos<div>
+                    <div class="name">Spyridakis</div>
+                    <div style="color: #7d4270" class="title">Moderator</div>
                     <div class="title">Chairman</div>
                     <div class="title">MITEF Greece</div>
-                    <div style="color: #7d4270" class="title">Moderator</div>
                 </div>
             </div>
         </div>
