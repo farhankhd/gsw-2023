@@ -270,7 +270,7 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col col-lg-2"><a href="speakers.php">
-                    <img class="panel-picture" src="img/speakers/GerassimosSpyridakis.jpeg"></a>
+                    <img class="panel-picture" src="img/speakers/GerassimosSpyridakis.jpg"></a>
                     <div class="name">Gerassimos Kalogiratos</div>
                     <div class="title">CEO, Capital Product Partners</div>
                 </div>
@@ -293,7 +293,7 @@
             </div>
             <div class="row justify-content-center">
                 <div class="col col-lg-3"><a href="speakers.php">
-                    <img class="panel-picture" src="img/speakers/GerassimosSpyridakis.jpeg"></a>
+                    <img class="panel-picture" src="img/speakers/GerassimosSpyridakis.jpg"></a>
                     <div class="name">Moderator: Gerassimos Spyridakis</div>
                      <div style="color: #7d4270" class="title">Moderator</div>
                     <div class="title">Chairman MITEF Greece</div>    
