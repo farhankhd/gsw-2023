@@ -252,7 +252,7 @@
             <br>
             <div class="row justify-content-center">
                 <div class="col-md-9">
-                    <p class="bold-text" style="color: #131d25">March 30, 13:35-14:25 in Athens Concert Hall (Exact Location: TBD)</p>
+                    <p class="bold-text" style="color: #131d25">March 30, 13:35-14:25 in Trianti Hall, Athens Concert Hall</p>
                     <p class="light-text" style="color: #131d25">
                        Leaders in sustainability explore the evolving marketplace for sustainable tech and discuss critical determinants of success, such as funding and cost-competitiveness, in the sector over the coming years. 
                        Learn what roles research and entrepreneurship play in forging a sustainable future, with a focus on energy. 
@@ -681,7 +681,7 @@
             <br>
             <div class="row justify-content-center">
                 <div class="col-md-9">
-                    <p class="bold-text" style="color: #131d25">March 31, 14:35-15:25 in Athens Concert Hall (Exact Location: TBD)</p>
+                    <p class="bold-text" style="color: #131d25">March 31, 14:35-15:25 in Trianti Hall, Athens Concert Hall</p>
                     <p class="light-text" style="color: #131d25">
                         Leaders in sustainability explore the evolving marketplace for sustainable tech and discuss critical determinants of success, 
                         such as funding and cost-competitiveness, in the sector over the coming years. 
