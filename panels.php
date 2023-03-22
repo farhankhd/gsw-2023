@@ -270,7 +270,7 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col col-lg-2"><a href="speakers.php">
-                    <img class="panel-picture" src="img/speakers/GerassimosKalogiratos.jpg"></a>
+                    <img class="panel-picture" src="img/speakers/GerassimosSpyridakis.jpeg"></a>
                     <div class="name">Gerassimos Kalogiratos</div>
                     <div class="title">CEO, Capital Product Partners</div>
                 </div>
