@@ -293,7 +293,7 @@
             </div>
             <div class="row justify-content-center">
                 <div class="col col-lg-3"><a href="speakers.php">
-                    <img class="panel-picture" src="img/moderators/GerassimosSpyridakis.jpg"></a>
+                    <img class="panel-picture" src="img/moderators/GerassimosSpyridakis.jpeg"></a>
                     <div class="name">Moderator: Gerassimos Spyridakis</div>
                      <div style="color: #7d4270" class="title">Moderator</div>
                     <div class="title">Chairman MITEF Greece</div>    
