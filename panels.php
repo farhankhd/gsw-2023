@@ -531,15 +531,14 @@
                     <div class="title">Iterative Health</div>
                 </div>
             </div>
-            <!--
             <div class="row justify-content-center">
                 <div class="col col-lg-3">
-                    <img class="panel-picture" src="img/moderators/"></a>
-                    <div class="name">Moderator: TBD</div>
-                    <div class="title"></div>    
+                    <img class="panel-picture" src="img/moderators/DimitriosFotiadis.jpeg"></a>
+                    <div class="name">Moderator: Dimitrios I. Fotiadis</div>
+                    <div class="title">Prof. of Biomedical Engineering
+                    <div class="title">University of Ioannina</div>    
                 </div>
             </div>
-            -->
         </div>
         <br><br>
 
@@ -625,45 +624,39 @@
             </div>
         </div>
         <br>
-
-        <!--
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/GerassimosKalogiratos.jpg">
                     <div class="name">Gerassimos</div>
                     <div class="name">Kalogiratos</div>
-                    <div class="title">CEO, Capital Product Partners</div>
+                    <div class="title">CEO</div>
+                    <div class="title">Capital Product Partners</div>
                 </div>
                 <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/StamatisTsantanis.jpg">
                     <div class="name">Stamatis</div>
                     <div class="name">Tsantanis</div>
-                    <div class="title">CEO, Seanergy Maritime</div>
+                    <div class="title">CEO</div>
+                    <div class="title">Seanergy Maritime</div>
                 </div>
                 <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/PanosDimitracopoulos.jpg">
                     <div class="name">Panos</div>
                     <div class="name">Dimitracopoulos</div>
-                    <div class="title">CEO, Signal Maritime Services</div>
-                    <div class="title">Chairman of the Board at the Foundation for Research and Technology in Greece</div>
-                </div>
-                 <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/GeorgiosTriantafyllou.jpg">
-                    <div class="name">Georgios</div>
-                    <div class="name">Triantafyllou</div>
-                    <div class="title">CSO, Motor Oil Group</div>
+                    <div class="title">CEO</div>
+                    <div class="title">Signal Maritime Services</div>
                 </div>
             </div>
             <div class="row justify-content-center">
                 <div class="col col-lg-3">
                     <img class="panel-picture" src="img/moderators/GerassimosSpyridakis.jpg"></a>
                     <div class="name">Moderator: Gerassimos Spyridakis</div>
-                    <div class="title">Chairman MITEF Greece</div>    
+                    <div class="title">Chairman</div>
+                    <div class="title">MITEF Greece</div>    
                 </div>
             </div>
         </div>
-        -->
         <br><br>
 
         <div class="container">
