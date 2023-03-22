@@ -113,9 +113,10 @@
             <div class="row justify-content-center">
                 <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/MacauleyKenney.jpg"></a>
-                    <div class="name">Macaulay Kenney</div>
-                    <div class="title">Moderator</div>
-                    <div class="title">MIT</div>    
+                    <div class="name">Macauley Kenney</div>
+                    <div class="title">Entrepreneur-in-Residence & Lecturer</div>
+                    <div class="title">MIT Sloan</div>
+                    <div style="font-size: 12px; color: #d5bec2" class="title">Moderator</div>
                 </div>
             </div>
         </div>
@@ -168,15 +169,14 @@
                     <div class="title">Managing Partner at ETF Partners</div>
                 </div>
             </div>
-            <!--
             <div class="row justify-content-center">
                 <div class="col col-lg-3">
-                    <img class="panel-picture" src="img/moderators/">
-                    <div class="name">Moderator: TBD</div>
-                    <div class="title"></div>    
+                    <!--<img class="panel-picture" src="img/moderators/">-->
+                    <div class="name">Kathleen</div>
+                    <div class="name">Kennedy</div>
+                    <div style="font-size: 12px; color: #d5bec2" class="title">Moderator</div>   
                 </div>
             </div>
-            -->
         </div>
         <br><br>
 
@@ -224,16 +224,22 @@
                     <div class="title">Director Inst. Entrepreneurship & Private Capital</div>
                     <div class="title">London Business School</div>
                 </div>
-            </div>
-            <!--
-            <div class="row justify-content-center">
-                <div class="col col-lg-3">
-                    <img class="panel-picture" src="img/moderators/">
-                    <div class="name">Moderator: Kelly Becker</div>
-                    <div class="title">MIT REAP</div>    
+                <div class="col col-lg-2">
+                    <img class="panel-picture" src="img/speakers/AnjaliSastry.jpeg">
+                    <div class="name">Anjali</div>
+                    <div class="name">Sastry</div>
+                    <div class="title">Associate Dean, MIT Open Learning</div>
+                    <div class="title">Lead of Jameel World Education Lab</div>
                 </div>
             </div>
-            -->
+            <div class="row justify-content-center">
+                <div class="col col-lg-3">
+                    <!--<img class="panel-picture" src="img/moderators/">-->
+                    <div class="name">Kelly</div>
+                    <div class="name">Becker</div>
+                    <div style="font-size: 12px; color: #d5bec2" class="title">Moderator</div>    
+                </div>
+            </div>
         </div>
         <br><br>
 
@@ -346,15 +352,14 @@
                     <div class="title">Insurify</div>
                 </div>
             </div>
-            <!--
             <div class="row justify-content-center">
                 <div class="col col-lg-3">
-                    <img class="panel-picture" src="img/moderators/"></a>
-                    <div class="name">Moderator: Lazaros Polymenakos</div>
-                    <div class="title">EY Greece</div>    
+                    <!--<img class="panel-picture" src="img/speakers/"></a>-->
+                    <div class="name">Lazaros Polymenakos</div>
+                    <div class="title">EY Greece</div> 
+                    <div style="font-size: 12px; color: #d5bec2" class="title">Moderator</div>
                 </div>
             </div>
-            -->
         </div>
         <br><br>
 
@@ -414,8 +419,9 @@
             <div class="row justify-content-center">
                 <div class="col col-lg-3">
                     <img class="panel-picture" src="img/speakers/myladieStoumbou.jpeg"></a>
-                    <div class="name">Moderator: Myladie Stoumbou</div>
-                    <div class="title">Microsoft</div>    
+                    <div class="name">Myladie Stoumbou</div>
+                    <div class="title">Microsoft</div>  
+                    <div style="font-size: 12px; color: #d5bec2" class="title">Moderator</div>
                 </div>
             </div>
         </div>
@@ -471,7 +477,7 @@
                 <div class="col col-lg-3">
                     <img class="panel-picture" src="img/speakers/MarinaHatsopoulos.jpg"></a>
                     <div class="name">Marina Hatsopoulos</div>
-                    <div class="title">Moderator</div>    
+                    <div style="font-size: 12px; color: #d5bec2" class="title">Moderator</div>   
                 </div>
             </div>
 
@@ -532,9 +538,10 @@
             <div class="row justify-content-center">
                 <div class="col col-lg-3">
                     <img class="panel-picture" src="img/speakers/DimitriosFotiadis.jpeg"></a>
-                    <div class="name">Moderator: Dimitrios I. Fotiadis</div>
+                    <div class="name">Dimitrios I. Fotiadis</div>
                     <div class="title">Prof. of Biomedical Engineering
-                    <div class="title">University of Ioannina</div>    
+                    <div class="title">University of Ioannina</div>
+                    <div style="font-size: 12px; color: #d5bec2" class="title">Moderator</div>
                 </div>
             </div>
         </div>
@@ -591,15 +598,14 @@
                     <div class="title">Seedstars</div>
                 </div>
             </div>
-            <!--
             <div class="row justify-content-center">
                 <div class="col col-lg-3">
-                    <img class="panel-picture" src="img/moderators/"></a>
-                    <div class="name">Moderator: TBD</div>
-                    <div class="title"></div>    
+                    <!--<img class="panel-picture" src="img/speakers/"></a>-->
+                    <div class="name">Kelly</div>
+                    <div class="name">Becker</div>
+                    <div style="font-size: 12px; color: #d5bec2" class="title">Moderator</div>
                 </div>
             </div>
-            -->
         </div>
         <br><br>
 
@@ -649,9 +655,10 @@
             <div class="row justify-content-center">
                 <div class="col col-lg-3">
                     <img class="panel-picture" src="img/moderators/GerassimosSpyridakis.jpg"></a>
-                    <div class="name">Moderator: Gerassimos Spyridakis</div>
+                    <div class="name">Gerassimos Spyridakis</div>
                     <div class="title">Chairman</div>
-                    <div class="title">MITEF Greece</div>    
+                    <div class="title">MITEF Greece</div>
+                    <div style="font-size: 12px; color: #d5bec2" class="title">Moderator</div>
                 </div>
             </div>
         </div>
