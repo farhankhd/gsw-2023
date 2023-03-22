@@ -114,9 +114,9 @@
                 <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/MacauleyKenney.jpg"></a>
                     <div class="name">Macauley Kenney</div>
+                    <div style="color: #7d4270" class="title">Moderator</div>
                     <div class="title">Entrepreneur-in-Residence & Lecturer</div>
                     <div class="title">MIT Sloan</div>
-                    <div style="font-size: 12px; color: #d5bec2" class="title">Moderator</div>
                 </div>
             </div>
         </div>
