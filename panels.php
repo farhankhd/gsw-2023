@@ -411,15 +411,13 @@
                     <div class="title">Technology Entrepreneur</div>
                 </div>
             </div>
-            <!--
             <div class="row justify-content-center">
                 <div class="col col-lg-3">
-                    <img class="panel-picture" src="img/moderators/"></a>
+                    <img class="panel-picture" src="img/speakers/myladieStoumbou.jpeg"></a>
                     <div class="name">Moderator: Myladie Stoumbou</div>
                     <div class="title">Microsoft</div>    
                 </div>
             </div>
-            -->
         </div>
         <br><br>
 
@@ -533,7 +531,7 @@
             </div>
             <div class="row justify-content-center">
                 <div class="col col-lg-3">
-                    <img class="panel-picture" src="img/moderators/DimitriosFotiadis.jpeg"></a>
+                    <img class="panel-picture" src="img/speakers/DimitriosFotiadis.jpeg"></a>
                     <div class="name">Moderator: Dimitrios I. Fotiadis</div>
                     <div class="title">Prof. of Biomedical Engineering
                     <div class="title">University of Ioannina</div>    
@@ -627,8 +625,8 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/GerassimosKalogiratos.jpg">
-                    <div class="name">Gerassimos</div>
+                    <img class="panel-picture" src="img/speakers/JerryKalogiratos.jpeg">
+                    <div class="name">Jerry</div>
                     <div class="name">Kalogiratos</div>
                     <div class="title">CEO</div>
                     <div class="title">Capital Product Partners</div>
