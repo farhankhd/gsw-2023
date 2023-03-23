@@ -71,7 +71,7 @@
             <br>
             <div class="row justify-content-center">
                 <div class="col-md-9">
-                    <p class="bold-text" style="color: #131d25">March 30, 11:35-12:25 in Trianti Hall, Athens Concert Hall</p>
+                    <p class="bold-text" style="color: #131d25">March 30, 11:30AM-12:30PM in Trianti Hall, Athens Concert Hall</p>
                     <p class="light-text" style="color: #131d25">
                         How do you know if your idea will make a successful business? 
                         This panel will explain how to identify promising opportunities for new tech ventures. 
@@ -131,7 +131,7 @@
             <br>
             <div class="row justify-content-center">
                 <div class="col-md-9">
-                    <p class="bold-text" style="color: #131d25">March 30, 11:35-12:25 in Trianti Hall, Athens Concert Hall</p>
+                    <p class="bold-text" style="color: #131d25">March 30, 11:30AM-12:30PM in Trianti Hall, Athens Concert Hall</p>
                     <p class="light-text" style="color: #131d25">
                         Join a panel of funding experts as they delve into the complexities of funding tech ventures. 
                         Explore the factors that make a venture more fundable as well as those that indicate high risk. 
@@ -189,7 +189,7 @@
             <br>
             <div class="row justify-content-center">
                 <div class="col-md-9">
-                    <p class="bold-text" style="color: #131d25">March 30, 13:35-14:25 in Trianti Hall, Athens Concert Hall</p>
+                    <p class="bold-text" style="color: #131d25">March 30, 14:30PM-15:30PM in Trianti Hall, Athens Concert Hall</p>
                     <p class="light-text" style="color: #131d25">
                         Join a dynamic panel of academic founders as they share the impacts of academia on industry and the economy 
                         and how they maximize the impacts of their own work. The panel will also address the challenges of getting 
@@ -238,70 +238,13 @@
                     <div class="name">Kelly</div>
                     <div class="name">Becker</div>
                     <div style="color: #7d4270" class="title">Moderator</div>
+                    <div class="title">MIT Regional Entrepreneurship Acceleration Program</div>
                 </div>
             </div>
         </div>
         <br><br>
 
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col">
-                    <img style="max-width: 80%; height: auto;" src="/2023/img/panel/fosteringentrepreneurship.png"/>
-                </div>
-            </div>
-            <br>
-            <div class="row justify-content-center">
-                <div class="col-md-9">
-                    <p class="bold-text" style="color: #131d25">March 30, 13:35-14:25 in Trianti Hall, Athens Concert Hall</p>
-                    <p class="light-text" style="color: #131d25">
-                       Leaders in sustainability explore the evolving marketplace for sustainable tech and discuss critical determinants of success, such as funding and cost-competitiveness, in the sector over the coming years. 
-                       Learn what roles research and entrepreneurship play in forging a sustainable future, with a focus on energy. 
-                       <br>
-                       Join top academic leaders from leading universities in Greece as they discuss the challenges and opportunities of fostering entrepreneurship within the academic community. 
-                       The panelists will delve into the role universities can play in supporting entrepreneurial ventures and bridge the gap between academia and the business world. 
-                       Topics will include the importance of technology transfer, encouraging cross-disciplinary collaboration, and promoting a culture of innovation. 
-                       Gain insight into what it takes to build a thriving entrepreneurial ecosystem within the academic community and learn from the experiences of those who are leading the way.
-                    </p>
-                </div>
-            </div>
-        </div>
-        <br>
-        <!--
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col col-lg-2"><a href="speakers.php">
-                    <img class="panel-picture" src="img/speakers/GerassimosSpyridakis.jpg"></a>
-                    <div class="name">Gerassimos Kalogiratos</div>
-                    <div class="title">CEO, Capital Product Partners</div>
-                </div>
-                <div class="col col-lg-2"><a href="speakers.php">
-                    <img class="panel-picture" src="img/speakers/StamatisTsantanis.jpg"></a>
-                    <div class="name">Stamatis Tsantanis</div>
-                    <div class="title">CEO, Seanergy Maritime</div>
-                </div>
-                <div class="col col-lg-2"><a href="speakers.php">
-                    <img class="panel-picture" src="img/speakers/PanosDimitracopoulos.jpg"></a>
-                    <div class="name">Panos Dimitracopoulos</div>
-                    <div class="title">CEO, Signal Maritime Services</div>
-                    <div class="title">Chairman of the Board at the Foundation for Research and Technology in Greece</div>
-                </div>
-                 <div class="col col-lg-2"><a href="speakers.php">
-                    <img class="panel-picture" src="img/speakers/GeorgiosTriantafyllou.jpg"></a>
-                    <div class="name">Georgios Triantafyllou</div>
-                    <div class="title">CSO, Motor Oil Group</div>
-                </div>
-            </div>
-            <div class="row justify-content-center">
-                <div class="col col-lg-3"><a href="speakers.php">
-                    <img class="panel-picture" src="img/speakers/GerassimosSpyridakis.jpg"></a>
-                    <div class="name">Moderator: Gerassimos Spyridakis</div>
-                     <div style="color: #7d4270" class="title">Moderator</div>
-                    <div class="title">Chairman MITEF Greece</div>    
-                </div>
-            </div>
-        </div>    
-        -->
-        <br><br>
+        
 
         <div class="container">
             <div class="row justify-content-center">
@@ -312,7 +255,7 @@
             <br>
             <div class="row justify-content-center">
                 <div class="col-md-9">
-                    <p class="bold-text" style="color: #131d25">March 30, 17:05-17:55 in Trianti Hall, Athens Concert Hall</p>
+                    <p class="bold-text" style="color: #131d25">March 30, 16:30PM-17:30PM in Trianti Hall, Athens Concert Hall</p>
                     <p class="light-text" style="color: #131d25">
                         An impressive lineup of AI and machine learning experts convenes to explore the trajectory of AI in a wide array of sectors. 
                         From the supersonic speed of change to ethical dilemmas, this panel will dive into the real challenges, and opportunities, ahead in AI. 
@@ -359,7 +302,7 @@
                     <div class="name">Lazaros</div>
                     <div class="name">Polymenakos</div>
                     <div style="color: #7d4270" class="title">Moderator</div>
-                    <div class="title">EY Greece</div> 
+                    <div class="title">Partner, EY Greece</div> 
                 </div>
             </div>
         </div>
@@ -374,7 +317,7 @@
             <br>
             <div class="row justify-content-center">
                 <div class="col-md-9">
-                    <p class="bold-text" style="color: #131d25">March 30, 17:05-17:55 in Trianti Hall, Athens Concert Hall</p>
+                    <p class="bold-text" style="color: #131d25">March 30, 16:30PM-17:30PM in Trianti Hall, Athens Concert Hall</p>
                     <p class="light-text" style="color: #131d25">
                         Digital technology experts discuss the ways that digital technologies are changing and changing other industries, 
                         with an eye toward future trends. 
@@ -424,71 +367,12 @@
                     <div class="name">Myladie</div>
                     <div class="name">Stoumbou</div>
                     <div style="color: #7d4270" class="title">Moderator</div>
-                    <div class="title">Microsoft</div>  
+                    <div class="title">Director, Microsoft</div>  
                 </div>
             </div>
         </div>
         <br><br>
 
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col">
-                    <img style="max-width: 80%; height: auto;" src="/2023/img/panel/deeptech.png"/>
-                </div>
-            </div>
-            <br>
-            <div class="row justify-content-center">
-                <div class="col-md-9">
-                    <p class="bold-text" style="color: #131d25">March 31, 11:05-11:55 in Trianti Hall, Athens Concert Hall</p>
-                    <p class="light-text" style="color: #131d25">
-                        Join deep tech entrepreneurs and investors as they delve into the complex and rapidly evolving world of deep tech. 
-                        They will explore what makes a promising deep tech venture and strategies for de-risking deep tech, 
-                        including leveraging different global markets. 
-                        Additionally, the panel will address the important question of whether deep tech can be 
-                        developed with a “lean” model or if deep tech is only for those with significant resources. 
-                    </p>
-                </div>
-            </div>
-        </div>
-        <br>
-
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/WilliamSonneborn.jpg"></a>
-                    <div class="name">William</div>
-                    <div class="name">Sonneborn</div>
-                    <div class="title">Global Director of Disruptive Tech</div>
-                    <div class="title">International Finance Corporation (IFC)</div>
-                </div>
-                <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/AlexEleftheriadis.jpg"></a>
-                    <div class="name">Alex</div>
-                    <div class="name">Eleftheriadis</div>
-                    <div class="title">Entrepreneur and Partner</div>
-                    <div class="title">Big Pi Ventures</div>
-                </div>
-                <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/OdedGour-Lavie.jpg"></a>
-                    <div class="name">Oded</div>
-                    <div class="name">Gour-Lavie</div>
-                    <div class="title">CEO and Co-founder</div>
-                    <div class="title">NT-TAO</div>
-                </div>
-            </div>
-            <div class="row justify-content-center">
-                <div class="col col-lg-3">
-                    <img class="panel-picture" src="img/speakers/MarinaHatsopoulos.jpg"></a>
-                    <div class="name">Marina<div>
-                    <div class="name">Hatsopoulos</div>
-                    <div style="color: #7d4270" class="title">Moderator</div>
-                    <div class="title">Entrepreneur & Writer</div>
-                    <div class="title">Board Chair, Levitronix Technologies</div>
-                </div>
-            </div>
-
-        </div>
-        <br><br>
 
         <div class="container">
             <div class="row justify-content-center">
@@ -499,7 +383,7 @@
             <br>
             <div class="row justify-content-center">
                 <div class="col-md-9">
-                    <p class="bold-text" style="color: #131d25">March 31, 11:05-11:55 in Trianti Hall, Athens Concert Hall</p>
+                    <p class="bold-text" style="color: #131d25">March 31, 11:00AM-12:00PM in Trianti Hall, Athens Concert Hall</p>
                     <p class="light-text" style="color: #131d25">
                         Hear our biotechnology experts discuss frontiers at the intersection of biology, health, medicine, and technology in sectors from global health to academia. 
                         Panelists will share the challenges faced by biotech ventures and the roles that other emerging technologies play in biotech. 
@@ -554,6 +438,122 @@
         </div>
         <br><br>
 
+
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col">
+                    <img style="max-width: 80%; height: auto;" src="/2023/img/panel/deeptech.png"/>
+                </div>
+            </div>
+            <br>
+            <div class="row justify-content-center">
+                <div class="col-md-9">
+                    <p class="bold-text" style="color: #131d25">March 31, 11:00AM-12:00PM in Trianti Hall, Athens Concert Hall</p>
+                    <p class="light-text" style="color: #131d25">
+                        Join deep tech entrepreneurs and investors as they delve into the complex and rapidly evolving world of deep tech. 
+                        They will explore what makes a promising deep tech venture and strategies for de-risking deep tech, 
+                        including leveraging different global markets. 
+                        Additionally, the panel will address the important question of whether deep tech can be 
+                        developed with a “lean” model or if deep tech is only for those with significant resources. 
+                    </p>
+                </div>
+            </div>
+        </div>
+        <br>
+
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col col-lg-2">
+                    <img class="panel-picture" src="img/speakers/WilliamSonneborn.jpg"></a>
+                    <div class="name">William</div>
+                    <div class="name">Sonneborn</div>
+                    <div class="title">Global Director of Disruptive Tech</div>
+                    <div class="title">International Finance Corporation (IFC)</div>
+                </div>
+                <div class="col col-lg-2">
+                    <img class="panel-picture" src="img/speakers/AlexEleftheriadis.jpg"></a>
+                    <div class="name">Alex</div>
+                    <div class="name">Eleftheriadis</div>
+                    <div class="title">Entrepreneur and Partner</div>
+                    <div class="title">Big Pi Ventures</div>
+                </div>
+                <div class="col col-lg-2">
+                    <img class="panel-picture" src="img/speakers/OdedGour-Lavie.jpg"></a>
+                    <div class="name">Oded</div>
+                    <div class="name">Gour-Lavie</div>
+                    <div class="title">CEO and Co-founder</div>
+                    <div class="title">NT-TAO</div>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col col-lg-3">
+                    <img class="panel-picture" src="img/speakers/MarinaHatsopoulos.jpg"></a>
+                    <div class="name">Marina<div>
+                    <div class="name">Hatsopoulos</div>
+                    <div style="color: #7d4270" class="title">Moderator</div>
+                    <div class="title">Entrepreneur & Writer</div>
+                    <div class="title">Board Chair, Levitronix Technologies</div>
+                </div>
+            </div>
+
+        </div>
+        <br><br>
+
+
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col">
+                    <p class="bold-text" style="color: #131d25">MIT Open Learning: Building the Future of Education Panel</p>
+                </div>
+            </div>
+            <br>
+            <div class="row justify-content-center">
+                <div class="col-md-9">
+                    <p class="bold-text" style="color: #131d25">March 31, 11:00AM-12:00PM in Trianti Hall, Athens Concert Hall</p>
+                    <p class="light-text" style="color: #131d25">
+                        From emerging insights in learning science, to new technology tools that bring cutting-edge topics 
+                        and training to large organizations at scale, to field-testing practical approaches that deliver 
+                        workplace-ready learning for excluded learners and transform education for students in Kindergarten
+                        through Higher education, MIT Open Learning is exploring the future of education across the board and across the world.
+                        We describe how Open learning combines digital approaches and collaborations with global partners to build the future of education.. 
+                    </p>
+                </div>
+            </div>
+        </div>
+        <br>
+
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col col-lg-2">
+                    <img class="panel-picture" src="img/speakers/KaterinaBagiati.jpeg"></a>
+                    <div class="name">Katerina</div>
+                    <div class="name">Bagiati</div>
+                    <div class="title">Principle Research Scientist</div>
+                    <div class="title">MIT Open Learning</div>
+                </div>
+                <div class="col col-lg-2">
+                    <img class="panel-picture" src="img/speakers/KathleenKennedy.jpg"></a>
+                    <div class="name">Kathleen</div>
+                    <div class="name">Kennedy</div>
+                    <div class="title">Senior Director</div>
+                    <div class="title">MIT Open Learning Ventures</div>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col col-lg-3">
+                    <img class="panel-picture" src="img/speakers/AnjaliSastry.jpeg"></a>
+                    <div class="name">Anjali<div>
+                    <div class="name">Sastry</div>
+                    <div style="color: #7d4270" class="title">Moderator</div>
+                    <div class="title">Senior Lecturer</div>
+                    <div class="title">Sloan School of Management, MIT Open Learning</div>
+                </div>
+            </div>
+
+        </div>
+        <br><br>
+
+
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col">
@@ -563,7 +563,7 @@
             <br>
             <div class="row justify-content-center">
                 <div class="col-md-9">
-                    <p class="bold-text" style="color: #131d25">March 31, 15:35-16:25 in Trianti Hall, Athens Concert Hall</p>
+                    <p class="bold-text" style="color: #131d25">March 31, 15:30PM-16:30PM in Trianti Hall, Athens Concert Hall</p>
                     <p class="light-text" style="color: #131d25">
                         Leaders in sustainability explore the evolving marketplace for sustainable tech and discuss critical determinants of success, 
                         such as funding and cost-competitiveness, in the sector over the coming years. 
@@ -611,6 +611,7 @@
                     <div class="name">Kelly</div>
                     <div class="name">Becker</div>
                     <div style="color: #7d4270" class="title">Moderator</div>
+                    <div class="title">MIT REAP</div>
                 </div>
             </div>
         </div>
@@ -625,7 +626,7 @@
             <br>
             <div class="row justify-content-center">
                 <div class="col-md-9">
-                    <p class="bold-text" style="color: #131d25">March 31, 11:05-11:55 in Trianti Hall, Athens Concert Hall</p>
+                    <p class="bold-text" style="color: #131d25">March 31, 15:30PM-16:30PM in Trianti Hall, Athens Concert Hall</p>
                     <p class="light-text" style="color: #131d25">
                        Representatives from top Greek companies with global presence in shipping and energy convene to 
                        discuss how technology is changing their business and how they invest in new startups and emerging 
@@ -681,54 +682,45 @@
             <br>
             <div class="row justify-content-center">
                 <div class="col-md-9">
-                    <p class="bold-text" style="color: #131d25">March 31, 14:35-15:25 in Trianti Hall, Athens Concert Hall</p>
+                    <p class="bold-text" style="color: #131d25">March 31, 15:30PM-16:30PM in Trianti Hall, Athens Concert Hall</p>
                     <p class="light-text" style="color: #131d25">
-                        Leaders in sustainability explore the evolving marketplace for sustainable tech and discuss critical determinants of success, 
-                        such as funding and cost-competitiveness, in the sector over the coming years. 
-                        Learn what roles research and entrepreneurship play in forging a sustainable future, with a focus on energy. 
-                        Join us as we hear from some of Greece's most successful startups as they share their experiences in building and growing their businesses. 
-                        From overcoming challenges to finding opportunities, these experts will delve into what it takes to thrive in Greece's startup ecosystem. 
-                        We will explore topics such as navigating the local market, attracting investment, and staying ahead of the competition. 
-                        Join us as we learn from the journey of Sport A Wheel, Augmenta, Workable, Shaphetor, and Shopflix and gain insights into the future of Greek startups.
+                        In the fast growing global deep-tech economy, what would be required to unfold the Greek deep-tech potential? 
+                        How can an effective interconnection between academia and entrepreneurship be critical? The panel will discuss the 
+                        challenges of research commercialization in Greek universities and research centers, exploring the significance of effective 
+                        interconnections between academia and entrepreneurship and highlighting the opportunities lying ahead of both research organizations and enterprises. 
                     </p>
                 </div>
             </div>
         </div>
         <br>
-        <!--
+        
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/GerassimosKalogiratos.jpg"></a>
-                    <div class="name">Gerassimos Kalogiratos</div>
-                    <div class="title">CEO, Capital Product Partners</div>
+                    <img class="panel-picture" src="img/speakers/LeonidasAlexopoulos.jpeg"></a>
+                    <div class="name">Leonidas Alexopoulos</div>
+                    <div class="title">Professor NTUA</div>
                 </div>
                 <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/StamatisTsantanis.jpg"></a>
-                    <div class="name">Stamatis Tsantanis</div>
-                    <div class="title">CEO, Seanergy Maritime</div>
+                    <img class="panel-picture" src="img/speakers/GeorgeLoudos.jpeg"></a>
+                    <div class="name">George Loudos</div>
+                    <div class="title">Co-founder and CEO, Biomedtech</div>
                 </div>
                 <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/PanosDimitracopoulos.jpg"></a>
-                    <div class="name">Panos Dimitracopoulos</div>
-                    <div class="title">CEO, Signal Maritime Services</div>
-                    <div class="title">Chairman of the Board at the Foundation for Research and Technology in Greece</div>
+                    <div class="name">Marios Katsiotis</div>
+                    <div class="title">Head of Group Research</div>
+                    <div class="title">TITAN Cement Group</div>
                 </div>
-                 <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/GeorgiosTriantafyllou.jpg"></a>
-                    <div class="name">Georgios Triantafyllou</div>
-                    <div class="title">CSO, Motor Oil Group</div>
-                </div>
-            </div>
             <div class="row justify-content-center">
                 <div class="col col-lg-3">
-                    <img class="panel-picture" src="img/speakers/GerassimosSpyridakis.jpg"></a>
-                    <div class="name">Moderator: Gerassimos Spyridakis</div>
-                    <div class="title">Chairman MITEF Greece</div>    
+                    <img class="panel-picture" src="img/speakers/FayeOrfanou.jpg"></a>
+                    <div class="name">Moderator: Faye Orfanou</div>
+                    <div class="title">Innovation Management & Tech Transfer Advisor</div>    
                 </div>
             </div>
         </div>
-        -->
+        <br><br>
         <br><br>
 
         <script src="../assets/js/scripts.js"></script>
