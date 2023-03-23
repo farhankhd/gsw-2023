@@ -776,6 +776,12 @@
                     <div class="title">Head of Group Research</div>
                     <div class="title">TITAN Cement Group</div>
                 </div>
+                <div class="col col-lg-2">
+                    <img class="panel-picture" src="img/speakers/ProdromosTsiavos.jpg"></a>
+                    <div class="name">Prodromos Tsiavos</div>
+                    <div class="title">Head of Digital Development and Innovation</div>
+                    <div class="title">Onassis Group</div>
+                </div>
             </div>
             <div class="row justify-content-center">
                 <div class="col col-lg-3">
