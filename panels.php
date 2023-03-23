@@ -763,12 +763,14 @@
                 <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/LeonidasAlexopoulos.jpeg"></a>
                     <div class="name">Leonidas Alexopoulos</div>
-                    <div class="title">Professor NTUA</div>
+                    <div class="title">Professor, Director of Systems Bioengineering Lab</div>
+                    <div class="title">NTUA</div>
                 </div>
                 <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/GeorgeLoudos.jpeg"></a>
                     <div class="name">George Loudos</div>
-                    <div class="title">Co-founder and CEO, Biomedtech</div>
+                    <div class="title">Co-founder and CEO</div>
+                    <div class="title">Biomedtech</div>
                 </div>
                 <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/MariosKatsiotis.jpg"></a>
