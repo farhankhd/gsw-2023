@@ -234,7 +234,7 @@
             </div>
             <div class="row justify-content-center">
                 <div class="col col-lg-3">
-                    <!--<img class="panel-picture" src="img/moderators/">-->
+                    <img class="panel-picture" src="img/speakers/KellyBecker.jpeg">
                     <div class="name">Kelly</div>
                     <div class="name">Becker</div>
                     <div style="color: #7d4270" class="title">Moderator</div>
@@ -298,7 +298,7 @@
             </div>
             <div class="row justify-content-center">
                 <div class="col col-lg-3">
-                    <!--<img class="panel-picture" src="img/speakers/"></a>-->
+                    <img class="panel-picture" src="img/speakers/LazarosPolymenakos.jpg"></a>
                     <div class="name">Lazaros</div>
                     <div class="name">Polymenakos</div>
                     <div style="color: #7d4270" class="title">Moderator</div>
@@ -498,6 +498,8 @@
 
         </div>
         <br><br>
+        <br><br>
+        <br><br>
 
 
         <div class="container">
@@ -607,7 +609,7 @@
             </div>
             <div class="row justify-content-center">
                 <div class="col col-lg-3">
-                    <!--<img class="panel-picture" src="img/speakers/"></a>-->
+                    <!--<img class="panel-picture" src="img/speakers/KellyBecker.jpeg"></a>-->
                     <div class="name">Kelly</div>
                     <div class="name">Becker</div>
                     <div style="color: #7d4270" class="title">Moderator</div>
@@ -712,10 +714,12 @@
                     <div class="title">Head of Group Research</div>
                     <div class="title">TITAN Cement Group</div>
                 </div>
+            </div>
             <div class="row justify-content-center">
                 <div class="col col-lg-3">
                     <img class="panel-picture" src="img/speakers/FayeOrfanou.jpg"></a>
-                    <div class="name">Moderator: Faye Orfanou</div>
+                    <div class="name">Faye Orfanou</div>
+                    <div style="color: #7d4270" class="title">Moderator</div>
                     <div class="title">Innovation Management & Tech Transfer Advisor</div>    
                 </div>
             </div>
