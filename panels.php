@@ -763,26 +763,26 @@
                 <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/LeonidasAlexopoulos.jpeg"></a>
                     <div class="name">Leonidas Alexopoulos</div>
-                    <br>
                     <div class="title">Professor, Director of Systems Bioengineering Lab</div>
                     <div class="title">NTUA</div>
                 </div>
                 <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/GeorgeLoudos.jpeg"></a>
                     <div class="name">George Loudos</div>
+                    <br>
                     <div class="title">Co-founder and CEO</div>
                     <div class="title">Biomedtech</div>
                 </div>
                 <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/MariosKatsiotis.jpg"></a>
                     <div class="name">Marios Katsiotis</div>
+                    <br>
                     <div class="title">Head of Group Research</div>
                     <div class="title">TITAN Cement Group</div>
                 </div>
                 <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/ProdromosTsiavos.jpg"></a>
                     <div class="name">Prodromos Tsiavos</div>
-                    <br>
                     <div class="title">Head of Digital Development and Innovation</div>
                     <div class="title">Onassis Group</div>
                 </div>
