@@ -609,7 +609,7 @@
             </div>
             <div class="row justify-content-center">
                 <div class="col col-lg-3">
-                    <!--<img class="panel-picture" src="img/speakers/KellyBecker.jpeg"></a>-->
+                    <img class="panel-picture" src="img/speakers/KellyBecker.jpeg"></a>
                     <div class="name">Kelly</div>
                     <div class="name">Becker</div>
                     <div style="color: #7d4270" class="title">Moderator</div>
