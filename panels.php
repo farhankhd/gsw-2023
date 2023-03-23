@@ -256,12 +256,17 @@
             <div class="row justify-content-center">
                 <div class="col-md-9">
                     <p class="bold-text" style="color: #131d25">March 30, 14:30PM-15:30PM in Trianti Hall, Athens Concert Hall</p>
-                    <!--<p class="light-text" style="color: #131d25">
-                        Join a dynamic panel of academic founders as they share the impacts of academia on industry and the economy 
-                        and how they maximize the impacts of their own work. The panel will also address the challenges of getting 
-                        research out of the lab and how they manage entrepreneurial ventures in parallel with academic work. 
-                        Learn how to set up your research for commercialization with these ambitious researcher-entrepreneurs. 
-                    </p>-->
+                    <p class="light-text" style="color: #131d25">
+                        This session will feature distinguished entrepreneurs who have successfully navigated the MITEF Greece Startup 
+                        Competition and joined the global Endeavor network. Together, they will explore the unique opportunities and 
+                        challenges of building and scaling startups in the vibrant Greek ecosystem. Through the inspiring stories of 
+                        these panelists, attendees will gain valuable insights into the rapidly emerging Athens startup scene, 
+                        which is quickly becoming a global hub for innovation and entrepreneurship. The discussion will highlight 
+                        the support provided by MITEF Greece and Endeavor Greece, emphasizing the importance of mentorship and 
+                        collaboration in driving startup success. Join us at this exciting panel to discover the transformative 
+                        potential of Greek startups and learn how Athens is positioning itself as a key player in the global innovation landscape. 
+                        Don't miss the opportunity to be part of the conversation that will shape the future of entrepreneurship in Greece and beyond.. 
+                    </p>
                 </div>
             </div>
         </div>
