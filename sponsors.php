@@ -482,6 +482,17 @@
             <a href="http://eestec.ntua.gr/"><img style="max-width: 30%; height: auto;" src="/2023/img/sponsors/eestec.png"></a>
           </div>
         </div>
+        <div class="row justify-content-center align-items-center">
+          <div class="col-sm-1 col-md-4">
+            <a href="https://www.globalshapers.org/"><img style="max-width: 50%; height: auto;" src="/2023/img/sponsors/gsah-logo.png"></a>
+          </div>
+          <div class="col-sm-1 col-md-4">
+            <a href="https://www.kemel.gr/"><img style="max-width: 50%; height: auto;" src="/2023/img/sponsors/KEMEL-logo.jpg"></a>
+          </div>
+          <div class="col-sm-1 col-md-4">
+            <a href="https://www.endeavor.org.gr/"><img style="max-width: 50%; height: auto;" src="/2023/img/sponsors/Endeavor-logo.png"></a>
+          </div>
+        </div>
       </section>
       
       <!--UNDER THE AUSPICES-->
