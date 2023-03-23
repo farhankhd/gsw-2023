@@ -251,17 +251,15 @@
                 <a href="https://www.titan-cement.com/"> <img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/titan.jpeg"></a>
               </div>
             </div>
-             <div class="row justify-content-center align-items-center">
-              <div class="col-sm-1 col-md-4">
-                <a href="https://www.eurobank.gr/en/group/esg-environment-society-governance/society/egg-enter-grow-go"> <img style="max-width: 60%; height: auto;" src="/2023/img/sponsors/EGG-Eurobank_logo.png"></a>
-              </div>
-            </div>
             <div class="row justify-content-center align-items-center">
-              <div class="col-sm-1 col-md-6">
+              <div class="col-sm-1 col-md-4">
                 <a href="https://www.microsoft.com/el-gr/"> <img style="max-width: 75%; height: auto;" src="/2023/img/sponsors/Microsoft.png"></a>
               </div>
-              <div class="col-sm-1 col-md-6">
+              <div class="col-sm-1 col-md-4">
                 <a href="https://www.microsoft.com/el-gr/"> <img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/MicrosoftTeams.png"></a>
+              </div>
+              <div class="col-sm-1 col-md-4">
+                <a href="https://www.eurobank.gr/en/group/esg-environment-society-governance/society/egg-enter-grow-go"> <img style="max-width: 60%; height: auto;" src="/2023/img/sponsors/EGG-Eurobank_logo.png"></a>
               </div>
             </div>
             <div class="row justify-content-center align-items-center">
