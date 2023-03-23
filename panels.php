@@ -244,7 +244,64 @@
         </div>
         <br><br>
 
-        
+ 
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col">
+                    <!--<img style="max-width: 80%; height: auto;" src="/2023/img/panel/innovationinacademia.png"/>-->
+                    <p class="bold-text" style="color: #131d25">Endeavor Greece Panel, Tech & Innovative Entrepreneurship out of Greece</p>
+                </div>
+            </div>
+            <br>
+            <div class="row justify-content-center">
+                <div class="col-md-9">
+                    <p class="bold-text" style="color: #131d25">March 30, 14:30PM-15:30PM in Trianti Hall, Athens Concert Hall</p>
+                    <!--<p class="light-text" style="color: #131d25">
+                        Join a dynamic panel of academic founders as they share the impacts of academia on industry and the economy 
+                        and how they maximize the impacts of their own work. The panel will also address the challenges of getting 
+                        research out of the lab and how they manage entrepreneurial ventures in parallel with academic work. 
+                        Learn how to set up your research for commercialization with these ambitious researcher-entrepreneurs. 
+                    </p>-->
+                </div>
+            </div>
+        </div>
+        <br>
+
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col col-lg-2">
+                    <img class="panel-picture" src="img/speakers/NikosMoschos.jpg"></a>
+                    <div class="name">Nikos</div>
+                    <div class="name">Moschos</div>
+                    <div class="title">Managing Director</div>
+                    <div class="title">Endeavor Greece</div>
+                </div>
+                <div class="col col-lg-2">
+                    <img class="panel-picture" src="img/speakers/CharisArvanitis.png"></a>
+                    <div class="name">Charis</div>
+                    <div class="name">Arvanitis</div>
+                    <div class="title">CEO, Co-founder</div>
+                    <div class="title">Spotawheel</div>
+                </div>
+                <div class="col col-lg-2">
+                    <img class="panel-picture" src="img/speakers/PanagiotisKarampinis.png">
+                    <div class="name">Panagiotis</div>
+                    <div class="name">Karampinis</div>
+                    <div class="title">Managing Director</div>
+                    <div class="title">Endeavor Greece</div>
+                </div>
+            </div>
+            <!--<div class="row justify-content-center">
+                <div class="col col-lg-3">
+                    <img class="panel-picture" src="img/speakers/KellyBecker.jpeg">
+                    <div class="name">Kelly</div>
+                    <div class="name">Becker</div>
+                    <div style="color: #7d4270" class="title">Moderator</div>
+                    <div class="title">MIT Regional Entrepreneurship Acceleration Program</div>
+                </div>
+            </div>-->
+        </div>
+        <br><br>       
 
         <div class="container">
             <div class="row justify-content-center">
@@ -709,7 +766,7 @@
                     <div class="title">Co-founder and CEO, Biomedtech</div>
                 </div>
                 <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/PanosDimitracopoulos.jpg"></a>
+                    <img class="panel-picture" src="img/speakers/MariosKatsiotis.jpg"></a>
                     <div class="name">Marios Katsiotis</div>
                     <div class="title">Head of Group Research</div>
                     <div class="title">TITAN Cement Group</div>
