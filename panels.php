@@ -771,6 +771,7 @@
                     <div class="name">George Loudos</div>
                     <br>
                     <div class="title">Co-founder and CEO</div>
+                    <br><br>
                     <div class="title">Biomedtech</div>
                 </div>
                 <div class="col col-lg-2">
@@ -778,6 +779,7 @@
                     <div class="name">Marios Katsiotis</div>
                     <br>
                     <div class="title">Head of Group Research</div>
+                    <br>
                     <div class="title">TITAN Cement Group</div>
                 </div>
                 <div class="col col-lg-2">
