@@ -181,6 +181,7 @@
                     <img class="panel-picture" src="img/speakers/MacauleyKenney.jpg"></a>
                     <div class="name">Macauley</div>
                     <div class="name">Kenney</div>
+                    <div class="title">Entrepreneur in-Residence & Lecturer</div>
                     <div class="title">MIT</div>    
                 </div>
             </div>
