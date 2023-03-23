@@ -44,9 +44,9 @@
             <article class="content ">
                 <div class="col-xs-12 col-md-12">
                     <span class="anchor" id="schedule-navigation"></span>
-                    <p class="text-center">
+                    <!--<p class="text-center">
                         Subject to change.
-                    </p>
+                    </p>-->
                     <br>
                 </div>
           </article>
