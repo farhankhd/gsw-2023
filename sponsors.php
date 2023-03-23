@@ -356,6 +356,9 @@
               <div class="col-sm-1 col-lg-6">
                 <a href="https://www.thesarmproject.com/"> <img style="max-width: 40%; height: auto;" src="/2023/img/sponsors/sarm.jpeg"></a>
               </div>
+              <div class="col-sm-1 col-lg-6">
+                <a href="https://https://narratologies.com/"> <img style="max-width: 40%; height: auto;" src="/2023/img/sponsors/Narratologies-logo.png"></a>
+              </div>
             </div>
           </div>
         </div>
