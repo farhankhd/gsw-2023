@@ -61,7 +61,7 @@
             <br>
             <div class="row justify-content-center">
                 <div class="col-md-9">
-                    <p class="bold-text" style="color: #131d25">March 30, 11:30AM-12:30PM in Trianti Hall, Athens Concert Hall</p>
+                    <p class="bold-text" style="color: #131d25">March 30, 11:30-12:30 in Trianti Hall, Athens Concert Hall</p>
                     <p class="light-text" style="color: #131d25">
                         How do you know if your idea will make a successful business? 
                         This panel will explain how to identify promising opportunities for new tech ventures. 
@@ -121,7 +121,7 @@
             <br>
             <div class="row justify-content-center">
                 <div class="col-md-9">
-                    <p class="bold-text" style="color: #131d25">March 30, 11:30AM-12:30PM in Trianti Hall, Athens Concert Hall</p>
+                    <p class="bold-text" style="color: #131d25">March 30, 11:30-12:30 in Trianti Hall, Athens Concert Hall</p>
                     <p class="light-text" style="color: #131d25">
                         Join a panel of funding experts as they delve into the complexities of funding tech ventures. 
                         Explore the factors that make a venture more fundable as well as those that indicate high risk. 
@@ -179,7 +179,7 @@
             <br>
             <div class="row justify-content-center">
                 <div class="col-md-9">
-                    <p class="bold-text" style="color: #131d25">March 30, 14:30PM-15:30PM in Trianti Hall, Athens Concert Hall</p>
+                    <p class="bold-text" style="color: #131d25">March 30, 14:30-15:30 in Trianti Hall, Athens Concert Hall</p>
                     <p class="light-text" style="color: #131d25">
                         Join a dynamic panel of academic founders as they share the impacts of academia on industry and the economy 
                         and how they maximize the impacts of their own work. The panel will also address the challenges of getting 
@@ -243,7 +243,7 @@
             <br>
             <div class="row justify-content-center">
                 <div class="col-md-9">
-                    <p class="bold-text" style="color: #131d25">March 30, 14:30PM-15:30PM in Trianti Hall, Athens Concert Hall</p>
+                    <p class="bold-text" style="color: #131d25">March 30, 14:30-15:30 in Trianti Hall, Athens Concert Hall</p>
                     <p class="light-text" style="color: #131d25">
                         This session will feature distinguished entrepreneurs who have successfully navigated the MITEF Greece Startup 
                         Competition and joined the global Endeavor network. Together, they will explore the unique opportunities and 
@@ -306,7 +306,7 @@
             <br>
             <div class="row justify-content-center">
                 <div class="col-md-9">
-                    <p class="bold-text" style="color: #131d25">March 30, 16:30PM-17:30PM in Trianti Hall, Athens Concert Hall</p>
+                    <p class="bold-text" style="color: #131d25">March 30, 16:30-17:30 in Trianti Hall, Athens Concert Hall</p>
                     <p class="light-text" style="color: #131d25">
                         An impressive lineup of AI and machine learning experts convenes to explore the trajectory of AI in a wide array of sectors. 
                         From the supersonic speed of change to ethical dilemmas, this panel will dive into the real challenges, and opportunities, ahead in AI. 
@@ -368,7 +368,7 @@
             <br>
             <div class="row justify-content-center">
                 <div class="col-md-9">
-                    <p class="bold-text" style="color: #131d25">March 30, 16:30PM-17:30PM in Trianti Hall, Athens Concert Hall</p>
+                    <p class="bold-text" style="color: #131d25">March 30, 16:30-17:30 in Trianti Hall, Athens Concert Hall</p>
                     <p class="light-text" style="color: #131d25">
                         Digital technology experts discuss the ways that digital technologies are changing and changing other industries, 
                         with an eye toward future trends. 
@@ -434,7 +434,7 @@
             <br>
             <div class="row justify-content-center">
                 <div class="col-md-9">
-                    <p class="bold-text" style="color: #131d25">March 31, 11:00AM-12:00PM in Trianti Hall, Athens Concert Hall</p>
+                    <p class="bold-text" style="color: #131d25">March 31, 11:00-12:00 in Trianti Hall, Athens Concert Hall</p>
                     <p class="light-text" style="color: #131d25">
                         Hear our biotechnology experts discuss frontiers at the intersection of biology, health, medicine, and technology in sectors from global health to academia. 
                         Panelists will share the challenges faced by biotech ventures and the roles that other emerging technologies play in biotech. 
@@ -499,7 +499,7 @@
             <br>
             <div class="row justify-content-center">
                 <div class="col-md-9">
-                    <p class="bold-text" style="color: #131d25">March 31, 11:00AM-12:00PM in Trianti Hall, Athens Concert Hall</p>
+                    <p class="bold-text" style="color: #131d25">March 31, 11:00-12:00 in Trianti Hall, Athens Concert Hall</p>
                     <p class="light-text" style="color: #131d25">
                         Join deep tech entrepreneurs and investors as they delve into the complex and rapidly evolving world of deep tech. 
                         They will explore what makes a promising deep tech venture and strategies for de-risking deep tech, 
@@ -558,7 +558,7 @@
             <br>
             <div class="row justify-content-center">
                 <div class="col-md-9">
-                    <p class="bold-text" style="color: #131d25">March 31, 11:00AM-12:00PM in Trianti Hall, Athens Concert Hall</p>
+                    <p class="bold-text" style="color: #131d25">March 31, 11:00-12:00 in Trianti Hall, Athens Concert Hall</p>
                     <p class="light-text" style="color: #131d25">
                         From emerging insights in learning science, to new technology tools that bring cutting-edge topics 
                         and training to large organizations at scale, to field-testing practical approaches that deliver 
@@ -610,7 +610,7 @@
             <br>
             <div class="row justify-content-center">
                 <div class="col-md-9">
-                    <p class="bold-text" style="color: #131d25">March 31, 15:30PM-16:30PM in Trianti Hall, Athens Concert Hall</p>
+                    <p class="bold-text" style="color: #131d25">March 31, 15:30-16:30 in Trianti Hall, Athens Concert Hall</p>
                     <p class="light-text" style="color: #131d25">
                         Leaders in sustainability explore the evolving marketplace for sustainable tech and discuss critical determinants of success, 
                         such as funding and cost-competitiveness, in the sector over the coming years. 
@@ -673,7 +673,7 @@
             <br>
             <div class="row justify-content-center">
                 <div class="col-md-9">
-                    <p class="bold-text" style="color: #131d25">March 31, 15:30PM-16:30PM in Trianti Hall, Athens Concert Hall</p>
+                    <p class="bold-text" style="color: #131d25">March 31, 15:30-16:30 in Trianti Hall, Athens Concert Hall</p>
                     <p class="light-text" style="color: #131d25">
                        Representatives from top Greek companies with global presence in shipping and energy convene to 
                        discuss how technology is changing their business and how they invest in new startups and emerging 
@@ -729,7 +729,7 @@
             <br>
             <div class="row justify-content-center">
                 <div class="col-md-9">
-                    <p class="bold-text" style="color: #131d25">March 31, 15:30PM-16:30PM in Trianti Hall, Athens Concert Hall</p>
+                    <p class="bold-text" style="color: #131d25">March 31, 15:30-16:30 in Trianti Hall, Athens Concert Hall</p>
                     <p class="light-text" style="color: #131d25">
                         In the fast growing global deep-tech economy, what would be required to unfold the Greek deep-tech potential? 
                         How can an effective interconnection between academia and entrepreneurship be critical? The panel will discuss the 
