@@ -283,6 +283,13 @@
                     <div class="title">Managing Director</div>
                     <div class="title">Endeavor Greece</div>
                 </div>
+                <div class="col col-lg-2">
+                    <img class="panel-picture" src="img/speakers/ApostolosAtsalakis.png">
+                    <div class="name">Apostolos</div>
+                    <div class="name">Atsalakis</div>
+                    <div class="title">Co-Founder</div>
+                    <div class="title">PNO</div>
+                </div> 
             </div>
             <!--<div class="row justify-content-center">
                 <div class="col col-lg-3">
