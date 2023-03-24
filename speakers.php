@@ -49,7 +49,7 @@ include('markup.php');
 
         <div class="row">
                 <div class="col">
-                        <h1 class="para text-center gradient-text" id="team-section">Plenary</h1>
+                        <h1 class="para text-center gradient-text" id="team-section">Government Officials</h1>
                         <hr class="team-hr">
                 </div>
         </div>
@@ -67,6 +67,31 @@ include('markup.php');
                                        He also holds a Bachelor’s degree in computer science from Athens University of Economics and Business. 
                                        He served as Director of Research at Dianeosis, an independent non-profit think tank. He produced an array of research papers with a strong focus on economic growth and 
                                        understanding the prevailing perceptions and beliefs among Greeks. He has also worked on technology policy for various research institutes in Greece and abroad and headed Youth Foundation as president.</p>
+                </div>
+        </div>
+        <div class="row speaker-expanded-bio">
+                <span class="anchor" id="N/A"></span>
+                <div class="speaker col-sm-6 col-md-4 col-lg-3">
+                        <img class="speaker-picture" src="img/speakers/ChristosDimis.jpg">
+                </div>
+                <div class="col-sm-6 col-md-8 col-lg-9">
+                        <div class="name">Christos Dimas</div>
+                        <div class="title">Deputy Minister for Research and Technology</div>
+                        <p class="bio">Kyriakos Pierrakakis is the Minister of Digital Governance in the Cabinet of Kyriakos Mitsotakis. 
+                                       Dr Christos Dimas is a lawyer and a Member of the Hellenic Parliament, representing Nea Demokratia in the 
+                                district of Korinthia.He was born on the 29th of May 1980 and graduated from Athens College.Christos obtained his 
+                                LLB degrees from the Law School of the National and Kapodistrian University of Athens and from Queen Mary University of London. 
+                                He completed his Masters Degree in Comparative Politics at the London School of Economics and Political Science (LSE). 
+                                At the LSE, he finished his PhD in European Political Economy, as a scholar of the Alexander Onassis Public Benefit Foundation. 
+                                His thesis title was «National institutional contexts and domestic discourse during proposed transformative policy change. 
+                                The case of the telecoms privatization in Greece and the Republic of Ireland. During his studies, he worked as the London 
+                                correspondent of Apogevmatini newspaper and practiced journalism at the BBC. At the age of 25, Christos taught the course 
+                                «Introduction to Comparative Politics» at the LSE Government Department. He has also taught the course 
+                                «Mass Media and Social Regulation at ICON College, University of Leicester and worked as a research associate at the 
+                                European Centre of Excellence «Jean Monnet». He has published many articles in Greek and international journals. 
+                                Before entering politics, he worked in the private sector as a business consultant for the Boston Consulting Group (BCG). 
+                                Since 2012, Mr Dimas serves as Member of Hellenic Parliament for Corinthia and from July 2019 he is Deputy Minister for 
+                                Research and Technology.</p>
                 </div>
         </div>
         
