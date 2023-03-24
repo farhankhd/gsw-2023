@@ -592,7 +592,7 @@
                     <img class="panel-picture" src="img/speakers/KaterinaBagiati.jpeg"></a>
                     <div class="name">Katerina</div>
                     <div class="name">Bagiati</div>
-                    <div class="title">Principle Research Scientist</div>
+                    <div class="title">Principal Research Scientist</div>
                     <div class="title">MIT Open Learning</div>
                 </div>
                 <div class="col col-lg-2">
