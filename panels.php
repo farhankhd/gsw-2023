@@ -248,8 +248,8 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col">
-                    <!--<img style="max-width: 80%; height: auto;" src="/2023/img/panel/innovationinacademia.png"/>-->
-                    <p class="bold-text" style="color: #131d25">Endeavor Greece Panel, Tech & Innovative Entrepreneurship out of Greece</p>
+                    <img style="max-width: 80%; height: auto;" src="/2023/img/panel/endeavorgreece.png"/>
+                    <!--<p class="bold-text" style="color: #131d25">Endeavor Greece Panel, Tech & Innovative Entrepreneurship out of Greece</p>-->
                 </div>
             </div>
             <br>
@@ -373,7 +373,7 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col">
-                    <img style="max-width: 80%; height: auto;" src="/2023/img/panel/digitanddisruption.png"/>
+                    <img style="max-width: 80%; height: auto;" src="/2023/img/panel/digitizationanddisruption.png"/>
                 </div>
             </div>
             <br>
@@ -740,7 +740,7 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col">
-                    <img style="max-width: 80%; height: auto;" src="/2023/img/panel/thrivingingreece.png"/>
+                    <img style="max-width: 80%; height: auto;" src="/2023/img/panel/researchcommercialization.png"/>
                 </div>
             </div>
             <br>
