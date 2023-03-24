@@ -76,7 +76,7 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/MarinaHatsopoulos.jpg"></a>
+                    <img class="panel-picture" src="img/speakers/MarinaHatsopoulos.jpg">
                     <div class="name">Marina</div>
                     <div class="name">Hatsopoulos</div>
                     <div class="title">Entrepreneur & Writer</div>
@@ -84,7 +84,7 @@
                     <div class="title">Board Chair, Levitronix Technologies</div>
                 </div>
                 <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/LarsRasmussen.jpg"></a>
+                    <img class="panel-picture" src="img/speakers/LarsRasmussen.jpg">
                     <div class="name">Lars</div>
                     <div class="name">Rasmussen</div>
                     <div class="title">Angel Investor</div>
@@ -92,7 +92,7 @@
                     <div class="title">Co-founder of Google Maps</div>
                 </div>
                 <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/MariaZubeldia.jpg"></a>
+                    <img class="panel-picture" src="img/speakers/MariaZubeldia.jpg">
                     <div class="name">Maria Zubeldia</div>
                     <div class="name">Diaz</div>
                     <div class="title">Director of Entrepreneurship Centre</div>
@@ -101,7 +101,7 @@
             </div>
             <div class="row justify-content-center">
                 <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/MacauleyKenney.jpg"></a>
+                    <img class="panel-picture" src="img/speakers/MacauleyKenney.jpg">
                     <div class="name">Macauley<div>
                     <div class="name">Kenney</div>
                     <div style="color: #7d4270" class="title">Moderator</div>
@@ -135,25 +135,25 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/LironAzrielant.jpg"></a>
+                    <img class="panel-picture" src="img/speakers/LironAzrielant.jpg">
                     <div class="name">Liron</div>
                     <div class="name">Azrielant</div>
                     <div class="title">Managing Partner at Meron Capital</div>
                 </div>
                 <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/FrancoisRobinet.jpg"></a>
+                    <img class="panel-picture" src="img/speakers/FrancoisRobinet.jpg">
                     <div class="name">François</div>
                     <div class="name">Robinet</div>
                     <div class="title">Managing Director of AXA Strategic Ventures</div>
                 </div>
                 <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/AlexEleftheriadis.jpg"></a>
+                    <img class="panel-picture" src="img/speakers/AlexEleftheriadis.jpg">
                     <div class="name">Alex</div>
                     <div class="name">Eleftheriadis</div>
                     <div class="title">Entrepreneur and Partner at Big Pi Ventures</div>
                 </div>
                 <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/RobGenieser.jpg"></a>
+                    <img class="panel-picture" src="img/speakers/RobGenieser.jpg">
                     <div class="name">Rob</div>
                     <div class="name">Genieser</div>
                     <div class="title">Managing Partner at ETF Partners</div>
@@ -161,7 +161,7 @@
             </div>
             <div class="row justify-content-center">
                 <div class="col col-lg-3">
-                    <!--<img class="panel-picture" src="img/moderators/">-->
+                    <img class="panel-picture" src="img/speakers/KathleenKennedy.jpg">
                     <div class="name">Kathleen</div>
                     <div class="name">Kennedy</div>
                     <div style="color: #7d4270" class="title">Moderator</div>
@@ -194,14 +194,14 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/GeorgeNounesis.jpg"></a>
+                    <img class="panel-picture" src="img/speakers/GeorgeNounesis.jpg">
                     <div class="name">George</div>
                     <div class="name">Nounesis</div>
                     <div class="title">President & Chairman of the Board</div>
                     <div class="title">Demokritos</div>
                 </div>
                 <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/BrianAnthony.jpg"></a>
+                    <img class="panel-picture" src="img/speakers/BrianAnthony.jpg">
                     <div class="name">Brian</div>
                     <div class="name">Anthony</div>
                     <div class="title">Associate Director of MIT.nano</div>
@@ -263,14 +263,14 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/NikosMoschos.jpg"></a>
+                    <img class="panel-picture" src="img/speakers/NikosMoschos.jpg">
                     <div class="name">Nikos</div>
                     <div class="name">Moschos</div>
                     <div class="title">Founder & Business Director</div>
                     <div class="title">PD Neurotechnology</div>
                 </div>
                 <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/CharisArvanitis.png"></a>
+                    <img class="panel-picture" src="img/speakers/CharisArvanitis.png">
                     <div class="name">Charis</div>
                     <div class="name">Arvanitis</div>
                     <div class="title">CEO, Co-founder</div>
@@ -319,28 +319,28 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/TheodorosEvgeniou.jpg"></a>
+                    <img class="panel-picture" src="img/speakers/TheodorosEvgeniou.jpg">
                     <div class="name">Theodoros</div>
                     <div class="name">Evgeniou</div>
                     <div class="title">INSEAD Professor</div>
                     <div class="title">Co-founder Tremau</div>
                 </div>
                 <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/AnuAnnaswamy.jpg"></a>
+                    <img class="panel-picture" src="img/speakers/AnuAnnaswamy.jpg">
                     <div class="name">Anu</div>
                     <div class="name">Annaswamy</div>
                     <div class="title">Director of the Active-Adaptive Lab</div>
                     <div class="title">MIT Mech. Eng</div>
                 </div>
                 <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/TylerSpalding.jpg"></a>
+                    <img class="panel-picture" src="img/speakers/TylerSpalding.jpg">
                     <div class="name">Tyler</div>
                     <div class="name">Spalding</div>
                     <div class="title">Co-founder</div>
                     <div class="title">Flexa</div>
                 </div>
                  <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/SnejinaZacharia.jpg"></a>
+                    <img class="panel-picture" src="img/speakers/SnejinaZacharia.jpg">
                     <div class="name">Snejina</div>
                     <div class="name">Zacharia</div>
                     <div class="title">Founder & CEO</div>
@@ -349,7 +349,7 @@
             </div>
             <div class="row justify-content-center">
                 <div class="col col-lg-3">
-                    <img class="panel-picture" src="img/speakers/LazarosPolymenakos.jpg"></a>
+                    <img class="panel-picture" src="img/speakers/LazarosPolymenakos.jpg">
                     <div class="name">Lazaros</div>
                     <div class="name">Polymenakos</div>
                     <div style="color: #7d4270" class="title">Moderator</div>
@@ -385,28 +385,28 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/KostaLigris.jpg"></a>
+                    <img class="panel-picture" src="img/speakers/KostaLigris.jpg">
                     <div class="name">Kosta</div>
                     <div class="name">Ligris</div>
                     <div class="title">Entrepreneur, EIR, & Lecturer</div>
                     <div class="title">MIT</div>
                 </div>
                 <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/TimosSellis.jpg"></a>
+                    <img class="panel-picture" src="img/speakers/TimosSellis.jpg">
                     <div class="name">Timos</div>
                     <div class="name">Sellis</div>
                     <div class="title">Scientific Director</div>
                     <div class="title">Archimedes Research Unit, Research Center "Athena"</div>
                 </div>
                 <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/ChuckKane.jpg"></a>
+                    <img class="panel-picture" src="img/speakers/ChuckKane.jpg">
                     <div class="name">Chuck</div>
                     <div class="name">Kane</div>
                     <div class="title">Entrepreneurship Professor</div>
                     <div class="title">MIT</div>
                 </div>
                  <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/MichaelTzannes.jpg"></a>
+                    <img class="panel-picture" src="img/speakers/MichaelTzannes.jpg">
                     <div class="name">Michael</div>
                     <div class="name">Tzannes</div>
                     <div class="title">Technology Entrepreneur</div>
@@ -414,7 +414,7 @@
             </div>
             <div class="row justify-content-center">
                 <div class="col col-lg-3">
-                    <img class="panel-picture" src="img/speakers/myladieStoumbou.jpeg"></a>
+                    <img class="panel-picture" src="img/speakers/myladieStoumbou.jpeg">
                     <div class="name">Myladie</div>
                     <div class="name">Stoumbou</div>
                     <div style="color: #7d4270" class="title">Moderator</div>
@@ -448,28 +448,28 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/SteliosPapadopoulos.jpg"></a>
+                    <img class="panel-picture" src="img/speakers/SteliosPapadopoulos.jpg">
                     <div class="name">Stelios</div>
                     <div class="name">Papadopoulos</div>
                     <div class="title">Chairman of Board of Directors</div>
                     <div class="title">Biogen Inc.</div>
                 </div>
                  <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/BrianAnthony.jpg"></a>
+                    <img class="panel-picture" src="img/speakers/BrianAnthony.jpg">
                     <div class="name">Brian</div>
                     <div class="name">Anthony</div>
                     <div class="title">Associate Director of MIT.nano</div>
                     <div class="title">Faculty of Mech.Eng at MIT</div>
                 </div>
                 <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/NektariosTavernarakis.jpg"></a>
+                    <img class="panel-picture" src="img/speakers/NektariosTavernarakis.jpg">
                     <div class="name">Nektarios</div>
                     <div class="name">Tavernarakis</div>
                     <div class="title">Chairman of the Board Of Directors, Professor</div>
                     <div class="title">FORTH & University of Crete</div>
                 </div>
                  <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/SloanePhillips.jpg"></a>
+                    <img class="panel-picture" src="img/speakers/SloanePhillips.jpg">
                     <div class="name">Sloane</div>
                     <div class="name">Allebes Phillips</div>
                     <div class="title">VP of Data Operations</div>
@@ -478,7 +478,7 @@
             </div>
             <div class="row justify-content-center">
                 <div class="col col-lg-3">
-                    <img class="panel-picture" src="img/speakers/DimitriosFotiadis.jpeg"></a>
+                    <img class="panel-picture" src="img/speakers/DimitriosFotiadis.jpeg">
                     <div class="name">Dimitrios I.</div>
                     <div class="name">Fotiadis</div>
                     <div style="color: #7d4270" class="title">Moderator</div>
@@ -515,21 +515,21 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/WilliamSonneborn.jpg"></a>
+                    <img class="panel-picture" src="img/speakers/WilliamSonneborn.jpg">
                     <div class="name">William</div>
                     <div class="name">Sonneborn</div>
                     <div class="title">Global Director of Disruptive Tech</div>
                     <div class="title">International Finance Corporation (IFC)</div>
                 </div>
                 <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/AlexEleftheriadis.jpg"></a>
+                    <img class="panel-picture" src="img/speakers/AlexEleftheriadis.jpg">
                     <div class="name">Alex</div>
                     <div class="name">Eleftheriadis</div>
                     <div class="title">Entrepreneur and Partner</div>
                     <div class="title">Big Pi Ventures</div>
                 </div>
                 <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/OdedGour-Lavie.jpg"></a>
+                    <img class="panel-picture" src="img/speakers/OdedGour-Lavie.jpg">
                     <div class="name">Oded</div>
                     <div class="name">Gour-Lavie</div>
                     <div class="title">CEO and Co-founder</div>
@@ -538,7 +538,7 @@
             </div>
             <div class="row justify-content-center">
                 <div class="col col-lg-3">
-                    <img class="panel-picture" src="img/speakers/MarinaHatsopoulos.jpg"></a>
+                    <img class="panel-picture" src="img/speakers/MarinaHatsopoulos.jpg">
                     <div class="name">Marina<div>
                     <div class="name">Hatsopoulos</div>
                     <div style="color: #7d4270" class="title">Moderator</div>
@@ -574,14 +574,14 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/KaterinaBagiati.jpeg"></a>
+                    <img class="panel-picture" src="img/speakers/KaterinaBagiati.jpeg">
                     <div class="name">Katerina</div>
                     <div class="name">Bagiati</div>
                     <div class="title">Principal Research Scientist</div>
                     <div class="title">MIT Open Learning</div>
                 </div>
                 <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/KathleenKennedy.jpg"></a>
+                    <img class="panel-picture" src="img/speakers/KathleenKennedy.jpg">
                     <div class="name">Kathleen</div>
                     <div class="name">Kennedy</div>
                     <div class="title">Senior Director</div>
@@ -590,7 +590,7 @@
             </div>
             <div class="row justify-content-center">
                 <div class="col col-lg-3">
-                    <img class="panel-picture" src="img/speakers/AnjaliSastry.jpeg"></a>
+                    <img class="panel-picture" src="img/speakers/AnjaliSastry.jpeg">
                     <div class="name">Anjali<div>
                     <div class="name">Sastry</div>
                     <div style="color: #7d4270" class="title">Moderator</div>
@@ -624,28 +624,28 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/MilesBarr.jpg"></a>
+                    <img class="panel-picture" src="img/speakers/MilesBarr.jpg">
                     <div class="name">Miles</div>
                     <div class="name">Barr</div>
                     <div class="title">Co-Founder and Chief Technology Officer</div>
                     <div class="title">Ubiquitous Energy</div>
                 </div>
                 <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/AnuAnnaswamy.jpg"></a>
+                    <img class="panel-picture" src="img/speakers/AnuAnnaswamy.jpg">
                     <div class="name">Anu</div>
                     <div class="name">Annaswamy</div>
                     <div class="title">Director of the Active-Adaptive Lab</div>
                     <div class="title">MIT Mech. Eng</div>
                 </div>
                 <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/OdedGour-Lavie.jpg"></a>
+                    <img class="panel-picture" src="img/speakers/OdedGour-Lavie.jpg">
                     <div class="name">Oded</div>
                     <div class="name">Gour-Lavie</div>
                     <div class="title">CEO and Co-founder</div>
                     <div class="title">NT-TAO</div>
                 </div>
                  <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/AliseeDeTonnac.jpg"></a>
+                    <img class="panel-picture" src="img/speakers/AliseeDeTonnac.jpg">
                     <div class="name">Alisée</div>
                     <div class="name">de Tonnac</div>
                     <div class="title">CEO & Co-founder</div>
@@ -654,7 +654,7 @@
             </div>
             <div class="row justify-content-center">
                 <div class="col col-lg-3">
-                    <img class="panel-picture" src="img/speakers/KellyBecker.jpeg"></a>
+                    <img class="panel-picture" src="img/speakers/KellyBecker.jpeg">
                     <div class="name">Kelly</div>
                     <div class="name">Becker</div>
                     <div style="color: #7d4270" class="title">Moderator</div>
@@ -709,7 +709,7 @@
             </div>
             <div class="row justify-content-center">
                 <div class="col col-lg-3">
-                    <img class="panel-picture" src="img/speakers/GerassimosSpyridakis.jpg"></a>
+                    <img class="panel-picture" src="img/speakers/GerassimosSpyridakis.jpg">
                     <div class="name">Gerassimos<div>
                     <div class="name">Spyridakis</div>
                     <div style="color: #7d4270" class="title">Moderator</div>
@@ -744,14 +744,14 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/LeonidasAlexopoulos.jpeg"></a>
+                    <img class="panel-picture" src="img/speakers/LeonidasAlexopoulos.jpeg">
                     <div class="name">Leonidas</div>
                     <div class="name">Alexopoulos</div>
                     <div class="title">Professor, Director of Systems Bioengineering Lab</div>
                     <div class="title">NTUA</div>
                 </div>
                 <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/GeorgeLoudos.jpeg"></a>
+                    <img class="panel-picture" src="img/speakers/GeorgeLoudos.jpeg">
                     <div class="name">George</div>
                     <div class="name">Loudos</div>
                     <br>
@@ -760,7 +760,7 @@
                     <div class="title">Biomedtech</div>
                 </div>
                 <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/MariosKatsiotis.jpg"></a>
+                    <img class="panel-picture" src="img/speakers/MariosKatsiotis.jpg">
                     <div class="name">Marios</div>
                     <div class="name">Katsiotis</div>
                     <br>
@@ -769,7 +769,7 @@
                     <div class="title">TITAN Cement Group</div>
                 </div>
                 <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/ProdromosTsiavos.jpg"></a>
+                    <img class="panel-picture" src="img/speakers/ProdromosTsiavos.jpg">
                     <div class="name">Prodromos</div>
                     <div class="name">Tsiavos</div>
                     <div class="title">Head of Digital Development and Innovation</div>
@@ -778,7 +778,7 @@
             </div>
             <div class="row justify-content-center">
                 <div class="col col-lg-3">
-                    <img class="panel-picture" src="img/speakers/FayeOrfanou.jpg"></a>
+                    <img class="panel-picture" src="img/speakers/FayeOrfanou.jpg">
                     <div class="name">Faye</div>
                     <div class="name">Orfanou</div>
                     <div style="color: #7d4270" class="title">Moderator</div>
