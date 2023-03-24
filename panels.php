@@ -567,7 +567,7 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col">
-                    <p class="bold-text" style="color: #131d25">MIT Open Learning: Building the Future of Education Panel</p>
+                    <img style="max-width: 80%; height: auto;" src="/2023/img/panel/openlearning.png"/>
                 </div>
             </div>
             <br>
