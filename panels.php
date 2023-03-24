@@ -266,8 +266,8 @@
                     <img class="panel-picture" src="img/speakers/NikosMoschos.jpg"></a>
                     <div class="name">Nikos</div>
                     <div class="name">Moschos</div>
-                    <div class="title">Managing Director</div>
-                    <div class="title">Endeavor Greece</div>
+                    <div class="title">Founder & Business Director</div>
+                    <div class="title">PD Neurotechnology</div>
                 </div>
                 <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/CharisArvanitis.png"></a>
@@ -277,13 +277,6 @@
                     <div class="title">Spotawheel</div>
                 </div>
                 <div class="col col-lg-2">
-                    <img class="panel-picture" src="img/speakers/PanagiotisKarampinis.png">
-                    <div class="name">Panagiotis</div>
-                    <div class="name">Karampinis</div>
-                    <div class="title">Managing Director</div>
-                    <div class="title">Endeavor Greece</div>
-                </div>
-                <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/ApostolosAtsalakis.png">
                     <div class="name">Apostolos</div>
                     <div class="name">Atsalakis</div>
@@ -291,15 +284,16 @@
                     <div class="title">PNOE</div>
                 </div> 
             </div>
-            <!--<div class="row justify-content-center">
+            <div class="row justify-content-center">
                 <div class="col col-lg-3">
-                    <img class="panel-picture" src="img/speakers/KellyBecker.jpeg">
-                    <div class="name">Kelly</div>
-                    <div class="name">Becker</div>
+                    <img class="panel-picture" src="img/speakers/PanagiotisKarampinis.png">
+                    <div class="name">Panagiotis</div>
+                    <div class="name">Karampinis</div>
                     <div style="color: #7d4270" class="title">Moderator</div>
-                    <div class="title">MIT Regional Entrepreneurship Acceleration Program</div>
+                    <div class="title">Managing Director</div>
+                    <div class="title">Endeavour Greece</div>
                 </div>
-            </div>-->
+            </div>
         </div>
         <br><br><br><br><br>
 
