@@ -600,7 +600,7 @@
                     <div class="name">Kathleen</div>
                     <div class="name">Kennedy</div>
                     <div class="title">Senior Director</div>
-                    <div class="title">MIT Open Learning Ventures</div>
+                    <div class="title">MIT Horizon</div>
                 </div>
             </div>
             <div class="row justify-content-center">
