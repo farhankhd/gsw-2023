@@ -46,6 +46,8 @@
         <div class="col-xs-12 col-md-12">
             <span class="anchor" id="schedule-navigation"></span>
             <p class="text-center">
+                <a style="color: blue" href="doc/gsw-agenda-2023.pdf">Click to download</a> (PDF) latest version of agenda.
+                <br />
                 Use the buttons below to view the conference schedule day by day.
                 <br />Schedule subject to change.</p>
         </div>
