@@ -288,7 +288,7 @@
                     <div class="name">Apostolos</div>
                     <div class="name">Atsalakis</div>
                     <div class="title">Co-Founder</div>
-                    <div class="title">PNO</div>
+                    <div class="title">PNOE</div>
                 </div> 
             </div>
             <!--<div class="row justify-content-center">
