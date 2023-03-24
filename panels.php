@@ -52,16 +52,6 @@
           </article>
         </section>
 
-        <!--
-        <div class="row">
-            <div class="col">
-                    <h1 class="para text-center gradient-text" id="team-section">Panels</h1>
-                    <hr class="team-hr">
-            </div>
-        </div>
-        <br>
-        -->
-
         <div id="buildingtech" class="container">
             <div class="row justify-content-center">
                 <div class="col">
@@ -120,7 +110,7 @@
                 </div>
             </div>
         </div>
-        <br><br>
+        <br><br><br><br><br>
 
         <div class="container">
             <div class="row justify-content-center">
@@ -178,7 +168,7 @@
                 </div>
             </div>
         </div>
-        <br><br>
+        <br><br><br><br><br>
 
         <div class="container">
             <div class="row justify-content-center">
@@ -242,14 +232,12 @@
                 </div>
             </div>
         </div>
-        <br><br>
+        <br><br><br><br><br>
 
- 
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col">
                     <img style="max-width: 80%; height: auto;" src="/2023/img/panel/endeavorgreece.png"/>
-                    <!--<p class="bold-text" style="color: #131d25">Endeavor Greece Panel, Tech & Innovative Entrepreneurship out of Greece</p>-->
                 </div>
             </div>
             <br>
@@ -306,7 +294,7 @@
                 </div>
             </div>-->
         </div>
-        <br><br>       
+        <br><br><br><br><br>
 
         <div class="container">
             <div class="row justify-content-center">
@@ -368,7 +356,7 @@
                 </div>
             </div>
         </div>
-        <br><br>
+        <br><br><br><br><br>
 
         <div class="container">
             <div class="row justify-content-center">
@@ -433,7 +421,7 @@
                 </div>
             </div>
         </div>
-        <br><br>
+        <br><br><br><br><br>
 
 
         <div class="container">
@@ -498,7 +486,7 @@
                 </div>
             </div>
         </div>
-        <br><br>
+        <br><br><br><br><br>
 
 
         <div class="container">
@@ -557,12 +545,8 @@
                     <div class="title">Board Chair, Levitronix Technologies</div>
                 </div>
             </div>
-
         </div>
-        <br><br>
-        <br><br>
-        <br><br>
-
+        <br><br><br><br><br>
 
         <div class="container">
             <div class="row justify-content-center">
@@ -613,10 +597,8 @@
                     <div class="title">Sloan School of Management, MIT Open Learning</div>
                 </div>
             </div>
-
         </div>
-        <br><br>
-
+        <br><br><br><br><br>
 
         <div class="container">
             <div class="row justify-content-center">
@@ -679,7 +661,7 @@
                 </div>
             </div>
         </div>
-        <br><br>
+        <br><br><br><br><br>
 
         <div class="container">
             <div class="row justify-content-center">
@@ -735,7 +717,7 @@
                 </div>
             </div>
         </div>
-        <br><br>
+        <br><br><br><br><br>
 
         <div class="container">
             <div class="row justify-content-center">
@@ -762,13 +744,15 @@
             <div class="row justify-content-center">
                 <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/LeonidasAlexopoulos.jpeg"></a>
-                    <div class="name">Leonidas Alexopoulos</div>
+                    <div class="name">Leonidas</div>
+                    <div class="name">Alexopoulos</div>
                     <div class="title">Professor, Director of Systems Bioengineering Lab</div>
                     <div class="title">NTUA</div>
                 </div>
                 <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/GeorgeLoudos.jpeg"></a>
-                    <div class="name">George Loudos</div>
+                    <div class="name">George</div>
+                    <div class="name">Loudos</div>
                     <br>
                     <div class="title">Co-founder and CEO</div>
                     <br><br>
@@ -776,7 +760,8 @@
                 </div>
                 <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/MariosKatsiotis.jpg"></a>
-                    <div class="name">Marios Katsiotis</div>
+                    <div class="name">Marios</div>
+                    <div class="name">Katsiotis</div>
                     <br>
                     <div class="title">Head of Group Research</div>
                     <br>
@@ -784,7 +769,8 @@
                 </div>
                 <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/ProdromosTsiavos.jpg"></a>
-                    <div class="name">Prodromos Tsiavos</div>
+                    <div class="name">Prodromos</div>
+                    <div class="name">Tsiavos</div>
                     <div class="title">Head of Digital Development and Innovation</div>
                     <div class="title">Onassis Group</div>
                 </div>
@@ -792,7 +778,8 @@
             <div class="row justify-content-center">
                 <div class="col col-lg-3">
                     <img class="panel-picture" src="img/speakers/FayeOrfanou.jpg"></a>
-                    <div class="name">Faye Orfanou</div>
+                    <div class="name">Faye</div>
+                    <div class="name">Orfanou</div>
                     <div style="color: #7d4270" class="title">Moderator</div>
                     <div class="title">Innovation Management & Tech Transfer Advisor</div>    
                 </div>
