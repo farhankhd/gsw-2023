@@ -402,7 +402,7 @@
          <div class="row justify-content-center align-items-center">
            <div class="speaker col-sm-6 col-md-4 col-lg-3">
                    <img class="speaker-picture" src="img/sponsors/MiltosKambourides.jpeg">
-            <p class="light-text light-bg-dark-text"> Miltos Kambourides </p>
+            <a href="https://www.www.miltos.com"> Miltos Kambourides </a>
             
           </div>
                                                                                                                                
