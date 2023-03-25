@@ -46,6 +46,8 @@
         <div class="col-xs-12 col-md-12">
             <span class="anchor" id="schedule-navigation"></span>
             <p class="text-center">
+                <a class="btn btn-default register-btn"onClick="fbq('trackCustom', 'Home_Register Now_GSW’);" href="doc/gsw-agenda-2023.pdf" role="button">Download the Agenda</a>
+                <br />
                 <a style="color: blue" href="doc/gsw-agenda-2023.pdf">Click to download</a> (PDF) latest version of agenda.
                 <br />
                 <br />
