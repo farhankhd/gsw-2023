@@ -255,6 +255,7 @@
                         <h1 class="para text-center gradient-text">Are you ready for MIT Global Startup Workshop 2023?</h1>
                     <p class="light-text light-bg-dark-text">Don't wait! <strong class="light-bg-dark-text">Buy your tickets</strong> now for a lifelong innovative experience</p>
                     </div>
+                    <a class="btn btn-default register-btn"onClick="fbq('trackCustom', 'Home_Register Now_GSW’);" href="http://eventora.gr/mit-gsw" role="button">REGISTER TO ATTEND</a>
                     <br />
                 </div>
             </div>
