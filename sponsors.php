@@ -401,8 +401,9 @@
         <br>
          <div class="row justify-content-center align-items-center">
            <div class="speaker col-sm-6 col-md-4 col-lg-3">
-                   <img class="speaker-picture" src="img/sponsors/MiltosKambourides.jpeg">
-            <a href="https://www.www.miltos.com"> Miltos Kambourides </a>
+             <a href="https://www.www.miltos.com"> Miltos Kambourides
+             <img class="speaker-picture" src="img/sponsors/MiltosKambourides.jpeg">
+             </a>
             
           </div>
                                                                                                                                
