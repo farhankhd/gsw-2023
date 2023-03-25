@@ -389,6 +389,7 @@
         </div>
       </section>
       
+      <!--IDIVIDUAL DONORS-->
       <section>
         <div class="row">
           <div class="col">
@@ -401,7 +402,7 @@
         <br>
          <div class="row justify-content-center align-items-center">
            <div class="speaker col-sm-6 col-md-4 col-lg-3">
-             <a href="https://www.www.miltos.com">
+             <a href="https://www.miltos.com">
              <img class="speaker-picture" src="img/sponsors/MiltosKambourides.jpeg">
                <p class="light-text light-bg-dark-text">Miltos Kambourides </p>
              </a>
