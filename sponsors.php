@@ -389,6 +389,26 @@
         </div>
       </section>
       
+      <section>
+        <div class="row">
+          <div class="col">
+            <h1 class="para text-center gradient-text" id="team-section">Individual Donors</h1>
+          </div>
+        </div>
+        <div class="row justify-content-center">
+          <hr class="team-hr">
+        </div>
+        <br>
+         <div class="row justify-content-center align-items-center">
+           <div class="speaker col-sm-6 col-md-4 col-lg-3">
+                   <img class="speaker-picture" src="img/sponsors/MiltosKambourides.jpeg">
+            <p class="light-text light-bg-dark-text"> Miltos Kambourides </p>
+            
+          </div>
+                                                                                                                               
+        </div>
+      </section>
+      
       <!--ACADEMIC PARTNERS-->
       <section>
         <div class="row">
