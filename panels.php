@@ -772,7 +772,9 @@
                     <img class="panel-picture" src="img/speakers/KaterinaPramatari.jpeg">
                     <div class="name">Katerina</div>
                     <div class="name">Pramatari</div>
+                    <br>
                     <div class="title">Founding Partner</div>
+                    <br>
                     <div class="title">Uni.Fund</div>
                 </div>
             </div>
