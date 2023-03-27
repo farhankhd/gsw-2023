@@ -300,7 +300,7 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col">
-                    <img style="max-width: 80%; height: auto;" src="/2023/img/panel/ethicsandimpact.png"/>
+                    <img style="max-width: 80%; height: auto;" src="/2023/img/panel/ethicsforentrepreneurs.png"/>
                 </div>
             </div>
             <br>
