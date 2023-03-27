@@ -757,7 +757,7 @@
                     <br>
                     <div class="title">Co-founder and CEO</div>
                     <br><br>
-                    <div class="title">Biomedtech</div>
+                    <div class="title">BIOEMTECH</div>
                 </div>
                 <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/MariosKatsiotis.jpg">
