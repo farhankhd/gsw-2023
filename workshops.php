@@ -212,22 +212,22 @@
                         <li style="align-content: left; text-align: left;">A demonstration of Azure OpenAI Services and how to infuse them in your apps</li>
                         <li style="align-content: left; text-align: left;">Microsoft’s commitment to ethical & responsible AI</li>
                         <li style="align-content: left; text-align: left;">How to access OpenAI tools through Microsoft for free today</li>
+                        <li style="align-content: left; text-align: left;">Workshop Speakers:</li>
                       </ul>
                     </p>
                 </div>
             </div>
         </div>
-        <br>
         
         <div class="container">
             <div class="row justify-content-center">
-                <div class="col col-lg-2"><a>
+                <div class="col col-lg-2"></a>
                     <!--<img class="panel-picture" src="img/speakers/TheodorosEvgeniou.jpg"></a>-->
                     <p class="light-text light-bg-dark-text">Yianni Touliatos</p>
                     <p class="light-text light-bg-dark-text">Regional Technology Director</p>
                     <p class="light-text light-bg-dark-text">Microsoft</p>
                 </div>
-                <div class="col col-lg-2"><a href="speakers.php">
+                <div class="col col-lg-2"></a>
                     <!--<img class="panel-picture" src="img/speakers/TheodorosEvgeniou.jpg"></a>-->
                     <p class="light-text light-bg-dark-text">Vassilis Salis</p>
                     <p class="light-text light-bg-dark-text">Regional Technology Strategist</p>
