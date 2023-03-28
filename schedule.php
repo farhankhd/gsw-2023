@@ -161,7 +161,7 @@
                                         <?php echo "$eventTitle";?>
                                     </h3>
                                     
-                                    <h3 style="font-family: myriad-pro, sans-serif; font-style: normal;font-weight: 300px; color: #color: #00c0f2">
+                                    <h3 style="font-family: myriad-pro, sans-serif; font-style: normal;font-weight: 300px; color: #00c0f2">
                                         <?php echo "Speaker(s):<br>";
                                             foreach ($eventSpeakers as $speaker) {
                                                 if ($speaker != "TBD") { 
