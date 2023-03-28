@@ -161,12 +161,14 @@
                                         <?php echo "$eventTitle";?>
                                     </h3>
                                     
-                                    <h3 class="event_heading" style="font-family: myriad-pro, sans-serif; font-style: normal; font-weight: 150px; color: #00c0f2">
+                                    <h3 class="event_heading" style="font-family: myriad-pro, sans-serif; font-style: normal; font-weight: 150px; color:  #7d4270">
                                         <?php 
                                             if (($eventType == "keynote") || $isPanelOrWorkshop) { 
                                                 echo "Speaker(s):<br>";
                                             }
                                         ?>
+                                    </h3>
+                                    <h3 class="event_heading" style="font-family: myriad-pro, sans-serif; font-style: normal; font-weight: 150px; color: #000">
                                         <?php
                                             foreach ($eventSpeakers as $speaker) {
                                                 if ($speaker != "TBD") { 
