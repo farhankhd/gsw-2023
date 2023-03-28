@@ -270,7 +270,7 @@
                 <a href="https://www.hillintl.com/"> <img style="max-width: 60%; height: auto;" src="/2023/img/sponsors/HIL.png"></a>
               </div>
               <div class="col-sm-1 col-md-4">
-                <a href="https://www.kotsovolos.gr/"> <img style="max-width: 50%; height: 30%;" src="/2023/img/sponsors/dixons.png"></a>
+                <a href="https://www.kotsovolos.gr/"> <img style="max-width: 50%; height: 25%;" src="/2023/img/sponsors/dixons.png"></a>
               </div>
             </div>
           </div>
