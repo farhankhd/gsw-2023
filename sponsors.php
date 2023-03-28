@@ -188,10 +188,10 @@
           <div class="col-sm-1 col-md-12 col-lg-9">
             <div class="row justify-content-center align-items-center">
               <div class="col-sm-1 col-md-6">
-                <a href="https://www.capitalship.gr/"><img style="max-width: 100%; height: auto;"src="/2023/img/sponsors/capital.png"></a>
+                <a href="https://www.capitalship.gr/"><img style="max-width: 90%; height: auto;"src="/2023/img/sponsors/capital.png"></a>
               </div>
               <div class="col-sm-1 col-md-6">
-                <a href="https://www.onassis.org/"> <img style="max-width: 100%; height: auto;"src="/2023/img/sponsors/onassis.png"></a>
+                <a href="https://www.onassis.org/"> <img style="max-width: 90%; height: auto;"src="/2023/img/sponsors/onassis.png"></a>
               </div>
             </div>
           </div>
@@ -264,13 +264,13 @@
             </div>
             <div class="row justify-content-center align-items-center">
               <div class="col-sm-1 col-md-4">
-                <a href="https://www.ey.com/en_gr"> <img style="max-width: 80%; height: auto;" src="/2023/img/sponsors/ey.png"></a>
+                <a href="https://www.ey.com/en_gr"> <img style="max-width: 60%; height: auto;" src="/2023/img/sponsors/ey.png"></a>
               </div>
               <div class="col-sm-1 col-md-4">
-                <a href="https://www.hillintl.com/"> <img style="max-width: 80%; height: auto;" src="/2023/img/sponsors/HIL.png"></a>
+                <a href="https://www.hillintl.com/"> <img style="max-width: 60%; height: auto;" src="/2023/img/sponsors/HIL.png"></a>
               </div>
               <div class="col-sm-1 col-md-4">
-                <a href="https://www.kotsovolos.gr/"> <img style="max-width: 80%; height: 30%;" src="/2023/img/sponsors/dixons.png"></a>
+                <a href="https://www.kotsovolos.gr/"> <img style="max-width: 60%; height: 30%;" src="/2023/img/sponsors/dixons.png"></a>
               </div>
             </div>
           </div>
