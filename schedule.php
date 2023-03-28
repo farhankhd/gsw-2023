@@ -158,6 +158,17 @@
                                 <div class="event-right event-type-<?= $eventType ?>">
                                      
                                     <h3 class="event_heading" style="font-family: myriad-pro, sans-serif; font-style: normal; font-weight: 300px; color:  #000">
+                                        <?php
+                                            if ($isKeynote) {
+                                                echo "<a href='speakers.php#$keynoteSpeakerTag'>$eventTitle</a>";
+                                            } else if ($eventType=="panel") {
+                                                echo "<a href='panels.php#$eventId'>$eventTitle</a>";
+                                            } else if ($eventType=="workshop") {
+                                                echo "<a href='workshops.php#$eventId'>$eventTitle</a>";
+                                            } else {
+                                                echo $eventTitle;
+                                            }
+                                        ?>
                                         <?php echo "$eventTitle";?>
                                         
                                     </h3>
