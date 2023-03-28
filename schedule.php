@@ -159,7 +159,8 @@
                                      
                                     <h3 class="event_heading" style="font-family: myriad-pro, sans-serif; font-style: normal; font-weight: 300px; color:  #000">
                                         <?php
-                                            if ($isPanelOrWorkshop) { 
+                                            if ($eventType == "panel") { 
+                       
                                                 <a href="panels.php#<?=$eventTitle?>"><?php echo "$eventTitle";?></a>
                                             } else {
                                                 <?php echo "$eventTitle";?>
