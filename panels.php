@@ -274,6 +274,7 @@
                     <div class="name">Charis</div>
                     <div class="name">Arvanitis</div>
                     <div class="title">CEO, Co-founder</div>
+                    <br>
                     <div class="title">Spotawheel</div>
                 </div>
                 <div class="col col-lg-2">
@@ -281,6 +282,7 @@
                     <div class="name">Apostolos</div>
                     <div class="name">Atsalakis</div>
                     <div class="title">Co-Founder</div>
+                    <br>
                     <div class="title">PNOE</div>
                 </div> 
                 <div class="col col-lg-2">
