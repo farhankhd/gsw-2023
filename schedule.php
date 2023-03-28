@@ -158,7 +158,11 @@
                                 <div class="event-right event-type-<?= $eventType ?>">
                                      
                                     <h3 class="event_heading" style="font-family: myriad-pro, sans-serif; font-style: normal;font-weight: 300px; color: #000">
-                                        <?php echo "$eventTitle <br>";
+                                        <?php echo "$eventTitle";?>
+                                    </h3>
+                                    
+                                    <h3 style="font-family: myriad-pro, sans-serif; font-style: normal;font-weight: 300px; color: #color: #00c0f2">
+                                        <?php echo "Speaker(s):<br>";
                                             foreach ($eventSpeakers as $speaker) {
                                                 if ($speaker != "TBD") { 
                                                     echo "$speaker <br>";
