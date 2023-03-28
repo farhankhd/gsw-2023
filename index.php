@@ -229,15 +229,15 @@
                             <h6>Days</h6>
                         </div>
                         <div class='container-hour'>
-                            <h6 class='hour'>Time</h6>
+                            <h6 class='hour'>Time+8</h6>
                             <h6>Hours</h6>
                         </div>
                         <div class='container-minute'>
-                            <h6 class='minute'>Time</h6>
+                            <h6 class='minute'>Time+8</h6>
                             <h6>Minutes</h6>
                         </div>
                         <div class='container-second'>
-                            <h6 class='second'>Time</h6>
+                            <h6 class='second'>Time+8</h6>
                             <h6>Seconds</h6>
                         </div>
                     </div>
