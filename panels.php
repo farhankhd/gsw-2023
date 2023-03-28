@@ -283,6 +283,13 @@
                     <div class="title">Co-Founder</div>
                     <div class="title">PNOE</div>
                 </div> 
+                <div class="col col-lg-2">
+                    <img class="panel-picture" src="img/speakers/EvangelosPappas.jpeg">
+                    <div class="name">Evangelos</div>
+                    <div class="name">Pappas</div>
+                    <div class="title">Founder & Chief Scientific Officer</div>
+                    <div class="title">RTsafe</div>
+                </div>
             </div>
             <div class="row justify-content-center">
                 <div class="col col-lg-3">
