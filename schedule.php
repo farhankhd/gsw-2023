@@ -103,7 +103,7 @@
                         $lastEventTime = "";
 
                         while (($data = fgetcsv($fileHandle, 1000, ",")) !== FALSE) {
-                             $data = array_map("utf8_encode", $data);
+                            $data = array_map("utf8_encode", $data);
 
                             $lastEventDay = $eventDay;
                             $lastEventTime = $eventTime;
@@ -111,6 +111,8 @@
                             $eventTime = $data[1];
                             $eventTitle = $data[2];
                             $eventType = $data[4];
+                            $eventMod = $data[5];
+                            $eventSpeakers = array($data[7], $data[8], $data[9], $data[10],  $data[11], $data[12]);
 
                             // // there is another event at the same time
                             $isParallel = $lastEventTime == $eventTime;
@@ -156,7 +158,13 @@
                                 <div class="event-right event-type-<?= $eventType ?>">
                                      
                                     <h3 class="event_heading" style="font-family: myriad-pro, sans-serif; font-style: normal;font-weight: 300px; color: #000">
-                                        <?php echo $eventTitle; ?>
+                                        <?php echo "$eventTitle <br>"; 
+                                            foreach ($eventSpeakers as $speaker) {
+                                                if ($speaker != "TBD") { 
+                                                    echo "$value <br>";
+                                                }
+                                            }
+                                        ?>
                                     </h3>
                                    
                                 </div>
