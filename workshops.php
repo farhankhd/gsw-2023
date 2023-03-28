@@ -223,9 +223,9 @@
             <div class="row justify-content-center">
                 <div class="col col-lg-2"><a href="speakers.php">
                     <!--<img class="panel-picture" src="img/speakers/TheodorosEvgeniou.jpg"></a>-->
-                    <div class="name">Yianni Touliatos</div>
-                    <div class="title">Regional Technology Director</div>
-                    <div class="title">Microsoft</div>
+                    <p class="light-text light-bg-dark-text">Yianni Touliatos</p>
+                    <p class="light-text light-bg-dark-text">Regional Technology Directo</p>
+                    <p class="light-text light-bg-dark-text">Microsoft</p>
                 </div>
                 <div class="col col-lg-2"><a href="speakers.php">
                     <!--<img class="panel-picture" src="img/speakers/TheodorosEvgeniou.jpg"></a>-->
