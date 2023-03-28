@@ -164,7 +164,7 @@
                                     
                                     <h3 class="event_heading" style="font-family: myriad-pro, sans-serif; font-style: normal; font-weight: 150px; color:  #7d4270">
                                         <?php 
-                                            if $data[7] != "TBD" {
+                                            if ($eventSpeakers[0] != "TBD") {
                                                 echo "Speaker(s):<br>";
                                             }
                                         ?>
