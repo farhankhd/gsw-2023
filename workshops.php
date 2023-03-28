@@ -200,27 +200,40 @@
                     <p class="bold-text" style="color: #131d25">March 31, Conference Suits, Athens Concert Hall</p>
                     <p class="text-center" style="color: #131d25; font-style: italic;">Note: OpenAI workshop is *invite only*</p>
                     <p class="light-text" style="color: #131d25">
-                      Introducing OpenAI on Azure, a ChatGPT Talk. Chat GPT, the powerful language model developed by OpenAI, has been generating a lot of excitement in the media and we have received multiple requests to learn more about its capabilities. We are excited to have this opportunity to have a conversation with Startups about the potential use cases for Chat GPT and the Azure OpenAI service. 
+                      Chat GPT, the powerful language model developed by OpenAI, has been generating a lot of excitement in the media and we have received multiple requests to learn more about its capabilities. We are excited to have this opportunity to have a conversation with Startups about underlying trends driving such AI breakthroughs, potential use cases for Chat GPT and the Azure OpenAI service
                       <br>
 
                       <ul style="align-content: left; text-align: left;">
                         In this workshop, we will be discussing
                         <li style="align-content: left; text-align: left;">A demonstration of Chat GPT in action</li>
-                        <li style="align-content: left; text-align: left;">A demonstration on Azure OpenAI Services and how to infuse them in your apps.</li>
+                        <li style="align-content: left; text-align: left;">ChatGPT integration with Bing</li>
+                        <li style="align-content: left; text-align: left;">GitHub’s Copilot & Codex</li>
+                        <li style="align-content: left; text-align: left;">OpenAI enabled “Speaker Coach” for Teams</li>
+                        <li style="align-content: left; text-align: left;">A demonstration of Azure OpenAI Services and how to infuse them in your apps</li>
+                        <li style="align-content: left; text-align: left;">Microsoft’s commitment to ethical & responsible AI</li>
+                        <li style="align-content: left; text-align: left;">How to access OpenAI tools through Microsoft for free today</li>
                       </ul>
                     </p>
                 </div>
             </div>
         </div>
         <br>
-        <!--
+        
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col col-lg-2"><a href="speakers.php">
-                    <img class="panel-picture" src="img/speakers/TheodorosEvgeniou.jpg"></a>
-                    <div class="name">Theodoros Evgeniou</div>
-                    <div class="title">INSEAD Professor</div>
-                    <div class="title">Co-founder Tremau</div>
+                    <!--<img class="panel-picture" src="img/speakers/TheodorosEvgeniou.jpg"></a>-->
+                    <div class="name">Yianni Touliatos</div>
+                    <div class="title">Regional Technology Director</div>
+                    <div class="title">Microsoft</div>
+                </div>
+              </div>
+            <div class="row justify-content-center">
+                <div class="col col-lg-2"><a href="speakers.php">
+                    <!--<img class="panel-picture" src="img/speakers/TheodorosEvgeniou.jpg"></a>-->
+                    <div class="name">Vassilis Salis</div>
+                    <div class="title">Regional Technology Strategist</div>
+                    <div class="title">Microsoft</div>
                 </div>
               </div>
         </div>
