@@ -162,9 +162,12 @@
                                     </h3>
                                     
                                     <h3 class="event_heading" style="font-family: myriad-pro, sans-serif; font-style: normal; font-weight: 150px; color: #00c0f2">
-                                        <?php echo "Speaker(s):<br>";
+                                        <?php 
+                                            if ($eventSpeakers[0] != "TBD") { 
+                                                echo "Speaker(s):<br>";
+                                            }
                                             foreach ($eventSpeakers as $speaker) {
-                                                if ($speaker != "TBD") { 
+                                                while ($speaker != "TBD") { 
                                                     echo "$speaker <br>";
                                                 }
                                             }
