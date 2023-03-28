@@ -259,7 +259,7 @@
                 <a href="https://www.microsoft.com/el-gr/"> <img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/MicrosoftTeams.png"></a>
               </div>
               <div class="col-sm-1 col-md-4">
-                <a href="https://www.eurobank.gr/en/group/esg-environment-society-governance/society/egg-enter-grow-go"> <img style="max-width: 60%; height: auto;" src="/2023/img/sponsors/EGG-Eurobank_logo.png"></a>
+                <a href="https://www.kotsovolos.gr/"> <img style="max-width: 50%; height: 20%;" src="/2023/img/sponsors/dixons.png"></a>
               </div>
             </div>
             <div class="row justify-content-center align-items-center">
@@ -270,7 +270,7 @@
                 <a href="https://www.hillintl.com/"> <img style="max-width: 60%; height: auto;" src="/2023/img/sponsors/HIL.png"></a>
               </div>
               <div class="col-sm-1 col-md-4">
-                <a href="https://www.kotsovolos.gr/"> <img style="max-width: 50%; height: 25%;" src="/2023/img/sponsors/dixons.png"></a>
+                <a href="https://www.eurobank.gr/en/group/esg-environment-society-governance/society/egg-enter-grow-go"> <img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/EGG-Eurobank_logo.png"></a>
               </div>
             </div>
           </div>
@@ -468,6 +468,26 @@
           </div>
           <div class="col-sm-1 col-md-5">
             <a href="https://www.ogilvy.com/"><img style="max-width: 40%; height: auto;" src="/2023/img/sponsors/ogilvy.png"></a>
+          </div>
+        </div>
+      </section>
+      
+      
+      <!--TV COMMUNICATION PARTNERS-->
+      <section>
+        <div class="row">
+          <div class="col">
+            <h1 class="para text-center gradient-text" id="team-section">TV Communication Partner</h1>
+          </div>
+        </div>
+        <div class="row justify-content-center">
+          <hr class="team-hr">
+        </div>
+        <br>
+                             
+        <div class="row justify-content-center align-items-center">
+          <div class="col-sm-1 col-md-5">
+            <a href="https://www.megatv.com/"><img style="max-width: 80%; height: auto;" src="/2023/img/sponsors/mega-logo.png"></a>
           </div>
         </div>
       </section>
