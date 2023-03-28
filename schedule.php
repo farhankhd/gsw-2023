@@ -169,7 +169,7 @@
                                         ?>
                                         <?php
                                             foreach ($eventSpeakers as $speaker) {
-                                                while ($speaker != "TBD") { 
+                                                if ($speaker != "TBD") { 
                                                     echo "$speaker <br>";
                                                 }
                                             }
