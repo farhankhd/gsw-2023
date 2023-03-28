@@ -697,7 +697,7 @@
                     <div class="name">Stamatis</div>
                     <div class="name">Tsantanis</div>
                     <div class="title">CEO</div>
-                    <div class="title">Seanergy Maritime</div>
+                    <div class="title">Seanergy Maritime, United Maritime</div>
                 </div>
                 <div class="col col-lg-2">
                     <img class="panel-picture" src="img/speakers/PanosDimitracopoulos.jpg">
