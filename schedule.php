@@ -166,6 +166,8 @@
                                             if (($eventType == "keynote") || $isPanelOrWorkshop) { 
                                                 echo "Speaker(s):<br>";
                                             }
+                                        ?>
+                                        <?php
                                             foreach ($eventSpeakers as $speaker) {
                                                 while ($speaker != "TBD") { 
                                                     echo "$speaker <br>";
