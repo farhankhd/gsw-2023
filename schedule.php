@@ -158,14 +158,8 @@
                                 <div class="event-right event-type-<?= $eventType ?>">
                                      
                                     <h3 class="event_heading" style="font-family: myriad-pro, sans-serif; font-style: normal; font-weight: 300px; color:  #000">
-                                        <?php
-                                            if ($eventType == "panel") { 
-                       
-                                                <a href="panels.php#<?=$eventTitle?>"><?php echo "$eventTitle";?></a>
-                                            } else {
-                                                <?php echo "$eventTitle";?>
-                                            }
-                                        ?>
+                                        <?php echo "$eventTitle";?>
+                                        
                                     </h3>
                                     
                                     <h3 class="event_heading" style="font-family: myriad-pro, sans-serif; font-style: normal; font-weight: 150px; color:  #7d4270">
