@@ -227,8 +227,6 @@
                     <div class="title">Regional Technology Director</div>
                     <div class="title">Microsoft</div>
                 </div>
-              </div>
-            <div class="row justify-content-center">
                 <div class="col col-lg-2"><a href="speakers.php">
                     <!--<img class="panel-picture" src="img/speakers/TheodorosEvgeniou.jpg"></a>-->
                     <div class="name">Vassilis Salis</div>
