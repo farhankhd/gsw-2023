@@ -789,6 +789,13 @@
             </div>
             <div class="row justify-content-center">
                 <div class="col col-lg-3">
+                    <img class="panel-picture" src="img/speakers/ProdromosTsiavos.jpg">
+                    <div class="name">Prodromos</div>
+                    <div class="name">Tsiavos</div>
+                    <div class="title">Head of Digital Development and Innovation</div>    
+                    <div class="title">Onassis Group</div> 
+                </div>
+                <div class="col col-lg-3">
                     <img class="panel-picture" src="img/speakers/FayeOrfanou.jpg">
                     <div class="name">Faye</div>
                     <div class="name">Orfanou</div>
