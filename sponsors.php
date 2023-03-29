@@ -490,23 +490,17 @@
             <a href=""><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/biopix-t.png"></a>
           </div>
           <div class="col-sm-1 col-md-4">
-            <a href=""><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/tragbeat.png"></a>
+            <a href=""><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/EXAPSYS.jpeg"></a>
           </div>
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-4">
             <a href=""><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/code-bgp.png"></a>
           </div>
-          <div class="col-sm-1 col-md-4">
-            <a href=""><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/jadbio.png"></a>
-          </div>
-          <div class="col-sm-1 col-md-4">
-            <a href=""><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/EXAPSYS.jpeg"></a>
-          </div>
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-4">
-            <a href=""><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/EXAPSYS.jpeg"></a>
+            <a href=""><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/jadbio.png"></a>
           </div>
           <div class="col-sm-1 col-md-4">
             <a href=""><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/tragbeat.png"></a>
