@@ -300,7 +300,7 @@
                     <div class="name">Karampinis</div>
                     <div style="color: #7d4270" class="title">Moderator</div>
                     <div class="title">Managing Director</div>
-                    <div class="title">Endeavour Greece</div>
+                    <div class="title">Endeavor Greece</div>
                 </div>
             </div>
         </div>
