@@ -165,12 +165,21 @@
                                     
                                     <h3 class="event_heading" style="font-family: myriad-pro, sans-serif; font-style: normal; font-weight: 150px; color:  #7d4270">
                                         <?php 
+                                            if ($eventMod != "TBD") {
+                                                echo "Moderator:<br>";
+                                                echo "$eventMod";
+                                            }
+                                        ?>
+                                    </h3>
+                                    
+                                    <h3 class="event_heading" style="font-family: myriad-pro, sans-serif; font-style: normal; font-weight: 150px; color:  #d5bec2">
+                                        <?php 
                                             if ($eventSpeakers[0] != "TBD") {
                                                 echo "Speaker(s):<br>";
                                             }
                                         ?>
                                     </h3>
-                                    <h3 class="event_heading" style="font-family: myriad-pro, sans-serif; font-style: normal; font-weight: 150px; color: #7d4270">
+                                    <h3 class="event_heading" style="font-family: myriad-pro, sans-serif; font-style: normal; font-weight: 150px; color: #d5bec2">
                                         <?php
                                             foreach ($eventSpeakers as $speaker) {
                                                 if ($speaker != "TBD") { 
