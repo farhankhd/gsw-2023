@@ -46,7 +46,7 @@
         <div class="col-xs-12 col-md-12">
             <span class="anchor" id="schedule-navigation"></span>
             <p class="text-center">
-                <!--<a class="btn btn-default register-btn"onClick="fbq('trackCustom', 'Home_Register Now_GSW’);" href="doc/gsw-agenda-2023.pdf" role="button">Download the Agenda</a>-->
+                <a class="btn btn-default register-btn"onClick="fbq('trackCustom', 'Home_Register Now_GSW’);" href="doc/gsw-agenda-2023-final.pdf" role="button">Download the Agenda</a>
                 <br />
                 <br />
                 
