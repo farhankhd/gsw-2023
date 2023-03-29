@@ -62,7 +62,7 @@
             <br>
             <div class="row justify-content-center">
                 <div class="col-md-9">
-                    <p class="bold-text" style="color: #131d25">March 30, 12:30-13:30 (Session 1) // 13:30-14:30 (Session 2) in Conference Suits, Athens Concert Hall</p>
+                    <p class="bold-text" style="color: #131d25">March 30, 12:30-13:30 (Session 1) // 13:30-14:30 (Session 2) in Conference Suites, Athens Concert Hall</p>
                     <p class="light-text" style="color: #131d25">
                       Entrepreneurship can be taught. It is not instinctive but rather a systematic problem solving process. 
                       In this workshop, you will get an introduction to the way entrepreneurship is taught in the introductory courses at MIT.
@@ -94,7 +94,7 @@
             <br>
             <div class="row justify-content-center">
                 <div class="col-md-9">
-                    <p class="bold-text" style="color: #131d25">March 30, 12:30-13:30 (Session 1) // 13:30-14:30 (Session 2) in Conference Suits,Athens Concert Hall</p>
+                    <p class="bold-text" style="color: #131d25">March 30, 12:30-13:30 (Session 1) // 13:30-14:30 (Session 2) in Conference Suites, Athens Concert Hall</p>
                     <p class="light-text" style="color: #131d25">
                       So you have started your business. How do you grow it? This workshop will teach you the scaling essentials of building a team, early leadership calibration, capital efficiency, values and tools for a sustainable culture, and how to avoid common pitfalls when scaling quickly. 
                       <br><br>
@@ -127,7 +127,7 @@
             <br>
             <div class="row justify-content-center">
                 <div class="col-md-9">
-                    <p class="bold-text" style="color: #131d25">March 31, 12:30-13:30 (Session 1) // 13:30-14:30 (Session 2) in Conference Suits, Ahens Concert Hall</p>
+                    <p class="bold-text" style="color: #131d25">March 31, 12:30-13:30 (Session 1) // 13:30-14:30 (Session 2) in Conference Suites, Athens Concert Hall</p>
                     <p class="light-text" style="color: #131d25">
                       When you start a company, you quickly learn that life's a pitch! Which is fine: you want to tell everyone about your amazing innovation, right? 
                       And there is no shortage of people with advice about exactly what and how you should pitch. 
@@ -163,7 +163,7 @@
             <br>
             <div class="row justify-content-center">
                 <div class="col-md-9">
-                    <p class="bold-text" style="color: #131d25">March 31, 12:30-13:30 (Session 1) // 13:30-14:30 (Session 2) in Conference Suits, Athens Concert Hall </p>
+                    <p class="bold-text" style="color: #131d25">March 31, 12:30-13:30 (Session 1) // 13:30-14:30 (Session 2) in Conference Suites, Athens Concert Hall </p>
                     <p class="light-text" style="color: #131d25">
                         Join us for a hands-on introduction to product design for entrepreneurs! This 1-hr workshop focuses on product design principles, with a strong emphasis on human-centered design. 
                         You'll learn how to identify your target audience's needs, preferences, and pain points and translate those insights into innovative product ideas. 
@@ -197,7 +197,7 @@
             <br>
             <div class="row justify-content-center">
                 <div class="col-md-9">
-                    <p class="bold-text" style="color: #131d25">March 31, Conference Suits, Athens Concert Hall</p>
+                    <p class="bold-text" style="color: #131d25">March 31, Conference Suites, Athens Concert Hall</p>
                     <p class="text-center" style="color: #131d25; font-style: italic;">Note: OpenAI workshop is *invite only*</p>
                     <p class="light-text" style="color: #131d25">
                       Chat GPT, the powerful language model developed by OpenAI, has been generating a lot of excitement in the media and we have received multiple requests to learn more about its capabilities. We are excited to have this opportunity to have a conversation with Startups about underlying trends driving such AI breakthroughs, potential use cases for Chat GPT and the Azure OpenAI service
