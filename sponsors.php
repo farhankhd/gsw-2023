@@ -563,11 +563,14 @@
         <br>
                              
         <div class="row justify-content-center align-items-center">
-          <div class="col-sm-1 col-md-5">
+          <div class="col-sm-1 col-md-4">
             <a href="https://www.eventora.com/"><img style="max-width: 30%; height: auto;" src="/2023/img/sponsors/eventora.png"></a>
           </div>
-          <div class="col-sm-1 col-md-5">
+          <div class="col-sm-1 col-md-4">
             <a href="https://seeders.gr/"><img style="max-width: 30%; height: auto;" src="/2023/img/sponsors/seeders.png"></a>
+          </div>
+          <div class="col-sm-1 col-md-4">
+            <a href=""><img style="max-width: 30%; height: auto;" src="/2023/img/sponsors/envolve.jpeg"></a>
           </div>
         </div>
         <div class="row justify-content-center align-items-center">
