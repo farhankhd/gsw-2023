@@ -423,38 +423,20 @@
           <hr class="team-hr">
         </div>
         <br>
-        
+       
         <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-4">
             <a href=""><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/forth.jpeg"></a>
           </div>
-          <div class="col-sm-1 col-md-4">
-            <a href=""><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/EXAPSYS.jpeg"></a>
-          </div>
-          <div class="col-sm-1 col-md-4">
-            <a href=""><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/tragbeat.png"></a>
-          </div>
-        </div>
-        <div class="row white-bg logo d-flex justify-content-center">
-          <div class="col-sm-1 col-md-4">
+          <!--praxi + een combined-->
+          <div class="col-sm-1 col-md-2">
             <a href=""><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/praxi.png"></a>
+          </div>
+          <div class="col-sm-1 col-md-2">
+            <a href=""><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/een.png"></a>
           </div>
           <div class="col-sm-1 col-md-4">
             <a href=""><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/smart-health.png"></a>
-          </div>
-          <div class="col-sm-1 col-md-4">
-            <a href=""><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/step-c.jpeg"></a>
-          </div>
-        </div>
-        <div class="row white-bg logo d-flex justify-content-center">
-          <div class="col-sm-1 col-md-4">
-            <a href=""><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/biopix-t.png"></a>
-          </div>
-          <div class="col-sm-1 col-md-4">
-            <a href=""><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/jadbio.png"></a>
-          </div>
-          <div class="col-sm-1 col-md-4">
-            <a href=""><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/een.png"></a>
           </div>
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
@@ -470,13 +452,13 @@
         </div> 
         <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-4">
-            <a href=""><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/code-bgp.png"></a>
-          </div>
-          <div class="col-sm-1 col-md-4">
             <a href="https://scienceagora.eu/about/"><img style="max-width: 40%; height: auto;" src="/2023/img/sponsors/scienceagora.png"></a>
           </div>
           <div class="col-sm-1 col-md-4">
             <a href="https://www.acg.edu/"><img style="max-width: 30%; height: auto;" src="/2023/img/sponsors/ACG.png"></a>
+          </div>
+          <div class="col-sm-1 col-md-4">
+            <a href=""><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/step-c.jpeg"></a>
           </div>
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
@@ -488,6 +470,46 @@
           </div>
           <div class="col-sm-1 col-md-4">
             <a href="https://www.dmrid.gov.cy/dmrid/research.nsf/home_en/home_en?openform"><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/dmrid.jpeg"></a>
+          </div>
+        </div>
+      </section>
+      
+      <!--STARTUPS-->
+      <section>
+        <div class="row">
+          <div class="col">
+            <h1 class="para text-center gradient-text" id="team-section">Startups</h1>
+          </div>
+        </div>
+        <div class="row justify-content-center">
+          <hr class="team-hr">
+        </div>
+        <br>
+        <div class="row white-bg logo d-flex justify-content-center">
+          <div class="col-sm-1 col-md-4">
+            <a href=""><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/biopix-t.png"></a>
+          </div>
+          <div class="col-sm-1 col-md-4">
+            <a href=""><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/tragbeat.png"></a>
+          </div>
+        </div>
+        <div class="row white-bg logo d-flex justify-content-center">
+          <div class="col-sm-1 col-md-4">
+            <a href=""><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/code-bgp.png"></a>
+          </div>
+          <div class="col-sm-1 col-md-4">
+            <a href=""><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/jadbio.png"></a>
+          </div>
+          <div class="col-sm-1 col-md-4">
+            <a href=""><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/EXAPSYS.jpeg"></a>
+          </div>
+        </div>
+        <div class="row white-bg logo d-flex justify-content-center">
+          <div class="col-sm-1 col-md-4">
+            <a href=""><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/EXAPSYS.jpeg"></a>
+          </div>
+          <div class="col-sm-1 col-md-4">
+            <a href=""><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/tragbeat.png"></a>
           </div>
         </div>
       </section>
