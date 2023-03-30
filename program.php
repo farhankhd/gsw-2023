@@ -77,7 +77,7 @@
     </section>
     -->
     <section>
-        <embed src="/2023/doc/gsw-program-2023.pdf" type="application/pdf" width="90%" height="800" />
+        <embed src="/2023/doc/gsw-program-2023.pdf#view=fitH" type="application/pdf" width="90%" height="800" />
     </section>
 </body>
   
