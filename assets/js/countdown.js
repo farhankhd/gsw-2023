@@ -24,9 +24,26 @@ const countdown = () => {
     document.querySelector(".minute").innerText = textMinute >0? textMinute: 0;
     document.querySelector(".second").innerText = textSecond >0? textSecond: 0;
     
-    if (remainingTime==0) {
+    if (remainingTime===0) {
         start();
     }
+	// for starting the confetti 
+	const start = () => {
+	    setTimeout(function() {
+		confetti.start()
+	    }, 1000); // 1000 is time that after 1 second start the confetti ( 1000 = 1 sec)
+	    // after this here we are calling both the function so it works
+	    stop();
+	};
+
+	//  for stopping the confetti 
+
+	const stop = () => {
+	    setTimeout(function() {
+		confetti.stop()
+	    }, 5000); // 5000 is time that after 5 second stop the confetti ( 5000 = 5 sec)
+	};
+
 }
 
 //run countdown every 500ms
@@ -34,23 +51,6 @@ setInterval(countdown, 500);
 
 
 
-
-// for starting the confetti 
-const start = () => {
-    setTimeout(function() {
-        confetti.start()
-    }, 1000); // 1000 is time that after 1 second start the confetti ( 1000 = 1 sec)
-    // after this here we are calling both the function so it works
-    stop();
-};
-
-//  for stopping the confetti 
-
-const stop = () => {
-    setTimeout(function() {
-        confetti.stop()
-    }, 5000); // 5000 is time that after 5 second stop the confetti ( 5000 = 5 sec)
-};
 
 
 //CONFETTI EFFECTS
