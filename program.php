@@ -9,8 +9,10 @@
 ?>
 
 <head>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
-    <meta id="viewport" name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1.0">
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <style>
     
     <style>
     /*
@@ -28,6 +30,13 @@
         font-style: normal;
         font-weight: 300px;
     }
+    @media only screen and (max-width: 600px) {	
+        .pdf {
+            max-width: 600;
+            z-index: 2;
+	    }
+	}
+
 </style>
 </head>
 <body>
@@ -77,7 +86,7 @@
     </section>
     -->
     <section>
-        <embed src="/2023/doc/gsw-program-2023.pdf#view=fitH" type="application/pdf" width="90%" height="800" />
+        <embed class="pdf" src="/2023/doc/gsw-program-2023.pdf#view=fitH" type="application/pdf" width="90%" height="800" />
     </section>
 </body>
   
