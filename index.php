@@ -31,186 +31,190 @@
             // echo 'alert("Hello, fellow innovator! Our website is under rennovation. Please come back tommorow for updated information on GSW 2023!")';  
             // echo '</script>';  
         ?>  
-<style>
-    /*SPONSOR SECTION*/
-    .sponsor-category{
-        margin: 0;
-        padding: 0;
-        text-align: center;
-    }
-    .sponsor-hr{
-        border-top: 1px solid#dd4f33 !important;
-        margin: 0 auto;
-        width:30%;
-    }
-    .libra-logo, .scince-logo{
-        margin-top: 30px !important;
-    }
-    /*SPONSOR LOGO & LAYOUT*/
-      .sponsor-category{
-        margin: 0;
-        padding: 0;
-        text-align: center;
-      }
-      .sponsor-hr{
-        border-top: 1px solid #dd4f33 !important;
-        margin: 0 auto;
-        width:30%;
-      }
-      #diamond-logo {
-        width: 100%;
-        max-width: 500px;
-        height: 100%;
-        max-height: 300px;
-      }
-      #gold-logo {
-        width: 100%;
-        max-width: 600px;
-        height: 100%;
-        max-height: 550px;
-      }
-      #silver-logo {
-        width: 100%;
-        max-width: 450px;
-        height: 100%;
-        max-height: 250px;
-      }
-      #strategic-acad-logo {
-        width: 100%;
-        max-width: 300px;
-        height: 100%;
-        max-height: 200px;
-      }
-      #auspices-logo {
-        width: 100%;
-        max-width: 275px;
-        height: 100%;
-        max-height: 150px;
-      }
-      #comms-logo {
-        width: 100%;
-        max-width: 200px;
-        height: 100%;
-        max-height: 150px;
-      }
-      #acad-accel-logo {
-        width: 100%;
-        max-width: 400px;
-        height: 100%;
-        max-height: 350px;
-      }
-      #community-logo {
-        width: 100%;
-        max-width: 250px;
-        height: 100%;
-        max-height: 200px;
-      }
-      #acad-assoc-logo {
-        width: 100%;
-        max-width: 300px;
-        height: 100%;
-        max-height: 250px;
-      }
-      #associate-logo {
-        width: 100%;
-        max-width: 200px;
-        height: 100%;
-        max-height: 150px;
-      }
-      #supporter-logo, #acad-supporter {
-        width: 100%;
-        max-width: 100px;
-        height: 100%;
-        max-height: 50px;
-      }
-      
-    @media only screen and (min-width: 480px) {
-        .logo{
-            padding-right: 113px;
+
+<head>
+    <meta http-equiv="cache-control" content="no-cache">
+    <style>
+        /*SPONSOR SECTION*/
+        .sponsor-category{
+            margin: 0;
+            padding: 0;
+            text-align: center;
         }
-    }
-    
-    /*GENERAL*/
-    .team-hr{
-        border-bottom: 2px solid rgba(100, 121, 162,0.3);
-        border-top: unset;
-        padding-bottom: 5px;
-        color: #0e1e58;
-        width: 60%;
-        margin: 0 auto;
-        /*margin-bottom: 31px;*/
-    }
-    .tier-hr{
-        border-bottom: 2px solid rgba(100, 121, 162,0.3);
-        border-top: unset;
-        padding-bottom: 5px;
-        color: #0e1e58;
-        width: 60%;
-        margin: 0 auto;
-        margin-bottom: 30px;
-    }
-    .banner-margin {
-        margin-top: 50px;
-    }
-    @media only screen and (max-width: 600px) {
-        div.main{
-            padding:unset!important;
+        .sponsor-hr{
+            border-top: 1px solid#dd4f33 !important;
+            margin: 0 auto;
+            width:30%;
         }
-        ul.white-bullet{
-            padding: 0px 20px 0px;
+        .libra-logo, .scince-logo{
+            margin-top: 30px !important;
         }
-        #workshop_section, #why-attend-section {
-            padding: 50px 20px 10px;
+        /*SPONSOR LOGO & LAYOUT*/
+          .sponsor-category{
+            margin: 0;
+            padding: 0;
+            text-align: center;
+          }
+          .sponsor-hr{
+            border-top: 1px solid #dd4f33 !important;
+            margin: 0 auto;
+            width:30%;
+          }
+          #diamond-logo {
+            width: 100%;
+            max-width: 500px;
+            height: 100%;
+            max-height: 300px;
+          }
+          #gold-logo {
+            width: 100%;
+            max-width: 600px;
+            height: 100%;
+            max-height: 550px;
+          }
+          #silver-logo {
+            width: 100%;
+            max-width: 450px;
+            height: 100%;
+            max-height: 250px;
+          }
+          #strategic-acad-logo {
+            width: 100%;
+            max-width: 300px;
+            height: 100%;
+            max-height: 200px;
+          }
+          #auspices-logo {
+            width: 100%;
+            max-width: 275px;
+            height: 100%;
+            max-height: 150px;
+          }
+          #comms-logo {
+            width: 100%;
+            max-width: 200px;
+            height: 100%;
+            max-height: 150px;
+          }
+          #acad-accel-logo {
+            width: 100%;
+            max-width: 400px;
+            height: 100%;
+            max-height: 350px;
+          }
+          #community-logo {
+            width: 100%;
+            max-width: 250px;
+            height: 100%;
+            max-height: 200px;
+          }
+          #acad-assoc-logo {
+            width: 100%;
+            max-width: 300px;
+            height: 100%;
+            max-height: 250px;
+          }
+          #associate-logo {
+            width: 100%;
+            max-width: 200px;
+            height: 100%;
+            max-height: 150px;
+          }
+          #supporter-logo, #acad-supporter {
+            width: 100%;
+            max-width: 100px;
+            height: 100%;
+            max-height: 50px;
+          }
+
+        @media only screen and (min-width: 480px) {
+            .logo{
+                padding-right: 113px;
+            }
         }
-        section {
-            padding: 62px 0px 20px;
-        }
-        .white-bg{
-            padding: 30px 0px !important;
-        }
-        .gradient-text {
-            font-size: 25px !important;
-        }
-        .banner-margin{
-            margin-top: 0px;
-        }
-        hr {
-            height: 40px; 
-            border: none;
-            background-size: 20px 20px;
-            width: 50%; 
-        }
-        #gradient-text {
-            text-align: center !important;
-        }
-        
-    }
-    #collab-logo {
-        /*
-        margin-bottom: 15px;
-        margin-top: 0;
-        min-width: 150px;
-        max-width: 200px;
-        min-height: 100px;
-        max-height: 150px;
-        */
-        display: block;
-        width: 50%;
-        position: relative;
-        margin: auto;
-    }
-    
-    /*VENUE MAP*/
-    @media only screen and (max-width: 680px) {
-        .venue {
+
+        /*GENERAL*/
+        .team-hr{
+            border-bottom: 2px solid rgba(100, 121, 162,0.3);
+            border-top: unset;
+            padding-bottom: 5px;
+            color: #0e1e58;
             width: 60%;
-            justify-content: center;
-            align-items: center;
-            
+            margin: 0 auto;
+            /*margin-bottom: 31px;*/
         }
-    }
-    
-</style>
+        .tier-hr{
+            border-bottom: 2px solid rgba(100, 121, 162,0.3);
+            border-top: unset;
+            padding-bottom: 5px;
+            color: #0e1e58;
+            width: 60%;
+            margin: 0 auto;
+            margin-bottom: 30px;
+        }
+        .banner-margin {
+            margin-top: 50px;
+        }
+        @media only screen and (max-width: 600px) {
+            div.main{
+                padding:unset!important;
+            }
+            ul.white-bullet{
+                padding: 0px 20px 0px;
+            }
+            #workshop_section, #why-attend-section {
+                padding: 50px 20px 10px;
+            }
+            section {
+                padding: 62px 0px 20px;
+            }
+            .white-bg{
+                padding: 30px 0px !important;
+            }
+            .gradient-text {
+                font-size: 25px !important;
+            }
+            .banner-margin{
+                margin-top: 0px;
+            }
+            hr {
+                height: 40px; 
+                border: none;
+                background-size: 20px 20px;
+                width: 50%; 
+            }
+            #gradient-text {
+                text-align: center !important;
+            }
+
+        }
+        #collab-logo {
+            /*
+            margin-bottom: 15px;
+            margin-top: 0;
+            min-width: 150px;
+            max-width: 200px;
+            min-height: 100px;
+            max-height: 150px;
+            */
+            display: block;
+            width: 50%;
+            position: relative;
+            margin: auto;
+        }
+
+        /*VENUE MAP*/
+        @media only screen and (max-width: 680px) {
+            .venue {
+                width: 60%;
+                justify-content: center;
+                align-items: center;
+
+            }
+        }
+
+    </style>
+</head>
 
         <!--LANDING OWL VISUAL + COUNTDOWN-->
         <div class='main'>
