@@ -55,7 +55,7 @@
   </article>
 </section>
 <section>
-    <embed src="https://github.com/farhankhd/gsw-2023/releases/download/program/mit-gsw-program-2023.pdf" type="application/pdf" width="100%" height="600px" />
+    <embed src="https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:b7b116c2-2910-3960-83f9-b74841bb8ffd" type="application/pdf" width="100%" height="600px" />
 </section>
   
 <?php
