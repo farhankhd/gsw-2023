@@ -19,7 +19,7 @@
     header("Pragma: no-cache"); //HTTP 1.0
     header("Expires: Sat, 26 Jul 1997 05:00:00 GMT"); // Date in the past
 
-    $scripts = "<script src=\"2023/assets/js/scripts.js\"></script>";
+    $scripts = "<script src=\"2023/assets/js/scripts.js?v=4.0\"></script>";
 
 
     include('navbar.php');
