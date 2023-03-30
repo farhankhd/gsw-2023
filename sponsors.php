@@ -288,21 +288,21 @@
           <div class="col-sm-1 col-md-12 col-lg-9">
             <div class="row justify-content-center align-items-center">
               <div class="col-sm-1 col-md-4">
-                <a href="https://www.libra.com/en/"><img style="max-width: 60%; height: auto;" src="/2023/img/sponsors/libragroup.png"></a>
+                <a href="https://www.libra.com/en/"><img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/libragroup.png"></a>
               </div>
               <div class="col-sm-1 col-md-4">
-                <a href="https://bigpi.vc/"> <img style="max-width: 35%; max-height: 35%;" src="/2023/img/sponsors/bigpi.png"></a>
+                <a href="https://bigpi.vc/"> <img style="max-width: 45%; max-height: 45%;" src="/2023/img/sponsors/bigpi.png"></a>
               </div>
               <div class="col-sm-1 col-md-4">
-                <a href="https://www.octaneconsultants.com/"> <img style="max-width: 60%; height: auto;" src="/2023/img/sponsors/octane.jpeg"></a>
+                <a href="https://www.octaneconsultants.com/"><img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/octane.jpeg"></a>
               </div>
             </div>
             <div class="row justify-content-center align-items-center">
               <div class="col-sm-1 col-md-4">
-                <a href="https://kglawfirm.gr/"> <img style="max-width: 60%; height: auto;" src="/2023/img/sponsors/kg.png"></a>
+                <a href="https://kglawfirm.gr/"> <img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/kg.png"></a>
               </div> 
               <div class="col-sm-1 col-md-4">
-                <a href="https://www.quest.gr/en/the-group"> <img style="max-width: 60%; height: auto;" src="/2023/img/sponsors/iQ-QG.jpeg"></a>
+                <a href="https://www.quest.gr/en/the-group"> <img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/iQ-QG.jpeg"></a>
               </div> 
             </div>
           </div>
@@ -441,7 +441,7 @@
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
           <div class="col-sm-1 col-md-4">
-            <a href=""><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/fytorio.jpeg"></a>
+            <a href=""><img style="max-width: 55%; height: auto;" src="/2023/img/sponsors/fytorio.jpeg"></a>
           </div>
           <div class="col-sm-1 col-md-4">
             <a href=""><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/gnΩsi.png"></a>
@@ -458,7 +458,7 @@
             <a href="https://www.acg.edu/"><img style="max-width: 30%; height: auto;" src="/2023/img/sponsors/ACG.png"></a>
           </div>
           <div class="col-sm-1 col-md-4">
-            <a href=""><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/step-c.jpeg"></a>
+            <a href=""><img style="max-width: 55%; height: auto;" src="/2023/img/sponsors/step-c.jpeg"></a>
           </div>
         </div>
         <div class="row white-bg logo d-flex justify-content-center">
