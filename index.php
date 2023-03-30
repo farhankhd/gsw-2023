@@ -469,6 +469,7 @@
     </script>
     <script src="/2023/assets/js/confetti.js">
     </script>
+    <!--
     <script>
         // for starting the confetti 
         const start = () => {
@@ -487,5 +488,6 @@
         start();
         stop();
     </script>
+    -->
 </body>
     
