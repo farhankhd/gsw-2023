@@ -30,7 +30,7 @@
         }
         @media only screen and (max-width: 600px) {
             .btn {
-                padding: 40px;
+                margin: 40px;
                 z-index: 2;
             }
         }
