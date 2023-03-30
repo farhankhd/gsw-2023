@@ -46,8 +46,7 @@
             <span class="anchor" id="schedule-navigation"></span>
             
             <p class="text-center">
-                <a class="btn btn-default register-btn" href="https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:bf52c98f-f9bc-3f3b-8fa8-5d987a19ef70" role="button">Download Program</a>
-                <a class="btn btn-default register-btn" href="https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:ba1af42b-a93d-385b-a5a6-b4f85c6ded70" role="button">Download Agenda</a>
+                <a class="btn btn-default register-btn" href="https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:ba1af42b-a93d-385b-a5a6-b4f85c6ded70" role="button">View Agenda</a>
                 <br />
                 <br />
           </p>
