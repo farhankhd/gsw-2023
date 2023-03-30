@@ -24,14 +24,15 @@ const countdown = () => {
     document.querySelector(".minute").innerText = textMinute >0? textMinute: 0;
     document.querySelector(".second").innerText = textSecond >0? textSecond: 0;
     
-    if (textDay==0 && textHour==0 && textMinute==0 && textSecond==0) {
+    /*if (textDay==0 && textHour==0 && textMinute==0 && textSecond==0) {
     	start();
-    }
+    }*/
 }
 
 //run countdown every 500ms
 setInterval(countdown, 500);
 
+/*
 // for starting the confetti 
 const start = () => {
     setTimeout(function() {
@@ -267,4 +268,4 @@ var confetti = {
 		}
 	}
 })();
-
+*/
