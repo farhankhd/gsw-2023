@@ -32,8 +32,8 @@
     }
     @media only screen and (max-width: 600px) {	
         .pdf {
-		width: 70%;
-
+		width: 90%;
+		height: 90%;
 		z-index: 2;
 	
 	}
