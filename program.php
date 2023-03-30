@@ -55,8 +55,7 @@
   </article>
 </section>
 <section>
-  <iframe src="https://github.com/farhankhd/gsw-2023/releases/download/program/mit-gsw-program-2023.pdf" width="100%" height="500px">
-  </iframe>
+    <embed src="https://github.com/farhankhd/gsw-2023/releases/download/program/mit-gsw-program-2023.pdf" type="application/pdf" width="100%" height="600px" />
 </section>
   
 <?php
