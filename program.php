@@ -46,8 +46,8 @@
             <span class="anchor" id="schedule-navigation"></span>
             
             <p class="text-center">
-                <a class="btn btn-default register-btn" href="https://github.com/farhankhd/gsw-2023/releases/download/program/mit-gsw-program-2023.pdf" role="button">Download Program</a>
-                <a class="btn btn-default register-btn" href="doc/gsw-agenda-2023-final.pdf" role="button">Download Agenda</a>
+                <a class="btn btn-default register-btn" href="https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:bf52c98f-f9bc-3f3b-8fa8-5d987a19ef70" role="button">Download Program</a>
+                <a class="btn btn-default register-btn" href="https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:ba1af42b-a93d-385b-a5a6-b4f85c6ded70" role="button">Download Agenda</a>
                 <br />
                 <br />
           </p>
@@ -55,27 +55,9 @@
   </article>
 </section>
 <section>
-    <embed src="https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:b7b116c2-2910-3960-83f9-b74841bb8ffd" type="application/pdf" width="90%" max-height="800px" />
+    <embed src="/2023/doc/gsw-program-2023.pdf" type="application/pdf" width="90%" max-height="800px" />
 </section>
   
 <?php
 include("footer.php");
 ?>
-
-<script type="text/javascript">
-    $(".btn.btn-schedule").on("click", function(e) {
-        var contentElementId = $(this).data("event-day");
-
-        // Hide content from other days
-        $(".event-day").addClass("hide");
-
-        // Display content from this day
-        $("#"+contentElementId).removeClass("hide");
-
-        // Mark day as current
-        $(".btn.btn-schedule").removeClass("active");
-        $(this).addClass("active");
-        return false;
-    });
-</script>';
-
