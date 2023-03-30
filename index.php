@@ -472,7 +472,7 @@
         const start = () => {
             setTimeout(function() {
                 confetti.start()
-            }, 500); // 1000 is time that after 1 second start the confetti ( 1000 = 1 sec)
+            }, 350); // 1000 is time that after 1 second start the confetti ( 1000 = 1 sec)
         };
 
         //  for stopping the confetti 
