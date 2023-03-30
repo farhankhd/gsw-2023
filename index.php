@@ -457,22 +457,22 @@
     
     
 ?>
- <script type="text/javascript">
-            $(".btn.btn-schedule").on("click", function(e) {
-            
-                var contentElementId = $(this).data("event-day");
-                
-                // Hide content from other days
-                $(".event-day").addClass("hide");
-            
-                // Display content from this day
-                $("#"+contentElementId).removeClass("hide");
-    
-                // Mark day as current
-                $(".btn.btn-schedule").removeClass("active");
-                $(this).addClass("active");
-                return false;
-            });
-        </script>
+<script type="text/javascript">
+    $(".btn.btn-schedule").on("click", function(e) {
 
+        var contentElementId = $(this).data("event-day");
+
+        // Hide content from other days
+        $(".event-day").addClass("hide");
+
+        // Display content from this day
+        $("#"+contentElementId).removeClass("hide");
+
+        // Mark day as current
+        $(".btn.btn-schedule").removeClass("active");
+        $(this).addClass("active");
+        return false;
+    });
+</script>
+<script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
     
