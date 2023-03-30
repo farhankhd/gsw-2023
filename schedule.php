@@ -30,7 +30,7 @@
         }
         @media only screen and (max-width: 600px) {
             .btn {
-                margin: 40px;
+                margin: 20px;
                 z-index: 2;
             }
         }
