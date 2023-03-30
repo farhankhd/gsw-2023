@@ -47,8 +47,8 @@
             <span class="anchor" id="schedule-navigation"></span>
             
             <p class="text-center">
-                <a class="btn btn-default register-btn" href="https://github.com/farhankhd/gsw-2023/releases/download/program/mit-gsw-program-2023.pdf" role="button">Download Complete Program</a>
-                <a class="btn btn-default register-btn" href="doc/gsw-agenda-2023-final.pdf" role="button">Download the Agenda</a>
+                <a class="btn btn-default register-btn" href="https://github.com/farhankhd/gsw-2023/releases/download/program/mit-gsw-program-2023.pdf" role="button">Download Program</a>
+                <a class="btn btn-default register-btn" href="doc/gsw-agenda-2023-final.pdf" role="button">Download Agenda</a>
                 <br />
                 <br />
                 
