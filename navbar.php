@@ -186,7 +186,7 @@
                             Agenda
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <a class="nav-link dropdown-item" href="/2023/program.php">Program Overview</a>
+                            <a class="nav-link dropdown-item" href="https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:b7b116c2-2910-3960-83f9-b74841bb8ffd">Program Overview</a>
                             <div class="dropdown-divider"></div>
                             <a class="nav-link dropdown-item" href="/2023/schedule.php">Full Schedule</a>
                             <div class="dropdown-divider"></div>
