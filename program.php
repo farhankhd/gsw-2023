@@ -32,9 +32,10 @@
     }
     @media only screen and (max-width: 600px) {	
         .pdf {
-            max-width: 600;
-            z-index: 2;
-	    }
+		width: 70%;
+
+		z-index: 2;
+	
 	}
 
 </style>
