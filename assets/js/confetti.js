@@ -2,7 +2,7 @@ var confetti = {
 	power: 20,
 	size: 1,
 	maxCount: 100,		//set max confetti count
-	speed: 1.5,			//set the particle animation speed
+	speed: 1,			//set the particle animation speed
 	frameInterval: 15,	//the confetti animation frame interval in milliseconds
 	alpha: 1.0,			//the alpha opacity of the confetti (between 0 and 1, where 1 is opaque and 0 is invisible)
 	gradient: false,	//whether to use gradients for the confetti particles
