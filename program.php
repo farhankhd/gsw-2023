@@ -55,7 +55,7 @@
   </article>
 </section>
 <section>
-    <embed src="https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:b7b116c2-2910-3960-83f9-b74841bb8ffd" type="application/pdf" width="90%" height="100%" />
+    <embed src="https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:b7b116c2-2910-3960-83f9-b74841bb8ffd" type="application/pdf" width="90%" max-height="100%" />
 </section>
   
 <?php
