@@ -68,7 +68,7 @@
             var adobeDCView = new AdobeDC.View({clientId: "85e8dca1c621441fb10c5b42863af4f7", divId: "adobe-dc-view"});
             adobeDCView.previewFile(
            {
-              content:   {location: {src: "/2023/doc/gsw-program-2023.pdf"}},
+              content:   {location: {url: "https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:bf52c98f-f9bc-3f3b-8fa8-5d987a19ef70"}},
               metaData: {fileName: "gsw-program-2023.pdf"}
            });
         });
