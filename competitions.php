@@ -176,9 +176,11 @@
             </div>
             <br>
             <br>
+            <!--
             <p>
                 <a style="text-decoration-line: underline;  color: #0e1e58;" href="https://www.eventora.gr/mit-gsw/">Register now</a> to see these teams pitch their company for a chance to win seed money to scale their startup.
             </p>
+            -->
             <!--
             <p class="para light-text light-bg-dark-text" style="text-align: center"> 
                Are you an entrepreneur trying to take your startup to the next level? <br>The <strong class="light-bg-dark-text" style="color: #00c0f2">MIT GSW Startup Pitch Competition</strong> is an opportunity for you to pitch your company and compete for a chance to win seed money to scale your startup.
