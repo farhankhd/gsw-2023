@@ -52,7 +52,7 @@
                 <span class="anchor" id="schedule-navigation"></span>
 
                 <p class="text-center">
-                    <a class="btn btn-default register-btn" href="/2023/schedule.phhp" role="button">Full Schedule</a>
+                    <a class="btn btn-default register-btn" href="/2023/schedule.php" role="button">Full Schedule</a>
                     <br />
                     <br />
               </p>
