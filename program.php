@@ -59,6 +59,7 @@
           </div>
       </article>
     </section>
+    <!--
     <section>
         <div id="adobe-dc-view"></div>
         <script src="https://documentservices.adobe.com/view-sdk/viewer.js"></script>
@@ -74,9 +75,10 @@
         });
         </script>
     </section>
-    <!--<section>
+    -->
+    <section>
         <embed src="/2023/doc/gsw-program-2023.pdf" type="application/pdf" width="90%" height="800" />
-    </section>-->
+    </section>
 </body>
   
 <?php
