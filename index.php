@@ -21,16 +21,14 @@
 
     $scripts = "<script src=\"2023/assets/js/countdown.js?v=5.0\"></script>";
 
-
     include('navbar.php');
     include('header.php'); ?>
     
-    
-        <?php   
-            // echo '<script type ="text/JavaScript">';  
-            // echo 'alert("Hello, fellow innovator! Our website is under rennovation. Please come back tommorow for updated information on GSW 2023!")';  
-            // echo '</script>';  
-        ?>  
+    <?php   
+        // echo '<script type ="text/JavaScript">';  
+        // echo 'alert("Hello, fellow innovator! Our website is under rennovation. Please come back tommorow for updated information on GSW 2023!")';  
+        // echo '</script>';  
+    ?>  
 
 <head>
     <meta http-equiv="cache-control" content="no-cache">
