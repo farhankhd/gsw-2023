@@ -186,6 +186,8 @@
                             Agenda
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="nav-link dropdown-item" href="/2023/program.php">Program Overview</a>
+                            <div class="dropdown-divider"></div>
                             <a class="nav-link dropdown-item" href="/2023/schedule.php">Full Schedule</a>
                             <div class="dropdown-divider"></div>
                             <a class="nav-link dropdown-item" href="/2023/panels.php">Panels</a>
