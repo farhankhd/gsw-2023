@@ -19,7 +19,7 @@
     header("Pragma: no-cache"); //HTTP 1.0
     header("Expires: Sat, 26 Jul 1997 05:00:00 GMT"); // Date in the past
 
-    $scripts = "<script src=\"2023/assets/js/scripts.js?v=4.0\"></script>";
+    $scripts = "<script src=\"2023/assets/js/countdown.js?v=4.0\"></script>";
 
 
     include('navbar.php');
@@ -469,7 +469,6 @@
     </script>
     <script src="/2023/assets/js/confetti.js">
     </script>
-    <!--
     <script>
         // for starting the confetti 
         const start = () => {
@@ -485,9 +484,9 @@
             }, 5000); // 5000 is time that after 5 second stop the confetti ( 5000 = 5 sec)
         };
         // after this here we are calling both the function so it works
+        if
         start();
         stop();
     </script>
-    -->
 </body>
     
