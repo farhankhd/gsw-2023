@@ -23,8 +23,7 @@ const countdown = () => {
     document.querySelector(".hour").innerText = textHour >0? textHour: 0;
     document.querySelector(".minute").innerText = textMinute >0? textMinute: 0;
     document.querySelector(".second").innerText = textSecond >0? textSecond: 0;
-    
-    return remainingTime==0;
+
 }
 
 //run countdown every 500ms
