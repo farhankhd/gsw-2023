@@ -59,7 +59,7 @@
                 <span class="anchor" id="schedule-navigation"></span>
 
                 <p class="text-center">
-                    <a class="btn btn-default register-btn" href="https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:bf52c98f-f9bc-3f3b-8fa8-5d987a19ef70" role="button">View Program</a>
+                    <a class="btn btn-default register-btn" href="https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:fa1f837f-aa54-3d4b-b9f2-dea970a11a08" role="button">View Program</a>
                     <a class="btn btn-default register-btn" href="doc/gsw-agenda-2023-final.pdf" role="button">View Agenda</a>
                     <br />
                     <br />
