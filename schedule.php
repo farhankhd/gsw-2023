@@ -37,7 +37,6 @@
     </style>
 </head>
 
-<body>
     <!--PAGE BANNER-->
     <section class="startup-pitch">
         <div class="row" style="
@@ -248,7 +247,6 @@
             });
         </script>';
     ?>
-</body>
 
 
 <?php
