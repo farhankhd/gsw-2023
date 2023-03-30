@@ -9,36 +9,34 @@
 ?>
 
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1.0">
-    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
-    <style>
-    
-    <style>
-    /*
-    .banner {
-        background-image: url(img/banner/banner-01.png);
-    }*/
-        
-    .bold-text {
-        font-family: myriad-pro, sans-serif;
-        font-weight: 700;
-        font-style: normal;
-    }
-    .light-text{
-        font-family: myriad-pro, sans-serif;
-        font-style: normal;
-        font-weight: 300px;
-    }
-    @media only screen and (max-width: 600px) {	
-        .pdf {
-		max-width: 90%;
-		height: auto;
-		z-index: 2;
-	
-	}
-
-</style>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1.0">
+	<meta name='viewport' content='width=device-width, initial-scale=1.0'>
+	<style>
+		.bold-text {
+			font-family: myriad-pro, sans-serif;
+			font-weight: 700;
+			font-style: normal;
+		}
+		.light-text{
+			font-family: myriad-pro, sans-serif;
+			font-style: normal;
+			font-weight: 300px;
+		}
+		@media only screen and (max-width: 600px) {	
+			.pdf {
+				max-width: 90%;
+				height: auto;
+				z-index: 2;
+			}
+		}
+		@media only screen and (max-width: 600px) {
+			.btn {
+				margin: 10px;
+				z-index: 2;
+			}
+		}
+	</style>
 </head>
 <body>
 
