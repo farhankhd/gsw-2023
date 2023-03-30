@@ -8,7 +8,11 @@
     include('markup.php');
 ?>
 
-<style>
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <meta id="viewport" name="viewport" content="width=device-width, initial-scale=1"/>
+    
+    <style>
     /*
     .banner {
         background-image: url(img/banner/banner-01.png);
@@ -25,37 +29,55 @@
         font-weight: 300px;
     }
 </style>
+</head>
+<body>
 
-<!--PAGE BANNER-->
-<section class="startup-pitch">
-    <div class="row" style="
-        background-image: url(img/banner/banner-01.png);
-        background-repeat: no-repeat;
-        background-size: cover;height: 344px;">
-        <div class="col">
-            <h1 class="section-header competition-text">PROGRAM OVERVIEW</h1>
+    <!--PAGE BANNER-->
+    <section class="startup-pitch">
+        <div class="row" style="
+            background-image: url(img/banner/banner-01.png);
+            background-repeat: no-repeat;
+            background-size: cover;height: 344px;">
+            <div class="col">
+                <h1 class="section-header competition-text">PROGRAM OVERVIEW</h1>
+            </div>
         </div>
-    </div>
-</section>
+    </section>
 
-<br><br><br>
+    <br><br><br>
 
-<section class="content-schedule container">
-    <article class="content ">
-        <div class="col-xs-12 col-md-12">
-            <span class="anchor" id="schedule-navigation"></span>
-            
-            <p class="text-center">
-                <a class="btn btn-default register-btn" href="https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:ba1af42b-a93d-385b-a5a6-b4f85c6ded70" role="button">View Agenda</a>
-                <br />
-                <br />
-          </p>
-      </div>
-  </article>
-</section>
-<section>
-    <embed src="/2023/doc/gsw-program-2023.pdf" type="application/pdf" width="90%" height="800" />
-</section>
+    <section class="content-schedule container">
+        <article class="content ">
+            <div class="col-xs-12 col-md-12">
+                <span class="anchor" id="schedule-navigation"></span>
+
+                <p class="text-center">
+                    <a class="btn btn-default register-btn" href="https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:ba1af42b-a93d-385b-a5a6-b4f85c6ded70" role="button">View Agenda</a>
+                    <br />
+                    <br />
+              </p>
+          </div>
+      </article>
+    </section>
+    <section>
+        <div id="adobe-dc-view"></div>
+        <script src="https://documentservices.adobe.com/view-sdk/viewer.js"></script>
+        <script type="text/javascript">
+        document.addEventListener("adobe_dc_view_sdk.ready", function()
+        {
+            var adobeDCView = new AdobeDC.View({clientId: "85e8dca1c621441fb10c5b42863af4f7", divId: "adobe-dc-view"});
+            adobeDCView.previewFile(
+           {
+              content:   {location: {url: "https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:d0973e17-a427-3e28-af42-31a318d18d79"}},
+              metaData: {fileName: "gsw-program-2023.pdf"}
+           });
+        });
+        </script>
+    </section>
+    <!--<section>
+        <embed src="/2023/doc/gsw-program-2023.pdf" type="application/pdf" width="90%" height="800" />
+    </section>-->
+</body>
   
 <?php
 include("footer.php");
