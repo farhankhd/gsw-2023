@@ -291,14 +291,12 @@
                 <a href="https://www.libra.com/en/"><img style="max-width: 60%; height: auto;" src="/2023/img/sponsors/libragroup.png"></a>
               </div>
               <div class="col-sm-1 col-md-4">
+                <a href="https://bigpi.vc/"> <img style="max-width: 35%; max-height: 35%;" src="/2023/img/sponsors/bigpi.png"></a>
+              </div>
+              <div class="col-sm-1 col-md-4">
                 <a href="https://www.octaneconsultants.com/"> <img style="max-width: 60%; height: auto;" src="/2023/img/sponsors/octane.jpeg"></a>
               </div>
             </div>
-            <div class="row justify-content-center align-items-center">
-              <div class="col-sm-1 col-md-4">
-                <a href="https://bigpi.vc/"> <img style="max-width: 35%; max-height: 35%;" src="/2023/img/sponsors/bigpi.png"></a>
-              </div> 
-            </div> 
             <div class="row justify-content-center align-items-center">
               <div class="col-sm-1 col-md-4">
                 <a href="https://kglawfirm.gr/"> <img style="max-width: 60%; height: auto;" src="/2023/img/sponsors/kg.png"></a>
@@ -406,7 +404,7 @@
            <div class="speaker col-sm-6 col-md-4 col-lg-3">
              <a href="https://www.miltos.com">
              <img class="speaker-picture" src="img/sponsors/MiltosKambourides.jpeg">
-               <p class="light-text light-bg-dark-text">Miltos Kambourides </p>
+               <p class="light-text light-bg-dark-text">Miltos Kambourides</p>
              </a>
             
           </div>
@@ -505,7 +503,7 @@
             <a href=""><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/jadbio.png"></a>
           </div>
           <div class="col-sm-1 col-md-4">
-            <a href=""><img style="max-width: 65%; height: auto;" src="/2023/img/sponsors/tragbeat.png"></a>
+            <a href=""><img style="max-width: 60%; height: auto;" src="/2023/img/sponsors/tragbeat.png"></a>
           </div>
         </div>
       </section>
@@ -577,7 +575,7 @@
         </div>
         <div class="row justify-content-center align-items-center">
           <div class="col-sm-1 col-md-4">
-            <a href="http://best.ntua.gr/index.php/en/home_eng/"><img style="max-width: 50%; height: auto;" src="/2023/img/sponsors/best.png"></a>
+            <a href="http://best.ntua.gr/index.php/en/home_eng/"><img style="max-width: 40%; height: auto;" src="/2023/img/sponsors/best.png"></a>
           </div>
           <div class="col-sm-1 col-md-4">
             <a href="https://unistudents.gr/"><img style="max-width: 50%; height: auto;" src="/2023/img/sponsors/UniStudents.jpeg"></a>
@@ -635,7 +633,7 @@
             <a href="https://ypergasias.gov.gr/"><img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/MinLSA.png"></a>
           </div>
           <div class="col-sm-1 col-md-4">
-            <a href="https://www.patt.gov.gr/"><img style="max-width: 50%; height: 50%;" src="/2023/img/sponsors/attica.png"></a>
+            <a href="https://www.patt.gov.gr/"><img style="max-width: 40%; height: 40%;" src="/2023/img/sponsors/attica.png"></a>
           </div>
         </div>
       </section>
