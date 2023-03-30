@@ -286,26 +286,27 @@
           </div>
           <div class="col-sm-1 col-md-12 col-lg-9">
             <div class="row justify-content-center align-items-center">
-              <div class="col-sm-1 col-md-6">
+              <div class="col-sm-1 col-md-5">
                 <a href="https://www.libra.com/en/"><img style="max-width: 60%; height: auto;" src="/2023/img/sponsors/libragroup.png"></a>
               </div>
-              <div class="col-sm-1 col-md-6">
+              <div class="col-sm-1 col-md-5">
                 <a href="https://www.octaneconsultants.com/"> <img style="max-width: 60%; height: auto;" src="/2023/img/sponsors/octane.jpeg"></a>
               </div>
             </div>
             <div class="row justify-content-center align-items-center">
-              <div class="col-sm-1 col-md-6">
-                <a href="https://kglawfirm.gr/"> <img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/kg.png"></a>
-              </div> 
-              <div class="col-sm-1 col-md-6">
-                <a href="https://www.quest.gr/en/the-group"> <img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/iQ-QG.jpeg"></a>
+              <div class="col-sm-1 col-md-4">
+                <a href="https://bigpi.vc/"> <img style="max-width: 30%; max-height: 30%;" src="/2023/img/sponsors/bigpi.png"></a>
               </div> 
             </div>
             <div class="row justify-content-center align-items-center">
-              <div class="col-sm-1 col-md-6">
-                <a href="https://bigpi.vc/"> <img style="max-width: 45%; max-height: 45%;" src="/2023/img/sponsors/bigpi.png"></a>
+              <div class="col-sm-1 col-md-5">
+                <a href="https://kglawfirm.gr/"> <img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/kg.png"></a>
+              </div> 
+              <div class="col-sm-1 col-md-5">
+                <a href="https://www.quest.gr/en/the-group"> <img style="max-width: 70%; height: auto;" src="/2023/img/sponsors/iQ-QG.jpeg"></a>
               </div> 
             </div>
+            
           </div>
         </div>
         
@@ -594,7 +595,7 @@
         </div>
         <div class="row justify-content-center align-items-center">
           <div class="col-sm-1 col-md-4">
-            <a href="https://www.globalshapers.org/"><img style="max-width: 50%; height: auto;" src="/2023/img/sponsors/gsah-logo.png"></a>
+            <a href="https://www.globalshapers.org/"><img style="max-width: 30%; height: auto;" src="/2023/img/sponsors/gsah-logo.png"></a>
           </div>
           <div class="col-sm-1 col-md-4">
             <a href="https://www.kemel.gr/"><img style="max-width: 50%; height: auto;" src="/2023/img/sponsors/KEMEL-logo.jpg"></a>
