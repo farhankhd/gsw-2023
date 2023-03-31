@@ -60,7 +60,7 @@
                 <span class="anchor" id="schedule-navigation"></span>
 
                 <p class="text-center">
-			<a class="btn btn-default register-btn" href="https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:a9d10250-6a07-3e00-bfdc-8af5fb6a84e5" role="button">View Program</a>
+			<a class="btn btn-default register-btn" href="https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:4761a35f-e691-3eee-9376-e1670d912ae3" role="button">View Program</a>
 			<a class="btn btn-default register-btn" href="/2023/schedule.php" role="button">Full Schedule</a>
 			<br />
 			<br />
